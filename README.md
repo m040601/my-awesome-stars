@@ -1253,7 +1253,6 @@
 - [RPI-ZERO-case](https://github.com/PolyVection/RPI-ZERO-case) - Minimal case for PlainDAC and Raspberry Pi ZERO
 - [docsplit](https://github.com/AbeHandler/docsplit) - Break Apart Documents into Images, Text, Pages and PDFs
 - [hostapd-rtl871xdrv](https://github.com/pritambaral/hostapd-rtl871xdrv) - Hostapd driver for RTL8188{C|CU|CUS} wifi chips.
-- [computer-science](https://github.com/open-source-society/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [pandoc-ebook-template](https://github.com/evangoer/pandoc-ebook-template) - This project defines a skeleton repo for creating ebooks out of Pandoc Markdown.
 - [ReadItLater-Calibre-Plugin](https://github.com/onlyhavecans/ReadItLater-Calibre-Plugin) - This is an updated & modified version of the official Calibre plugin for Pocket (Formerly ReadItLater)
 - [ChrUbuntu-Guides](https://github.com/iantrich/ChrUbuntu-Guides) - Guides, Walk-throughs, General Fixes and Tips for Chromebook users running ChrUbuntu
