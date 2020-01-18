@@ -7,8 +7,10 @@
 
   - [ActionScript](#actionscript)
   - [Arduino](#arduino)
+  - [Assembly](#assembly)
   - [AutoHotkey](#autohotkey)
   - [Awk](#awk)
+  - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -16,13 +18,17 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
+  - [Crystal](#crystal)
   - [Cuda](#cuda)
   - [D](#d)
   - [DIGITAL Command Language](#digital-command-language)
   - [Eagle](#eagle)
   - [Elixir](#elixir)
+  - [Elm](#elm)
   - [Emacs Lisp](#emacs-lisp)
+  - [G-code](#g-code)
   - [Gherkin](#gherkin)
+  - [Gnuplot](#gnuplot)
   - [Go](#go)
   - [Groff](#groff)
   - [HTML](#html)
@@ -33,6 +39,8 @@
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
   - [KiCad](#kicad)
+  - [Kotlin](#kotlin)
+  - [LiveScript](#livescript)
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [NSIS](#nsis)
@@ -49,12 +57,12 @@
   - [Perl](#perl)
   - [Perl6](#perl6)
   - [PostScript](#postscript)
+  - [PowerShell](#powershell)
   - [Processing](#processing)
   - [Prolog](#prolog)
   - [Python](#python)
   - [QML](#qml)
   - [R](#r)
-  - [RMarkdown](#rmarkdown)
   - [Racket](#racket)
   - [Roff](#roff)
   - [Ruby](#ruby)
@@ -64,12 +72,17 @@
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Standard ML](#standard-ml)
+  - [TSQL](#tsql)
   - [Tcl](#tcl)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [Vala](#vala)
+  - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Visual Basic](#visual-basic)
+  - [Vue](#vue)
+  - [sed](#sed)
 
 ## ActionScript 
 
@@ -100,9 +113,14 @@
 - [A6-GSM-Module](https://github.com/SensorsIot/A6-GSM-Module) - First Examples for the new A6 GSM module
 - [ESP-IR](https://github.com/Edzelf/ESP-IR) - Univeral remote control for TV/DVD/Light based on ESP8266
 - [ESP8266-RTC-Memory](https://github.com/SensorsIot/ESP8266-RTC-Memory) - Code for the YouTube video
-- [pico](https://github.com/jpmens/pico) - 
 - [Sonoff-MQTT-OTA-Arduino](https://github.com/arendst/Sonoff-MQTT-OTA-Arduino) - Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE - Now EOL
 - [ESP8266-Longterm-Sensor-Hourly](https://github.com/SensorsIot/ESP8266-Longterm-Sensor-Hourly) - ESP8266-Longterm Sensor Hourly
+
+## Assembly 
+
+- [collapseos](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology
+- [ulptool](https://github.com/duff2013/ulptool) - Program the esp32 ULP coprocessor in Arduino
+- [Ka-Radio](https://github.com/karawin/Ka-Radio) - A wifi webradio with only low cost boards ESP8266 and VS1053
 
 ## AutoHotkey 
 
@@ -112,11 +130,107 @@
 
 ## Awk 
 
+- [vim-sdcv](https://github.com/manu-mannattil/vim-sdcv) - Plugin to integrate sdcv with Vim
+- [kjv](https://github.com/bontibon/kjv) - Read the Word of God from your terminal
+- [grb](https://github.com/LukeSmithxyz/grb) - A cli-accessible Greek Bible with the Septuagint, SBL and Apocrypha
 - [d.awk](https://github.com/wernsey/d.awk) - An Awk script to generate documentation from Markdown comments in C/C++/Java/JavaScript/C# source code.
 - [zodiac](https://github.com/nuex/zodiac) - A static website generator written in awk and sh.
 
+## Batchfile 
+
+- [markdown-guide](https://github.com/tajmone/markdown-guide) - The Markdown Guide for the Perplexed
+
 ## C 
 
+- [linux-mainline-and-mali-on-samsung-snow-chromebook](https://github.com/hexdump0815/linux-mainline-and-mali-on-samsung-snow-chromebook) - tools and patches to run linux mainline with mali gles and opengl on a samsung snow chomebook (XE303C12)
+- [linux_media](https://github.com/tbsdtv/linux_media) - TBS linux open source drivers
+- [Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
+- [f3](https://github.com/AltraMayor/f3) - F3 - Fight Flash Fraud
+- [BatteryNode](https://github.com/happytm/BatteryNode) - ESP8266 battery powered nodes for DIY low power low cost standalone  IOT sensors network
+- [SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
+- [inputlirc](https://github.com/gsliepen/inputlirc) - Zeroconf LIRC daemon using input event devices
+- [rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
+- [fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
+- [repose](https://github.com/vodik/repose) - an archlinux repo poking tool
+- [EasyAVR](https://github.com/dhowland/EasyAVR) - Easy AVR USB Keyboard Firmware and Keymapper
+- [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
+- [pam-gnupg](https://github.com/cruegge/pam-gnupg) - Unlock GnuPG keys on login
+- [book-downloader](https://github.com/josecleiton/book-downloader) - Simple C Book Downloader
+- [httping](https://github.com/flok99/httping) - Ping with HTTP requests, see http://www.vanheusden.com/httping/
+- [rsstail](https://github.com/flok99/rsstail) - tail for rss feeds
+- [multitail](https://github.com/flok99/multitail) - MultiTail allows you to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge. http://vanheusden.com/multitail/
+- [LCD2USB](https://github.com/harbaum/LCD2USB) - Cheap and simple USB to HD44780 text LCD interface
+- [gtk-vector-screenshot](https://github.com/nomeata/gtk-vector-screenshot) - 
+- [shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 从容翻越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
+- [lvgl](https://github.com/littlevgl/lvgl) - Powerful and easy-to-use embedded GUI with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
+- [OpenCPN](https://github.com/OpenCPN/OpenCPN) - A concise ChartPlotter/Navigator. A cross-platform ship-borne GUI application supporting * GPS/GPDS Postition Input * BSB Raster Chart Display * S57 Vector ENChart Display * AIS Input Decoding * Waypoint Autopilot Navigation
+- [json-yaml](https://github.com/sjmulder/json-yaml) - Convert JSON to YAML and back
+- [dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
+- [Montage](https://github.com/Caltech-IPAC/Montage) - Image Mosaics for Astronomers
+- [lofence](https://github.com/kiu/lofence) - LoFence is a LoRaWAN capable IoT electric fence monitoring system running on the The Things Network.
+- [hoverboard-firmware-hack](https://github.com/NiklasFauth/hoverboard-firmware-hack) - New Hoverboard Firmware Hack. Now written from scratch and generally much better.
+- [apulse](https://github.com/i-rinat/apulse) - PulseAudio emulation for ALSA
+- [Raspberry_v1_camera_global_external_shutter](https://github.com/Hermann-SW/Raspberry_v1_camera_global_external_shutter) - Enable Raspberry v1 camera to do global external shutter capturing
+- [dump1090](https://github.com/antirez/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
+- [pho](https://github.com/akkana/pho) - pho: a lightweight image viewer and triager
+- [mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
+- [sof](https://github.com/thesofproject/sof) - Sound Open Firmware
+- [mobile-ffmpeg](https://github.com/tanersener/mobile-ffmpeg) - FFmpeg for Android, iOS and tvOS
+- [uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
+- [rtlsdr_pi](https://github.com/seandepagnier/rtlsdr_pi) - rtlsdr plugin for opencpn for AIS vhf and more on tv tuner usb dongle
+- [rpi-vk-driver](https://github.com/Yours3lf/rpi-vk-driver) - VK driver for the Raspberry Pi (Broadcom Videocore IV)
+- [navit](https://github.com/navit-gps/navit) - The open source (GPL v2) turn-by-turn navigation software for many OS
+- [GarminPlugin](https://github.com/adiesner/GarminPlugin) - Garmin Communicator Plugin for Linux
+- [Iocane](https://github.com/TrilbyWhite/Iocane) - "Colorless, tasteless, oderless poison that will rid your system of its rodent infestation" i.e. simulates mouse events from the keyboard
+- [chrome-ec](https://github.com/coreboot/chrome-ec) - Mirror of https://chromium.googlesource.com/chromiumos/platform/ec
+- [pidvbip](https://github.com/linuxstb/pidvbip) - tvheadend client for the Raspberry Pi
+- [parlatype](https://github.com/gkarsay/parlatype) - GNOME audio player for transcription
+- [qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
+- [solo](https://github.com/solokeys/solo) - Solo: open security key supporting FIDO2 & U2F over USB + NFC
+- [gps_udp](https://github.com/daveake/gps_udp) - Reads GPS on Pi serial port and broadcasts as UDP packets
+- [femto-beacon](https://github.com/femtoduino/femto-beacon) - FemtoBeacon - Atmel SAM R21 (ARM Cortex M0+, SAM D21 with built in AT86RF233)
+- [Amlogic_s905-kernel](https://github.com/150balbes/Amlogic_s905-kernel) - Kernel Amlogic S905
+- [hermitux-kernel](https://github.com/ssrg-vt/hermitux-kernel) - 
+- [libhermit](https://github.com/hermitcore/libhermit) - HermitCore: A C-based, lightweight unikernel
+- [hermitux](https://github.com/ssrg-vt/hermitux) - A binary-compatible unikernel
+- [small-keyboards](https://github.com/bikerglen/small-keyboards) - 
+- [esp8266_deauther](https://github.com/spacehuhn/esp8266_deauther) - Cheap WiFi hacks
+- [bitlbee-mastodon](https://github.com/kensanata/bitlbee-mastodon) - A Mastodon plugin for Bitlbee
+- [open-desk-lamp-firmware](https://github.com/fvollmer/open-desk-lamp-firmware) - Open source firmware for the xiaomi desk lamp
+- [Telephone-Remote-Control](https://github.com/fvollmer/Telephone-Remote-Control) - 
+- [pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
+- [filet](https://github.com/buffet/filet) - A fucking fucking fast file fucker
+- [pacutils](https://github.com/andrewgregory/pacutils) - Helper library for libalpm based programs.
+- [tbox](https://github.com/tboox/tbox) - 🎁 A glib-like multi-platform c library
+- [ltui](https://github.com/tboox/ltui) - 🍖 A cross-platform terminal ui library based on Lua
+- [snapcastc](https://github.com/christf/snapcastc) - C implementation of snapcast focussing on audio quality and ease of maintenance.
+- [OTPClient](https://github.com/paolostivanin/OTPClient) - Highly secure and easy to use OTP client written in C/GTK that supports both TOTP and HOTP
+- [pam_usb](https://github.com/aluzzardi/pam_usb) - [UNMAINTAINED] Hardware authentication for Linux using ordinary USB Flash Drives.
+- [RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
+- [betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
+- [cfiles](https://github.com/mananapr/cfiles) - A ncurses file manager written in C with vim like keybindings
+- [slstatus](https://github.com/drkhsh/slstatus) - slstatus is a suckless status monitor for window managers that use WM_NAME (e.g. dwm) or stdin to fill the status bar - mirror from suckless
+- [rsvg](https://github.com/jeroen/rsvg) - SVG renderer for R based on librsvg2
+- [gifski](https://github.com/r-rust/gifski) - R wrapper for the 'gifski' Rust Cargo crate.
+- [fdm](https://github.com/nicm/fdm) - 
+- [WM8960-Audio-HAT](https://github.com/waveshare/WM8960-Audio-HAT) - The drivers of [WM8960 Audio HAT] for Raspberry Pi
+- [Open.HD](https://github.com/OpenHD/Open.HD) - Open.HD
+- [KadNode](https://github.com/mwarning/KadNode) - P2P DNS with content key, crypto key and PKI support. DynDNS alternative.
+- [fbui](https://github.com/8l/fbui) - Framebuffer UI (fbui) in-kernel Linux windowing system.
+- [ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
+- [minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures.
+- [openrsync](https://github.com/kristapsdz/openrsync) - BSD-licensed implementation of rsync
+- [s2png](https://github.com/dbohdan/s2png) - Store any kind of data in PNG images
+- [littlefs](https://github.com/ARMmbed/littlefs) - A little fail-safe filesystem designed for microcontrollers
+- [MinnowServer](https://github.com/RealTimeLogic/MinnowServer) - A super small and fast embedded HTTP(S) WebSocket server
+- [ASHAB-Telemetry-Receiver](https://github.com/ladecadence/ASHAB-Telemetry-Receiver) - Telemetry Receiver software for the ASHAB High Altitude Balloon LoRa-based missions.
+- [clipnotify](https://github.com/cdown/clipnotify) - Notify on new X clipboard events
+- [inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software
+- [DroneBridge](https://github.com/DroneBridge/DroneBridge) - DroneBridge is a system based on the WifiBroadcast approach. A bidirectional digital radio link between two endpoints is established using standard WiFi hardware and a custom protocol. DroneBridge is optimized for use in UAV applications and is a complete system. It is intended be a real alternative to other similar systems, such as DJI Lightbridge or OcuSync.
+- [papercraft](https://github.com/osresearch/papercraft) - Unfolding STL models to make laser cut patterns
+- [u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
+- [grbl](https://github.com/gnea/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino
+- [esp82xx](https://github.com/cnlohr/esp82xx) - Useful ESP8266 C Environment
 - [gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is a multi-pointer GTK3 port of the original Gromit desktop annotation tool. It enables graphical annotations with several pointers at once and is A LOT faster than its predecessor since it uses the XCOMPOSITE extension where available.
 - [trickle](https://github.com/sjmulder/trickle) - 600 baud pipe and terminal.
 - [unjoin](https://github.com/sjmulder/unjoin) - Split input lines on separators.
@@ -127,7 +241,6 @@
 - [kfmon](https://github.com/NiLuJe/kfmon) - Kute File Monitor, an inotify-based Launcher for Kobo devices
 - [FBInk](https://github.com/NiLuJe/FBInk) - FrameBuffer eInker, a small tool & library to print text & images to an eInk Linux framebuffer
 - [lowdown](https://github.com/kristapsdz/lowdown) - simple markdown translator
-- [kobopatch-config](https://github.com/geek1011/kobopatch-config) - My kobopatch configuration
 - [LoRaDunchy](https://github.com/s54mtb/LoRaDunchy) - Lora board with Arduino nano compatibile pinout and simple battery management
 - [dAISy](https://github.com/astuder/dAISy) - Simple AIS Receiver based on Si4362 and MSP430
 - [myMPD](https://github.com/jcorporation/myMPD) - myMPD is a standalone and mobile friendly web mpdclient
@@ -150,21 +263,22 @@
 - [touchstream](https://github.com/buserror/touchstream) - lightweight mouse/keyboard network sharing utility
 - [esp-adf](https://github.com/espressif/esp-adf) - Espressif Audio Development Framework
 - [mlt](https://github.com/mltframework/mlt) - MLT Multimedia Framework
-- [smenu](https://github.com/p-gen/smenu) - Terminal utility that allows you to use words coming from the standard input to create a nice selection window just below the cursor.  Once done, your selection will be sent to standard output. More in the Wiki
+- [smenu](https://github.com/p-gen/smenu) - Terminal utility that reads words from standard input or from a file and creates an interactive selection window just below the cursor. The selected word(s) are sent to standard output for further processing.
 - [linux](https://github.com/khadas/linux) - Linux kernel for Khadas VIMs & Edge
-- [PiFmAdv](https://github.com/Miegl/PiFmAdv) - Advanced Raspberry Pi FM transmitter with RDS encoding
+- [PiFmAdv](https://github.com/miegl/PiFmAdv) - Advanced Raspberry Pi FM transmitter with RDS encoding
 - [tosback2](https://github.com/pde/tosback2) - Reimplementing TOSBack using git as a database layer!
 - [pilight](https://github.com/pilight/pilight) - open source domotica solution
 - [esp32_BT_Speaker](https://github.com/MhageGH/esp32_BT_Speaker) - Esp32 Bluetooth Speaker
 - [ESP32_bt_speaker](https://github.com/h-nari/ESP32_bt_speaker) - bluetooth speaker using I2S + built in DAC
-- [nnn](https://github.com/jarun/nnn) - :dolphin: The fastest terminal file manager ever written.
+- [nnn](https://github.com/jarun/nnn) - :dolphin: The missing terminal file manager for X.
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [opendps](https://github.com/kanflo/opendps) - Give your DPS5005 the upgrade it deserves
 - [aaduino-zero](https://github.com/kanflo/aaduino-zero) - Hardware and software for the Arduino Zero
 - [felinks](https://github.com/rkd77/felinks) - Fork of elinks
+- [McLighting](https://github.com/toblum/McLighting) - The ESP8266 based multi-client lighting gadget
 - [ESP32-Paxcounter](https://github.com/hallard/ESP32-Paxcounter) - Wifi & BLE driven passenger flow metering with cheap ESP32 boards
 - [DirtyJTAG](https://github.com/jeanthom/DirtyJTAG) - JTAG adapter firmware for STM32F1
-- [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Hardware scanning laser rangefinder
+- [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Source scanning laser rangefinder
 - [OpenLIDAR](https://github.com/iliasam/OpenLIDAR) - Open Hardware scanning triangulation laser rangefinder
 - [Xiaomi-Dafang-Software](https://github.com/EliasKotlyar/Xiaomi-Dafang-Software) - 
 - [autocutsel](https://github.com/sigmike/autocutsel) - automated xcutsel
@@ -182,10 +296,10 @@
 - [reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [urlview](https://github.com/sigpipe/urlview) - Extract URLs from a text file and allow the user to select via a menu
 - [esp8266_bridge_broadcast](https://github.com/jeanleflambeur/esp8266_bridge_broadcast) - A SPI to ESP8266 broadcast (rfmon) firmware
-- [nq](https://github.com/chneukirchen/nq) - Unix command line queue utility
+- [nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [sdk](https://github.com/flirc/sdk) - Flirc SDK and Example Applications
 - [RTKLIB_Touchscreen_GUI](https://github.com/Francklin2/RTKLIB_Touchscreen_GUI) - RTKLIB GUI for Raspberry Pi with  touchscreen made with Qt by the ENSG students
-- [RTKLIB](https://github.com/rtklibexplorer/RTKLIB) - A version of RTKLIB optimized for single frequency low cost GPS receivers, especially u-blox receivers.  It is based on RTKLIB 2.4.3 and is kept reasonably closely synced to that branch.  The latest branch of this code is demo5.   Documentation for RTKLIB is available at rtklib.com.   Binaries and tutorials for this code, and sample GPS data sets at :
+- [RTKLIB](https://github.com/rtklibexplorer/RTKLIB) - A version of RTKLIB optimized for single and dual frequency low cost GPS receivers, especially u-blox receivers.  It is based on RTKLIB 2.4.3 and is kept reasonably closely synced to that branch.  Documentation for RTKLIB is available at rtklib.com.   This software is provided “AS IS” without any warranties of any kind so please be careful, especially if using it in any kind of real-time application.  Binaries and tutorials for this code, and sample GPS data sets at :
 - [usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB booting code, moved from tools repository
 - [squeezelite](https://github.com/ralph-irving/squeezelite) - Lightweight headless squeezebox player for Logitech Media Server
 - [tools](https://github.com/info-beamer/tools) - Useful tools when working with info-beamer on the Pi
@@ -193,12 +307,11 @@
 - [recorder](https://github.com/owntracks/recorder) - Store and access data published by OwnTracks apps
 - [esp_mqtt](https://github.com/tuanpmt/esp_mqtt) - MQTT client library for ESP8266
 - [freifunk-open-mppt](https://github.com/elektra42/freifunk-open-mppt) - Open hard- and software solar maximum power point tracker
-- [megatools](https://github.com/megous/megatools) - Open-source command line tools for accessing Mega.co.nz cloud storage.
 - [asterisk-chan-dongle](https://github.com/bg111/asterisk-chan-dongle) - Automatically exported from code.google.com/p/asterisk-chan-dongle
 - [ook-gpio](https://github.com/jcrona/ook-gpio) - A simple GPIO-based OOK modulation driver for OpenWrt
 - [rf-ctrl](https://github.com/jcrona/rf-ctrl) - A command-line tool to control 433MHz OOK based devices
 - [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-- [fzy](https://github.com/jhawthorn/fzy) - :mag: A better fuzzy finder
+- [fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [caps2esc](https://github.com/oblitum/caps2esc) - Transforming the most useless key ever in the most useful one
 - [vid.stab](https://github.com/georgmartius/vid.stab) - Video stabilization library
 - [enchive](https://github.com/skeeto/enchive) - Encrypted personal archives
@@ -211,7 +324,6 @@
 - [datenstrahler](https://github.com/vain/datenstrahler) - Display a web site (WebKit2GTK+)
 - [lariza](https://github.com/vain/lariza) - Simple WebKit2GTK+ Browser
 - [otb-iot](https://github.com/piersfinlayson/otb-iot) - Out of The Box Internet Of Things
-- [pi-yadl](https://github.com/masneyb/pi-yadl) - An extensible analog and digital data collector for the Raspberry Pi.
 - [esp-audio-player](https://github.com/tuanpmt/esp-audio-player) - ESP8266 Mp3 player and display spectrum on OLED
 - [myRadio](https://github.com/lechiJb/myRadio) - myRadio – ESP8266 WLAN radio
 - [esp_wifi_repeater](https://github.com/martin-ger/esp_wifi_repeater) - A full functional WiFi Repeater (correctly: a WiFi NAT Router)
@@ -220,7 +332,7 @@
 - [wbc-utils](https://github.com/skullkey/wbc-utils) - Couple of hacked together utils for use with the wifibroadcast system by befinitiv (https://befinitiv.wordpress.com/wifibroadcast-analog-like-transmission-of-live-video-data/)
 - [mongoose-os](https://github.com/cesanta/mongoose-os) - Mongoose OS - an IoT Firmware Development Framework. Supported microcontrollers: ESP32, ESP8266, CC3220, CC3200, STM32F4, STM32L4, STM32F7. Amazon AWS IoT, Microsoft Azure, Google IoT Core integrated. Code in C or JavaScript.
 - [espeak-ng](https://github.com/pettarin/espeak-ng) - eSpeak fork providing significant changes and improvements to the upstream eSpeak project
-- [espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports 102 languages and accents.
+- [espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports 109 languages and accents.
 - [rpi-open-firmware](https://github.com/christinaa/rpi-open-firmware) - Open source VPU side bootloader for Raspberry Pi.
 - [jsmn](https://github.com/zserge/jsmn) - Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket
 - [USB-Rubber-Ducky](https://github.com/hak5darren/USB-Rubber-Ducky) - 
@@ -230,9 +342,10 @@
 - [arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
 - [spiffs](https://github.com/pellepl/spiffs) - Wear-leveled SPI flash file system for embedded devices
 - [wifibroadcast](https://github.com/Nixes/wifibroadcast) - An unofficial github fork of the project of the same name. Forked from https://bitbucket.org/befi/wifibroadcast on 01/06/2016
-- [deviation](https://github.com/DeviationTX/deviation) - Custom firmware for Walkera DEVO Radios
+- [deviation](https://github.com/DeviationTX/deviation) - Custom firmware for RC Transmitters
 - [cleanflight](https://github.com/cleanflight/cleanflight) - Clean-code version of the baseflight flight controller firmware
 - [neomutt](https://github.com/neomutt/neomutt) - :email: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.freenode.net
+- [weather-station](https://github.com/masneyb/weather-station) - A lightweight, self contained, solar-powered weather station for the Raspberry Pi.
 - [esp-open-rtos](https://github.com/SuperHouse/esp-open-rtos) - Open source FreeRTOS-based ESP8266 software framework
 - [EZ-WifiBroadcast](https://github.com/rodizio1/EZ-WifiBroadcast) - Affordable Digital HD Video Transmission made easy!
 - [LowCostLoRaGw](https://github.com/CongducPham/LowCostLoRaGw) - Low-cost LoRa IoT & gateway with SX1272/76, Raspberry and Arduino
@@ -256,7 +369,7 @@
 - [ponybar](https://github.com/archpony/ponybar) - Simple statusbar generator for dwm.
 - [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 - [grbl](https://github.com/grbl/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino
-- [sdb](https://github.com/radare/sdb) - Simple and fast string based key-value database with support for arrays and json
+- [sdb](https://github.com/radareorg/sdb) - Simple and fast string based key-value database with support for arrays and json
 - [glar150](https://github.com/CodeJockey/glar150) - GL-AR150 demo application
 - [bindfs](https://github.com/mpartel/bindfs) - Mount a directory elsewhere with changed permissions.
 - [rtl-ais](https://github.com/dgiardini/rtl-ais) - A simple AIS tuner and generic dual-frequency FM demodulator
@@ -271,12 +384,11 @@
 - [dwm](https://github.com/2ion/dwm) - DWM with built-in mpd and mpv clients & more
 - [gmrender-resurrect](https://github.com/hzeller/gmrender-resurrect) - Resource efficient UPnP/DLNA renderer, optimal for Raspberry Pi, CuBox or a general MediaServer. Fork of GMediaRenderer to add some features to make it usable.
 - [rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi
-- [mapserver](https://github.com/mapserver/mapserver) - Source code of the MapServer project.  Please submit bug fixes for the 7.2 release, to branch-7-2
+- [mapserver](https://github.com/mapserver/mapserver) - Source code of the MapServer project.
 - [pikrellcam](https://github.com/billw2/pikrellcam) - Raspberry Pi motion vector detection program with OSD web interface.
 - [firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
 - [RaspberryPi-FreeRTOS](https://github.com/jameswalmsley/RaspberryPi-FreeRTOS) - A port of FreeRTOS to the raspberry pi.
 - [mpckbd](https://github.com/nomis/mpckbd) - MPC Keyboard Daemon
-- [PiFmRds](https://github.com/Hatagashira/PiFmRds) - FM-RDS transmitter using the Raspberry Pi's PWM
 - [fbtft](https://github.com/notro/fbtft) - Linux Framebuffer drivers for small TFT LCD display modules
 - [pisstv](https://github.com/AgriVision/pisstv) - Raspbery Pi SSTV camera
 - [triggerhappy](https://github.com/wertarbyte/triggerhappy) - A lightweight hotkey daemon
@@ -301,7 +413,7 @@
 - [gpg](https://github.com/jeroen/gpg) - Bindings to gpgme for R
 - [x86term](https://github.com/pkovac/x86term) - A terminal emulator for running on bare x86 machines.
 - [no-wm](https://github.com/patrickhaller/no-wm) - Use X11 without a window manager
-- [markdown](https://github.com/rstudio/markdown) - The first generation of Markdown rendering for R (https://github.com/rstudio/rmarkdown is probably what you actually need)
+- [markdown](https://github.com/rstudio/markdown) - The first generation of Markdown rendering for R. This *markdown* package has entered the maintenance-only mode in 2018. You are most likely to be looking at the wrong repo, and should go to the *rmarkdown* repo https://github.com/rstudio/rmarkdown instead.
 - [libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
 - [athame](https://github.com/ardagnir/athame) - Full vim for your shell (bash, zsh, gdb, python, etc)
@@ -339,7 +451,7 @@
 - [showtext](https://github.com/yixuan/showtext) - Using Fonts More Easily in R Graphs
 - [git-fs](https://github.com/Webconverger/git-fs) - fuse + libgit2
 - [tasknc](https://github.com/lharding/tasknc) - ncurses wrapper around taskwarrior
-- [rofi](https://github.com/DaveDavenport/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
+- [rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [types](https://github.com/suomela/types) - types2: Type and hapax accumulation curves
 - [wrassp](https://github.com/IPS-LMU/wrassp) - wrassp is a wrapper for R around Michel Scheffers's libassp (Advanced Speech Signal Processor). The libassp library aims at providing functionality for handling speech signal files in most common audio formats and for performing analyses common in phonetic science/speech science. This includes the calculation of formants, fundamental frequency, root mean square, auto correlation, a variety of spectral analyses, zero crossing rate, filtering etc. This wrapper provides R with a large subset of libassp's signal processing functions and provides them to the user in a (hopefully) user-friendly manner. The wrassp package is used by the EMU Speech Database Management System (EMU-SDMS) to perform signal processing routines.
 - [zsync](https://github.com/gianm/zsync) - fork of http://zsync.moria.org.uk/zsync.git with bugfixes and support for libcurl
@@ -371,7 +483,7 @@
 - [subsync](https://github.com/oblique/subsync) - subsync is a simple CLI tool that synchronizes SubRip (srt) subtitles automatically.
 - [sego](https://github.com/wangxunyu/sego) - A Chinese word segment system, based on maximum matching algorithm.
 - [slinp](https://github.com/vain/slinp) - PDF presentation tool chest
-- [seafile](https://github.com/haiwen/seafile) - File syncing and sharing software with file encryption and group sharing, emphasis on reliability and high performance.
+- [seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [Leela](https://github.com/TrilbyWhite/Leela) - A CLI frontend to the poppler-glib libary of PDF tools
 - [aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
 - [dzen](https://github.com/robm/dzen) - Dzen is a general purpose messaging, notification and menuing program for X11.
@@ -401,6 +513,10 @@
 
 ## C# # 
 
+- [wallabag_reducer](https://github.com/GeorgeHahn/wallabag_reducer) - A tool for automatically organizing Wallabag entries
+- [SyncTrayzor](https://github.com/canton7/SyncTrayzor) - Windows tray utility / filesystem watcher / launcher for Syncthing
+- [Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
+- [FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 - [pointcloudprinter](https://github.com/marian42/pointcloudprinter) - Prepare pointclouds from aerial LIDAR scans for 3D printing
 - [FrequencyWords](https://github.com/hermitdave/FrequencyWords) - Repository for Frequency Word List Generator and processed files
 - [3dpBurner-sender](https://github.com/villamany/3dpBurner-sender) - A GCODE sender for the 3dpBurner laser cutter/engraver (GRBL based)
@@ -412,6 +528,85 @@
 
 ## C++ 
 
+- [gebaar-libinput-fork](https://github.com/osleg/gebaar-libinput-fork) - Gebaar, A Super Simple WM Independent Touchpad Gesture Daemon for libinput. Forked version with additional features.
+- [gebaar-libinput](https://github.com/Coffee2CodeNL/gebaar-libinput) - Gebaar, A Super Simple WM Independent Touchpad Gesture Daemon for libinput
+- [QSyncthingTray](https://github.com/sieren/QSyncthingTray) - A OS X / Windows / Linux Tray App for Syncthing written in C++
+- [syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
+- [RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
+- [disaster-radio](https://github.com/sudomesh/disaster-radio) - A work-in-progress long-range, low-bandwidth wireless disaster recovery mesh network powered by the sun.
+- [ESP3D](https://github.com/luc-github/ESP3D) - FW for ESP8266/ESP8285/ESP32 used with 3D printer
+- [jfbview](https://github.com/jichu4n/jfbview) - PDF and image viewer for the Linux framebuffer.
+- [Object-tracking-camera-slider](https://github.com/SaralTayal123/Object-tracking-camera-slider) - 
+- [galapix](https://github.com/Galapix/galapix) - Galapix moved to https://gitlab.com/galapix/galapix
+- [olivia](https://github.com/keshavbhatt/olivia) - Elegant music player for LINUX
+- [OSPController](https://github.com/opensolarproject/OSPController) - ESP32 Smart Solar Charger - the Open Solar Project
+- [PJON](https://github.com/gioblu/PJON) - With PJON you can quickly build a network of devices for free without the need of a cloud service or a centralised platform you don’t fully control.
+- [ESP32-Long-Range-WiFi](https://github.com/jnogues/ESP32-Long-Range-WiFi) - 
+- [qimgv](https://github.com/easymodo/qimgv) - Qt5 image viewer with optional video support
+- [netevent](https://github.com/Blub/netevent) - Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
+- [The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
+- [libais](https://github.com/schwehr/libais) - C++ decoder for Automatic Identification System for tracking ships and decoding maritime information
+- [snapcast](https://github.com/Snapcast/snapcast) - Synchronous multi-room audio player
+- [raspigcd2](https://github.com/pantadeusz/raspigcd2) - The second attempt to raspberry pi gcode interpreter
+- [mapper](https://github.com/OpenOrienteering/mapper) - OpenOrienteering Mapper is a software for creating maps for the orienteering sport.
+- [panini](https://github.com/lazarus-pkgs/panini) - visual tool for creating perspective views from panoramic and wide angle photographs
+- [attiny_daemon](https://github.com/jbaumann/attiny_daemon) - Hardware and Software for a Raspberry UPS based on an ATTiny
+- [RadioLib](https://github.com/jgromes/RadioLib) - Universal wireless communication library for Arduino
+- [MEGAcmd](https://github.com/meganz/MEGAcmd) - Command Line Interactive and Scriptable Application to access MEGA
+- [winprom](https://github.com/edwardearl/winprom) - winprom
+- [Marlin](https://github.com/MarlinFirmware/Marlin) - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [IOTdummycam](https://github.com/doublec4/IOTdummycam) - Convert a dummy cam into an IOT smart "camera"
+- [QField](https://github.com/opengisch/QField) - A simplified touch optimized interface for QGIS
+- [esp32_fmdevkit](https://github.com/dragon-engineer/esp32_fmdevkit) - ESP32 Development Board for FM broadcasting. Complete DA Audio processing. The example/default Arduino firmware works as a Bluetooth Speaker (A2DP Sink). The code builds with the newest ESP32 Arduino Release.
+- [flitsfiets](https://github.com/aliekens/flitsfiets) - Flitsfiets om undercover snelheidsmetingen van voertuigen te doen
+- [Esp32AutoCamera](https://github.com/dproldan/Esp32AutoCamera) - ESP32-CAM with an open wifi access point and a captive portal,  for fast deployment of a wireless camara.
+- [Labrador](https://github.com/EspoTek/Labrador) - EspoTek Labrador is a USB device that transforms your PC or smartphone into a fully-featured electronics lab.  This repo holds all of the source code!
+- [TinyGSM](https://github.com/EnviroDIY/TinyGSM) - A small Arduino library for GSM modules, that just works. Supported modules: SIMCom SIM800, SIM900, A6, A7, M590, ESP8266-AT (plus variants like A6C, SIM800A, SIM800C, SIM800L, SIM800H, SIM808, SIM868, SIM900A, SIM900D, SIM908, SIM968)
+- [ttntrackernode](https://github.com/ttnmapper/ttntrackernode) - GPS Tracker device
+- [ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
+- [Code](https://github.com/Programmable-Air/Code) - Arduino library for Programmable-Air
+- [roc](https://github.com/roc-project/roc) - Real-time audio streaming over the network.
+- [LoRaRepeater](https://github.com/daveake/LoRaRepeater) - LoRa HAB Repeater
+- [BMaC](https://github.com/MayaPosch/BMaC) - Building Management and Control system
+- [imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [FabGL](https://github.com/fdivitto/FabGL) - Display Controller (VGA, SSD1306), PS/2 Mouse and Keyboard Controller, Graphics Library, Sound Engine, Game Engine and ANSI/VT Terminal for the ESP32
+- [BlingFire](https://github.com/microsoft/BlingFire) - A lightning fast Finite State machine and REgular expression manipulation library.
+- [slimstreamer](https://github.com/gimesketvirtadieni/slimstreamer) - SlimStreamer is an audio streaming software for Linux with multi-room functionality. SlimStreamer captures audio playback from ALSA and broadcasts it to connected Squeezebox devices (real or ‘virtual’ like squeezelite).
+- [sonoff-adhoc](https://github.com/HarringayMakerSpace/sonoff-adhoc) - Control a Sonoff switch with Wifi probe requests
+- [MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
+- [Desk-Lamp-Alternative-Firmware](https://github.com/Torxgewinde/Desk-Lamp-Alternative-Firmware) - An alternative firmware for the Mijia Xiaomi Desk Lamp
+- [guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
+- [ESP-WebOTA](https://github.com/scottchiefbaker/ESP-WebOTA) - 
+- [pkgfile](https://github.com/falconindy/pkgfile) - an alpm .files metadata explorer
+- [rubberband](https://github.com/lachs0r/rubberband) - 
+- [gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio
+- [swradio-8](https://github.com/JvanKatwijk/swradio-8) - shortwave receiver for use with sdrplay, hackrf, dabsticks and pmsdr
+- [picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
+- [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
+- [maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
+- [esp8266_game_engine](https://github.com/corax89/esp8266_game_engine) - Used ili9341 or ST7735. Contains a virtual machine running games from RAM.
+- [RemoteDebug](https://github.com/JoaoLopesF/RemoteDebug) - Library for Arduino to  debug projects over WiFi, with web app or telnet,  with print commands like Serial Monitor
+- [dvisvgm](https://github.com/mgieseki/dvisvgm) - A fast DVI, EPS, and PDF to SVG converter
+- [embedded](https://github.com/blakesmith/embedded) - Blake's embedded projects
+- [ESP32_CoinCell](https://github.com/mike-rankin/ESP32_CoinCell) - An ESP32 Project with sensors and tiny display powered by a coin cell
+- [ESPloitV2](https://github.com/exploitagency/ESPloitV2) - WiFi Keystroke Injection Tool designed for an Atmega 32u4/ESP8266 Paired via Serial (Cactus WHID Firmware).  Also features Serial, HTTP, and PASV FTP exfiltration methods and an integrated Credential Harvester Phishing tool called ESPortal.
+- [auracle](https://github.com/falconindy/auracle) - A flexible command line client for Arch Linux's User Repository
+- [TenDollarWebcam](https://github.com/geeksville/TenDollarWebcam) - A small example app for ESP32 + Micro-RTSP
+- [Micro-RTSP](https://github.com/geeksville/Micro-RTSP) - A RTSP video server intended for very small CPUs (ESP32 etc)
+- [MQTT-AC-Controller](https://github.com/maxmacstn/MQTT-AC-Controller) - 
+- [addr_7seg](https://github.com/IdleHandsProject/addr_7seg) - Addressable 7-Segment Displays
+- [dab-server](https://github.com/JvanKatwijk/dab-server) - simple dab-server with android client as remote control over bluetooth
+- [sdrplayDab](https://github.com/JvanKatwijk/sdrplayDab) - dab software for sdrplay devices
+- [dabradio](https://github.com/JvanKatwijk/dabradio) - little brother of Qt-DAB for use under Linux-x64, Windows and RPI2/3
+- [qt-dab](https://github.com/JvanKatwijk/qt-dab) - qt-dab is a software dab decoder for use with sdrplay, dabstick, airspy, limeSDR  or hackrf for RPI and PC
+- [dab-cmdline](https://github.com/JvanKatwijk/dab-cmdline) - DAB decoding library with example of its use
+- [AutomaticDogDoor](https://github.com/bradharbert/AutomaticDogDoor) - Code and design files for Automated Dog Door using Particle Photon
+- [AutomatedGarageDoorOpener](https://github.com/bradharbert/AutomatedGarageDoorOpener) - Automated Garage Door Opener using a Particle Photon
+- [anavi-examples](https://github.com/AnaviTechnology/anavi-examples) - Examples for getting started and testing ANAVI Internet of Things and add-on boards (HAT & pHAT) for Raspberry Pi
+- [encoder](https://github.com/soligen2010/encoder) - Atmel AVR C++ RotaryEncoder Implementation
+- [karadio-addons](https://github.com/karawin/karadio-addons) - Collection of addons for the KaraDio project.
+- [esp-rfid](https://github.com/esprfid/esp-rfid) - ESP8266 RFID (RC522, PN532, Wiegand, RDM6300) Access Control system featuring WebSocket, JSON, NTP Client, Javascript, SPIFFS
+- [retrogram-rtlsdr](https://github.com/r4d10n/retrogram-rtlsdr) - Spectrum analyzer on your terminal/ssh console with ASCII art ~ RTLSDR
 - [FS32](https://github.com/martinberlin/FS32) - ESP32 WiFi powered digital Camera only for ArduCam OV5642 (5 MP)
 - [FS2](https://github.com/martinberlin/FS2) - ESP8266 WiFi powered digital Camera
 - [433MHz-MQTT-Bridge-with-Wemos-D1](https://github.com/mrohner/433MHz-MQTT-Bridge-with-Wemos-D1) - Use wall mount switches that trigger MQTT commands
@@ -420,12 +615,13 @@
 - [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
 - [LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA tool for everyone!
 - [APConfig](https://github.com/msraynsford/APConfig) - Creates an access point and allows the user to change the name and password remotely
-- [EdgeML](https://github.com/Microsoft/EdgeML) - This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India.
+- [EdgeML](https://github.com/microsoft/EdgeML) - This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India.
 - [fbcp-ili9341](https://github.com/juj/fbcp-ili9341) - A blazing fast display driver for SPI-based LCD displays for Raspberry Pi A, B, 2, 3 and Zero
 - [DIYScooter](https://github.com/bitluni/DIYScooter) - 
 - [ESP32CompositeVideo](https://github.com/bitluni/ESP32CompositeVideo) - 
 - [ESP8266-HTTP-IR-Blaster](https://github.com/mdhiggins/ESP8266-HTTP-IR-Blaster) - ESP8266 Compatible IR Blaster that accepts HTTP commands for use with services like Amazon Echo
 - [vnote](https://github.com/tamlok/vnote) - A note-taking application that knows programmers and Markdown better.
+- [images](https://github.com/weserv/images) - Source code of images.weserv.nl, to be used on your own server(s).
 - [plop-reader](https://github.com/pmartin/plop-reader) - A Wallabag application for Pocketbook / TEA Touch Lux ereaders
 - [ESP-Library](https://github.com/iotappstory/ESP-Library) - Software Distribution and Management Over the Air
 - [Grbl_Esp32](https://github.com/bdring/Grbl_Esp32) - A port of Grbl CNC Firmware for ESP32
@@ -436,7 +632,7 @@
 - [qpdf](https://github.com/qpdf/qpdf) - Primary QPDF source code and documentation
 - [Wemos-D1-ESP8266-PIR-Alarm](https://github.com/MKme/Wemos-D1-ESP8266-PIR-Alarm) - Simple Motion Alarm using Wemos D1 Mini and IFTTT
 - [WiperMotorServo](https://github.com/XRobots/WiperMotorServo) - 
-- [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, beacons detection, mi flora compatibility & SMS.
+- [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora / mi jia / LYWSD02/ Mi Scale compatibility, SMS & LORA.
 - [vesc_tool](https://github.com/vedderb/vesc_tool) - The source code for VESC Tool. See vesc-project.com
 - [Hacking-433](https://github.com/SensorsIot/Hacking-433) - 
 - [gnss-sdr](https://github.com/gnss-sdr/gnss-sdr) - GNSS-SDR, an open source GNSS software defined receiver
@@ -444,6 +640,7 @@
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [raspigcd](https://github.com/pantadeusz/raspigcd) - Raspberry Pi direct G-CODE driver
 - [AircraftTugArduino](https://github.com/AnthonyDipilato/AircraftTugArduino) - Arduino code for aircraft tug
+- [FPV_VR_OS](https://github.com/Consti10/FPV_VR_OS) - Latest version of FPV_VR, open source under LGPL
 - [goestools](https://github.com/pietern/goestools) - Tools to work with signals and files from GOES satellites
 - [ESP32-Sprinkler](https://github.com/pbecchi/ESP32-Sprinkler) - 
 - [ESP32_OLED_webradio](https://github.com/kodera2t/ESP32_OLED_webradio) - OLED display support is added to ESP32 MP3 web radio/bluetotooth speaker code by MrBuddyCasino's. Now webradio station switching is supported (implemented by n24bass)
@@ -465,12 +662,12 @@
 - [ESP-Now](https://github.com/HarringayMakerSpace/ESP-Now) - ESP-Now Examples
 - [newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [ArduCAM-mini-ESP8266-12E-Camera-Server](https://github.com/dmainmon/ArduCAM-mini-ESP8266-12E-Camera-Server) - Source code designed to work with an ESP8266-12E and an ArduCAM Mini 2MP Camera.
-- [painlessMesh](https://github.com/gmag11/painlessMesh) - ESP8266 based mesh. This is a mirror copy of https://gitlab.com/painlessMesh/painlessMesh PLEASE ADD COMMENTS AND ISSUES ON GITLAB so that all information is centralized.
+- [painlessMesh](https://github.com/gmag11/painlessMesh) - ESP8266 based mesh. This is a mirror copy of https://gitlab.com/painlessMesh/painlessMesh PLEASE ADD COMMENTS, ISSUES and PULL REQUESTS ON GITLAB so that all information is centralized.
 - [FSBrowserNG](https://github.com/gmag11/FSBrowserNG) - Full autocontained (on SPIFFS) async web server on ESP8266. Written as a Library.
 - [WifiLocation](https://github.com/gmag11/WifiLocation) - Google GeoLocation API wrapper for Arduino MKR1000, ESP8266 and ESP32
-- [dablin](https://github.com/Opendigitalradio/dablin) - DAB/DAB+ receiver for Linux (including ETI-NI playback)
+- [dablin](https://github.com/Opendigitalradio/dablin) - DAB/DAB+ receiver for Linux (including ETI-NI and EDI AF playback)
+- [earthenterprise](https://github.com/google/earthenterprise) - Google Earth Enterprise - Open Source
 - [My-PrintTable](https://github.com/sanchosk/My-PrintTable) - My attempt to build IKEA table-based 3D printer.
-- [ESP32-Radio](https://github.com/Edzelf/ESP32-Radio) - Internet radio based on ESP32, VS1053 and a TFT screen.
 - [libkml](https://github.com/google/libkml) - Reference implementation of OGC KML 2.2
 - [M590](https://github.com/LeoDJ/M590) - GSM / GPRS Arduino library for the Neoway M590
 - [TinyGSM](https://github.com/vshymanskyy/TinyGSM) - A small Arduino library for GSM modules, that just works
@@ -487,11 +684,11 @@
 - [Wemos-Weather-Station](https://github.com/PaulRB/Wemos-Weather-Station) - Outdoor Weather Station with Wind Speed, direction &Rainfall sensors
 - [omim](https://github.com/mapsme/omim) - 🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android
 - [rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO
-- [A6lib](https://github.com/skorokithakis/A6lib) - An ESP8266/Arduino library for communicating with the A6 GSM module.
-- [IRremoteESP8266](https://github.com/markszabo/IRremoteESP8266) - Infrared remote library for ESP8266: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/
+- [A6lib](https://github.com/skorokithakis/A6lib) - An ESP8266/Arduino library for communicating with the A6 GSM module. ⛺
+- [IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266) - Infrared remote library for ESP8266: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/
 - [blynk-library](https://github.com/blynkkk/blynk-library) - Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc.
 - [Sming](https://github.com/SmingHub/Sming) - Sming - Open Source framework for high efficiency native ESP8266 development
-- [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) - Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE or PlatformIO
+- [Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
 - [sprinklers_pi](https://github.com/rszimm/sprinklers_pi) - Sprinkling System Control Program for the Raspberry Pi
 - [RF24Mesh](https://github.com/nRF24/RF24Mesh) - Mesh Networking for RF24Network
 - [RF24Network](https://github.com/nRF24/RF24Network) - Optimized Network Layer for nRF24L01(+) Radios on Arduino and Raspberry Pi
@@ -540,7 +737,7 @@
 - [Esp-radio](https://github.com/Edzelf/Esp-radio) - Internet radio based on Esp8266 and VS1053.
 - [mobile-rr](https://github.com/idolpx/mobile-rr) - ESP8266 Mobile Rick Roll Captive Portal
 - [RTKDAB_Interface](https://github.com/AlbrechtL/RTKDAB_Interface) - This is an interface for the Realtek "RTKDAB.dll"
-- [rtl_dab_streamer](https://github.com/AlbrechtL/rtl_dab_streamer) - Turns your Realtek RTL2832 based DVB dongle into a DAB radio receiver
+- [pico](https://github.com/jpmens/pico) - 
 - [hiptext](https://github.com/jart/hiptext) - Turn images into text better than caca/aalib
 - [tangram-es](https://github.com/tangrams/tangram-es) - 2D and 3D map renderer using OpenGL ES
 - [OcherBook](https://github.com/ccoffing/OcherBook) - Open-source replacement Kobo firmware
@@ -557,12 +754,12 @@
 - [R-travis-container-example](https://github.com/jtilly/R-travis-container-example) - Build R Packages using Travis CI Containers
 - [libgestures](https://github.com/hugegreenbug/libgestures) - ChromiumOS libgestures ported to Linux
 - [trackuino](https://github.com/trackuino/trackuino) - Trackuino firmware source code
-- [snapcast](https://github.com/badaix/snapcast) - Synchronous multi-room audio player
-- [fm_transmitter](https://github.com/markondej/fm_transmitter) - Raspberry Pi as FM transmitter, custom source
+- [snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
+- [fm_transmitter](https://github.com/markondej/fm_transmitter) - Raspberry Pi as FM transmitter
 - [fm_transmitter](https://github.com/asmello/fm_transmitter) - Raspberry Pi as FM transmitter, custom source
 - [openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [omxplayer](https://github.com/popcornmix/omxplayer) - omxplayer
-- [seq2gif](https://github.com/saitoha/seq2gif) - Convert a ttyrec record into a gif animation directly (almost vt102 compatible terminal emulation).
+- [V8](https://github.com/jeroen/V8) - Embedded JavaScript Engine for R
 - [fake-music-files](https://github.com/geneticdrift/fake-music-files) - fmf's purpose is to generate tagged music files for testsing media servers.
 - [fIcy](https://github.com/wavexx/fIcy) - An icecast/shoutcast stream grabber suite
 - [grive2](https://github.com/vitalif/grive2) - Google Drive client with support for new Drive REST API and partial sync
@@ -583,7 +780,6 @@
 - [thrust](https://github.com/breach/thrust) - Chromium-based cross-platform / cross-language application framework
 - [cursetag](https://github.com/lotuskip/cursetag) - NCurses based audio file tag (metadata) editor
 - [tocc](https://github.com/aidin36/tocc) - A tag based file management system.
-- [XLCloudClient](https://github.com/CaledoniaProject/XLCloudClient) - 迅雷离线Linux客户端，多种漏洞利用 ；-P 大家慢慢挖掘吧 哈哈 觉得好就点下 Star / Fork 吧
 - [qmule](https://github.com/qmule/qmule) - qmule
 - [libed2k](https://github.com/qmule/libed2k) - 
 - [cjk-tokenizer](https://github.com/rboulton/cjk-tokenizer) - 
@@ -626,9 +822,27 @@
 
 ## CSS 
 
+- [wax](https://github.com/minicomp/wax) - Jekyll based framework for minimal exhibitions with IIIF 🐝
+- [uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
+- [snel](https://github.com/slakkenhuis/snel) - Barebones static website generator using `make` and `pandoc`.
+- [pisdr-image](https://github.com/luigifreitas/pisdr-image) - 
+- [what-they-forgot](https://github.com/rstats-wtf/what-they-forgot) - "What They Forgot to Teach You About R" website / eBook
+- [sidebar-v2](https://github.com/Turbo87/sidebar-v2) - A responsive sidebar with tabs for Leaflet, OpenLayers, Google Maps, ...
+- [RTCMapping](https://github.com/geowe/RTCMapping) - RealTime Collaborative Mapping
+- [athena](https://github.com/apas/athena) - Minimalist static blog generator written in Python
+- [lawler-dot-io](https://github.com/Eiriksmal/lawler-dot-io) - Pelican static site generator config for Lawler.io
+- [essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook
+- [prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story
+- [pagedown](https://github.com/rstudio/pagedown) - Paginate the HTML Output of R Markdown with CSS for Print
+- [tabreturn.github.io](https://github.com/tabreturn/tabreturn.github.io) - Reader-view-style jekyll template
+- [makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
+- [graphene](https://github.com/jondot/graphene) - Graphene is a realtime dashboard & graphing toolkit based on D3 and Backbone.
+- [support](https://github.com/rbind/support) - Technical support for rbind
+- [aletheia](https://github.com/danielquinn/aletheia) - Fight fake news with cryptography & human nature
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [vimways.org](https://github.com/vim-advent-calendar/vimways.org) - vimways.org
 - [starter](https://github.com/prose/starter) - A starter site for Jekyll + Prose
-- [paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents
-- [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
+- [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [kleinfreund.de](https://github.com/kleinfreund/kleinfreund.de) - Source of my personal site
 - [ed](https://github.com/minicomp/ed) - A Jekyll theme for minimal editions :book:
 - [mopds](https://github.com/mak-alex/mopds) - Free program for Linux operating systems, designed to quickly create an electronic OPDS-catalog books. OPDS (Open Publication Distribution System) catalog allows you to access Your library via the Internet from most devices for reading electronic books, tablets, smartphones, etc.
@@ -636,7 +850,6 @@
 - [hugo-tufte](https://github.com/shawnohare/hugo-tufte) - Content centric Hugo blogging theme styled with Tufte-css
 - [asciicast2gif](https://github.com/asciinema/asciicast2gif) - Generate GIF animations from asciicasts (asciinema recordings)
 - [diy-ipmi](https://github.com/Fmstrat/diy-ipmi) - A DIY IPMI / IP KVM system utilizing the Raspberry Pi
-- [happy-git-with-r](https://github.com/jennybc/happy-git-with-r) - Using Git and GitHub with R, Rstudio, and R Markdown
 - [MQTTLensChromeApp](https://github.com/sandro-k/MQTTLensChromeApp) - MQTTLens Chrome App, a MQTT utility build on Web Components and Packaged for the Chrome Platform
 - [tufte-pandoc-css](https://github.com/jez/tufte-pandoc-css) - Starter files for using Pandoc Markdown with Tufte CSS
 - [tufte-pandoc-jekyll](https://github.com/jez/tufte-pandoc-jekyll) - A Jekyll theme for using Tufte CSS with Jekyll + Pandoc
@@ -647,11 +860,11 @@
 - [lirc_web](https://github.com/alexbain/lirc_web) - Control LIRC from the web using NodeJS and lirc_node
 - [DARIAH-NLP.github.io](https://github.com/DARIAH-TDA/DARIAH-NLP.github.io) - 
 - [tex-boilerplates](https://github.com/mrzool/tex-boilerplates) - Website for the LaTeX Boilerplates
+- [screenly-ose](https://github.com/Screenly/screenly-ose) - The most popular digital signage project on Github!
 - [rtail](https://github.com/kilianc/rtail) - rtail(1) - Terminal output to the browser in seconds, using UNIX pipes.
 - [archpi.dabase.com](https://github.com/kaihendry/archpi.dabase.com) - Turning Wordsister into a FAQ site
 - [blogdown-jekyll](https://github.com/yihui/blogdown-jekyll) - Automatically knit R Markdown documents, build them with Jekyll, and serve the website with servr locally
 - [reading-list](https://github.com/bamos/reading-list) - My reading list.
-- [notebook](https://github.com/lmullen/notebook) - Open Notebook History
 - [rmdcards](https://github.com/sachsmc/rmdcards) - Cards layout in rmarkdown, like google keep
 - [pubcss](https://github.com/thomaspark/pubcss) - Format academic publications in HTML & CSS
 - [md2tufte](https://github.com/ghelleks/md2tufte) - Create presentations and Tufte-style whitepapers from the same source.
@@ -659,7 +872,6 @@
 - [2014](https://github.com/cs109/2014) - Official content for the Fall 2014 Harvard CS109 Data Science course
 - [GDELT_Intro](https://github.com/dmasad/GDELT_Intro) - Quick tutorial on getting started with GDELT
 - [jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
-- [vistat](https://github.com/supstat/vistat) - A reproducible gallery of statistical graphics
 - [storyweb](https://github.com/pudo/storyweb) - A contextual news development environment.
 - [Newsclipse](https://github.com/Canvas-Hackathon-Teams/Newsclipse) - Newsclipse: The IDE for news production.
 - [DataScienceSpecialization.github.io](https://github.com/DataScienceSpecialization/DataScienceSpecialization.github.io) - http://DataScienceSpecialization.github.io
@@ -671,15 +883,14 @@
 - [try.docopt.org](https://github.com/docopt/try.docopt.org) - Try out docopt in browser (Flask app running on Heroku)
 - [composer](https://github.com/garybgenett/composer) - Composer is a simple but powerful CMS based on Pandoc and Make
 - [aRrgh](https://github.com/tdsmith/aRrgh) - A newcomer's (angry) guide to data types in R
-- [poole](https://github.com/poole/poole) - The Jekyll Butler.
-- [cutils.vim](https://github.com/javier-lopez/cutils.vim) - cutils is a repository of small functions I've found useful when using vim.
+- [poole](https://github.com/poole/poole) - The Jekyll Butler. A no frills responsive Jekyll blog theme.
 - [popcorn-app](https://github.com/popcorn-time/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs.
 - [pandoc-moderncv](https://github.com/barraq/pandoc-moderncv) - Pandoc-ModernCV is a Pandoc fa­cil­i­ties for type­set­ting mod­ern cur­ricu­lums vi­tae. Inspired by the well known Latex ModernCV, it is fairly cus­tomiz­able, al­low­ing you to use predefined themes and to define your own style by changing colors, fonts, etc.
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [io](https://github.com/substance/io) - IO is a minimal publishing system based on Pandoc, Substance and eLife Lens. It powers substance.io
 - [pan-am](https://github.com/bgw/pan-am) - Simple CSS for Pandoc
 - [tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
-- [Effeckt.css](https://github.com/h5bp/Effeckt.css) - A Performant Transitions and Animations Library
+- [Effeckt.css](https://github.com/h5bp/Effeckt.css) - This repo is archived. Thanks!
 - [hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 - [rollingstonesmap](https://github.com/Vizzuality/rollingstonesmap) - 50 Years of concerts of The Rolling Stones
 - [themedoc](https://github.com/fleipold/themedoc) - theming output for pandoc
@@ -689,28 +900,30 @@
 - [humane-js](https://github.com/wavded/humane-js) - A simple, modern, browser notification system
 - [adapt](https://github.com/nathansmith/adapt) - Adapt.js serves CSS based on screen width.
 - [slippy](https://github.com/Seldaek/slippy) - HTML Presentations
-- [pandoc-templates](https://github.com/kjhealy/pandoc-templates) - Some elementary (xe)tex templates and css files for Pandoc.
 
 ## Clojure 
 
+- [rss-clustering](https://github.com/sean-a-m/rss-clustering) - Extract features from news feeds and do clustering using CoreNLP library and graph clustering algorithms
 - [clojure-opennlp](https://github.com/dakrone/clojure-opennlp) - Natural Language Processing in Clojure (opennlp)
 
 ## CoffeeScript 
 
-- [turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [hubot-scripts](https://github.com/github/hubot-scripts) - DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json
 - [hubot-google-images](https://github.com/hubot-scripts/hubot-google-images) - A hubot script that interacts with the Google Images API
 - [policeman](https://github.com/futpib/policeman) - Firefox extention for cross-site requests control (kind of RequestPolicy clone)
 - [lixian-cli](https://github.com/hyspace/lixian-cli) - A simple nodejs module including command line tool for xunlei-lixian service.
-- [Ficdown.js](https://github.com/rudism/Ficdown.js) - Ficdown parser and runner in Javascript
 - [butterfly](https://github.com/paradoxxxzero/butterfly) - A web terminal based on websocket and tornado
-- [sharelatex](https://github.com/sharelatex/sharelatex) - A web-based collaborative LaTeX editor
+- [overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [VimFx](https://github.com/akhodakivskiy/VimFx) - Vim keyboard shortcuts for Firefox
 - [dispatch-proxy](https://github.com/alexkirsz/dispatch-proxy) - Combine internet connections, increase your download speed
 - [ostio-chaplin](https://github.com/paulmillr/ostio-chaplin) - Your open-source talks place.
 - [annotator.offline.js](https://github.com/aron/annotator.offline.js) - Offline storage for the Annotator
 - [annotator.touch.js](https://github.com/aron/annotator.touch.js) - Touch device support for Annotator
+
+## Crystal 
+
+- [invidious](https://github.com/omarroth/invidious) - Invidious is an alternative front-end to YouTube
 
 ## Cuda 
 
@@ -718,6 +931,8 @@
 
 ## D 
 
+- [tsv-utils](https://github.com/eBay/tsv-utils) - eBay's TSV Utilities: Command line tools for large, tabular data files. Filtering, statistics, sampling, joins and more.
+- [onedrive](https://github.com/skilion/onedrive) - Free Client for OneDrive on Linux
 - [googledriveannex](https://github.com/TobiasTheViking/googledriveannex) - 
 
 ## DIGITAL Command Language 
@@ -726,19 +941,17 @@
 
 ## Eagle 
 
-- [KiteShield](https://github.com/jgromes/KiteShield) - Universal wireless communication shield for Arduino
+- [RadioShield](https://github.com/jgromes/RadioShield) - Universal wireless communication shield for Arduino
 - [Ikea_Molgan_Hack](https://github.com/Yveaux/Ikea_Molgan_Hack) - Ikea Molgan PIR LED light hack to add wireless Arduino functionality
 - [SensebenderMicro](https://github.com/mysensors/SensebenderMicro) - Micro sensor board for MySensor project
 - [LoraCHIP](https://github.com/hallard/LoraCHIP) - C.H.I.P. Computer RN2483 or RFM95 Lora Shield
 - [ESP8266-Tiny-Door-and-Window-Sensor](https://github.com/8n1/ESP8266-Tiny-Door-and-Window-Sensor) - Battery powered door and window sensor with ultra low standby power. Arduino, ESP-12, Reed switch, ATtiny, LDO
 - [WeMos-RN2483](https://github.com/hallard/WeMos-RN2483) - ESP8266 WeMos Shield for Microchip LORAWAN RN2483 or RN2903
-- [OpenGarage-Hardware](https://github.com/OpenGarage/OpenGarage-Hardware) - 
 - [opensprinkler](https://github.com/rayshobby/opensprinkler) - Open-source Arduino-based Sprinkler Valve Controller
 - [ESP8266-Breakout-Adapter](https://github.com/8n1/ESP8266-Breakout-Adapter) - ESP-07 & ESP-12(E) Breakout Adapters with different voltage regulators and features
 - [raspiradio](https://github.com/thk4711/raspiradio) - raspberry pi streaming client and internet radio with spi display, i2s audio chip, and remote control
 - [RPI-Lora-Gateway](https://github.com/hallard/RPI-Lora-Gateway) - Raspberry PI Lora Gateway/Node for RFM92/95/96/98/69HCW Modules
 - [CompostSensor](https://github.com/kinasmith/CompostSensor) - Wireless Temperature Sensor network for logging and automating medium scale composting operations
-- [electron](https://github.com/particle-iot/electron) - 
 - [dabpi_ctl](https://github.com/elmo2k3/dabpi_ctl) - dabpi_ctl - RPi fm/fmhd/dab receiver control interface
 - [piZero-Hub](https://github.com/richardhawthorn/piZero-Hub) - A compact USB hub for the Raspberry Pi Zero
 
@@ -746,19 +959,105 @@
 
 - [asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
 
+## Elm 
+
+- [articles-dispenser-web](https://github.com/mveith/articles-dispenser-web) - Web application dispensing articles of Pocket (getpocket.com)
+
 ## Emacs Lisp 
 
+- [org-ref](https://github.com/jkitchin/org-ref) - org-mode modules for citations, cross-references, bibliographies in org-mode and useful bibtex tools to go with it.
 - [dotfiles](https://github.com/bamos/dotfiles) - ♥ Arch Linux, OSX, mutt, xmonad, i3, vim, emacs, zsh, mpv, cmus
 - [oh-my-emacs](https://github.com/xiaohanyu/oh-my-emacs) - [Stopped] Provide an awesome, out-of-box, literate dotemacs for both newbies and nerds.
 - [atreus-firmware](https://github.com/technomancy/atreus-firmware) - Firmware for the Atreus keyboard
 - [orgpaper](https://github.com/vikasrawal/orgpaper) - Reproducible Research Papers using Org-mode and R: A Guide
 
+## G-code 
+
+- [Engravinator](https://github.com/ManiacalLabs/Engravinator) - An open source laser engraver platform
+
 ## Gherkin 
 
 - [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) - jekyll extensions for the blogging scholar
 
+## Gnuplot 
+
+- [open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
+
 ## Go 
 
+- [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+- [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
+- [demo](https://github.com/saschagrunert/demo) - A framework for performing live pre-recorded command line demos in the wild 📼
+- [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [Neo-cowsay](https://github.com/Code-Hex/Neo-cowsay) - 🐮 cowsay is reborn. Neo Cowsay written in Go. This cowsay extended the original and added fun more options. And it can be used as a library.
+- [fast](https://github.com/ddo/fast) - Minimal zero-dependency utility for testing your internet download speed from terminal
+- [unshort.link](https://github.com/simonfrey/unshort.link) - Prevent short link services from tracking you by unshortening the urls for your
+- [curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
+- [gpxgo](https://github.com/tkrajina/gpxgo) - GPX library for golang
+- [pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
+- [LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
+- [automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
+- [pkgtop](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor designed for the GNU/Linux.
+- [beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
+- [go-pocket](https://github.com/junkblocker/go-pocket) - Pocket (getpocket.com) API client for Go (golang).
+- [repocket](https://github.com/srvaroa/repocket) - Manage a local copy of articles saved in Pocket
+- [tty-share](https://github.com/elisescu/tty-share) - Terminal sharing over the Internet.
+- [gdrive](https://github.com/gdrive-org/gdrive) - Google Drive CLI Client
+- [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+- [scholar](https://github.com/cgxeiji/scholar) - Reference Manager in Go
+- [fluidkeys](https://github.com/fluidkeys/fluidkeys) - Send encrypted secrets. Fluidkeys lets you send passwords, keys and personal information from the terminal. Powered by OpenPGP end-to-end encryption.
+- [go-elevations](https://github.com/tkrajina/go-elevations) - SRTM parser for golang
+- [hostyoself](https://github.com/schollz/hostyoself) - Host yo' self from your browser, your phone, your toaster.
+- [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
+- [lab](https://github.com/zaquestion/lab) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
+- [yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
+- [epubtool](https://github.com/geek1011/epubtool) - A tool to manipulate ePub files.
+- [Kobo-UNCaGED](https://github.com/shermp/Kobo-UNCaGED) - UNCaGED, for Kobo devices
+- [hkcam](https://github.com/brutella/hkcam) - Open-Source HomeKit Camera With a 3D-Printed Enclosure
+- [jiq](https://github.com/fiatjaf/jiq) - jid on jq
+- [hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
+- [tml](https://github.com/liamg/tml) - :rainbow::computer::art: A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
+- [timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
+- [SatHelperApp](https://github.com/opensatelliteproject/SatHelperApp) - Satellite Receiver Helper Application
+- [passkeeper](https://github.com/jdevelop/passkeeper) - Hardware password/seed storage
+- [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
+- [madonctl](https://github.com/McKael/madonctl) - CLI client for the Mastodon social network API
+- [blast](https://github.com/mosuka/blast) - Blast is a full text search and indexing server, written in Go, built on top of Bleve.
+- [algernon](https://github.com/xyproto/algernon) - :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+- [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
+- [rkt](https://github.com/rkt/rkt) - rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
+- [jetpack](https://github.com/3ofcoins/jetpack) - **PROTOTYPE** FreeBSD Jail/ZFS based implementation of the Application Container Specification
+- [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
+- [s](https://github.com/zquestz/s) - Open a web search in your terminal.
+- [qri](https://github.com/qri-io/qri) - you're invited to a data party!
+- [github-release](https://github.com/aktau/github-release) - Commandline app to create and edit releases on Github (and upload artifacts)
+- [bark](https://github.com/jamesbvaughan/bark) - a simple bookmarking tool with a cli and web interface
+- [fullrss](https://github.com/n0madic/fullrss) - Full text RSS feeds proxy
+- [feedpushr](https://github.com/ncarlier/feedpushr) - A simple feed aggregator daemon with sugar on top.
+- [bookmarks](https://github.com/nrocco/bookmarks) - Personal zero-touch bookmarking app in the cloud, with full text search support.
+- [weather-warning](https://github.com/kfsun/weather-warning) - 
+- [goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
+- [goreadability](https://github.com/philipjkim/goreadability) - Webpage summary extractor using Facebook Open Graph and arc90's readability
+- [newspaper](https://github.com/feeeper/newspaper) - Read webpages in readability mode, inside your terminal.
+- [minio](https://github.com/minio/minio) - MinIO is a high performance object storage server compatible with Amazon S3 APIs
+- [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
+- [shiori](https://github.com/techknowlogick/shiori) - Shiori is a simple bookmark manager
+- [wallabago](https://github.com/Strubbl/wallabago) - Go wrapper for the Wallabag API
+- [magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite.
+- [goscrape](https://github.com/cornelk/goscrape) - Web scraper that can create an offline readable version of a website
+- [golinks](https://github.com/prologic/golinks) - 🌐A web app that allows you to create smart bookmarks, commands and aliases by pointing your web browser's default search engine at a running instance. Similar to bunny1 or yubnub.
+- [blog](https://github.com/kaihendry/blog) - 
+- [bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
+- [mbmatch](https://github.com/akhenakh/mbmatch) - An MBTiles server for PBF, which is also a map matcher.
+- [rtlamr-collect](https://github.com/bemasher/rtlamr-collect) - Data aggregation for rtlamr.
+- [gitbatch](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place
+- [goodls](https://github.com/tanaikech/goodls) - This is a CLI tool to download shared files and folders from Google Drive.
+- [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely.
+- [github-markdown-toc.go](https://github.com/ekalinin/github-markdown-toc.go) - Easy TOC creation for GitHub README.md (in go)
+- [gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
+- [xurls](https://github.com/mvdan/xurls) - Extract urls from text
+- [smsync](https://github.com/mipimipi/smsync) - keeps huge music collections in sync and takes care of conversions between different formats. It's an easy-to-use command line application for Linux.
 - [kobo-rclone](https://github.com/shermp/kobo-rclone) - An experimental rclone wrapper for Kobo ereaders
 - [koboutils](https://github.com/geek1011/koboutils) - Small utilities for doing stuff with Kobo eReaders.
 - [kobopatch](https://github.com/geek1011/kobopatch) - An improved patching system for Kobo eReaders.
@@ -771,22 +1070,21 @@
 - [cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
 - [fzf-bibtex](https://github.com/msprev/fzf-bibtex) - a BibTeX source for fzf
 - [fast-p](https://github.com/bellecp/fast-p) - 
-- [chapinyin](https://github.com/lunny/chapinyin) - A command line to to convert hans to pinyin
-- [html2md](https://github.com/lunny/html2md) - A Go library for converting html to markdown
+- [chapinyin](https://github.com/lunny/chapinyin) - Moved https://gitea.com/lunny/chapinyin
+- [html2md](https://github.com/lunny/html2md) - A Go library for converting html to markdown, moved to https://gitea.com/lunny/html2md
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [csvtk](https://github.com/shenwei356/csvtk) - A cross-platform, efficient and practical CSV/TSV toolkit in Golang
 - [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go
 - [godu](https://github.com/viktomas/godu) - Simple golang utility helping to discover large files/folders.
 - [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
-- [hahajing](https://github.com/moyuanz/hahajing) - An eMule KAD ed2k link search engine for Movie/TV(eMule KAD ed2k下载链接搜索引擎(电影/电视剧))
 - [arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line interface
 - [goawk](https://github.com/benhoyt/goawk) - GoAWK: an AWK interpreter written in Go
-- [git-bug](https://github.com/MichaelMure/git-bug) - Distributed bug tracker embedded in Git
+- [git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
-- [fathom](https://github.com/usefathom/fathom) - Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.
+- [fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 - [nehm](https://github.com/bogem/nehm) - ☁️  CLI for downloading tracks from SoundCloud
 - [corgi](https://github.com/DrakeW/corgi) - Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet
@@ -795,7 +1093,7 @@
 - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
-- [u-root](https://github.com/u-root/u-root) - A fully Go userland! u-root can create a root file system (initramfs) containing a busybox-like set of tools written in Go.
+- [u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [ghq](https://github.com/motemen/ghq) - Remote repository management made easy
 - [gokrazy](https://github.com/gokrazy/gokrazy) - a pure-Go userland for your Raspberry Pi 3 appliances
@@ -807,7 +1105,7 @@
 - [neocities](https://github.com/peterhellberg/neocities) - A Neocities client written in Go
 - [x-newsbeuter-scripts](https://github.com/nikolay-turpitko/x-newsbeuter-scripts) - Custom filter scripts for newsbeuter
 - [printmaps](https://github.com/printmaps/printmaps) - Web service that allows the creation of large-format, OSM-based maps in print quality.
-- [loraserver](https://github.com/brocaar/loraserver) - LoRa Server is an open-source LoRaWAN network-server
+- [chirpstack-network-server](https://github.com/brocaar/chirpstack-network-server) - ChirpStack Network Server is an open-source LoRaWAN network-server.
 - [echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [machma](https://github.com/fd0/machma) - Easy parallel execution of commands with live feedback
@@ -821,12 +1119,12 @@
 - [find-lf](https://github.com/schollz/find-lf) - Track the location of every Wi-Fi device (:iphone:) in your house using Raspberry Pis and FIND
 - [lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [stressdisk](https://github.com/ncw/stressdisk) - Stress test your disks / memory cards / USB sticks before trusting your valuable data to them
-- [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [stacket](https://github.com/kovetskiy/stacket) - 
 - [hget](https://github.com/huydx/hget) - interruptable, resumable download accelerator written in golang
 - [validyaml](https://github.com/martinlindhe/validyaml) - Command line tool to validate YAML syntax of input file.
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
-- [torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer fetching torrents from BitTorrent network
+- [torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer that sniffs torrents from BitTorrent network
 - [adhole](https://github.com/drbig/adhole) - AdHole is a simple transparent ad and tracking blocker
 - [noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
@@ -846,12 +1144,11 @@
 - [sego](https://github.com/huichen/sego) - Go中文分词
 - [textcat](https://github.com/pebbe/textcat) - A Go package for n-gram based text categorization, with support for utf-8 and raw text
 - [syncthing-inotify](https://github.com/syncthing/syncthing-inotify) - File watcher intended for use with Syncthing (Linux, BSD, Windows, OSX)
-- [xlsx](https://github.com/tealeg/xlsx) - Google Go (golang) library for reading and writing XLSX files.  You should probably also checkout: https://github.com/360EntSecGroup-Skylar/excelize
-- [aether](https://github.com/nehbit/aether) - Aether is a peer-to-peer network of independent, self-moderated communities.
+- [xlsx](https://github.com/tealeg/xlsx) - Google Go (golang) library for reading and writing XLSX files.
 - [path-extractor](https://github.com/edi9999/path-extractor) - A unix filter which outputs the filepaths found in stdin
 - [files](https://github.com/mattn/files) - Fast file find
 - [jvgrep](https://github.com/mattn/jvgrep) - grep for japanese vimmer
-- [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
+- [caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher) - A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings.
 - [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [moss](https://github.com/jangler/moss) - Mostly orthogonal sequencing server
@@ -861,17 +1158,16 @@
 - [jiebago](https://github.com/wangbin/jiebago) - Jieba 分词 Go 语言版
 - [gor](https://github.com/wendal/gor) - Golang编写的静态博客引擎
 - [json2csv](https://github.com/jehiah/json2csv) - command line tool to convert json to csv
-- [hastie](https://github.com/mkaz/hastie) - a static site generator written in Go
+- [hastie](https://github.com/mkaz/hastie) - A static site generator written in Go
 - [go-pandocfilters](https://github.com/oltolm/go-pandocfilters) - Pandoc filters in Go
 - [gof](https://github.com/mattn/gof) - 
 - [migemogrep](https://github.com/peco/migemogrep) - Search/grep against Japanese text using latin-1 text
 - [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
-- [postman](https://github.com/zachlatta/postman) - Command-line utility for batch-sending email.
+- [postman](https://github.com/zachlatta/postman) - CLI tool for batch-sending email via any SMTP server.
 - [markdownfmt](https://github.com/shurcooL/markdownfmt) - Like gofmt, but for Markdown.
 - [textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service.
-- [docopts](https://github.com/docopt/docopts) - Shell interpreter for docopt, the command-line interface description language.
+- [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [api](https://github.com/chineselevel/api) - ChineseLevel API code
 - [json2csv](https://github.com/jeroenjanssens/json2csv) - command line tool to convert json to csv
@@ -880,38 +1176,78 @@
 - [uim-tmux-helper](https://github.com/typester/uim-tmux-helper) - watch uim status via uim-helper and show input mode status to tmux status line
 - [genseat](https://github.com/dlintw/genseat) - 
 - [superfastmatch](https://github.com/donovanhide/superfastmatch) - Experimental Go version of superfastmatch
-- [hub](https://github.com/github/hub) - hub helps you win at git.
+- [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [go-translate](https://github.com/mattn/go-translate) - google language translate library
 - [localtunnel](https://github.com/progrium/localtunnel) - Expose localhost servers to the Internet
 
 ## Groff 
 
 - [arch-wiki-man](https://github.com/greg-js/arch-wiki-man) - Search a local, updated copy of the entire Arch Wiki and open the article in `man`
-- [v](https://github.com/rupa/v) - z for vim
 
 ## HTML 
 
-- [KoboStuff](https://github.com/geek1011/KoboStuff) - Random stuff I know about the Kobo eReaders
+- [alembic-netlifycms-kit](https://github.com/daviddarnes/alembic-netlifycms-kit) - ⚗️💠 Starter kit for Alembic with Netlify CMS, hosted on Netlify
+- [solar-nodes](https://github.com/sudomesh/solar-nodes) - Solar + battery powered 4G LTE mesh nodes
+- [pagesaver](https://github.com/distributed-mind/pagesaver) - 
+- [FOSSASAT-1](https://github.com/FOSSASystems/FOSSASAT-1) - 
+- [minimal-hugo-blog-layout](https://github.com/zwbetz-gh/minimal-hugo-blog-layout) - A minimal hugo blog layout
+- [vanilla-bootstrap-hugo-theme](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme) - A vanilla Bootstrap theme for Hugo
+- [openspending](https://github.com/openspending/openspending) - The project aims to build and use open source tools and datasets to gather and analyse the financial transactions of governments around the world.
+- [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
+- [babykarte.github.io](https://github.com/babykarte/babykarte.github.io) - Old repository, will be a redirect soon
+- [hugo-purus](https://github.com/Pseudomanifold/hugo-purus) - A pure, simple, and minimalistic Hugo theme
+- [qifi](https://github.com/evgeni/qifi) - pure JS WiFi QR Code Generator
+- [technomancy.us](https://github.com/technomancy/technomancy.us) - Blog
+- [gh-themes-magick](https://github.com/tajmone/gh-themes-magick) - GitHub Pages Themes Magick: https://tajmone.github.io/gh-themes-magick/
+- [pandoc-goodies](https://github.com/tajmone/pandoc-goodies) - A tresure-box of resources for pandoc, pp and Texts word processor.
+- [PageCrypt](https://github.com/MaxLaumeister/PageCrypt) - Password protect an HTML page in JavaScript
+- [osmdata.xyz](https://github.com/michaelmgis/osmdata.xyz) - This project deals with extracting all primary features and their related tags to geopackage
+- [R4JournalismBook](https://github.com/smach/R4JournalismBook) - Companion site for my book Practical R for Mass Communication & Journalism, part of the CRC Press R Series
+- [make-a-hugo-blog-from-scratch](https://github.com/zwbetz-gh/make-a-hugo-blog-from-scratch) - Take a wild guess
+- [xyz-showcase](https://github.com/heremaps/xyz-showcase) - Showcase of web maps made with HERE XYZ
+- [polyglot-jekyll](https://github.com/mrzool/polyglot-jekyll) - Plugin-free multilanguage Jekyll websites
+- [openSenseMap](https://github.com/sensebox/openSenseMap) - Platform for storing and exploring sensor data
+- [engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
+- [watchme](https://github.com/vsoch/watchme) - Reproducible watchers for research
+- [compare-user.js](https://github.com/jm42/compare-user.js) - Compare firefox user.js
+- [owid-static](https://github.com/owid/owid-static) - Static production bundle of everything on ourworldindata.org
+- [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - :sparkles: Build a beautiful and simple website in literally minutes. Demo at http://deanattali.com/beautiful-jekyll
+- [classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
+- [d-note](https://github.com/atoponce/d-note) - Self destructing encrypted notes
+- [inkstone](https://github.com/skishore/inkstone) - Learn Chinese on the go - no Internet connection required!
+- [fosspay](https://github.com/ddevault/fosspay) - Donation collection for FOSS groups and individuals
+- [terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
+- [netlify-photo-gallery](https://github.com/netlify/netlify-photo-gallery) - 
+- [snapcast-websockets-ui](https://github.com/derglaus/snapcast-websockets-ui) - UI for snapcast using websockets
+- [bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
+- [spongedown](https://github.com/ivanceras/spongedown) - Markdown with svg bob support
+- [crazepony.github.io](https://github.com/Crazepony/crazepony.github.io) - The web site of Crazepony.
+- [personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
+- [hugo-academic](https://github.com/gcushen/hugo-academic) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
+- [tomcritchlow.github.io](https://github.com/tomcritchlow/tomcritchlow.github.io) - Me. Learning to use Github and learning to live life.
+- [flukus.github.io](https://github.com/flukus/flukus.github.io) - 
+- [natalian](https://github.com/kaihendry/natalian) - Kai Hendry's blog
+- [roweb2](https://github.com/ropensci/roweb2) - rOpenSci website
 - [collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh) - a Jekyll project to create a basic digital collection exhibit
-- [christian-fei.github.io](https://github.com/christian-fei/christian-fei.github.io) - 
+- [christian-fei.github.io-pandoc](https://github.com/christian-fei/christian-fei.github.io-pandoc) - 
 - [gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This free Docs add-on converts a Google Doc to simple Markdown or HTML.
 - [POImap](https://github.com/simon04/POImap) - Lightweight POI (point of interest) maps based on OpenStreetMap, Leaflet and Overpass API
-- [sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
-- [pwa_jekyll](https://github.com/dumaurier/pwa_jekyll) - Jekyll + PWA + IndieWeb. A starter for publishing your own content. Support for WebMentions, Service Workers and Netlify CMS is built in.  Please let me know if there's anything you'd like added.
-- [wifi-qr-poster](https://github.com/georgjaehnig/wifi-qr-poster) - Generate a poster with password & QR Code for your Wifi network. Edit
+- [wax](https://github.com/mnyrop/wax) - minimal exhibitions with jekyll 🐝 (see: minicomp/wax)
+- [pwa_jekyll](https://github.com/dumaurier/pwa_jekyll) - Jekyll + PWA + IndieWeb. A starter for publishing your own content. Support for WebMentions, Service Workers and Netlify CMS is built in.
+- [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
+- [wifi-qr-poster](https://github.com/georgjaehnig/wifi-qr-poster) - Generate a poster with password & QR Code for your Wifi network.
+- [tomu.im](https://github.com/im-tomu/tomu.im) - tomu.im website
 - [zotero-lookup-engines](https://github.com/egh/zotero-lookup-engines) - Public (and university) library lookup engines for Zotero
 - [tufte-markdown](https://github.com/duzyn/tufte-markdown) - Use markdown to write your handouts and books in Tufte style.
 - [webtypography](https://github.com/clagnut/webtypography) - The source code for WebTypography.net, a practical guide to web typography.
 - [pandiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc
 - [data-making-guidelines](https://github.com/datamade/data-making-guidelines) - :blue_book: Making Data, the DataMade Way
 - [itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
-- [FPV_VR_2018](https://github.com/Consti10/FPV_VR_2018) - Latest open-sourced version of FPV_VR
 - [PubSubHubbub](https://github.com/pubsubhubbub/PubSubHubbub) - The PubSubHubbub protocol specification.
 - [go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability.
-- [readability](https://github.com/luin/readability) - Turn any web page into a clean view
-- [McLighting](https://github.com/toblum/McLighting) - The ESP8266 based multi-client lighting gadget
+- [readability](https://github.com/luin/readability) - 📚Turn any web page into a clean view
+- [papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
 - [py-urbandict](https://github.com/novel/py-urbandict) - Python module and command line script client for http://urbandictionary.com
-- [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
 - [hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 150 lines of code in total, including HTML and CSS (with no dependencies)
 - [hugo-theme-tufte-css](https://github.com/alanorth/hugo-theme-tufte-css) - A simple Hugo theme based on the Tufte CSS style.
 - [tuftesque](https://github.com/nstrayer/tuftesque) - A very similar style to the original tufte hugo theme but with a few modifications. Used in my blogdown blog.
@@ -919,7 +1255,7 @@
 - [radiobrowser](https://github.com/segler-alex/radiobrowser) - website frontend with angular for radio-browser api
 - [breadability](https://github.com/bookieio/breadability) - Reworked https://www.readability.com/ parsing library (now https://mercury.postlight.com/ is living alternative)
 - [drive-podcast](https://github.com/kerrickstaley/drive-podcast) - Google Apps Script for creating a podcast from a set of files in Google Drive
-- [moderndive_book](https://github.com/moderndive/moderndive_book) - ModernDive:  An Introduction to Statistical and Data Sciences via R
+- [ModernDive_book](https://github.com/moderndive/ModernDive_book) - Statistical Inference via Data Science: A ModernDive into R and the tidyverse
 - [tmrh20.github.io](https://github.com/TMRh20/tmrh20.github.io) - Documentation for related code and projects
 - [learn-to-send-email-via-google-script-html-no-server](https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server) - :email: An Example of using an HTML form (e.g: "Contact Us" on a website) to send Email without a Backend Server (using a Google Script) perfect for static websites that need to collect data.
 - [vim_waz_ere](https://github.com/dahu/vim_waz_ere) - Vimmified version of the venerable Walter A. Zintz Vi/Ex Tutorial Series
@@ -930,26 +1266,25 @@
 - [dhbox](https://github.com/DH-Box/dhbox) - A push-button Digital Humanities laboratory.
 - [bassclef](https://github.com/tomduck/bassclef) - A static Web site generator built from stable and mature command-line tools.
 - [tutorial-makefiles](https://github.com/unix-tools/tutorial-makefiles) - Tutorial on using GNU Make to automate workflows
-- [CommonMark-site](https://github.com/commonmark/CommonMark-site) - CommonMark spec web pages
-- [homie-esp8266](https://github.com/marvinroger/homie-esp8266) - 💡 ESP8266 framework for Homie, a lightweight MQTT convention for the IoT
+- [commonmark-spec-web](https://github.com/commonmark/commonmark-spec-web) - CommonMark spec web pages
+- [homie-esp8266](https://github.com/homieiot/homie-esp8266) - 💡 ESP8266 framework for Homie, a lightweight MQTT convention for the IoT
 - [rmd-notebook](https://github.com/lmullen/rmd-notebook) - The (very nearly) simplest possible web notebook using R Markdown
 - [selva86.github.io_source](https://github.com/selva86/selva86.github.io_source) - Jekyll source for selva86.github.io
 - [selva86.github.io](https://github.com/selva86/selva86.github.io) - Advanced R Statistics
-- [ubos-docs](https://github.com/uboslinux/ubos-docs) - UBOS website and documentation
 - [ITAUR-Short](https://github.com/kbenoit/ITAUR-Short) - A Brief Introduction to Text Analysis Using R
 - [godiff](https://github.com/spcau/godiff) - Utility to compare files/directories with output in html. (like unix diff command)
 - [Markdowns](https://github.com/jpneto/Markdowns) - RStudio Markdowns about R, Math, Stats, and ML
 - [wpull](https://github.com/ArchiveTeam/wpull) - Wget-compatible web downloader and crawler.
 - [ITAUR](https://github.com/kbenoit/ITAUR) - Introduction to Text Analysis Using R
-- [rsyntax](https://github.com/vanatteveldt/rsyntax) - R library to help dealing with syntactic structure
+- [pacman](https://github.com/trinker/pacman) - A package management tools for R
 - [transcribeR](https://github.com/cran/transcribeR) - :exclamation: This is a read-only mirror of the CRAN R package repository.  transcribeR — Automated Transcription of Audio Files Through the HP IDOL API
 - [dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [collatex](https://github.com/interedition/collatex) - CollateX – Software for Collating Textual Sources
 - [Examples](https://github.com/HertieDataScience/Examples) - Simple code examples for MPP-E1180
 - [SyllabusAndLectures](https://github.com/HertieDataScience/SyllabusAndLectures) - Hertie School of Governance Introduction to Collaborative Social Science Data Analysis
+- [tigerstats](https://github.com/homerhanumat/tigerstats) - An R package for the teaching of statistics
 - [LittleBooks](https://github.com/ProjectMOSAIC/LittleBooks) - Materials for the MOSAIC "Teaching Statistics with R and RStudio"
 - [d3heatmap](https://github.com/rstudio/d3heatmap) - A D3.js-based heatmap htmlwidget for R
-- [V8](https://github.com/jeroen/V8) - Embedded JavaScript Engine for R
 - [lesson-example](https://github.com/carpentries/lesson-example) - Example lesson using The Carpentries lesson template.
 - [dceg-r-course](https://github.com/sachsmc/dceg-r-course) - Introduction to R for Epidemiologists
 - [YouTubeCenter](https://github.com/YePpHa/YouTubeCenter) - YouTube Center is a userscript designed to expand the functionality of YouTube. It includes the ability to download the video you're watching, auto selecting your preferred video quality and much more.
@@ -968,14 +1303,14 @@
 - [amcat](https://github.com/amcat/amcat) - Amsterdam Content Analysis Toolkit
 - [tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [sta101_sp15](https://github.com/mine-cetinkaya-rundel/sta101_sp15) - Course materials for Sta 101 - Spring 2015 semester at Duke University
-- [STAT545-UBC.github.io](https://github.com/STAT545-UBC/STAT545-UBC.github.io) - Main repository for STAT 545 @ University of British Columbia, a course in data wrangling, exploration, and analysis with R.
+- [STAT545-UBC-original-website](https://github.com/STAT545-UBC/STAT545-UBC-original-website) - ⚠️ Old repository for website of STAT 545 @ University of British Columbia
 - [cowsay](https://github.com/sckott/cowsay) - cowsay w/ more animals, in R
 - [reproducibility-guide](https://github.com/ropensci/reproducibility-guide) - project page for creating a guide to reproducible research
 - [PortableJekyll](https://github.com/madhur/PortableJekyll) - Portable Jekyll for Windows
 - [TeachingMaterial](https://github.com/lgatto/TeachingMaterial) - Various teaching material
 - [knitr_knutshell](https://github.com/kbroman/knitr_knutshell) - knitr in a nutshell: a brief guide to knitr
 - [novels-corpus](https://github.com/novels-project/novels-corpus) - Gathering digitizations of novels published between 1770 and 1915.
-- [r-novice-inflammation](https://github.com/swcarpentry/r-novice-inflammation) - Software Carpentry introduction to R for novices using inflammation data.
+- [r-novice-inflammation](https://github.com/swcarpentry/r-novice-inflammation) - Repo creates a website for the Software Carpentry introduction to R for novices using inflammation data:
 - [toolbox](https://github.com/cligs/toolbox) - Collection of small tools for text processing.
 - [civil-procedure-codes](https://github.com/lmullen/civil-procedure-codes) - Analysis repository for "The Spine of American Law: Digital Text Analysis and U.S. Legal Practice"
 - [python-goose](https://github.com/grangier/python-goose) - Html Content / Article Extractor, web scrapping lib in Python
@@ -987,7 +1322,6 @@
 - [pysupersensetagger](https://github.com/nschneid/pysupersensetagger) - AMALGrAM, an English supersense tagger written in Python
 - [node-unfluff](https://github.com/ageitgey/node-unfluff) - Automatically extract body content (and other cool stuff) from an html document
 - [ur-magnum-opus-pandoc](https://github.com/maybegeek/ur-magnum-opus-pandoc) - Vorlage für schriftliche Arbeiten mit pandoc samt angepasster Stilvorgaben für den geisteswissenschaftlichen Kontext.
-- [minusnine.github.com](https://github.com/minusnine/minusnine.github.com) - jekyll-based weblog.
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [pirate-get](https://github.com/vikstrous/pirate-get) - A command line interface for The Pirate Bay
 - [python-readability](https://github.com/buriy/python-readability) - fast python port of arc90's readability tool, updated to match latest readability.js!
@@ -1013,7 +1347,6 @@
 - [labnotebook](https://github.com/cboettig/labnotebook) - :notebook: Source code and version history for my online lab notebook
 - [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [BookJS](https://github.com/booktype/BookJS) - BookJS is a Javascript library that can be included in HTML files to render the contents of the HTML to pages that can be printed to PDF using CSS Regions. It requires a browser with support for CSS Regions, an experimental feature.
-- [article.css](https://github.com/ewancarr/article.css) - Replacing LaTeX with HTML + CSS
 - [website](https://github.com/wcaleb/website) - These are the plain text files used to produce my personal website with pandoc and a bash shell script called pansite.
 - [media-overlays-js](https://github.com/marisademeglio/media-overlays-js) - EPUB Media Overlays javascript implementation
 - [storage.js](https://github.com/ekdevdes/storage.js) - Storage.js, Simple HTML5 Page Edits. A jQuery plugin around the localStorage api. Formerly known as Storagify.
@@ -1021,23 +1354,34 @@
 - [Wookmark-jQuery](https://github.com/germanysbestkeptsecret/Wookmark-jQuery) - A jQuery plugin to create a dynamic, multi-column layout.
 - [remix](https://github.com/echonest/remix) - Echo Nest Remix: The Internet Synthesizer
 - [snacktory](https://github.com/karussell/snacktory) - Readability clone in Java
-- [chosen](https://github.com/harvesthq/chosen) - Chosen is a library for making long, unwieldy select boxes more friendly.
+- [chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 - [dzslides](https://github.com/paulrouget/dzslides) - DZSlides is a one-file HTML template to build slides in HTML5 and CSS3.
-- [usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people what they use to get stuff done.
+- [usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done.
 - [vim-voom.github.com](https://github.com/vim-voom/vim-voom.github.com) - Website about VOoM, an outliner plugin for text editor Vim.
 - [isotope](https://github.com/metafizzy/isotope) - :revolving_hearts: Filter & sort magical layouts
-- [guard-livereload](https://github.com/guard/guard-livereload) - Guard::LiveReload automatically reload your browser when 'view' files are modified.
+- [lorax](https://github.com/flavorjones/lorax) - XML/HTML diff generator, based on Nokogiri.
 - [rmmseg-cpp](https://github.com/pluskid/rmmseg-cpp) - an re-implementation of rmmseg (Chinese word segmentation library for Ruby) in C++
 
 ## Haskell 
 
+- [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
+- [doctemplates](https://github.com/jgm/doctemplates) - Pandoc-compatible templating system
+- [pboy](https://github.com/2mol/pboy) - a small .pdf management tool with a command-line UI
+- [pandoc-theorem](https://github.com/sliminality/pandoc-theorem) - Write LaTeX theorems in Pandoc Markdown
+- [pandoc-csv2table](https://github.com/baig/pandoc-csv2table) - A Pandoc filter that renders CSV as Pandoc Markdown Tables.
+- [pandoc-narrative-charts](https://github.com/LarsEKrueger/pandoc-narrative-charts) - Pandoc filter to create narrative charts
+- [pandoc-snowflake](https://github.com/LarsEKrueger/pandoc-snowflake) - pandoc filter to generate an HTML app for the Snowflake writing method
+- [buchhaltung](https://github.com/johannesgerer/buchhaltung) - Smart tools for the ledger universe
+- [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
+- [pandoc-anki](https://github.com/vzaccaria/pandoc-anki) - 
+- [espial](https://github.com/jonschoning/espial) - Espial is an open-source, web-based bookmarking server.
 - [pp](https://github.com/CDSoft/pp) - PP - Generic preprocessor (with pandoc in mind) - macros, literate programming, diagrams, scripts...
 - [greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
 - [pandoc-mm](https://github.com/vzaccaria/pandoc-mm) - Generate a mindmap from an org-mode file. Complete with annotations.
 - [pandoc-sidenote](https://github.com/jez/pandoc-sidenote) - Convert Pandoc Markdown-style footnotes into sidenotes
 - [hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
 - [vimus](https://github.com/vimus/vimus) - An MPD client with vim-like key bindings, written in Haskell
-- [rss_filters](https://github.com/lucas8/rss_filters) - RSS filters for newbeuter.
+- [rss_filters](https://github.com/dwarfmaster/rss_filters) - RSS filters for newbeuter.
 - [R-pandoc](https://github.com/cdupont/R-pandoc) - 
 - [pandoc-japanese-filters](https://github.com/konn/pandoc-japanese-filters) - Pandoc filters to treat Japanese-specific markups
 - [markup.rocks](https://github.com/osener/markup.rocks) - Pandoc based document editor and converter in your browser.
@@ -1072,17 +1416,27 @@
 
 ## Java 
 
+- [Ships](https://github.com/videgro/Ships) - VIDEGROs Ships is an Android application which allows you to receive AIS information directly from ships in your neighbourhood using a cheap DVB-T-DAB-FM / RTL-SDR receiver.
+- [oshdb](https://github.com/GIScience/oshdb) - OpenStreetMap History Data Analysis Framework
+- [core-geonetwork](https://github.com/geonetwork/core-geonetwork) - GeoNetwork repository
+- [opendb](https://github.com/OpenPlaceReviews/opendb) - This is a service that provides database communication
+- [mapsplit](https://github.com/simonpoole/mapsplit) - A fast way to split OSM data in to a portable tiled format
+- [andOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android
+- [google-authenticator](https://github.com/google/google-authenticator) - Open source version of Google Authenticator (except the Android app)
+- [wallabag-android-app](https://github.com/Strubbl/wallabag-android-app) - Android application to add post to wallabag
+- [deltachat-android](https://github.com/deltachat/deltachat-android) - Email-based instant messaging for Android.
+- [browser](https://github.com/scoute-dich/browser) - A simple Android webbrowser based on webview.
+- [RdsSurveyor](https://github.com/ChristopheJacquet/RdsSurveyor) - Multi-platform Radio Data System decoder
 - [ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
-- [markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android). Supporting Markdown and todo.txt
+- [markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [osmdroid](https://github.com/osmdroid/osmdroid) - OpenStreetMap-Tools for Android
-- [StreetComplete](https://github.com/westnordost/StreetComplete) - OSM Surveyor app for Android
 - [jobson](https://github.com/adamkewley/jobson) - A platform for transforming command-line applications into a job service.
 - [YalpStore](https://github.com/yeriomin/YalpStore) - Download apks from Google Play Store
-- [TVHClient](https://github.com/rsiebert/TVHClient) - An Android client for TVHeadend using the HTSP protocol
 - [anyremote-j2me-client](https://github.com/anyremote/anyremote-j2me-client) - anyremote J2ME client
 - [sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:
 - [lucida](https://github.com/claritylab/lucida) - Speech and Vision Based Intelligent Personal Assistant
 - [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
+- [linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
 - [tabula-java](https://github.com/tabulapdf/tabula-java) - Extract tables from PDF files
 - [osmtracker-android](https://github.com/labexp/osmtracker-android) - GPS tracking tool for OpenStreetMap
 - [gpslogger](https://github.com/mendhak/gpslogger) - :satellite: Lightweight GPS Logging Application For Android. Available on the Android Market as "GPSLogger for Android"
@@ -1093,7 +1447,6 @@
 - [Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [ponypipe](https://github.com/maandree/ponypipe) - Ponify and deponify text
 - [util-say](https://github.com/maandree/util-say) - Tools for creating ponies for cowsay and cowsay-like programs
-- [HanLP](https://github.com/hankcs/HanLP) - 自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现  关键词短语提取 自动摘要 文本分类聚类 拼音简繁
 - [fnlp](https://github.com/FudanNLP/fnlp) - 中文自然语言处理工具包 Toolkit for Chinese natural language processing
 - [first-stories-twitter](https://github.com/mvogiatzis/first-stories-twitter) - How to spot first stories on Twitter using Storm.
 - [CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
@@ -1117,13 +1470,108 @@
 
 ## JavaScript 
 
+- [scrapyard](https://github.com/GChristensen/scrapyard) - Bookmark heavy lifting
+- [getnews.tech](https://github.com/omgimanerd/getnews.tech) - A web server that fetches data from the News API and formats it for display in the terminal.
+- [22120](https://github.com/dosyago/22120) - :classical_building: 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases
+- [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
+- [foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
+- [ciclomapa](https://github.com/cmdalbem/ciclomapa) - Web app for viewing bike maps in brazilian cities, powered by OpenStreetMaps.
+- [embetty](https://github.com/heiseonline/embetty) - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
+- [RoadApplePi](https://github.com/JVital2013/RoadApplePi) - An elegent "Black Box" solution that can be retrofitted into any car with an OBD(II) port for minimal cost.
+- [inventaire](https://github.com/inventaire/inventaire) - a libre collaborative resource mapper powered by open-knowledge, starting with books! :books:
+- [webext-private-bookmarks](https://github.com/rharel/webext-private-bookmarks) - WebExtension that enables a special password-protected bookmark folder.
+- [yahoo-groups-backup](https://github.com/csaftoiu/yahoo-groups-backup) - A python script to backup the contents of private Yahoo! groups.
+- [iptv](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world
+- [twofactor_totp](https://github.com/nextcloud/twofactor_totp) - 🔑 Second factor TOTP (RFC 6238) provider for Nextcloud
+- [export-tabs-urls](https://github.com/alct/export-tabs-urls) - https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
+- [floccus](https://github.com/marcelklehr/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or a local file (and thus any file sync solution)
+- [dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
+- [template](https://github.com/distillpub/template) - This is the repository for the distill web framework
+- [html-article-extractor](https://github.com/jungyoun/html-article-extractor) - A web page content extractor
+- [ocad2geojson](https://github.com/perliedman/ocad2geojson) - JavaScript OCAD file reader and exporter for GeoJSON, SVG and Mapbox Style Spec
+- [togeojson](https://github.com/mapbox/togeojson) - convert KML and GPX to GeoJSON, without the fuss
+- [node-hgt](https://github.com/perliedman/node-hgt) - Query hgt files (typically SRTM elevation data) with performance
+- [geojson-path-finder](https://github.com/perliedman/geojson-path-finder) - Find shortest path through a network of GeoJSON
+- [Photo-Sphere-Viewer](https://github.com/JeremyHeleine/Photo-Sphere-Viewer) - A JavaScript library to display Photo Sphere panoramas.
+- [pannellum](https://github.com/mpetroff/pannellum) - Pannellum is a lightweight, free, and open source panorama viewer for the web.
+- [gear360pano](https://github.com/ultramango/gear360pano) - Simple script to create equirectangular panorama by stitching images from Samsung Gear 360
+- [embetty-server](https://github.com/heiseonline/embetty-server) - 🐙 Proxy and provider of data for heiseonline/embetty
+- [md2pdf](https://github.com/realdennis/md2pdf) - Offline markdown to pdf, choose -&gt; edit -&gt; transform 🥂
+- [cli](https://github.com/netlify/cli) - Netlify Command Line Interface
+- [shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
+- [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - SingleFileZ is a Web Extension for saving web pages as self-extracting HTML/ZIP hybrid files.
+- [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete web page as a single HTML file
+- [pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome and Firefox
+- [ODrive](https://github.com/liberodark/ODrive) - Google Drive GUI for Windows / Mac / Linux
+- [shariff](https://github.com/heiseonline/shariff) - 👮 Shariff enables website users to share their favorite content without compromising their privacy.
+- [wcite](https://github.com/wikicite/wcite) - Pandoc filter to use Wikidata as reference manager
+- [uniread](https://github.com/nemanjan00/uniread) - Uniread is Spritz like CLI fast reading software.
+- [wo-ist-markt.github.io](https://github.com/wo-ist-markt/wo-ist-markt.github.io) - A map visualization of periodic markets in different cities.
+- [openbrewmap](https://github.com/giggls/openbrewmap) - https://brewmap.openstreetmap.de
+- [FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
+- [RPi-Monitor](https://github.com/XavierBerger/RPi-Monitor) - Real time monitoring for embedded devices
+- [webext](https://github.com/comntr/webext) - An extension for Firefox and Chrome to add comments to any URL
+- [balena-cam](https://github.com/balenalabs/balena-cam) - Network Camera with Raspberry Pi and WebRTC. Tutorial:
+- [leaflet-providers](https://github.com/leaflet-extras/leaflet-providers) - An extension to Leaflet that contains configurations for various free tile providers.
+- [leaflet-plugins](https://github.com/shramov/leaflet-plugins) - Plugins for Leaflet library
+- [leaflet-gpx](https://github.com/mpetazzoni/leaflet-gpx) - A GPX track plugin for Leaflet.js
+- [leaflet-elevation](https://github.com/Raruto/leaflet-elevation) - Leaflet plugin that allows to add elevation profiles using d3js
+- [Leaflet.Control.Layers.Tree](https://github.com/jjimenezshaw/Leaflet.Control.Layers.Tree) - a Tree Layers Control for Leaflet
+- [leaflet.wms](https://github.com/heigeo/leaflet.wms) - A Leaflet plugin for working with Web Map services, providing: single-tile/untiled/nontiled layers, shared WMS sources, and GetFeatureInfo-powered identify.
+- [geojson-elevation](https://github.com/perliedman/geojson-elevation) - Add juicy elevation data to your fresh GeoJSON
+- [query-overpass](https://github.com/perliedman/query-overpass) - Make queries to OpenStreetMap's overpass API and output as GeoJSON
+- [pocket-newsletter-lambda](https://github.com/HugoDF/pocket-newsletter-lambda) - Example Lambda to fetch all "newsletter" posts from Pocket.
+- [zotkat](https://github.com/UB-Mannheim/zotkat) - Erweiterung von Zotero für die Katalogisierung
+- [zotero-scihub](https://github.com/ethanwillis/zotero-scihub) - A plugin that will automatically download PDFs of zotero items from sci-hub
+- [shiori](https://github.com/isavcic/shiori) - Simple bookmark manager built with Go
+- [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - Interactively select the quality and format for youtube-dl
+- [sat-api](https://github.com/sat-utils/sat-api) - One API to search public satellites metadata on AWS
+- [observe](https://github.com/developmentseed/observe) - Cross-platform, offline, field mapping tool for OpenStreetMap
+- [NanoCore2](https://github.com/NanoAdblocker/NanoCore2) - Restarting fresh
+- [webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
+- [1mb-cli](https://github.com/1MB/1mb-cli) - Quickly and easily deploy content to your 1mbsite hosted site
+- [mocktuyacloud](https://github.com/kueblc/mocktuyacloud) - Framework to emulate Tuya cloud services
+- [fluent](https://github.com/projectfluent/fluent) - Fluent — planning, spec and documentation
+- [gmpd](https://github.com/blkqi/gmpd) - Google Play Music to Music Player Daemon bridge and web user interface
+- [hanzi-writer](https://github.com/chanind/hanzi-writer) - Chinese character stroke order animations and practice quizzes
+- [fxa-content-server](https://github.com/mozilla/fxa-content-server) - DEPRECATED - Migrated to https://github.com/mozilla/fxa
+- [fxa-auth-server](https://github.com/mozilla/fxa-auth-server) - DEPRECATED - Migrated to https://github.com/mozilla/fxa
+- [makemeahanzi](https://github.com/skishore/makemeahanzi) - Free, open-source Chinese character data
+- [rrpl](https://github.com/LingDong-/rrpl) - Describing Chinese Characters with Recursive Radical Packing Language (RRPL)
+- [svgo](https://github.com/svg/svgo) - :tiger: Node.js tool for optimizing SVG files
+- [gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues.
+- [browser-fingerprint-protector](https://github.com/maximbaz/browser-fingerprint-protector) - Prevents browser fingerprinting by spoofing your plugins, languages and user agent
+- [osm-export-tool](https://github.com/hotosm/osm-export-tool) - Web service to download customised OSM data in various file formats
+- [osm-analytics](https://github.com/hotosm/osm-analytics) - OSM Analytics lets you interactively analyze how specific OpenStreetMap features are mapped in a specific region.
+- [react-snapshot](https://github.com/geelen/react-snapshot) - A zero-configuration static pre-renderer for React apps
+- [react-snap](https://github.com/stereobooster/react-snap) - 👻 Zero-configuration framework-agnostic static prerendering for SPAs
+- [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) - MarkdownLint Command Line Interface
+- [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
+- [redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
+- [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
+- [git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
+- [browserpass-legacy](https://github.com/browserpass/browserpass-legacy) - Legacy Browserpass repo, development is now happening at:
+- [lazyload](https://github.com/verlok/lazyload) - LazyLoad is a fast, lightweight and flexible script that speeds up your web application by loading your content images, videos and iframes only as they enter the viewport. It's written in plain "vanilla" JavaScript, it leverages the IntersectionObserver API, it works with responsive images and it supports native lazy loading.
+- [deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Email-based secure instant messaging for Desktop.
+- [direktvermarkter](https://github.com/CodeforKarlsruhe/direktvermarkter) - Karte von Hofläden, Milchautomaten und anderen Direktvermarktern
+- [turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
+- [ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
+- [ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js) - An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting
+- [Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
+- [circleci-docs](https://github.com/circleci/circleci-docs) - Documentation for CircleCI.
+- [Leaflet.Spain.WMS](https://github.com/sigdeletras/Leaflet.Spain.WMS) - Provides easy setup for several Web Map Services (WMS) layers for Spain (PNOA, IGN base, Catastro, etc), from Spanish mapping agencies.
+- [OpenSfM](https://github.com/mapillary/OpenSfM) - Open source Structure from Motion pipeline
+- [firedict](https://github.com/tuxor1337/firedict) - Read-only mirror of https://framagit.org/tuxor1337/firedict. Pull requests and issues on GitHub cannot be accepted and will be automatically closed.
+- [osm-editor-layer-index-qgis](https://github.com/andrewharvey/osm-editor-layer-index-qgis) - Convert OSM Editor Layer Index to QGIS XYZ Tiles Connections
+- [P4wnP1_aloa](https://github.com/mame82/P4wnP1_aloa) - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appliance".
 - [bexhill-osm](https://github.com/Dr-Mx/bexhill-osm) - A local mapping project using data from OpenStreetMap. Includes overlays, walking directions and historical information.
+- [KoboStuff](https://github.com/geek1011/KoboStuff) - Random stuff I know about the Kobo eReaders
 - [contain-google](https://github.com/containers-everywhere/contain-google) - Google Container isolates your Google activity from the rest of your web activity in order to prevent Google from tracking you outside of the Google website via third party cookies.
 - [togpx](https://github.com/tyrasd/togpx) - convert geojson to gpx
 - [osmtogeojson](https://github.com/tyrasd/osmtogeojson) - convert osm to geojson
 - [overpass-turbo](https://github.com/tyrasd/overpass-turbo) - A web based data mining tool for OpenStreetMap using Overpass API.
 - [editor-layer-index](https://github.com/osmlab/editor-layer-index) - A unified layer index for OSM editors.
-- [pifi-radio](https://github.com/rccavalcanti/pifi-radio) - PiFi Radio: A MPD web client to listen to radio
+- [pifi-radio](https://github.com/rccavalcanti/pifi-radio) - MPD web client to listen to radio, written in React and Sinatra.
 - [openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [mirador](https://github.com/ProjectMirador/mirador) - An open-source, web-based 'multi-up' viewer that supports zoom-pan-rotate functionality, ability to display/compare simple images, and images with annotations.
 - [openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
@@ -1133,20 +1581,20 @@
 - [github](https://github.com/github-tools/github) - A higher-level wrapper around the Github API. Intended for the browser.
 - [gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
 - [mdme](https://github.com/susam/mdme) - Self-rendering Markdown content
-- [texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX content
+- [texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
 - [blog2md](https://github.com/palaniraja/blog2md) - Convert Blogger & Wordpress backup blog posts to hugo compatible markdown documents
 - [npm-wpxml2md](https://github.com/akabekobeko/npm-wpxml2md) - Convert the WordPress XML file to Markdown files.
-- [tutanota](https://github.com/tutao/tutanota) - Tutanota is the end-to-end encrypted mail client that enables you to communicate securely with anyone.
+- [tutanota](https://github.com/tutao/tutanota) - Tutanota is an email client with a strong focus on security and privacy that lets you encrypt emails on all your devices.
 - [ethercalc](https://github.com/audreyt/ethercalc) - Node.js port of Multi-user SocialCalc
 - [leaflet-realtime](https://github.com/perliedman/leaflet-realtime) - Put realtime data on a Leaflet map
 - [topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
 - [mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
-- [parcel-viewer](https://github.com/ovrdc/parcel-viewer) - Open Parcel Viewer - A mobile ready web app for displaying 50k parcels or polygons without needing a GIS server.
+- [parcel-viewer](https://github.com/reyemtm/parcel-viewer) - Open Parcel Viewer - A mobile ready web app for displaying 50k parcels or polygons without needing a GIS server.
 - [Leaflet-IIIF](https://github.com/mejackreed/Leaflet-IIIF) - Leaflet plugin for viewing IIIF images
 - [mocs](https://github.com/akhenakh/mocs) - My Own Car System, a Go & Qt application for your car
 - [drawbot](https://github.com/andywise/drawbot) - Drawing robot capable of rendering SVG paths over WebSockets. Powered by a Raspberry Pi running Node.js.
 - [eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
-- [preact](https://github.com/developit/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+- [preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - [md-page](https://github.com/oscarmorrison/md-page) - 📝 create a webpage with just markdown
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
@@ -1154,18 +1602,17 @@
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [palladio](https://github.com/humanitiesplusdesign/palladio) - An application that brings humanities research methods to data visualization.
 - [evt-viewer](https://github.com/evt-project/evt-viewer) - Edition Visualization Technology 2 - development
-- [flood](https://github.com/jfurrow/flood) - A web UI for rTorrent with a Node.js backend and React frontend.
+- [flood](https://github.com/Flood-UI/flood) - A web UI for rTorrent with a Node.js backend and React frontend.
 - [webpages-to-ebook](https://github.com/georgjaehnig/webpages-to-ebook) - Create an EPUB from a list of URLs. Standing on the shoulders of Wget, Readability and Pandoc.
 - [passff](https://github.com/passff/passff) - zx2c4 pass manager extension for Firefox, Chrome and Opera
 - [markdown-toc](https://github.com/jonschlinkert/markdown-toc) - Generate a markdown TOC (table of contents) for a README or any markdown files, using remarkable. Used by assemble, verb, and lots of other projects on GitHub. API and CLI.
 - [Vynchronize](https://github.com/kyle8998/Vynchronize) - Watch videos with friends online with the new real time video synchronization platform
-- [audio-only-youtube](https://github.com/Ashish-Bansal/audio-only-youtube) - Listen to only audio on youtube.
 - [simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 - [cliget](https://github.com/zaidka/cliget) - A Firefox addon to download login-protected files from the command line
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [paperstream](https://github.com/JulioV/paperstream) - 
 - [spfjs](https://github.com/youtube/spfjs) - A lightweight JS framework for fast navigation and page updates from YouTube
-- [shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go
+- [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [readability-wrapper](https://github.com/brynedwards/readability-wrapper) - Command-line wrapper for Mozilla Readability.js
 - [chrome-utm-stripper](https://github.com/jparise/chrome-utm-stripper) - Browser extension that strips Google Analytics (UTM) tokens from URL query strings
 - [contours](https://github.com/axismaps/contours) - Draws contour maps from terrain tiles, using d3-contour
@@ -1180,14 +1627,14 @@
 - [readability-scrape](https://github.com/aarmea/readability-scrape) - Retrieve simplified versions of webpages, powered by Mozilla's Readability.js
 - [readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [openbazaar-desktop](https://github.com/OpenBazaar/openbazaar-desktop) - OpenBazaar 2.0 Desktop Client (talks to openbazaar-go server daemon)
+- [qgis2web](https://github.com/tomchadwin/qgis2web) - A QGIS plugin to export a map to an OpenLayers/Leaflet webmap
 - [pistreaming](https://github.com/waveform80/pistreaming) - A little demo of streaming the Pi's camera to web browsers
 - [decentraleyes](https://github.com/Synzvato/decentraleyes) - This repository has a new home: https://git.synz.io/Synzvato/decentraleyes
 - [zotero-scholar-citations](https://github.com/beloglazov/zotero-scholar-citations) - Zotero plugin for auto-fetching numbers of citations from Google Scholar
 - [webext-copy-title-url](https://github.com/marekjedlinski/webext-copy-title-url) - Firefox/Chrome extension: Copy page title (or selection) and url to clipboard via context menu
 - [multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
-- [temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
 - [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
-- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
+- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome
 - [bookmarkleter](https://github.com/chriszarate/bookmarkleter) - You have JavaScript. You need a bookmarklet. This does that.
 - [bookmarklets-context-menu](https://github.com/mems/bookmarklets-context-menu) - WebExtension allow to execute bookmarklets as privileged scripts
@@ -1195,44 +1642,36 @@
 - [imagelabeler](https://github.com/splitbrain/imagelabeler) - Add labels to an image
 - [netlify-cms](https://github.com/netlify/netlify-cms) - A CMS for Static Site Generators
 - [raspchat](https://github.com/maxpert/raspchat) - A chat server that can run on Raspberry Pi
-- [datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data
-- [vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerate your browsing with Vim power!!
-- [send](https://github.com/mozilla/send) - File Sharing Experiment
+- [send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 - [saka-key](https://github.com/lusakasa/saka-key) - A keyboard interface to the web
-- [earthenterprise](https://github.com/google/earthenterprise) - Google Earth Enterprise - Open Source
 - [OpenStreetBrowser](https://github.com/plepe/OpenStreetBrowser) - An application to ‘browse’ the information in the displayed part of the map. Similar to common Wikis and also the main page of http://www.openstreetmap.org the website shows a narrow menu on the left side, most of the page is used for the display of the map. In contrast to most Wikis the menu is not static, but rather the content of the map can be browsed in categories. For the map a special style has been developed (sorry guys, I neither like the default Mapnik nor Osmarender styles), and special overlays are displayed to support the current browsed categories. When you click on an object (either from the list or directly on the map) informations on this object are displayed.
 - [leaflet-side-by-side](https://github.com/digidem/leaflet-side-by-side) - A Leaflet control to add a split screen to compare two map overlays
-- [mapeo-desktop](https://github.com/digidem/mapeo-desktop) - Offline participatory map editor for indigenous territory mapping and environmental monitoring in remote environments
+- [mapeo-desktop](https://github.com/digidem/mapeo-desktop) - Local-first mapping and monitoring in remote environments
 - [mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac and Linux, connect with PuTTY on Windows
 - [staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
-- [UAVcast](https://github.com/UAVmatrix/UAVcast) - Drone casting software
-- [linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
 - [hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [doctoc](https://github.com/thlorenz/doctoc) - 📜 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
-- [gitbook-plugin-build](https://github.com/urosjarc/gitbook-plugin-build) - Extends gitbook build system with pandoc converter.
 - [issarice.com](https://github.com/riceissa/issarice.com) - My website
 - [staticman](https://github.com/eduardoboucas/staticman) - 💪  Static sites with superpowers
-- [notebookjs](https://github.com/jsvine/notebookjs) - Render IPython/Jupyter notebooks on the fly, in the browser. (Or on the command line, if you'd like.)
+- [notebookjs](https://github.com/jsvine/notebookjs) - Render Jupyter/IPython notebooks on the fly, in the browser. (Or on the command line, if you'd like.)
 - [citation](https://github.com/unitedstates/citation) - Legal citation extractor, via command line, JavaScript, or HTTP. See a live example at:
 - [jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 - [nseg](https://github.com/mountain/nseg) - Node.js Version of MMSG for Chinese Word Segmentation
 - [afgwardiary](https://github.com/benoitc/afgwardiary) - couchapp to render afgwardiary data from wikileaks
 - [couchdb-showcase](https://github.com/karmi/couchdb-showcase) - A small application to demonstrate basic CouchDB features
-- [rss-aggregator](https://github.com/indieedtech/rss-aggregator) - This is a project for a simple, client side RSS aggregator
 - [minstrel](https://github.com/readbeyond/minstrel) - Minstrel is a FLOSS hybrid reading app specifically designed for Audio-eBooks
 - [geojsonio-cli](https://github.com/mapbox/geojsonio-cli) - a cli for geojson.io
 - [umap](https://github.com/umap-project/umap) - uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site.
 - [torrentflix](https://github.com/ItzBlitz98/torrentflix) - Nodejs cli app to search torrent sites and stream using peerflix
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [WebODM](https://github.com/OpenDroneMap/WebODM) - 📷 ✈ A free, user-friendly, extendable application and API for drone image processing.
-- [rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation
+- [WebODM](https://github.com/OpenDroneMap/WebODM) - 📷 ✈ User-friendly, extendable application and API for processing aerial imagery.
 - [poisontap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js.
 - [RaspberryPi-Gateway](https://github.com/LowPowerLab/RaspberryPi-Gateway) - RaspberryPi socket webserver for home automation
-- [openwebrx](https://github.com/simonyiszk/openwebrx) - Open source, multi-user SDR receiver software with a web interface
+- [openwebrx](https://github.com/ha7ilm/openwebrx) - Open source, multi-user SDR receiver software with a web interface
 - [earth](https://github.com/cambecc/earth) - a project to visualize global weather conditions
 - [OpenSourceBikeShare](https://github.com/cyklokoalicia/OpenSourceBikeShare) - The world's first low-cost and open source bike sharing system. (new version in development, use working "breakthrough" release instead!)
-- [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
-- [twitter2rss](https://github.com/Digital-Contraptions-Imaginarium/twitter2rss) - A daemon to transform Twitter lists and searches in Atom feeds to be consumed by conventional news readers.
+- [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [twitter2rss](https://github.com/giacecco/twitter2rss) - A daemon to transform Twitter lists and searches in Atom feeds to be consumed by conventional news readers.
 - [wiki-hub](https://github.com/wiki-hub/wiki-hub) - A small library that allows GitHub to be used as a wiki
 - [tocmd-generator](https://github.com/dafi/tocmd-generator) - Table of Contents Generator for Markdown pages
 - [pankat](https://github.com/nixcloud/pankat) - A static blog/wiki pandoc based page generator written in GO featuring bootstrap, tocify.js, anchor.js and more.
@@ -1240,18 +1679,18 @@
 - [Free-Chinese-Fonts](https://github.com/zenozeng/Free-Chinese-Fonts) - 免费中文字体
 - [browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [Wemos-D1-Mini-BME280-Weather-Station](https://github.com/TheAustrian/Wemos-D1-Mini-BME280-Weather-Station) - Simple Weather Station Code using an ESP8266 and a BME280 sensor. Data is handled via PHP and stored in a MySQL database
-- [tangram](https://github.com/tangrams/tangram) - Real-Time WebGL Maps
+- [tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography
 - [js-yaml-front-matter](https://github.com/dworthen/js-yaml-front-matter) - Parses yaml or json from the beginning of a string or file
 - [markdown-js](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript
 - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [homie-server](https://github.com/marvinroger/homie-server) - Web server for managing Homie devices, a lightweight MQTT convention for the IoT
-- [node-red](https://github.com/node-red/node-red) - A visual tool for wiring the Internet of Things
+- [node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [phog](https://github.com/hillman/phog) - Static photo gallery generator with S3 uploader
 - [marginotes](https://github.com/fdansv/marginotes) - Quick, cool margin notes with jQuery
 - [user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [pi_gpio_web](https://github.com/stuart-thackray/pi_gpio_web) - Raspberry Pi GPIO Web Interface
 - [offline-arch-wiki](https://github.com/greg-js/offline-arch-wiki) - Tool for scraping the arch wiki and keeping a local version updated
-- [arch-wiki-md-repo](https://github.com/greg-js/arch-wiki-md-repo) - All arch-wiki articles in markdown format, updated every two days
+- [arch-wiki-md-repo](https://github.com/greg-js/arch-wiki-md-repo) - All arch-wiki articles in markdown format, updated every week
 - [lirc_node](https://github.com/alexbain/lirc_node) - Control LIRC from NodeJS
 - [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding) - Jupyter meets Vim. Vimmer will fall in love.
 - [weblog.sh](https://github.com/hmngwy/weblog.sh) - Blog from the Command Line
@@ -1260,14 +1699,14 @@
 - [smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
 - [pocket-mini](https://github.com/evmar/pocket-mini) - Save to Pocket (mini), a Chrome extension for https://getpocket.com
 - [chorus](https://github.com/jez500/chorus) - A Web UI for XBMC, focused on user experience and music. Get the latest version here: https://github.com/xbmc/chorus2
-- [interlock](https://github.com/inversepath/interlock) - INTERLOCK - file encryption front end
+- [interlock](https://github.com/f-secure-foundry/interlock) - INTERLOCK - file encryption front end
 - [Batch-Save-Pocket](https://github.com/karan173/Batch-Save-Pocket) - Chrome extension to add multiple links to Pocket at once through the selected text with custom tags.
 - [groovebasin](https://github.com/andrewrk/groovebasin) - Music player server with a web-based user interface.
-- [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [SplitMarkdownFilter](https://github.com/jdittrich/SplitMarkdownFilter) - Split Markdown File Pandoc Filter
 - [ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
-- [staticsitegenerators-list](https://github.com/bevry/staticsitegenerators-list) - A comprehensive, partially automatically generated comparison of static site generators
+- [aether](https://github.com/nehbit/aether) - Aether is a peer-to-peer network of independent, self-moderated communities.
 - [castnow](https://github.com/xat/castnow) - commandline chromecast player
 - [markdownapp](https://github.com/rwebapps/markdownapp) - OpenCPU Markdown App
 - [hdmi-cec-node-test](https://github.com/dan-nguyen/hdmi-cec-node-test) - Quick and Clunky/Dirty HDMI CEC Node App for Raspberry Pi
@@ -1279,7 +1718,7 @@
 - [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
 - [jquery.tocify.js](https://github.com/gfranko/jquery.tocify.js) - A jQuery Table of Contents plugin that can be themed with Twitter Bootstrap or jQueryUI.
-- [end-to-end](https://github.com/yahoo/end-to-end) - Use OpenPGP-based encryption in Yahoo mail.
+- [end-to-end](https://github.com/YahooArchive/end-to-end) - Use OpenPGP-based encryption in Yahoo mail.
 - [end-to-end](https://github.com/google/end-to-end) - End-To-End is a crypto library to encrypt, decrypt, digital sign, and verify signed messages (implementing OpenPGP and OTR)
 - [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for jupyter notebooks
 - [commonmark.js](https://github.com/commonmark/commonmark.js) - CommonMark parser and renderer in JavaScript
@@ -1295,8 +1734,6 @@
 - [doctoc-web](https://github.com/thlorenz/doctoc-web) - This is the source of the DocToc web application.
 - [userscript](https://github.com/ywzhaiqi/userscript) - 本人原创或修改的 GM 脚本，包括小说阅读脚本等。
 - [fuzzy-anki](https://github.com/fasiha/fuzzy-anki) - An Anki browser: upload your APKG decks or ANKI2 collections and see what's inside!
-- [skritter-website-v2](https://github.com/skritter/skritter-website-v2) - Learn to write Chinese and Japanese characters.
-- [r-pkgs](https://github.com/hadley/r-pkgs) - Building R packages
 - [uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 - [bower](https://github.com/bower/bower) - A package manager for the web
 - [cartographer](https://github.com/ropensci/cartographer) - ⛔️ [DEPRECATED] Interactive maps in R using d3-carto-map
@@ -1314,7 +1751,7 @@
 - [webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [datapipes](https://github.com/okfn/datapipes) - Data Pipes for CSV
 - [wikipediajs](https://github.com/okfn/wikipediajs) - A small Javascript library for accessing information in Wikipedia articles such as dates, places, abstracts and more
-- [dpm-js](https://github.com/frictionlessdata/dpm-js) - REPLACED by data tool: https://datahub.io/docs/features/data-cli - [DEPRECATED Data Package Manager]
+- [dpm-js](https://github.com/frictionlessdata/dpm-js) - [DEPRECATED] Please use https://datahub.io/docs/features/data-cli
 - [recline](https://github.com/okfn/recline) - A simple but powerful library for building data applications in pure Javascript and HTML.
 - [gibberish-aes](https://github.com/mdp/gibberish-aes) - A fully OpenSSL compliant javascript library for AES encryption.
 - [middleman-gibberish](https://github.com/ahoward/middleman-gibberish) - password protect middleman pages - even on s3
@@ -1333,7 +1770,7 @@
 - [Zutilo](https://github.com/willsALMANJ/Zutilo) - Zotero plugin providing some additional editing features
 - [Zoterodactyl](https://github.com/willsALMANJ/Zoterodactyl) - Pentadactyl key mappings for Zotero
 - [Pomf](https://github.com/nokonoko/Pomf) - Simple file uploading and sharing, source for the now shut down site Pomf.se
-- [dat](https://github.com/datproject/dat) - :floppy_disk: Share & live sync files anywhere via command line
+- [dat](https://github.com/datproject/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
 - [artoo](https://github.com/medialab/artoo) - artoo.js - the client-side scraping companion.
 - [PJAX-Standalone](https://github.com/thybag/PJAX-Standalone) - A standalone implementation of Pushstate AJAX, for non-jquery webpages.
 - [intense-images](https://github.com/tholman/intense-images) - A simple library to view large images up close using simple mouse interaction, and the full screen.
@@ -1350,7 +1787,6 @@
 - [localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [glosie](https://github.com/valderman/glosie) - A simple web application in XHTML/Haskell for rehearsing characters or vocabulary.
 - [slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
-- [evil.js](https://github.com/kitcambridge/evil.js) - A JavaScript library for thwarting hotlinkers.
 - [facebox](https://github.com/defunkt/facebox) - Facebook-style lightbox, built in jQuery
 - [showterm.io](https://github.com/ConradIrwin/showterm.io) - The website for showterm!
 - [shellac](https://github.com/acg/shellac) - Extend Chrome with unix shell commands
@@ -1381,7 +1817,7 @@
 - [handlebars.js](https://github.com/wycats/handlebars.js) - 
 - [static](https://github.com/walmartlabs/static) - 
 - [caisson](https://github.com/christophercliff/caisson) - Deploy your static website to AWS
-- [cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best logger for JavaScript
+- [cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best JavaScript and Node.js logging service and logging npm package
 - [prose](https://github.com/prose/prose) - A Content Editor for GitHub.
 - [jekyll-hook](https://github.com/developmentseed/jekyll-hook) - No Longer Maintained | A server that listens for GitHub webhook posts and renders a Jekyll site
 - [lens-article](https://github.com/elifesciences/lens-article) - The Lens Article Format
@@ -1440,7 +1876,7 @@
 - [keymaster](https://github.com/madrobby/keymaster) - A simple micro-library for defining and  dispatching keyboard shortcuts. It has no dependencies.
 - [facetview](https://github.com/okfn/facetview) - FacetView is a pure javascript frontend for ElasticSearch.
 - [csv2couchdb](https://github.com/Mango-information-systems/csv2couchdb) - couchapp to populate couchdb from CSV files
-- [Userscripts](https://github.com/mimakyure/Userscripts) - 
+- [userscripts](https://github.com/mimakyure/userscripts) - My personal collection of userscripts.
 - [grumble.js](https://github.com/jamescryer/grumble.js) - jQuery plugin to add 360 rotatable bubble style tooltips
 - [smoke.js](https://github.com/hxgf/smoke.js) - framework-agnostic styled alert system for javascript
 - [jquery-lifestream](https://github.com/mattn/jquery-lifestream) - Show a stream of your online activity with jQuery
@@ -1471,6 +1907,7 @@
 - [inspire.js](https://github.com/LeaVerou/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
 - [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) - A localStorage adapter for Backbone.js
 - [dustjs](https://github.com/akdubya/dustjs) - Asynchronous templates for the browser and node.js
+- [guard-livereload](https://github.com/guard/guard-livereload) - Guard::LiveReload automatically reload your browser when 'view' files are modified.
 - [openkeyval](https://github.com/shinypb/openkeyval) - OpenKeyval.org is a completely open key-value data store, exposed as a drop-dead simple web service. The goal is to make this a very easy way to persist data in web applications.
 - [couchbib](https://github.com/truemped/couchbib) - A bibtex style citation and literature database based on CouchDB
 - [chromeless](https://github.com/mozilla/chromeless) - Build desktop applications with web technologies.
@@ -1485,7 +1922,7 @@
 - [soca](https://github.com/quirkey/soca) - Sammy On Couch App
 - [jquery-offline](https://github.com/wycats/jquery-offline) - A jQuery plugin to facilitate conveniently working with local storage
 - [director](https://github.com/flatiron/director) - a tiny and isomorphic URL router for JavaScript
-- [noVNC](https://github.com/novnc/noVNC) - VNC client using HTML5 (Web Sockets, Canvas) with encryption (wss://) support.
+- [noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [mashi](https://github.com/up/mashi) - JavaScript Timeline Toolkit
 - [tiddlyspace](https://github.com/TiddlySpace/tiddlyspace) - A discoursive social model for tiddlers
 - [browsercouch](https://github.com/mikeal/browsercouch) - CouchDB in the browser
@@ -1500,8 +1937,10 @@
 
 ## Jupyter Notebook 
 
+- [farmsubsidy-scrapers](https://github.com/openspending/farmsubsidy-scrapers) - Scrapers for FarmSubsidy data in the member states
+- [ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
 - [pytroll-examples](https://github.com/pytroll/pytroll-examples) - Collection of examples for pytroll satellite data processing
-- [jupytext](https://github.com/mwouts/jupytext) - Jupyter notebooks as Markdown documents, Julia, Python or R scripts
+- [selected-hymns](https://github.com/ickc/selected-hymns) - Selected Hymns
 - [stat259](https://github.com/gastonstat/stat259) - Reproducible and Collaborative Statistical Data Science, UC Berkeley
 - [data-science-your-way](https://github.com/jadianes/data-science-your-way) - Ways of doing Data Science Engineering and Machine Learning in R and Python
 - [ocropy](https://github.com/tmbdev/ocropy) - Python-based tools for document analysis and OCR
@@ -1518,9 +1957,41 @@
 - [esp_hat](https://github.com/al177/esp_hat) - ESP8266 based Raspberry Pi WiFi module
 - [raspberry_pi_pullup_button](https://github.com/facelessloser/raspberry_pi_pullup_button) - Shutdown button for raspberry pi
 
+## Kotlin 
+
+- [syncthing-lite](https://github.com/syncthing/syncthing-lite) - A Sync Browser: a browser app for Syncthing-compatible shares
+- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
+- [SurvivalManual](https://github.com/ligi/SurvivalManual) - Libre Survival Manual for Android with offline in mind
+- [StreetComplete](https://github.com/westnordost/StreetComplete) - Easy to use OpenStreetMap editor for Android
+- [TVHClient](https://github.com/rsiebert/TVHClient) - An Android client for TVHeadend using the HTSP protocol
+
+## LiveScript 
+
+- [LiveScript](https://github.com/gkz/LiveScript) - LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds many features to assist in functional style programming, it also has many improvements for object oriented and imperative programming.
+
 ## Lua 
 
-- [images](https://github.com/weserv/images) - Source code of images.weserv.nl, to be used on your own server(s).
+- [noxkvm](https://github.com/Kirill-Bugaev/noxkvm) - low-level KVM for Linux
+- [select-meta](https://github.com/jgm/select-meta) - Pandoc lua filter for constructing metadata from YAML data sources using queries
+- [pocketeer.lua](https://github.com/ColumPaget/pocketeer.lua) - Lua script to list/add/delete items to getpocket.com. Requires libUseful and libUseful-lua
+- [pandoc-filters](https://github.com/teoric/pandoc-filters) - Pandoc filters
+- [pandocker-lua-filters](https://github.com/pandocker/pandocker-lua-filters) - Lua filters for pandoc
+- [pandoc-lecture](https://github.com/cagix/pandoc-lecture) - This project defines a skeleton repo for creating lecture slides and handouts including lecture notes out of Pandoc Markdown (http://pandoc.org/MANUAL.html) using a single source approach.
+- [html2cmark](https://github.com/jgm/html2cmark) - Lua library to convert HTML5 to commonmark
+- [mpv-scripts](https://github.com/kelciour/mpv-scripts) - Experimental scripts for mpv video player, mostly for foreign language learning
+- [pandoc-filters](https://github.com/a-vrma/pandoc-filters) - A small, useful collection of pandoc filters
+- [sile](https://github.com/sile-typesetter/sile) - Simon's Improved Layout Engine
+- [pandoc-tangle](https://github.com/ehildenb/pandoc-tangle) - Simple tangler for Pandoc
+- [pandoc-terminal-writer](https://github.com/Orange-OpenSource/pandoc-terminal-writer) - Pretty-print text documents on a terminal using pandoc
+- [pandoc-gls](https://github.com/tomncooper/pandoc-gls) - A pandoc filter allowing easier syntax for the Latex glossaries package with Markdown documents
+- [casile](https://github.com/sile-typesetter/casile) - The CaSILE toolkit, a book publishing workflow employing SILE and other wizardry.
+- [lua-filters](https://github.com/pandoc/lua-filters) - A collection of lua filters for pandoc
+- [pandoc-questions.lua](https://github.com/dsanson/pandoc-questions.lua) - pandoc lua filter for managing different versions of a quiz or exam in a single document
+- [elinks-basis](https://github.com/yazgoo/elinks-basis) - provides a common fundation for elinks pluggin
+- [elinks-navmode](https://github.com/yazgoo/elinks-navmode) - faster link navigation for elinks
+- [elinks-nolinks](https://github.com/yazgoo/elinks-nolinks) - remove header links in elinks
+- [elinks-plug](https://github.com/yazgoo/elinks-plug) - plugin manager for elinks
+- [z.lua](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits :zap:
 - [pandoc-zotxt.lua](https://github.com/odkr/pandoc-zotxt.lua) - Pandoc filter that looks up sources for citations in Zotero.
 - [pandoc-scholar](https://github.com/pandoc-scholar/pandoc-scholar) - Create beautiful and semantically meaningful articles with pandoc.
 - [jivelite](https://github.com/ralph-irving/jivelite) - Community logitech media server control application
@@ -1536,16 +2007,19 @@
 - [koreader-sync-server](https://github.com/koreader/koreader-sync-server) - self hostable synchronization service for koreader devices
 - [pandoc-fimfic](https://github.com/HeirOfNorton/pandoc-fimfic) - Custom Writer for Pandoc that writes FimFiction.net compatible bbcode
 - [pandoc-bbcode](https://github.com/2ion/pandoc-bbcode) - BBCode writer for pandoc
-- [koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Kindle, Kobo, PocketBook, Ubuntu Touch and Android devices
+- [koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [pandoc-jats](https://github.com/mfenner/pandoc-jats) - A Lua custom writer for Pandoc generating JATS XML
 
 ## Makefile 
 
+- [lirc-audio_alsa-for-openwrt](https://github.com/probonopd/lirc-audio_alsa-for-openwrt) - Use a soundcard input to receive infrared remote control signals.
+- [usb2-power-hub](https://github.com/dilshan/usb2-power-hub) - 4-Port High Power USB 2.0 Hub
+- [pandoc-book-template](https://github.com/wikiti/pandoc-book-template) - A simple Pandoc template to build documents and ebooks.
+- [caesonia](https://github.com/vedetta-com/caesonia) - OpenBSD Email Service
 - [manpj](https://github.com/pjungwir/manpj) - My collection of tech notes, mostly in man-file format.
 - [jz](https://github.com/cieplak/jz) - Tool for Configuring Jails, ZFS and pf on FreeBSD
 - [CoreELEC](https://github.com/CoreELEC/CoreELEC) - A lightweight OS for KODI
 - [LibreELEC.tv](https://github.com/kszaq/LibreELEC.tv) - 'Just enough OS' for Kodi
-- [rpi-ramdisk](https://github.com/ali1234/rpi-ramdisk) - Builds ramdisk environments for Raspberry Pi
 - [mighty_make](https://github.com/lf-araujo/mighty_make) - This is a makefile that helps with automation of typographic work using pandoc
 - [Bare-Arduino-Project](https://github.com/ladislas/Bare-Arduino-Project) - Start your Arduino projects right out of the box
 - [sdcv](https://github.com/koreader/sdcv) - console version of StarDict formerly used by koreader; fork of https://github.com/Dushistov/sdcv
@@ -1573,11 +2047,13 @@
 
 ## OCaml 
 
+- [llpp](https://github.com/moosotc/llpp) - PDF pager
 - [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
 
 ## Objective-C 
 
 - [nmux](https://github.com/tweekmonster/nmux) - A multiplexer for Neovim processes
+- [seq2gif](https://github.com/saitoha/seq2gif) - Convert a ttyrec record into a gif animation directly (almost vt102 compatible terminal emulation).
 - [Computational-Journalism-for-People-s-Daily-Opinion](https://github.com/puconghan/Computational-Journalism-for-People-s-Daily-Opinion) - Statistical topic models – one of the sub fields of machine learning and natural language processing – provide a data-driven framework for analyzing collections of text documents. It has become one of the most frequently used tools for computational journalism used to investigate abstract topics and keywords that occur in a collection of text documents. Digital journalists can use such tools to extract frequently appearing terms, and to analyze the trend of a particular news brand or stories about a social event. Articles, analyses and documents written in Chinese have become increasingly important for multimedia stories about China. Available Chinese archives on the Internet might contain stories that require digital journalists to apply appropriate topic modeling tools. Unlike English and other alphabetic languages, the basic structural unit of Chinese language is character encoded in Guobiao GB18030 or Unicode.  I implement apps using the Chinese topic-modeling tools jieba for computational journalism. This app analyzes articles from the opinion archive of the People’s Daily and generate a list of frequently appearing words using the keyword extraction tool provided by the jieba library.
 - [Fountain](https://github.com/nyousefi/Fountain) - An open source implementation of the Fountain screenplay formatting language.
 
@@ -1587,6 +2063,13 @@
 
 ## OpenSCAD 
 
+- [video-hardware](https://github.com/FOSDEM/video-hardware) - FOSDEM video hardware
+- [open-makers-cube](https://github.com/technoez/open-makers-cube) - An open source portable desktop-sized electronics workstation.
+- [ZeroPhone-PCBs](https://github.com/ZeroPhone/ZeroPhone-PCBs) - PCB files for ZeroPhone - for gerbers and schematics, go to "Releases" tab!
+- [NopSCADlib](https://github.com/nophead/NopSCADlib) - Library of parts modelled in OpenSCAD and a framework for making projects
+- [ParametricCase](https://github.com/eclecticc/ParametricCase) - A 3D printable PC case that can fit components exactly by adjusting a few parameters.
+- [webtuner](https://github.com/tachiniererin/webtuner) - Scroll through your tabs with an Arduino and a rotary encoder
+- [PELA-parametric-blocks](https://github.com/LEGO-compatible-gadgets/PELA-parametric-blocks) - 3D printed, LEGO-compatible parametric rapid prototyping, robots and enclosures
 - [openWheel](https://github.com/sarinkhan/openWheel) - open source parametric wheels, tyres and tracks for robots meant for 3D printing
 - [espurna-board](https://github.com/xoseperez/espurna-board) - ESP8266-based smart wall switch
 - [hardpass-passwordmanager](https://github.com/girst/hardpass-passwordmanager) - Hardpass is a Raspberry Pi Zero based hardware password manager, using passwordstore.org.
@@ -1594,6 +2077,48 @@
 
 ## Others 
 
+- [Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - A collection of open source and commercial tools that aid in red team operations.
+- [Recursos-Informacion-Geografica](https://github.com/joseignaci/Recursos-Informacion-Geografica) - Recursos abiertos de Información Geográfica para la investigación
+- [antinonio](https://github.com/brunomiguel/antinonio) - Lista de bloqueios para a plataforma Nónio
+- [awesome-feather](https://github.com/adafruit/awesome-feather) - A curated list of awesome Feather form factor boards, guides, videos, libraries, software and resources.
+- [tartan](https://github.com/hsgw/tartan) - 60% keyboard made by through-hole parts only
+- [plaid](https://github.com/hsgw/plaid) - 12x4 ortholinear usb keyboard made by Through Hole components ONLY.
+- [Pico-Audio](https://github.com/AdamKeher/Pico-Audio) - TinyPICO I2S Audio, I2S Microphone & 3.7W Stereo Amplifier Module with Built-in MicroSD card reader
+- [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+- [cli-apps](https://github.com/feramhq/cli-apps) - Database of CLI apps for cliapp.store
+- [espresso-hole](https://github.com/arturgs/espresso-hole) - EspressoBin-based personal router with ad blocking
+- [trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
+- [solar-harvester](https://github.com/panovvv/solar-harvester) - DIY outdoor solar harvester.
+- [device-trees-amlogic](https://github.com/CoreELEC/device-trees-amlogic) - 
+- [TTGO-T-Call](https://github.com/Xinyuan-LilyGO/TTGO-T-Call) - 
+- [lorawan-openwrt](https://github.com/wireless-road/lorawan-openwrt) - Image compilation for Lorawan gateway on OpenWrt
+- [awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) - 💡Limiting personal data leaks on the internet
+- [Knowledge](https://github.com/ThomasKaiser/Knowledge) - 
+- [DecSync](https://github.com/39aldo39/DecSync) - Synchronize RSS, contacts, calendars and other key-value mappings without a server
+- [Electronics_One_Workshop](https://github.com/PatternAgents/Electronics_One_Workshop) - Introduction to Electronics (for Programmers, Makers, and Students)
+- [books](https://github.com/sensebox/books) - senseBox documentation as beautiful books
+- [UAT](https://github.com/astrothesaurus/UAT) - The Unified Astronomy Thesaurus is an open, interoperable and community-supported thesaurus of astronomical and astrophysical concepts and their relationships.
+- [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
+- [OpenSatelliteProject](https://github.com/opensatelliteproject/OpenSatelliteProject) - Open Satellite Project Information
+- [owid-datasets](https://github.com/owid/owid-datasets) - OWID Dataset Collection
+- [blender-osm](https://github.com/vvoovv/blender-osm) - One click download and import of OpenStreetMap and terrain for Blender! Global coverage! Documentation is hosted here.
+- [PiSugar](https://github.com/PiSugar/PiSugar) - PiSugar is a battery module for Raspberry Pi zero / zero W / zero WH
+- [pisugar-case-pihat-cap](https://github.com/PiSugar/pisugar-case-pihat-cap) - PiHat caps designed for PiSugar case. 配合PiSugar外壳以及各类PiHat使用的盖子。
+- [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [javacard-curated-list](https://github.com/EnigmaBridge/javacard-curated-list) - Curated list of open-source Java Card applets and related applications for cryptographic smartcards
+- [Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
+- [writing-a-tui-in-bash](https://github.com/dylanaraps/writing-a-tui-in-bash) - How to write a TUI in BASH
+- [NanoCore](https://github.com/NanoAdblocker/NanoCore) - An adblocker
+- [PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection) - Total resources of documentation, filterlists, hosts file, ruleset that I've created, mostly for private use and/or test.
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+- [tidyflow](https://github.com/MaximeWack/tidyflow) - Tidyflow: a workflow that fits the tidyverse
+- [gtypist_programming_characters](https://github.com/codesections/gtypist_programming_characters) - A typing lesson for gtypist focusing on the keys programmers use most frequently
+- [awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites) - A list of awesome lightweight websites without all the bloat
+- [awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
+- [blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained host file to block ads, tracking, cryptomining and more! Updated regularly.
+- [qgis_recursos](https://github.com/sigdeletras/qgis_recursos) - Recursos para QGIS
+- [guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Rizon network.
 - [awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap) - 😎 Curated list of awesome OpenSteetMap projects
 - [Easy-SDR](https://github.com/IgrikXD/Easy-SDR) - Creating affordable, easy-to-manufacture prototypes of PCBs to working and expand the capabilities of existing low-cost SDR receivers based on RTL2832U chip.
 - [awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
@@ -1601,8 +2126,8 @@
 - [Mechanics](https://github.com/MaslowCNC/Mechanics) - Digital Design Files
 - [Amlogic_s905](https://github.com/150balbes/Amlogic_s905) - SRC for Amlogic S805 S802\S812 S905\S905X\S912 etc.
 - [geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
-- [robusta](https://github.com/qualiacode/robusta) - A sound and versatile pandoc LaTeX boilerplate to produce academic articles using Markdown files featuring YAML, KOMA-Script, BibLaTeX and CSL
-- [arabica](https://github.com/qualiacode/arabica) - A sound and versatile pandoc LaTeX boilerplate to produce academic books using Markdown files featuring YAML, KOMA-Script, BibLaTeX and CSL
+- [robusta](https://github.com/periodicpoint/robusta) - A sound and versatile pandoc LaTeX boilerplate to produce academic articles using Markdown files featuring YAML, KOMA-Script, BibLaTeX and CSL
+- [arabica](https://github.com/periodicpoint/arabica) - A sound and versatile pandoc LaTeX boilerplate to produce academic books using Markdown files featuring YAML, KOMA-Script, BibLaTeX and CSL
 - [Chinese-Literature-NER-RE-Dataset](https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset) - A Discourse-Level Named Entity Recognition and Relation Extraction Dataset  for Chinese Literature Text
 - [Chinese-abbreviation-dataset](https://github.com/lancopku/Chinese-abbreviation-dataset) - This is a corpus of Chinese abbreviation, including negative full forms.
 - [Solar-Tracker](https://github.com/aidanruff/Solar-Tracker) - Self aligning, 2 axis solar tracking system to optimise power
@@ -1610,11 +2135,13 @@
 - [dmenu-video-downloader](https://github.com/thomas154/dmenu-video-downloader) - dmenu interface for youtube-dl
 - [fl2k-examples](https://github.com/steve-m/fl2k-examples) - Example flowgraphs for osmo-fl2k
 - [RAK831-Zero](https://github.com/hallard/RAK831-Zero) - Pi Zero RAK831 Adapter board
+- [shedbuilt-system](https://github.com/shedbuilt/shedbuilt-system) - Shedbuilt system image repository
 - [mbtiles-spec](https://github.com/mapbox/mbtiles-spec) - specification documents for the MBTiles tileset format
 - [archlinux-orange-pi-zero](https://github.com/nguiard/archlinux-orange-pi-zero) - A base image for installing ArchLinuxARM on the OrangePi Zero
 - [Mini-LoRa](https://github.com/hallard/Mini-LoRa) - Arduino Mini Lora Battery/Sensors Board
 - [U2FReviews](https://github.com/hillbrad/U2FReviews) - Reviews of U2F devices
 - [caop_GeoJSON](https://github.com/nmota/caop_GeoJSON) - CAOPortugal em formato GeoJSON
+- [megatools](https://github.com/megous/megatools) - Open-source command line tools for accessing Mega.co.nz cloud storage.
 - [Companion-Pi](https://github.com/benb0jangles/Companion-Pi) - This is a collection of Linux .img files to allow drone/automated vehicle users to hook up to a Raspberry Pi 2/3/Zero V1.2/1.3 and further their drone/automated vehicle experiences in various ways. All software is provided as-is and you assume all risks by using it.
 - [maruos](https://github.com/maruos/maruos) - Your phone is your PC.
 - [RCWL-0516](https://github.com/jdesbonnet/RCWL-0516) - Information about RCWL-0516 microwave proximity switch module (ICStation.com SKU 10630)
@@ -1623,7 +2150,9 @@
 - [tiny-ESP8266-breakout](https://github.com/skorokithakis/tiny-ESP8266-breakout) - A very small and basic ESP8266 breakout board
 - [iC880A-Raspberry-PI](https://github.com/ch2i/iC880A-Raspberry-PI) - Raspberry PI iC880A and LinkLab Lora Gateway Shield
 - [causeprioritization](https://github.com/riceissa/causeprioritization) - Cause Prioritization Wiki
+- [OpenGarage-Hardware](https://github.com/OpenGarage/OpenGarage-Hardware) - 
 - [D1MTERMINAL](https://github.com/SuperHouse/D1MTERMINAL) - Terminal Shield for the WeMos D1 Mini with ESP8266
+- [kali-arm-build-scripts](https://github.com/offensive-security/kali-arm-build-scripts) - Kali Linux ARM build scripts
 - [Raspberry-Pi-ITead-Studio-GPS-NEO-6M](https://github.com/mcauser/Raspberry-Pi-ITead-Studio-GPS-NEO-6M) - Experiments with my ITead Studio RPI GPS Add On
 - [openLRSngWiki](https://github.com/openLRSng/openLRSngWiki) - openLRSng wiki
 - [tutorials](https://github.com/CongducPham/tutorials) - Tutorial slides for the low-cost LoRa IoT platform
@@ -1632,6 +2161,7 @@
 - [NodeMCU-Gateway](https://github.com/hallard/NodeMCU-Gateway) - NodeMCU ESP8266 RF Gateway and Display Board
 - [rpi_wifibroadcast_image_builder](https://github.com/befinitiv/rpi_wifibroadcast_image_builder) - 
 - [D1MPOWER](https://github.com/SuperHouse/D1MPOWER) - Power supply shield for the WeMos D1 Mini with ESP8266
+- [electron](https://github.com/particle-iot/electron) - 
 - [LdcChineseWordlists](https://github.com/ReubenBond/LdcChineseWordlists) - Linguistic Data Consortium Mandarin Chinese & English Wordlists
 - [paracorpus](https://github.com/grundprinzip/paracorpus) - Parallel Corpus Search
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
@@ -1658,7 +2188,6 @@
 - [chinese-keywords](https://github.com/jasonqng/chinese-keywords) - Collected sensitive Chinese keywords from various sources; for censorship testing and searching for sensitive content
 - [rr-ropensci-talk](https://github.com/Reproducible-Science-Curriculum/rr-ropensci-talk) - Slides given for ropensci community call.
 - [jekyll-template-toolkit](https://github.com/NetzwergX/jekyll-template-toolkit) - A widget collection for vanilla jekyll, 100% compatible to github-pages.
-- [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [DIYHistory-transcribe](https://github.com/ui-libraries/DIYHistory-transcribe) - A crowdsourcing manuscript transcription platform built with Omeka
 - [BigDict](https://github.com/qinwf/BigDict) - BigDict for jiebaR
 - [firefox.html](https://github.com/paulrouget/firefox.html) - Firefox.html is an experiment: trying to re-implement the Firefox UI in HTML.
@@ -1669,7 +2198,7 @@
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [OCRmyPDF](https://github.com/fritz-hh/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [delicious-api](https://github.com/domainersuitedev/delicious-api) - Delicious API Documentation
-- [ftr-site-config](https://github.com/fivefilters/ftr-site-config) - Full-Text RSS site config files -  since version 3.2, the update tool can automatically grab the latest set from this repository.
+- [ftr-site-config](https://github.com/fivefilters/ftr-site-config) - Site-specific article extraction rules to aid content extractors, feed readers, and 'read later' applications.
 - [linuxtips](https://github.com/thcipriani/linuxtips) - Linux Tips
 - [zanata-server](https://github.com/zanata/zanata-server) - This is the old repository for Zanata. Please see https://github.com/zanata/zanata-platform/ or http://zanata.org/.
 - [free-data-science-books](https://github.com/chaconnewu/free-data-science-books) - Free resources for learning data science
@@ -1682,10 +2211,10 @@
 - [pandoc-quick-ref](https://github.com/bpj/pandoc-quick-ref) - quick ref examples for pandoc markdown
 - [bestrew](https://github.com/dylan-k/bestrew) - manuscript submission tracking database for writers
 - [markdown-resources](https://github.com/jgm/markdown-resources) - A curated collection of Markdown resources: apps, dialects, parsers, …
-- [coursera-data-analysis](https://github.com/founddrama/coursera-data-analysis) - My notes etc. for following along with Jeff Leek's Coursera course on Data Analysis.
 - [go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [reprosw](https://github.com/fperez/reprosw) - Lecture notes (in IPython Notebook format) on Reproducible Science And Modern Scientific Software
 - [yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
+- [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [LearnVim](https://github.com/dahu/LearnVim) - A Suggested Path for Learning Vim
 - [compose-keys](https://github.com/MrBertie/compose-keys) - Compose Keys: a windows drop-in replacement for the Linux "Compose" key.  Quickly type accented letter and symbols using 2-character combinations
 - [gdocs2md](https://github.com/mangini/gdocs2md) - Convert a Google Drive Document to the Markdown format, suitable for publishing.
@@ -1703,20 +2232,31 @@
 - [pandoc-iki](https://github.com/dubiousjim/pandoc-iki) - Plugin to use Pandoc markdown handler in Ikiwiki website generator
 - [Stemmer---PT](https://github.com/salomaojunior/Stemmer---PT) - Stemming is the process for reducing inflected (or sometimes derived) words to their stem, base or root form – generally a written word form. The stem need not be identical to the morphological root of the word; it is usually sufficient that related words map to the same stem, even if this stem is not in itself a valid root. Algorithms for stemming have been studied in computer science since 1968. Many search engines treat words with the same stem as synonyms as a kind of query broadening, a process called conflation. Stemming programs are commonly referred to as stemming algorithms or stemmers.
 - [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
-- [py-ICTCLAS](https://github.com/fantasticsid/py-ICTCLAS) - simple python wrapper for ICTCLAS chinese character segmentation system using swig
+- [py-ICTCLAS](https://github.com/zhenchaoli/py-ICTCLAS) - simple python wrapper for ICTCLAS chinese character segmentation system using swig
 - [frontlinesms-super-project](https://github.com/frontlinesms/frontlinesms-super-project) - FrontlineSMS Super Project
 - [jekyll_and_hyde_demo](https://github.com/jingweno/jekyll_and_hyde_demo) - An example presentation generated by jekyll_and_hyde
 - [auto-hyde](https://github.com/gotmayonase/auto-hyde) - A simple sinatra app exposing a url for github post-receive hooks to hit and trigger a rebuild of a jekyll site.
 - [vimup](https://github.com/mattn/vimup) - Tool to automate to upload vim scripts to www.vim.org
 - [pudo](https://github.com/jpmens/pudo) - Upload JSON documents and attachments to a CouchDB instance
 - [unoconv](https://github.com/akaihola/unoconv) - Convert between any OpenOffice supported document format using UNO bindings for non-interactive conversion. My fork of dag's svn repository.
-- [utterson](https://github.com/stef/utterson) - a minimal static blog generator written using old-school unix tools (make, ksh, m4, awk, procmail and a pinch of elisp)
 - [hipster](https://github.com/fugalh/hipster) - Script for imposing PDFs for the hipster PDA
 - [hipmod](https://github.com/fugalh/hipmod) - Hipmod templates and imposition
 - [vimtips](https://github.com/gaving/vimtips) - :book: Tips for Vim
 
 ## PHP 
 
+- [anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
+- [pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
+- [grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
+- [rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
+- [archbbs](https://github.com/archlinux/archbbs) - Arch customized FluxBB install
+- [archlinux-mediawiki](https://github.com/lahwaacz/archlinux-mediawiki) - MediaWiki used on Arch Linux websites
+- [unmark](https://github.com/cdevroe/unmark) - An open source to do app for bookmarks.
+- [farmOS](https://github.com/farmOS/farmOS) - farmOS: A web-based farm record keeping application.
+- [Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
+- [miniCalOPe](https://github.com/IzzySoft/miniCalOPe) - basic OPDS (and HTML) catalog provider for eBooks. Moved to https://codeberg.org/izzy/miniCalOPe
+- [wordpress-to-jekyll-exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter) - One-click WordPress plugin that converts all posts, pages, taxonomies, metadata, and settings to Markdown and YAML which can be dropped into Jekyll
+- [wordpress-to-hugo-exporter](https://github.com/SchumacherFM/wordpress-to-hugo-exporter) - Hugo is static site generator written in golang. Wordpress is a tool for remote access to your server ;-) ❗️Contributions welcome!
 - [php-gallery](https://github.com/martinberlin/php-gallery) - Simple PHP Bootstrap 4 gallery with thumbnail generator (Imagick but you can use any other)
 - [zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.
 - [archwiki](https://github.com/archlinux/archwiki) - MediaWiki used on Arch Linux websites
@@ -1725,7 +2265,7 @@
 - [website](https://github.com/medieval-source-book/website) - 
 - [moode](https://github.com/moode-player/moode) - Sources and configs
 - [RuneUI](https://github.com/RuneAudio/RuneUI) - RuneAudio Player User Interface
-- [pictshare](https://github.com/chrisiaut/pictshare) - :camera: PictShare is an multi lingual, open source image and mp4 hosting service  with a simple resizing and upload API that you can host yourself. :rice_scene:
+- [pictshare](https://github.com/HaschekSolutions/pictshare) - :camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you can host yourself. :rice_scene:
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [OTX](https://github.com/OpenEdition/OTX) - Conversion server from word processing document (odt and doc) to TEI document
 - [lodel](https://github.com/OpenEdition/lodel) - Science publishing CMS
@@ -1746,7 +2286,7 @@
 - [emoncms](https://github.com/emoncms/emoncms) - Web-app for processing, logging and visualising energy, temperature and other environmental data
 - [selfoss](https://github.com/SSilence/selfoss) - selfoss: The multipurpose rss reader, live stream, mashup, aggregation web application
 - [dl](https://github.com/DownloadTicketService/dl) - Download Ticket Service
-- [wp-cli](https://github.com/wp-cli/wp-cli) - The command line interface for WordPress
+- [wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [plugin-Scripto](https://github.com/omeka/plugin-Scripto) - Adds the ability to transcribe items using the Scripto library.
 - [tcexam](https://github.com/tecnickcom/tcexam) - TCExam is a CBA (Computer-Based Assessment) system (e-exam, CBT - Computer Based Testing) for universities, schools and companies, that enables educators and trainers to author, schedule, deliver, and report on surveys, quizzes, tests and exams.
 - [dokuwiki-strata](https://github.com/bwanders/dokuwiki-strata) - Strata  - a Semi-Structured Data plugin for Dokuwiki
@@ -1766,11 +2306,12 @@
 
 ## PLSQL 
 
+- [tinypico-hardware](https://github.com/tinypico/tinypico-hardware) - Hardware design files for TinyPICO and Shields
 - [esp-rfid-relay-board](https://github.com/esprfid/esp-rfid-relay-board) - 
 
 ## PLpgSQL 
 
-- [ilcampaigncash](https://github.com/propublica/ilcampaigncash) - Load Illinois political contribute and spending data efficiently
+- [openmaptiles](https://github.com/openmaptiles/openmaptiles) - OpenMapTiles Vector Tile Schema Implementation
 - [OpenTopoMap](https://github.com/der-stefan/OpenTopoMap) - A topographic map from OpenStreetMap and SRTM data
 
 ## Pascal 
@@ -1780,7 +2321,16 @@
 
 ## Perl 
 
+- [media_build](https://github.com/tbsdtv/media_build) - 
+- [aredn_ar71xx](https://github.com/aredn/aredn_ar71xx) - AREDN develop branch porting on top of OpenWRT master (18.x.x)
+- [lstu](https://github.com/ldidry/lstu) - Lightweight URL shortener
+- [everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and everything related to this.
+- [bbbike](https://github.com/eserte/bbbike) - BBBike
+- [sympa](https://github.com/sympa-community/sympa) - Sympa, Mailing List Management Software
+- [pimpd2](https://github.com/trapd00r/pimpd2) - Perl Interface for the Music Player Daemon 2  |  http://search.cpan.org/dist/App-Pimpd/
+- [OpusTools-perl](https://github.com/Helsinki-NLP/OpusTools-perl) - 
 - [File-LsColor](https://github.com/trapd00r/File-LsColor) - Colorize input filenames just like ls(1) does
+- [dank-selfhosted](https://github.com/cullum/dank-selfhosted) - Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD.
 - [trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
 - [gpx-garmin-format](https://github.com/imran-uk/gpx-garmin-format) - Formats a GPX file to work well with Garmin eTrex 10/20/30 devices
 - [Git-Mediawiki](https://github.com/Git-Mediawiki/Git-Mediawiki) - Gate between Git and Mediawiki
@@ -1799,6 +2349,7 @@
 - [Koha](https://github.com/Koha-Community/Koha) - Koha is a free software integrated library system (ILS). Koha is distributed under the GNU GPL version 3 or later. Note: this is a synced mirror of the official Koha repo. Note: This project uses its own bug tracker, see https://bugs.koha-community.org/ to report a bug or submit a patch.
 - [ubos-admin](https://github.com/uboslinux/ubos-admin) - UBOS administration tools
 - [ubos-tools](https://github.com/uboslinux/ubos-tools) - UBOS development/deployment tools
+- [ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
 - [webc](https://github.com/Webconverger/webc) - Webconverger's curated chroot from which updates originate
 - [cope](https://github.com/yogan/cope) - A colourful wrapper for terminal programs
 - [nlptutorial](https://github.com/neubig/nlptutorial) - A Tutorial about Programming for Natural Language Processing
@@ -1810,7 +2361,7 @@
 - [ParsCit](https://github.com/knmnyn/ParsCit) - An open-source CRF Reference String Parsing Package
 - [ParsCit](https://github.com/WING-NUS/ParsCit) - An open-source CRF Reference String Parsing Package - This is the Windows version, contributed by Zhu Ying-Bo Language Computing and Web Mining Group Institute of Computer Science and Technology of Peking University.  Please contact him for details: yumichika@163.com.  Forking and committing on his behalf.  For the original version see the origin (knmnyn/ParsCit)
 - [ditaa-markdown](https://github.com/nichtich/ditaa-markdown) - process ditaa diagrams embedded in pandoc markdown
-- [feedgnuplot](https://github.com/dkogan/feedgnuplot) - Tool to plot realtime and stored data from the commandline, using gnuplot. This is the repo for 'feedgnuplot' on CPAN
+- [feedgnuplot](https://github.com/dkogan/feedgnuplot) - Tool to plot realtime and stored data from the commandline, using gnuplot.
 - [CUWI](https://github.com/kvorg/CUWI) - Corpus Users' Web Interface, a Mojolicious-based web frontend and perl API backend for Corpus Workbench (CWB)
 - [make](https://github.com/jakobib/make) - Templates and Makefiles to build publication in multiple formats based on a source file in Pandoc Markdown
 - [anki-prompt](https://github.com/linse/anki-prompt) - flashcards in the bash prompt
@@ -1838,7 +2389,12 @@
 
 ## PostScript 
 
+- [tomu-hardware](https://github.com/im-tomu/tomu-hardware) - A tiny ARM microprocessor which fits in your USB port.
 - [cnc-standing-height-workbench](https://github.com/akaziuna/cnc-standing-height-workbench) - The CNC Maker Bench is a standing height workbench emblazoned with "Makey", MAKE's robot mascot. It is fully customizable through the use of AtFab parametric table app and a little CAD manipulation. Full tutorial available at:
+
+## PowerShell 
+
+- [bashbunny-payloads](https://github.com/hak5/bashbunny-payloads) - The Official Bash Bunny Payload Repository
 
 ## Processing 
 
@@ -1850,12 +2406,177 @@
 
 ## Python 
 
+- [gdal2mbtiles](https://github.com/ecometrica/gdal2mbtiles) - Converts a GDAL-readable dataset into an MBTiles file. This is used to generate web maps.
+- [pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
+- [kobuddy](https://github.com/karlicoss/kobuddy) - Kobo database backup and parser: extracts notes, highlights, reading progress and more
+- [python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
+- [map-it](https://github.com/hiddewie/map-it) - Scripts for generating custom cycling maps using Mapnik and open data
+- [PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domains, IPv4 or URL.
+- [youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
+- [promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
+- [pockexport](https://github.com/karlicoss/pockexport) - Export/access your Pocket data, including highlights!
+- [PyLibGen](https://github.com/NadalVRoMa/PyLibGen) - A python script to download books from libgen.io
+- [libgen-python-api](https://github.com/mmarquezs/libgen-python-api) - A Python library that provides an api to search and get links from Books,Magazines,Comics,... from Library Genesis.
+- [soupmonkey](https://github.com/hellricer/soupmonkey) - Userscript manager for ELinks powered by BeautifulSoup library.
+- [pythonic-news](https://github.com/sebst/pythonic-news) - A Hacker News lookalike written in Python/Django, powering https://news.python.sc
+- [social_mapper](https://github.com/Greenwolf/social_mapper) - A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
+- [dnsrecon](https://github.com/darkoperator/dnsrecon) - DNS Enumeration Script
+- [dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
+- [EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness) - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
+- [YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube) - A bot written in Python3 that mirrors YouTube channels to PeerTube channels as videos are released in a YouTube channel.
+- [dotfiles-qute](https://github.com/dnebauer/dotfiles-qute) - Qutebrowser configuration
+- [bookmanager](https://github.com/cyberaide/bookmanager) - 
+- [inputexec](https://github.com/rbarrois/inputexec) - Simple program to execute commands on keypress on headless Linux
+- [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [wikicurses](https://github.com/ids1024/wikicurses) - A simple curses interface for MediaWiki sites such as Wikipedia.
+- [gd_shortener](https://github.com/torre76/gd_shortener) - Python Module for is.gd - v.gd URL Shortener
+- [rainbow](https://github.com/nicoulaj/rainbow) - :rainbow: Colorize commands output or STDIN using patterns.
+- [elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer, manager and workflow automation tool.
+- [xinput-gui](https://github.com/IvanFon/xinput-gui) - A simple GUI for Xorg's Xinput tool.
+- [datalad](https://github.com/datalad/datalad) - Keep scientific data under control with git  and git-annex
+- [farmsubsidy.org](https://github.com/okfde/farmsubsidy.org) - FarmSubsidy website and search
+- [conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
+- [syncthingmanager](https://github.com/classicsc/syncthingmanager) - Configure Syncthing from the CLI
+- [qtube](https://github.com/hdbhdb/qtube) - graphical interface for youtube built with pyqt, youtube-dl and mpv
+- [spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
+- [smart-subtitles-extract-subtitle](https://github.com/gkovacs/smart-subtitles-extract-subtitle) - Subtitle extraction system for Smart Subtitles http://up.csail.mit.edu/other-pubs/chi2014-smartsubs.pdf
+- [genanki](https://github.com/kerrickstaley/genanki) - A Python 3 Library for Generating Anki Decks
+- [chineseflashcards](https://github.com/kerrickstaley/chineseflashcards) - 
+- [Chinese-Prestudy](https://github.com/kerrickstaley/Chinese-Prestudy) - Anki plugin to generate Chinese flashcards for a given text (e.g. an article)
+- [Chinese-Vocab-List](https://github.com/kerrickstaley/Chinese-Vocab-List) - A curated YAML list of Chinese vocabulary words with definitions and example sentences, plus a Python API
+- [Pytition](https://github.com/pytition/Pytition) - Django app for self-hosted privacy-friendly online petitions
+- [brozzler](https://github.com/internetarchive/brozzler) - brozzler - distributed browser-based web crawler
+- [BrachioGraph](https://github.com/evildmp/BrachioGraph) - BrachioGraph is an ultra-cheap (total cost of materials: €14) plotter that can be built with minimal skills.
+- [stapler](https://github.com/hellerbarde/stapler) - A small utility making use of the pypdf library to provide a (somewhat) lighter alternative to pdftk
+- [yahoo-group-archiver](https://github.com/IgnoredAmbience/yahoo-group-archiver) - Scrapes and archives a Yahoo groups email archives, photo galleries and file contents using the non-public API
+- [YahooGroups-Archiver](https://github.com/andrewferguson/YahooGroups-Archiver) - A simple Python script that archives all the messages from a public Yahoo Group
+- [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites
+- [imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
+- [calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+- [bum](https://github.com/dylanaraps/bum) - 🎵 Download and display album art for mpd/mopidy tracks.
+- [bleach](https://github.com/mozilla/bleach) - Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
+- [sym-prototype](https://github.com/joshuarli/sym-prototype) - a straightforward batch symlinker for user configuration files/dotfiles
+- [sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database. No code required!
+- [datasette-auth-github](https://github.com/simonw/datasette-auth-github) - Datasette plugin and ASGI middleware that authenticates users against GitHub
+- [csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite) - Convert CSV files into a SQLite database
+- [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
+- [QGISFMV](https://github.com/All4Gis/QGISFMV) - QGIS Full Motion Video (FMV)
+- [pickpocket](https://github.com/hughrun/pickpocket) - A script for de-duping your Pocket account
+- [opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
+- [pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
+- [virtme](https://github.com/amluto/virtme) - An easy way to virtualize the running system
+- [weewx](https://github.com/weewx/weewx) - WeeWX code repository
+- [rss2wallabag](https://github.com/Findus23/rss2wallabag) - Import RSS feeds to Wallabag
+- [marker](https://github.com/pindexis/marker) - The terminal command palette
+- [bibtools](https://github.com/pkgw/bibtools) - Command-line bibliography manager
+- [scihub2pdf](https://github.com/bibcure/scihub2pdf) - Downloads pdfs via a DOI number, article title or a bibtex file, using the database of libgen(sci-hub) , arxiv
+- [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
+- [imagebatch](https://github.com/akkana/imagebatch) - Scripts for batch processing of images and creating web pages
+- [gpxpy](https://github.com/tkrajina/gpxpy) - gpx-py is a python GPX parser. GPX (GPS eXchange Format) is an XML based file format for GPS tracks.
+- [srtm.py](https://github.com/tkrajina/srtm.py) - Geo elevation data parser for "The Shuttle Radar Topography Mission" data
+- [gimp-plugins](https://github.com/akkana/gimp-plugins) - GIMP plug-ins, scripts and helpers
+- [scripts](https://github.com/akkana/scripts) - A collection of useful scripts that don't fit anywhere else
+- [diana](https://github.com/baskerville/diana) - A command line interface to the aria2 daemon
+- [pocket_curses](https://github.com/xoolive/pocket_curses) - An ncurses interface to Pocket API
+- [poku](https://github.com/shanedabes/poku) - Symmetrical sync between pocket and buku
+- [FilmThePast](https://github.com/JohanLink/FilmThePast) - 
+- [pandoc-mustache](https://github.com/michaelstepner/pandoc-mustache) - Pandoc filter for variable substitution using Mustache syntax
+- [pandoc-inline-headers](https://github.com/alpianon/pandoc-inline-headers) - Pandoc filter to render headers as inline headers in html, docx and odt conversion
+- [gols](https://github.com/euri10/gols) - upload garmin runs automatically on linux
+- [youtube-local](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously without javascript
+- [pcd8544](https://github.com/XavierBerger/pcd8544) - Raspberry Pi python library to drive PCD8544 LCD (Nokia 5110)
+- [RPi-Monitor-LCD](https://github.com/XavierBerger/RPi-Monitor-LCD) - Add a LCD screen to RPi-Monitor
+- [qfieldsync](https://github.com/opengisch/qfieldsync) - Sync your projects to QField on android
+- [WyzeSensePy](https://github.com/HclX/WyzeSensePy) - A python script communicating with WyzeSense gateway
+- [pexpect](https://github.com/pexpect/pexpect) - A Python module for controlling interactive programs in a pseudo-terminal
+- [rlist](https://github.com/wustho/rlist) - CLI tool to manage reading list as CSV file.
+- [pyzotero-cli](https://github.com/bjohas/pyzotero-cli) - Commandline interface for pyzotero
+- [hypothesis-zotero](https://github.com/JD-P/hypothesis-zotero) - A python tool that imports annotations made in Hypothesis (https://hypothes.is) to Zotero (https://www.zotero.org).
+- [chinese-subtitle-ocr](https://github.com/lars76/chinese-subtitle-ocr) - Optical character recognition for Chinese subtitles using SSD and CNN
+- [pandoc-tablenos](https://github.com/tomduck/pandoc-tablenos) - A pandoc filter for numbering tables and table references.
+- [pantable](https://github.com/ickc/pantable) - CSV Tables in Markdown: Pandoc Filter for CSV Tables
+- [imagine](https://github.com/hertogp/imagine) - A pandoc-filter for images
+- [imgp](https://github.com/jarun/imgp) - :camera_flash: High-performance CLI batch image resizer & rotator
+- [twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
+- [twitter-scraper](https://github.com/sruh/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
+- [supplementary-contours](https://github.com/tsamsonov/supplementary-contours) - ArcGIS Python toolbox for automated placement of supplementary contour lines
+- [sat-search](https://github.com/sat-utils/sat-search) - A python client for sat-api
+- [DeleteFB](https://github.com/weskerfoot/DeleteFB) - Automate Scrubbing your Facebook Presence
+- [scdl](https://github.com/flyingrub/scdl) - Soundcloud Music Downloader
+- [pytube](https://github.com/tuanpmt/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+- [python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser) - Bibtex parser for Python 2.7 and 3.3 or newer
+- [django-th](https://github.com/push-things/django-th) - :snake: Trigger Happy - The bus :bus: for your internet services
+- [maposmatic](https://github.com/hholzgra/maposmatic) - Mirror of maposmatic repository at savannah.nongnu.org
+- [Needl](https://github.com/eth0izzle/Needl) - Take back your privacy. Lose yourself in the haystack.
+- [radian](https://github.com/randy3k/radian) - A 21 century R console
+- [pdf417-py](https://github.com/ihabunek/pdf417-py) - PDF417 barcode generator for Python
+- [rockstar](https://github.com/avinassh/rockstar) - Makes you a Rockstar C++ Programmer in 2 minutes
+- [github-vanity](https://github.com/ihabunek/github-vanity) - Write to your GitHub activity chart
+- [radioscraper](https://github.com/ihabunek/radioscraper) - Scraping Croatian radio playlists
+- [tootstream](https://github.com/magicalraccoon/tootstream) - A command line interface for interacting with Mastodon instances
+- [MeiTingTrunk](https://github.com/Xunius/MeiTingTrunk) - An open source reference management tool developed in PyQt5 and Python3.
+- [meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software
+- [ripe-atlas-tools](https://github.com/RIPE-NCC/ripe-atlas-tools) - Official command-line client for RIPE Atlas
+- [ripe-atlas-community-contrib](https://github.com/RIPE-Atlas-Community/ripe-atlas-community-contrib) - Repository for links towards tools written during hackathons, and a collection of contributions by the community of the RIPE Atlas visualizations, tools for analysing measurements data and other scripts
+- [awesome-finder](https://github.com/mingrammer/awesome-finder) - :sunglasses: Search the awesome curated list without browser
+- [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
+- [castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
+- [toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
+- [patron](https://github.com/JeffVandrewJr/patron) - LibrePatron: A Self-Hosted Patreon Alternative for BTCPay
+- [scripts](https://github.com/bbugyi200/scripts) - Scripts... Many of which are dependencies for my dotfiles repository
+- [dotfiles](https://github.com/bbugyi200/dotfiles) - My Config Files
+- [tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
+- [s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
+- [epr](https://github.com/wustho/epr) - CLI Epub Reader
+- [qutebrowser-plugins](https://github.com/lecler-i/qutebrowser-plugins) - My homemade plugins for qutebrowser
+- [pandoc-reference-filter](https://github.com/bwhelm/pandoc-reference-filter) - internal referencing pandoc filter
+- [knitty](https://github.com/kiwi0fruit/knitty) - Jupyter power in plain Python/Julia/R/any-kernel-lang. Jupyter kernels output as Pandoc filter. Atom/Hydrogen friendly Markdown literature programming. Stitch/Knotr fork.
+- [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
+- [tasking-manager](https://github.com/hotosm/tasking-manager) - Tasking Manager - The tool for coordination of volunteers and organization of groups to map on OpenStreetMap
+- [proselint](https://github.com/amperser/proselint) - A linter for prose.
+- [0x0](https://github.com/lachs0r/0x0) - No-bullshit file hosting and URL shortening service
+- [pontoon](https://github.com/mozilla/pontoon) - Mozilla's Localization Platform
+- [kickthemout](https://github.com/k4m4/kickthemout) - 💤 Kick devices off your network by performing an ARP Spoof attack.
+- [arch-wiki-docs](https://github.com/lahwaacz/arch-wiki-docs) - A script to download pages from Arch Wiki for offline browsing
+- [utils](https://github.com/vimwiki/utils) - Various useful stuff for Vimwiki
+- [exquisite-corpus](https://github.com/LuminosoInsight/exquisite-corpus) - Put together a multilingual corpus from a variety of sources. Used for wordfreq and word embeddings.
+- [cihai-cli](https://github.com/cihai/cihai-cli) - CLI front-end for the cihai CJK library
+- [news_readability](https://github.com/taubergm/news_readability) - 
+- [diyHue](https://github.com/diyhue/diyHue) - Main diyHue software repo
+- [my-raspberry](https://github.com/reynico/my-raspberry) - My Archlinux Raspberry PI setup
+- [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video.
+- [platform](https://github.com/syncloud/platform) - Run popular services on your device with one click
+- [pastebinit](https://github.com/skorokithakis/pastebinit) - pastebinit is a command-line tool to send data to a "pastebin", a web site which allows its users to upload snippets of text for public viewing. ⛺
+- [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
+- [libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
+- [butterflow](https://github.com/dthpham/butterflow) - Make motion interpolated and fluid slow motion videos from the command line.
+- [reader](https://github.com/zyocum/reader) - Extract clean(er), readable text from web pages via Mercury Web Parser.
+- [qute-capture](https://github.com/alcah/qute-capture) - Use org-mode with Qutebrowser
+- [pyholecli](https://github.com/patrickjennings/pyholecli) - Remote management of a pi.hole instance.
+- [docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
+- [instagram2qgis](https://github.com/All4Gis/instagram2qgis) - Search and downloading Instagram images and create a point shapefile with them.
+- [searx](https://github.com/asciimoo/searx) - Privacy-respecting metasearch engine
+- [Gen2Kindle](https://github.com/shashanoid/Gen2Kindle) - Search, download, convert and send files directly to your kindle from Libgen in one place.
+- [pylibgen](https://github.com/joshuarli/pylibgen) - Python interface to Library Genesis. DEAD/UNMAINTAINED.
+- [libgen.py](https://github.com/adolfosilva/libgen.py) - Download books from gen.lib.rus.ec, libgen.io, libgen.pw, b-ok.org and bookfi.net
+- [Spanish_Inspire_Catastral_Downloader](https://github.com/sigdeletras/Spanish_Inspire_Catastral_Downloader) - A QGIS plugin to download cadastral data from INSPIRE Services of Spanish Cadastral Cartography
+- [srt](https://github.com/cdown/srt) - A simple library for parsing, modifying, and composing SRT files.
+- [QGIS_resources](https://github.com/klakar/QGIS_resources) - För användning av insticksprogrammet "Resource Sharing" till QGIS.
+- [BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
+- [c](https://github.com/rettier/c) - The C Macro
+- [pass-git-helper](https://github.com/languitar/pass-git-helper) - A git credential helper interfacing with pass, the standard unix password manager.
+- [drive-cli](https://github.com/nurdtechie98/drive-cli) - A command line interface for accessing google drive
+- [anavi-play-phat](https://github.com/AnaviTechnology/anavi-play-phat) - Simple open source hardware keyboard for playing games on Raspberry Pi
+- [sopds](https://github.com/mitshel/sopds) - Simple opds catalog
+- [inkcut](https://github.com/inkcut/inkcut) - An application for controlling 2D plotters, cutters, engravers, and CNC machines.
+- [springerdownload](https://github.com/tuxor1337/springerdownload) - Read-only mirror of https://framagit.org/tuxor1337/springerdownload. Pull requests and issues on GitHub cannot be accepted and will be automatically closed.
+- [dictmaster](https://github.com/tuxor1337/dictmaster) - Read-only mirror of https://framagit.org/tuxor1337/dictmaster Pull requests and issues on GitHub cannot be accepted and will be automatically closed.
 - [sp](https://github.com/Garee/sp) - 🔎 Search Startpage.com from the terminal.
 - [firefox-profilemaker](https://github.com/allo-/firefox-profilemaker) - Tool to create firefox profiles with good defaults.
-- [KoHighlights](https://github.com/noembryo/KoHighlights) - KoHighlights is a utility for viewing and converting the Koreader's history files to simple text
+- [KoHighlights](https://github.com/noembryo/KoHighlights) - KoHighlights is a utility for viewing Koreader's highlights and/or export them to simple text or html files.
 - [pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
 - [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing
-- [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - 📁 Transfer files over WiFi from your computer to your smartphone from the terminal
+- [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - 📡 Transfer files over WiFi between your computer and your smartphone from the terminal
 - [mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [gitdriver](https://github.com/larsks/gitdriver) - Create a git repository from the revision history of a document in Google Drive.
 - [octoknit](https://github.com/chixor/octoknit) - An interface to manage and upload stitch patterns for a Brother 950i knitting machine
@@ -1869,11 +2590,13 @@
 - [markdown-pp](https://github.com/jreese/markdown-pp) - Preprocessor for Markdown files to generate a table of contents and other documentation needs
 - [InstaLooter](https://github.com/althonos/InstaLooter) - Another API-less Instagram pictures and videos downloader.
 - [qutepocket](https://github.com/kepi/qutepocket) - qutebrowser userscript to save pages to Pocket
-- [vim-ghost](https://github.com/raghur/vim-ghost) - Nvim client for GhostText
+- [sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
+- [vim-ghost](https://github.com/raghur/vim-ghost) - Vim/Nvim client for GhostText - Edit browser text areas in Vim/Neovim
 - [persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
+- [jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [noteshrink](https://github.com/mzucker/noteshrink) - Convert scans of handwritten notes to beautiful, compact PDFs
-- [wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis
+- [wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2019, WikiTeam has preserved more than 250,000 wikis.
 - [TAPAS](https://github.com/SDI-SoftwareDefinedInverter/TAPAS) - Community drives inverter project
 - [krop](https://github.com/arminstraub/krop) - 
 - [Encoding-Software](https://github.com/medieval-source-book/Encoding-Software) - Software to automatically format prose and poetry into TEI XML
@@ -1888,8 +2611,8 @@
 - [esptool](https://github.com/espressif/esptool) - ESP8266 and ESP32 serial bootloader utility
 - [VESC-controller](https://github.com/paltatech/VESC-controller) - 
 - [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
-- [urh](https://github.com/jopohl/urh) - Universal Radio Hacker: investigate wireless protocols like a boss
-- [tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files
+- [urh](https://github.com/jopohl/urh) - Universal Radio Hacker: investigate wireless protocols like a boss 📡😎
+- [tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files.
 - [instagram-scraper](https://github.com/meetmangukiya/instagram-scraper) - Scrape the Instagram frontend. Inspired from twitter-scraper by @kennethreitz.
 - [lcd_mpd](https://github.com/HariHend1973/lcd_mpd) - 
 - [urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
@@ -1898,7 +2621,6 @@
 - [raspberry-pi-turnkey](https://github.com/schollz/raspberry-pi-turnkey) - How to make a Raspberry Pi image that can be deployed anywhere and assigned to a WiFi network without SSH :ok_hand:
 - [ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
-- [dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration
 - [SIP](https://github.com/Dan-in-CA/SIP) - A highly cusomizable DIY irrigation/sprinkler controller based on Raspberry Pi
 - [pyglossary-cc-cedict](https://github.com/benzrf/pyglossary-cc-cedict) - Convert CC-CEDICT into a pleasantly-formatted dictionary!
 - [beancount](https://github.com/beancount/beancount) - Official mirror of Beancount Mercurial repo on Github (updated manually and infrequently)
@@ -1907,27 +2629,27 @@
 - [python-mpd2](https://github.com/Mic92/python-mpd2) - Python library which provides a client interface for the Music Player Daemon.
 - [music-cards](https://github.com/hoveeman/music-cards) - Use RFID to call a curl command to homeassistant to play a Google Play playlist
 - [yq](https://github.com/kislyuk/yq) - Command-line YAML and XML processor - jq wrapper for YAML/XML documents
-- [webcomplete.vim](https://github.com/thalesmello/webcomplete.vim) - A plugin for Vim that completes words from your browser
-- [cihai-cli](https://github.com/cihai/cihai-cli) - CLI front-end for the cihai CJK library
 - [python-evdev](https://github.com/gvalkov/python-evdev) - Python bindings for the Linux input subsystem
-- [qgis2web](https://github.com/tomchadwin/qgis2web) - A QGIS plugin to export a map to an OpenLayers/Leaflet webmap
 - [picamera](https://github.com/waveform80/picamera) - A pure Python interface to the Raspberry Pi camera module
 - [P4wnP1](https://github.com/mame82/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.
 - [bibcure](https://github.com/bibcure/bibcure) - Bibcure helps in boring tasks by keeping your bibfile up to date and normalized...also allows you to easily download all papers inside your bibtex
 - [pubs](https://github.com/pubs/pubs) - Your bibliography on the command line
 - [gscholar](https://github.com/venthur/gscholar) - Query Google Scholar with Python
 - [curseradio](https://github.com/chronitis/curseradio) - Command line radio player
-- [papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
 - [extrakto](https://github.com/laktak/extrakto) - tmux clipboard copy and output completions
 - [serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor) - 🕵 Artificial Intelligence for social control of public administration
 - [zotero-cli](https://github.com/jbaiter/zotero-cli) - Command-line interface for Zotero
 - [HugoPhotoSwipe](https://github.com/GjjvdBurg/HugoPhotoSwipe) - Command-line tool for easy PhotoSwipe galleries in Hugo
+- [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
+- [osm4etrex10](https://github.com/dorski/osm4etrex10) - Create OSM based maps for eTrex 10 GPS receivers
 - [citation.vim](https://github.com/rafaqz/citation.vim) - Zotero and bibtex citations for Vim
-- [bridgy](https://github.com/snarfed/bridgy) - Bridgy pulls comments and likes from social networks back to your web site. You can also use it to publish your posts to those networks.
+- [bridgy](https://github.com/snarfed/bridgy) - 📣 Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more...
+- [rpi-ramdisk](https://github.com/ali1234/rpi-ramdisk) - Builds ramdisk environments for Raspberry Pi
 - [IMAP_DMS](https://github.com/theomega/IMAP_DMS) - A Document Managment System (DMS) using an IMAP Server as storage and for querying.
 - [open-paperless](https://github.com/zhoubear/open-paperless) - Scan, index, and archive all of your paper documents (acquired by Mayan EDMS)
 - [qb-scripts](https://github.com/peterjschroeder/qb-scripts) - Userscripts for qutebrowser
-- [pyzotero](https://github.com/urschrei/pyzotero) - A Python wrapper for the Zotero API
+- [datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data
+- [pyzotero](https://github.com/urschrei/pyzotero) - Pyzotero: a Python client for the Zotero API
 - [qutebrowser-zotero](https://github.com/parchd-1/qutebrowser-zotero) - A userscript (in the future, maybe a plugin) to connecto qutebrowser to zotero standalone
 - [Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin) - 📚 This is a modified version of the official Calibre plugin for Pocket. Now, you get The latest and the content organized by your tags, and more!
 - [cryptopuck](https://github.com/platisd/cryptopuck) - A handheld gadget that encrypts your drives on the fly
@@ -1951,12 +2673,12 @@
 - [pocket-cli](https://github.com/rakanalh/pocket-cli) - A terminal application for Pocket
 - [extracting-chinese-subs](https://github.com/kerrickstaley/extracting-chinese-subs) - Code to extract Chinese hard subs from the TV series 他来了请闭眼
 - [internetarchive](https://github.com/jjjake/internetarchive) - A Python and Command-Line Interface to Archive.org
-- [easyblogger](https://github.com/raghur/easyblogger) - Python client for Blogger platform. Write blog posts in Markdown and publish them on Blogger.
+- [easyblogger](https://github.com/raghur/easyblogger) - Python client for Blogger platform. Write blog posts in Markdown or asciidoc and publish them on Blogger.
 - [infopanel](https://github.com/partofthething/infopanel) - Show live data, animations, pictures, or anything on simple displays like RGB matrices
-- [bookmark-archiver](https://github.com/pirate/bookmark-archiver) - 🗄 Save an archived local copy of sites you browse. Takes browser history/bookmarks/Pocket/Pinboard/etc., outputs HTML, PDFs, and more...
+- [ArchiveBox](https://github.com/pirate/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [weibo_terminater](https://github.com/jinfagang/weibo_terminater) - Final Weibo Crawler Scrap Anything From Weibo, comments, weibo contents, followers, anything. The Terminator
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
-- [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
+- [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [spatial-media](https://github.com/google/spatial-media) - Specifications and tools for 360º video and spatial audio.
 - [neomake-platformio](https://github.com/coddingtonbear/neomake-platformio) - Simple tool allowing Neomake to properly lint when you're using PlatformIO.
 - [datapaka](https://github.com/centraldedados/datapaka) - An easy interface for documenting data packages
@@ -1973,7 +2695,7 @@
 - [graded-reader](https://github.com/jtauber/graded-reader) - tools for creating computer-generated, corpus-driven graded readers
 - [academicmarkdown](https://github.com/smathot/academicmarkdown) - Academic writing with Markdown
 - [gsync](https://github.com/iwonbigbro/gsync) - RSync for Google Drive - GSync
-- [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.29.1, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).
+- [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.30, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).
 - [cherrymusic](https://github.com/devsnd/cherrymusic) - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server.
 - [audio-reactive-led-strip](https://github.com/scottlawsonbc/audio-reactive-led-strip) - :musical_note: :rainbow: Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi
 - [lachesis](https://github.com/readbeyond/lachesis) - lachesis automates the segmentation of a transcript into closed captions
@@ -1983,11 +2705,10 @@
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [python_scripts](https://github.com/ekbrown/python_scripts) - Python scripts for corpus linguistics
 - [riko](https://github.com/nerevu/riko) - A Python stream processing engine modeled after Yahoo! Pipes
-- [selected-hymns](https://github.com/ickc/selected-hymns) - Selected Hymns
-- [autosub](https://github.com/agermanidis/autosub) - Command-line utility for auto-generating subtitles for any video file
-- [remarshal](https://github.com/dbohdan/remarshal) - Convert between TOML, YAML and JSON
+- [autosub](https://github.com/agermanidis/autosub) - [NO LONGER MAINTAINED] Command-line utility for auto-generating subtitles for any video file
+- [remarshal](https://github.com/dbohdan/remarshal) - Convert between JSON, MessagePack, TOML, and YAML
 - [mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notifiy pluggable services
-- [Roam](https://github.com/DMS-Aus/Roam) - Simple data collection built using QGIS.
+- [Roam](https://github.com/roam-qgis/Roam) - Simple data collection built using QGIS.
 - [gmvault](https://github.com/gaubert/gmvault) - gmail backup software
 - [ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images.
 - [completor.vim](https://github.com/maralla/completor.vim) - Async completion framework made ease.
@@ -2011,7 +2732,7 @@
 - [markdown2bib](https://github.com/rreece/markdown2bib) - Converts simple markdown-formatted APA bibliographies to bibtex
 - [pandoc-tpp](https://github.com/tomduck/pandoc-tpp) - A pandoc template preprocessor.
 - [pinry](https://github.com/pinry/pinry) - The open-source core of Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
-- [Buku](https://github.com/jarun/Buku) - :bookmark: Bookmarking simplified
+- [buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
 - [googler](https://github.com/jarun/googler) - :eyes: Google from the terminal
 - [flickrup](https://github.com/drcursor/flickrup) - Raspberry PI (auto) Flickr uploader
 - [enigma2](https://github.com/openatv/enigma2) - openatv-gui
@@ -2026,10 +2747,10 @@
 - [xonsh](https://github.com/xonsh/xonsh) - Python-powered, cross-platform, Unix-gazing shell
 - [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
-- [cove](https://github.com/OpenDataServices/cove) - CoVE is an web application to Convert, Validate and Explore data following certain open data standards - currently 360Giving and the Open Contracting Data standard.
+- [cove](https://github.com/OpenDataServices/cove) - CoVE is an web application to Convert, Validate and Explore data following certain open data standards - including 360Giving, Open Contracting Data Standard, IATI and the Beneficial Ownership Data Standard
 - [flatten-tool](https://github.com/OpenDataServices/flatten-tool) - Tools for generating CSV and other flat versions of the structured data
 - [diffs](https://github.com/christofs/diffs) - Python script to classify differences between two text versions
-- [osqa](https://github.com/dzone/osqa) - OSQA is a free, entry-level Q&A system from the makers of AnswerHub, the market-leading professional Q&A platform.   Looking for Enterprise functionality?  Checkout http://answerhub.com
+- [osqa](https://github.com/dzone/osqa) - OSQA is a free, entry-level Q&A system from the makers of AnswerHub, the market-leading professional Q&A platform.   Looking for Enterprise functionality?  Checkout https://devada.com/answerhub/
 - [GMapCatcher](https://github.com/heldersepu/GMapCatcher) - An offline map viewer
 - [wordfreq](https://github.com/LuminosoInsight/wordfreq) - Access a database of word frequencies, in various natural languages.
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
@@ -2039,11 +2760,11 @@
 - [enigma2](https://github.com/OpenPLi/enigma2) - Framebuffer based frontend for DVB functions on Linux settop boxes
 - [yamlradio](https://github.com/GijsTimmers/yamlradio) - A small Python script to play various radio stations from a terminal.
 - [pymux](https://github.com/prompt-toolkit/pymux) - A terminal multiplexer (like tmux) in Python
-- [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages
 - [beets-mpdadd](https://github.com/danielgreve/beets-mpdadd) - Add results from a beets query to the current MPD playlist
 - [mpd-ps](https://github.com/choffm/mpd-ps) - MPD Playlist Synchronizer: A small python tool with numerous features, which copies the audio files in the current MPD playlist to a target directory.
 - [mpw](https://github.com/rollcat/mpw) - Simple web UI for MPD
 - [ncmpy](https://github.com/cykerway/ncmpy) - a curses mpd client;
+- [ubos-docs](https://github.com/uboslinux/ubos-docs) - UBOS documentation
 - [pywws](https://github.com/jim-easterbrook/pywws) - Python software for USB Wireless WeatherStations
 - [projectcuracao](https://github.com/projectcuracao/projectcuracao) - Deployed Pi software for Project Curacao
 - [neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
@@ -2053,13 +2774,12 @@
 - [canto-next](https://github.com/themoken/canto-next) - The next generation Canto RSS daemon
 - [GPicSync](https://github.com/FrancoisSchnell/GPicSync) - :earth_americas::globe_with_meridians: GPicSync: inserts location in your pictures metadata from a GPS tracklog.
 - [warcat](https://github.com/chfoo/warcat) - Tool and library for handling Web ARChive (WARC) files.
-- [screenly-ose](https://github.com/Screenly/screenly-ose) - Screenly OSE | Digital Signage for the Raspberry Pi
 - [podoc](https://github.com/podoc/podoc) - [EXPERIMENTAL] pandoc-compatible, Jupyter-aware document conversion library in Python
-- [cookiecutter](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
+- [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, jQuery plugin projects.
 - [brat](https://github.com/nlplab/brat) - brat rapid annotation tool (brat) - for all your textual annotation needs
 - [pocket-on-term](https://github.com/tcpj/pocket-on-term) - Pocket client for terminals
 - [documentation](https://github.com/raspberrypi/documentation) - Official documentation for the Raspberry Pi
-- [pockyt](https://github.com/arvindch/pockyt) - automate and manage your pocket collection
+- [pockyt](https://github.com/arvindch/pockyt) - Automate & manage your Pocket.com collection.
 - [pipsi](https://github.com/mitsuhiko/pipsi) - pip script installer
 - [saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [rc-data](https://github.com/deepmind/rc-data) - Question answering dataset featured in "Teaching Machines to Read and Comprehend
@@ -2091,15 +2811,15 @@
 - [bsdploy](https://github.com/ployground/bsdploy) - BSDploy is a tool to provision, configure and maintain FreeBSD jails.
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 - [search-script-scrape](https://github.com/stanfordjournalism/search-script-scrape) - 101 real world web scraping exercises in Python 3 for data journalists
-- [plugin.video.emby](https://github.com/MediaBrowser/plugin.video.emby) - Emby add-on for Kodi
+- [plugin.video.emby](https://github.com/MediaBrowser/plugin.video.emby) - Integrate your Emby media library in Kodi
 - [deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - :stars: Dark powered asynchronous completion framework for neovim/Vim8
 - [ebooklib](https://github.com/aerkalov/ebooklib) - Python E-book library for handling books in EPUB2/EPUB3  format -
 - [markdown2ctags](https://github.com/jszakmeister/markdown2ctags) - Generate ctags-compatible tags files for Markdown documents.
-- [foss-profiles](https://github.com/FOSSRIT/foss-profiles) - HTML generator to create a page for student profiles from YAML files
+- [foss-profiles](https://github.com/FOSSRIT/foss-profiles) - HTML generator to create a page for participant profiles from YAML files
 - [tmw](https://github.com/cligs/tmw) - Topic Modeling Workflow in Python
 - [polysquare-travis-container](https://github.com/polysquare/polysquare-travis-container) - Creates a container to install a mini-distribution without root access on the Travis-CI container based infrastructure
 - [ghp-import](https://github.com/davisp/ghp-import) - Easily import docs to your gh-pages branch.
-- [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles :zap:
+- [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [nvim-ipy](https://github.com/bfredl/nvim-ipy) - IPython/Jupyter plugin for Neovim
 - [pypandoc](https://github.com/bebraw/pypandoc) - Thin wrapper for "pandoc" (MIT)
 - [pandoc-reference-filter](https://github.com/aaren/pandoc-reference-filter) - internal referencing pandoc filter
@@ -2122,11 +2842,11 @@
 - [xbmc-client](https://github.com/jcsaaddupuy/xbmc-client) - XBMC command line client
 - [xbmc-addons-chinese](https://github.com/taxigps/xbmc-addons-chinese) - Addon scripts, plugins, and skins for XBMC Media Center. Special for chinese laguage.
 - [newsdiffs](https://github.com/ecprice/newsdiffs) - Automatic scraper that tracks changes in news articles over time.
-- [yaml-mailer](https://github.com/bamos/yaml-mailer) - Email many people different messages.
 - [termsql](https://github.com/tobimensch/termsql) - Convert text from a file or from stdin into SQL table and query it instantly. Uses sqlite as backend. The idea is to make SQL into a tool on the command line or in scripts.
 - [pandoc-eqnos](https://github.com/tomduck/pandoc-eqnos) - A pandoc filter for numbering equations and equation references.
 - [pandoc-fignos](https://github.com/tomduck/pandoc-fignos) - A pandoc filter for numbering figures and figure references.
 - [simhash](https://github.com/leonsim/simhash) - A Python Implementation of Simhash Algorithm
+- [HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification via one unified interface.
 - [clf](https://github.com/ncrocfer/clf) - Command line tool to search and view snippets in the terminal
 - [landsat-util](https://github.com/developmentseed/landsat-util) - A utility to search, download and process Landsat 8 satellite imagery
 - [Appraise](https://github.com/cfedermann/Appraise) - Appraise evaluation system for manual evaluation of machine translation output
@@ -2139,7 +2859,7 @@
 - [jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 - [nbopen](https://github.com/takluyver/nbopen) - Open a Jupyter notebook in the best available server
 - [bash_kernel](https://github.com/takluyver/bash_kernel) - A bash kernel for IPython
-- [pombola](https://github.com/mysociety/pombola) - Pombola is a parliamentary monitoring (PMO) platform; its biggest instances are Mzalendo.com and pa.org.za
+- [pombola](https://github.com/mysociety/pombola) - 
 - [nota](https://github.com/dankelley/nota) - Terminal-oriented note-taking application.
 - [ipymd](https://github.com/rossant/ipymd) - Use the IPython notebook as an interactive Markdown editor
 - [amcat-scraping](https://github.com/amcat/amcat-scraping) - Contains scraper logic and scrapers themselves for AmCAT
@@ -2221,28 +2941,26 @@
 - [dantalian](https://github.com/darkfeline/dantalian) - File tagging with hard links
 - [jotmuch](https://github.com/davidlazar/jotmuch) - Jotmuch bookmark manager
 - [paperboy](https://github.com/baumartig/paperboy) - Server for compiling and sending the calibre news.
-- [CommonMark](https://github.com/commonmark/CommonMark) - CommonMark spec, with reference implementations in C and JavaScript
+- [commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript
 - [livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [Zhudi](https://github.com/Jiehong/Zhudi) - Zhudi is a graphical interface to xDICT kind of free dictionaries.
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [videogrep](https://github.com/antiboredom/videogrep) - automatic video supercuts with python
 - [data-science-toolbox](https://github.com/DataScienceToolbox/data-science-toolbox) - Start doing data science in minutes
-- [vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
 - [learning](https://github.com/rmalouf/learning) - Notes on learning models (Rescorla-Wagner, etc)
 - [docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
 - [jasper-client](https://github.com/jasperproject/jasper-client) - Client code for Jasper voice computing platform
-- [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share a file of any size
+- [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously send and receive files, and publish onion sites
 - [khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [mynt](https://github.com/Anomareh/mynt) - A static site generator.
 - [mopidy-podcast](https://github.com/tkem/mopidy-podcast) - Mopidy extension for browsing and playing podcasts
 - [vimhelppdf](https://github.com/nathangrigg/vimhelppdf) - Create hyperlinked PDF file of the vim help documents
 - [poche-to-calibre](https://github.com/FaustXVI/poche-to-calibre) - A script to get your inthepoche bookmarks down to calibre in epub format
-- [calibre-kobo-driver](https://github.com/jgoguen/calibre-kobo-driver) - This plugin has moved to https://bitbucket.org/jgoguen/calibre-kobo-driver/
+- [calibre-kobo-driver](https://github.com/jgoguen/calibre-kobo-driver) - An extension of the existing KoboTouch driver provided with Calibre. This plugin allows modifying ePub files to enable extra Kobo features. I am providing code in the repository to you under an open source license. Because this is my personal repository, the license you receive to my code is from me and not my employer.
 - [dirbot](https://github.com/scrapy/dirbot) - Scrapy project to scrape public web directories (educational) [DEPRECATED]
 - [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
-- [conceptnet5](https://github.com/commonsense/conceptnet5) - Code for building ConceptNet from raw data.
-- [warctools](https://github.com/internetarchive/warctools) - warctools
+- [warctools](https://github.com/internetarchive/warctools) - Command line tools and libraries for handling and manipulating WARC files (and HTTP contents)
 - [bashplotlib](https://github.com/glamp/bashplotlib) - plotting in the terminal
 - [gh-mirror](https://github.com/cdown/gh-mirror) - Mirror all GitHub repositories for a user, maintaining metadata.
 - [pandoc-citekeys](https://github.com/andrewheiss/pandoc-citekeys) - Simple Python scripts to make it easier to use BibTeX citations in pandoc Markdown.
@@ -2280,7 +2998,7 @@
 - [vim-pandemic](https://github.com/jwcxz/vim-pandemic) - Manage remote pathogen bundles from multiple source types
 - [abpcrawler](https://github.com/adblockplus/abpcrawler) - Website crawler for Adblock Plus
 - [curlish](https://github.com/fireteam/curlish) - A wrapper around curl to support OAuth 2.0
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/  🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [readerisdead](https://github.com/mihaip/readerisdead) - A collection of tools to help with the Google Reader shutdown.
 - [colout](https://github.com/nojhan/colout) - Color text streams with a polished command line interface
 - [pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
@@ -2293,7 +3011,7 @@
 - [publicity_machine](https://github.com/mediastandardstrust/publicity_machine) - Project to grab press releases and feed them up to a churnalism engine
 - [mcdsupport](https://github.com/tarix/mcdsupport) - MCD  Support Plugin for Anki
 - [anki_tool](https://github.com/repolho/anki_tool) - Low level manipulation of anki collections
-- [anki](https://github.com/dae/anki) - Anki for desktop computers
+- [anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
 - [subdl](https://github.com/shantanugoel/subdl) - Python based command-line tool to download subtitles from opensubtitles.org
 - [python-boilerpipe](https://github.com/misja/python-boilerpipe) - Python interface to Boilerpipe, Boilerplate Removal and Fulltext Extraction from HTML pages
@@ -2305,7 +3023,6 @@
 - [congress-legislators](https://github.com/unitedstates/congress-legislators) - Members of the United States Congress, 1789-Present, in YAML/JSON/CSV, as well as committees, presidents, and vice presidents.
 - [subcommander](https://github.com/datagrok/subcommander) - Collect your pile of utility scripts into a single command, as sub-commands.
 - [pandocket](https://github.com/wcaleb/pandocket) - A python script that looks for special lines in a markdown file and uses those lines to convert, clean up, and insert content from URLs into the file for processing by pandoc
-- [Ally-Py](https://github.com/sourcefabric/Ally-Py) - Ally-py
 - [anim_encoder](https://github.com/sublimehq/anim_encoder) - 
 - [periodical](https://github.com/tlvince/periodical) - Create a Kindle periodical from given URL(s)
 - [babelsubs](https://github.com/pculture/babelsubs) - A library that helps you to convert from one subtitle format to another
@@ -2319,7 +3036,7 @@
 - [cjklib](https://github.com/cburgmer/cjklib) - Han character library for CJKV languages
 - [hundict](https://github.com/zseder/hundict) - bilingual dictionary extractor from parallel corpora
 - [ted-talks-download](https://github.com/joedicastro/ted-talks-download) - A pair of scripts to download videos and subtitles for the TED Talks (http://www.ted.com)
-- [scraperwiki-python](https://github.com/scraperwiki/scraperwiki-python) - ScraperWiki Python library for scraping and saving data
+- [scraperwiki-python](https://github.com/sensiblecodeio/scraperwiki-python) - ScraperWiki Python library for scraping and saving data
 - [translate](https://github.com/translate/translate) - Useful localization tools with Python API for building localization & translation systems
 - [mtscripts](https://github.com/translate/mtscripts) - Scripts for converting data into a  Moses corpus and for building a Moses model from the corpus
 - [amagama](https://github.com/translate/amagama) - Web service for implementing a large-scale translation memory
@@ -2340,23 +3057,22 @@
 - [vidscraper](https://github.com/pculture/vidscraper) - Vidscraper is a python library which provides a simple API for fetching video data from various web services and sites.
 - [pandoc2rfc](https://github.com/miekg/pandoc2rfc) - Use pandoc to create XML suitable for xml2rfc
 - [vim-pad](https://github.com/fmoralesc/vim-pad) - a quick notetaking plugin
-- [unisubs](https://github.com/pculture/unisubs) - Amara
 - [pyechonest](https://github.com/echonest/pyechonest) - Python client for the Echo Nest API
 - [caliload](https://github.com/bkidwell/caliload) - a wrapper script for various Calibre command line tools that allows you to add and update books from an offline library.
 - [bibserver](https://github.com/okfn/bibserver) - BibServer is open-source software what makes it easy to publish, manage and find bibliographies. BibServer is RESTful and web-friendly.
 - [plowbot](https://github.com/chmduquesne/plowbot) - A minimalist jabber bot for plowshare
 - [kytea-python](https://github.com/seikichi/kytea-python) - 
-- [klaus](https://github.com/jonashaag/klaus) - pip install klaus -- the first Git web viewer that Just Works™.
+- [klaus](https://github.com/jonashaag/klaus) - docker run klaus / pip install klaus — the first Git web viewer that Just Works™.
 - [plagwiki](https://github.com/kahrl/plagwiki) - Tools for plagiarism wikis
 - [evervim](https://github.com/kakkyz81/evervim) - edit evernote on vim.
 - [franki](https://github.com/athrun/franki) - Field replacement for Anki
 - [acoustid-server](https://github.com/acoustid/acoustid-server) - AcoustID's web site and API
-- [unoconv](https://github.com/dagwieers/unoconv) - Universal Office Converter - Convert between any document format supported by LibreOffice/OpenOffice.
+- [unoconv](https://github.com/unoconv/unoconv) - Universal Office Converter - Convert between any document format supported by LibreOffice/OpenOffice.
 - [echoprint-server](https://github.com/echonest/echoprint-server) - Server components for Echoprint
 - [csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 - [Herd](https://github.com/russss/Herd) - A single-command bittorrent distribution system, based on Twitter's Murder
 - [dvcs-autosync](https://github.com/rmayr/dvcs-autosync) - dvcs-autosync is a project to create an open source replacement for Dropbox/Wuala/Box.net/etc. based on distributed version control systems (DVCS). It offers nearly instantaneous mutual updates when a file is added or changes on one side but with the added benefit of (local, distributed) versioning and does not rely on a centralized service provider.
-- [tablib](https://github.com/kennethreitz/tablib) - Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.
+- [tablib](https://github.com/jazzband/tablib) - Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.
 - [gitmarks_2](https://github.com/FarMcKon/gitmarks_2) - Gitmarks 2.0. is a peer to peer bookmarking tool.
 - [CEDICT_Parser](https://github.com/zkoch/CEDICT_Parser) - Python files for parsing chinese dictionary CEDICT
 - [annotator-store](https://github.com/openannotation/annotator-store) - A backend store for the Annotator
@@ -2369,7 +3085,7 @@
 - [websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. Implementations in Python, C, Node.js and Ruby.
 - [pytee](https://github.com/KonishchevDmitry/pytee) - Video player for watching movies with subtitles
 - [redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.
-- [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
 - [pyopenkeyval](https://github.com/marcuse/pyopenkeyval) - A simple Python interface to OpenKeyval.org
 - [PyPagekite](https://github.com/pagekite/PyPagekite) - Python implementation of the PageKite remote front-end protocols.
@@ -2388,8 +3104,8 @@
 - [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [eclectus](https://github.com/cburgmer/eclectus) - Han character dictionary
 - [theyworkforyou](https://github.com/mysociety/theyworkforyou) - Keeping tabs on the UK's parliaments and assemblies
-- [ankiplugins](https://github.com/dae/ankiplugins) - Plugins for Anki on the desktop
-- [mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server that plays music from local disk, Spotify, SoundCloud, Google Play Music, and more. You edit the playlist from any phone, tablet, or computer using a range of MPD and web clients.
+- [anki-addons](https://github.com/ankitects/anki-addons) - Source code for some Anki add-ons
+- [mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [gas](https://github.com/rcrowley/gas) - Gas is a tiny prefork WSGI server and app for streaming static files through grep-, awk- and sed-like generators.
 - [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [pinyin-toolkit](https://github.com/batterseapower/pinyin-toolkit) - A plugin for the Anki Spaced Repetition System (http://ichi2.net/anki/)
@@ -2406,9 +3122,33 @@
 
 ## R 
 
+- [distill](https://github.com/rstudio/distill) - Distill for R Markdown
+- [bookbuildeR](https://github.com/thomasWeise/bookbuildeR) - An R Package for Building Books or Documents using pandoc
+- [usethis](https://github.com/r-lib/usethis) - Set up commonly used 📦 components
+- [git2rdata](https://github.com/ropensci/git2rdata) - An R package for storing and retrieving data.frames in git repositories.
+- [RQGIS3](https://github.com/r-spatial/RQGIS3) - 
+- [redoc](https://github.com/noamross/redoc) - Reversible Reproducible Documents
+- [prettycode](https://github.com/r-lib/prettycode) - Syntax highlight R code in the terminal
+- [cli](https://github.com/r-lib/cli) - Tools for making beautiful & useful command line interfaces
+- [rdoc](https://github.com/mdequeljoe/rdoc) - colourised R docs in the terminal
+- [opensensmapR](https://github.com/sensebox/opensensmapR) - R client for opensensemap.org
+- [pxR](https://github.com/cjgb/pxR) - 
+- [Learn-R-by-Example](https://github.com/photonlines/Learn-R-by-Example) - R script which gives an overview of R through code and code comments.
+- [gsir-te](https://github.com/eddelbuettel/gsir-te) - Getting Started in R -- Tinyverse Edition
+- [unix](https://github.com/jeroen/unix) - R bindings to system utilities found in most Unix systems
+- [bookdown.org](https://github.com/rstudio/bookdown.org) - Source documents to generate the bookdown.org website
+- [gganimate](https://github.com/thomasp85/gganimate) - A Grammar of Animated Graphics
+- [reticulate](https://github.com/rstudio/reticulate) - R Interface to Python
+- [RQGIS](https://github.com/r-spatial/RQGIS) - RQGIS - integrating R with QGIS
+- [janitor](https://github.com/sfirke/janitor) - simple tools for data cleaning in R
+- [DataPackageR](https://github.com/ropensci/DataPackageR) - An R package to enable reproducible data processing, packaging and sharing.
+- [vcr](https://github.com/ropensci/vcr) - Record HTTP calls and replay them
+- [crul](https://github.com/ropensci/crul) - R6 based http client for R (made for developers)
+- [osmplotr](https://github.com/ropensci/osmplotr) - Data visualisation using OpenStreetMap objects
+- [drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
 - [dryworkflow](https://github.com/petebaker/dryworkflow) - DRY (Don't Repeat Yourself) Workflow for more efficient data analysis using R
-- [pubcrawl](https://github.com/hrbrmstr/pubcrawl) - 🍺📖 Convert 'epub' Files to Text
-- [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for Producing and Visualizing Hillshaded Maps from Elevation Matrices, in 2D and 3D
+- [pubcrawl](https://github.com/hrbrmstr/pubcrawl) - 🍺📖 Convert 'epub' Files to Text (Use https://github.com/ropensci/epubr instead)
+- [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization
 - [decapitated](https://github.com/hrbrmstr/decapitated) - Headless 'Chrome' Orchestration in R
 - [A-Psychologists-Guide-to-R](https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R) - A repository containing the course notes and worked examples for a six week course in the R statistical programming language aimed at helping psychology students and faculty to learn R. This course was taught live at the University of Melbourne, Australia in 2016.
 - [tabulizer](https://github.com/ropensci/tabulizer) - Bindings for Tabula PDF Table Extractor Library
@@ -2427,7 +3167,7 @@
 - [getlandsat](https://github.com/ropensci/getlandsat) - get landsat 8 images and metadata
 - [sowsear](https://github.com/richfitz/sowsear) - Frictionless literate programming: generate knitr files from R scripts
 - [syncr](https://github.com/mrc-ide/syncr) - :arrows_clockwise: R interface to rsync
-- [rnaturalearth](https://github.com/ropensci/rnaturalearth) - :earth_africa: an R package to hold and facilitate interaction with natural earth map data
+- [rnaturalearth](https://github.com/ropensci/rnaturalearth) - an R package to hold and facilitate interaction with natural earth map data :earth_africa:
 - [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) - A curated list of awesome network analysis resources.
 - [clustext](https://github.com/trinker/clustext) - Easy, fast clustering of texts
 - [bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
@@ -2441,18 +3181,18 @@
 - [tabplot](https://github.com/mtennekes/tabplot) - R package for tableplot visualisation
 - [treemap](https://github.com/mtennekes/treemap) - R package for treemap visualisation
 - [tmap](https://github.com/mtennekes/tmap) - R package for thematic maps
-- [multidplyr](https://github.com/hadley/multidplyr) - Partitioned data frames for 'dplyr'
+- [multidplyr](https://github.com/tidyverse/multidplyr) - A dplyr backend that partitions a data frame over multiple processes
 - [text2vec](https://github.com/dselivanov/text2vec) - Fast vectorization, topic modeling, distances and GloVe word embeddings in R.
 - [remoter](https://github.com/RBigData/remoter) - Control a remote R session from your local R session.
 - [stringdist](https://github.com/markvanderloo/stringdist) - String distance functions for R
-- [pacman](https://github.com/trinker/pacman) - A package management tools for R
+- [rsyntax](https://github.com/vanatteveldt/rsyntax) - R library to help dealing with syntactic structure
 - [textshape](https://github.com/trinker/textshape) - Tools for reshaping text data
 - [videoplayR](https://github.com/swarm-lab/videoplayR) - A computer vision library for R
 - [rzeit](https://github.com/jandix/rzeit) - Interface to gather newspaper articles from ZEIT ONLINE, based on a multilevel query. Including sorting algorithms and graphical output options.
 - [reprex](https://github.com/tidyverse/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
 - [neocities](https://github.com/seankross/neocities) - :smiley_cat: An R Package for the Neocities API
 - [openssl](https://github.com/jeroen/openssl) - OpenSSL bindings for R
-- [r4ds](https://github.com/hadley/r4ds) - R for data science
+- [r4ds](https://github.com/hadley/r4ds) - R for data science: a book
 - [learningr](https://github.com/richierocks/learningr) - Data and functions to accompany the book "Learning R".
 - [pathological](https://github.com/richierocks/pathological) - R package of utilities for handling paths, files and directories
 - [rebus](https://github.com/richierocks/rebus) - 
@@ -2479,14 +3219,13 @@
 - [tm.plugin.webmining](https://github.com/mannau/tm.plugin.webmining) - Retrieve structured, textual data from various web sources.
 - [boilerpipeR](https://github.com/mannau/boilerpipeR) - Interface to the boilerpipe Java library by Christian Kohlschutter  (http://code.google.com/p/boilerpipe/)
 - [pdfetch](https://github.com/cran/pdfetch) - :exclamation: This is a read-only mirror of the CRAN R package repository.  pdfetch — Fetch Economic and Financial Time Series Data from Public Sources. Homepage: https://github.com/abielr/pdfetch  Report bugs for this package: https://github.com/abielr/pdfetch/issues
-- [tigerstats](https://github.com/homerhanumat/tigerstats) - An R package for the teaching of statistics
-- [crandb](https://github.com/metacran/crandb) - Database of CRAN R packages
-- [prettyunits](https://github.com/gaborcsardi/prettyunits) - Pretty, human readable formatting of quantities
+- [crandb](https://github.com/r-hub/crandb) - Database of CRAN R packages
+- [prettyunits](https://github.com/r-lib/prettyunits) - Pretty, human readable formatting of quantities
 - [rblocks](https://github.com/ramnathv/rblocks) - A fun and visual way to learn data structures and control flow in R.
 - [docopt.R](https://github.com/docopt/docopt.R) - Command-line interface description language for R (http://docopt.org)
 - [whisker](https://github.com/edwindj/whisker) - {{mustache}} for R
 - [daff](https://github.com/edwindj/daff) - Diff, patch and merge for data.frames, see  http://paulfitz.github.io/daff/
-- [plumber](https://github.com/trestletech/plumber) - Turn your R code into a web API.
+- [plumber](https://github.com/rstudio/plumber) - Turn your R code into a web API.
 - [arcdiagram](https://github.com/gastonstat/arcdiagram) - R package arcdiagram
 - [Rdataviz](https://github.com/pablobarbera/Rdataviz) - Materials for workshop "Data Visualization with R and ggplot2"
 - [quant3materials](https://github.com/pablobarbera/quant3materials) - PhD course: Quantitative Methods for Political Science III (NYU) -- Recitation Materials
@@ -2496,7 +3235,7 @@
 - [mason](https://github.com/metacran/mason) - A friendly craftsman that builds you great R packages
 - [stringr](https://github.com/tidyverse/stringr) - A fresh approach to string manipulation in R
 - [uniqtag](https://github.com/sjackman/uniqtag) - Abbreviate strings to short, unique identifiers
-- [papaja](https://github.com/crsh/papaja) - papaja (Preparing APA Journal Articles) is an R package that provides document formats and helper functions to produce complete APA manscripts from RMarkdown-files (PDF and Word documents).
+- [papaja](https://github.com/crsh/papaja) - papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manscripts from RMarkdown-files (PDF and Word documents) and helper functions that facilitate reporting statistics, tables, and plots.
 - [R_recommendations](https://github.com/TalkStats/R_recommendations) - 
 - [rredis](https://github.com/bwlewis/rredis) - R client for Redis
 - [rappdirs](https://github.com/r-lib/rappdirs) - A port of AppDirs for R
@@ -2516,7 +3255,7 @@
 - [rlogging](https://github.com/mjkallen/rlogging) - An R package for simple logging
 - [rio](https://github.com/leeper/rio) - A Swiss-Army Knife for Data I/O
 - [broom](https://github.com/tidymodels/broom) - Convert statistical analysis objects from R into tidy format
-- [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R
+- [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R.
 - [WDI](https://github.com/vincentarelbundock/WDI) - 
 - [ggplot2-tutorial](https://github.com/jennybc/ggplot2-tutorial) - Teaching materials for the R package ggplot2
 - [testdat](https://github.com/karthik/testdat) - A package to run unit tests on tabular data
@@ -2525,6 +3264,7 @@
 - [textreuse](https://github.com/ropensci/textreuse) - Detect text reuse and document similarity
 - [readr](https://github.com/tidyverse/readr) - Read flat files (csv, tsv, fwf) into R
 - [rethinking](https://github.com/rmcelreath/rethinking) - Statistical Rethinking course and book package
+- [Rmarkdown_tutorial](https://github.com/Pakillo/Rmarkdown_tutorial) - Reproducible Research with Rmarkdown: data management, analysis, and reporting all-in-one
 - [R-GIS-tutorial](https://github.com/Pakillo/R-GIS-tutorial) - Spatial data in R: using R as a GIS
 - [plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R
 - [amcat-r](https://github.com/amcat/amcat-r) - R bindings and utility functions for working with AmCAT
@@ -2541,7 +3281,7 @@
 - [internetarchive](https://github.com/ropensci/internetarchive) - Search the Internet Archive, retrieve metadata, and download files
 - [servr](https://github.com/yihui/servr) - A simple HTTP server in R
 - [template](https://github.com/cboettig/template) - :package: A template for my research projects, based on the R package structure
-- [crayon](https://github.com/r-lib/crayon) - R package for colored terminal output
+- [crayon](https://github.com/r-lib/crayon) - 🖍️ R package for colored terminal output
 - [jiebaRD](https://github.com/qinwf/jiebaRD) - Chinese Text Segmentation Data for jiebaR Package
 - [packrat](https://github.com/rstudio/packrat) - Packrat is a dependency management system for R
 - [imguR](https://github.com/cloudyr/imguR) - R imgur API Client
@@ -2559,14 +3299,15 @@
 - [Rweibo](https://github.com/lijian13/Rweibo) - Rweibo repos
 - [Rwordseg](https://github.com/lijian13/Rwordseg) - Chinese word segmentation
 - [emuR](https://github.com/IPS-LMU/emuR) - The main R package for the EMU Speech Database Management System (EMU-SDMS)
+- [littler](https://github.com/eddelbuettel/littler) - A scripting and command-line front-end for GNU R
 - [RConcerto](https://github.com/EconometricsBySimulation/RConcerto) - A package to supplement and simplify the base Concerto commands.
 - [r-graph-catalog](https://github.com/jennybc/r-graph-catalog) - All graphs in “Creating More Effective Graphs”, made with R package ggplot2.
 - [RODProt](https://github.com/QBRC/RODProt) - An R Client for Interacting with data encoded in one of the 'Open Data Protocols' standards.
-- [rvest](https://github.com/hadley/rvest) - Simple web scraping for R
+- [rvest](https://github.com/tidyverse/rvest) - Simple web scraping for R
 - [Bio313](https://github.com/pmagwene/Bio313) - OLD Course repository for Bio 313 -- See Bio 723
 - [ProjectTemplate](https://github.com/KentonWhite/ProjectTemplate) - A template utility for R projects that provides a skeletal project.
 - [RDocumentation](https://github.com/datacamp/RDocumentation) - R package to integrate rdocumentation.org into your R workflow
-- [courses-intro-to-r](https://github.com/datacamp/courses-intro-to-r) - An free interactive introduction to R tutorial for DataCamp.com
+- [courses-introduction-to-r](https://github.com/datacamp/courses-introduction-to-r) - Introduction to R by Jonathan Cornelissen
 - [datacamp](https://github.com/datacamp/datacamp) - R package to create interactive courses for www.datacamp.com
 - [SimpleAintEasy](https://github.com/johnmyleswhite/SimpleAintEasy) - A compendium of the pitfalls and problems that arise when using standard statistical methods
 - [opencpu](https://github.com/opencpu/opencpu) - OpenCPU system for embedded scientific computation and reproducible research
@@ -2585,35 +3326,38 @@
 - [pander](https://github.com/Rapporter/pander) - An R Pandoc Writer
 - [rapport](https://github.com/Rapporter/rapport) - rapport is an R package that facilitates the creation of reproducible statistical report templates
 
-## RMarkdown 
-
-- [Rmarkdown_tutorial](https://github.com/Pakillo/Rmarkdown_tutorial) - Reproducible Research with Rmarkdown: data management, analysis, and reporting all-in-one
-
 ## Racket 
 
 - [atreus](https://github.com/technomancy/atreus) - column-staggered travel keyboard design
 
 ## Roff 
 
-- [debian_stretch_XE303C12](https://github.com/13pgeiser/debian_stretch_XE303C12) - Debian Stretch on Samsung Chrombook (XE303C12, ARM Exynos)
+- [Ender-3](https://github.com/Creality3DPrinting/Ender-3) - The Creality3D Ender-3, a fully Open Source 3D printer perfect for new users on a budget.
+- [fh](https://github.com/xorhash/fh) - file history with ed(1), diff(1), awk(1), sed(1) and sh(1)
 - [pandoc-website](https://github.com/jgm/pandoc-website) - Source files for pandoc's website
+- [conceptnet5](https://github.com/commonsense/conceptnet5) - Code for building ConceptNet from raw data.
 - [rawk](https://github.com/kisom/rawk) - rage against web frameworks - posix shell static site generator
+- [v](https://github.com/rupa/v) - z for vim
 
 ## Ruby 
 
+- [pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
+- [drivesync](https://github.com/MStadlmeier/drivesync) - Google Drive synchronization for Linux
+- [softcover](https://github.com/softcover/softcover) - CLI for book generation, building, and publishing to softcover.io
+- [docs](https://github.com/mozilla-iot/docs) - Mozilla WebThings Documentation
+- [lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
+- [facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line tool
+- [shelr](https://github.com/antono/shelr) - Console screencasting tool
 - [delicious-data-convertor](https://github.com/jgarber623/delicious-data-convertor) - A simple tool written in Ruby that converts exported Delicious bookmarks from HTML to JSON.
-- [wax](https://github.com/mnyrop/wax) - minimal exhibitions with jekyll 🐝
-- [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [pagemaster](https://github.com/mnyrop/pagemaster) - Jekyll plugin for generating Markdown collection pages from CSV/YAML/JSON records 🧙📖
 - [um](https://github.com/sinclairtarget/um) - Create and maintain your own man pages so you can remember how to do stuff
-- [im-tomu.github.io](https://github.com/im-tomu/im-tomu.github.io) - tomu.im website
 - [anystyle](https://github.com/inukshuk/anystyle) - Fast and smart citation reference parsing
 - [pecas](https://github.com/NikaZhenya/pecas) - Conjunto de scripts que agilizan varios de los procesos del quehacer editorial.
 - [zotxt](https://github.com/egh/zotxt) - zotxt: a Zotero extension for text
 - [jekyll-netlify-cms](https://github.com/netlify-templates/jekyll-netlify-cms) - A starter template for Jekyll and netlify CMS
 - [webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions and pingbacks on any web page
 - [iot-for-beginners-book](https://github.com/tuanpmt/iot-for-beginners-book) - 
-- [identity-idp](https://github.com/18F/identity-idp) - 18F Identity Provider (IdP)
+- [identity-idp](https://github.com/18F/identity-idp) - Login.gov Core App: Identity Provider (IdP)
 - [alaveteli](https://github.com/mysociety/alaveteli) - Provide a Freedom of Information request system for your jurisdiction
 - [klaxon](https://github.com/themarshallproject/klaxon) - Klaxon enables reporters and editors to monitor scores of sites on the web for newsworthy changes.
 - [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. You can grow anything!
@@ -2634,24 +3378,24 @@
 - [chinese_text_filter](https://github.com/yaoweibin/chinese_text_filter) - Process the Chinese text stuff
 - [Publico-Newspaper-Crawler-for-Portuguese-Corpus-Creation](https://github.com/miguelpais/Publico-Newspaper-Crawler-for-Portuguese-Corpus-Creation) - A crawler that accesses the portuguese Publico newspaper (publico.pt), gets all the news links it can, and from those news pages it tries to reach even more news, grabbing all their text in the meantime creating a portuguese corpus
 - [firelinks](https://github.com/danchoi/firelinks) - Sync elinks with Firefox
-- [ppl](https://github.com/hensmith/ppl) - The command line address book
+- [ppl](https://github.com/hencatsmith/ppl) - The command line address book
 - [mediawiki_to_gollum](https://github.com/jovandeginste/mediawiki_to_gollum) - Scripts to convert a mediawiki xml export to a git repository usable with Gollum
 - [jekyll-pandoc](https://github.com/mfenner/jekyll-pandoc) - Jekyll Pandoc markdown converter as Ruby gem
 - [Open-Publisher](https://github.com/chrisanthropic/Open-Publisher) - Using Jekyll to create outputs that can be used as Pandoc inputs. In short - input markdown, output mobi, epub, pdf, and print-ready pdf. With a focus on fiction.
-- [best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - Core Infrastructure Initiative Best Practices Badge
+- [best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - 🏆Core Infrastructure Initiative Best Practices Badge
 - [pi-motion](https://github.com/pauly/pi-motion) - collection of pi based motion detection things
 - [theoj](https://github.com/openjournals/theoj) - The Open Journal
-- [contact-manager](https://github.com/lucas8/contact-manager) - A simple contact manager written in gawk compatible with abook adressbook files.
+- [contact-manager](https://github.com/dwarfmaster/contact-manager) - A simple contact manager written in gawk compatible with abook adressbook files.
 - [html-pipeline](https://github.com/jch/html-pipeline) - HTML processing filters and utilities
 - [refine-ruby](https://github.com/maxogden/refine-ruby) - Ruby client library for controlling Google Refine
 - [webmock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests in Ruby.
 - [resemblance](https://github.com/matpalm/resemblance) - trying shingling / resemblance / simhash / sketching to do some data deduping
 - [html-proofer](https://github.com/gjtorikian/html-proofer) - Test your rendered HTML files to make sure they're accurate.
 - [rubyist-historian](https://github.com/hepplerj/rubyist-historian) - Code repository for the Rubyist Historian ebook project.
-- [usbarmory](https://github.com/inversepath/usbarmory) - USB armory: open source flash-drive-sized computer
+- [usbarmory](https://github.com/f-secure-foundry/usbarmory) - USB armory: open source flash-drive-sized computer
 - [reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown
 - [scripts](https://github.com/htdebeer/scripts) - Some scripts I wrote to automate some tasks "around the house"
-- [pandocomatic](https://github.com/htdebeer/pandocomatic) - Automating the use of pandoc
+- [pandocomatic](https://github.com/htdebeer/pandocomatic) - Automate the use of pandoc
 - [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [Similarity](https://github.com/bbc/Similarity) - Calculate similarity between documents using TF-IDF weights
 - [gdcl](https://github.com/dohliam/gdcl) - Command-line interface for Goldendict dictionaries
@@ -2665,7 +3409,6 @@
 - [jieba_rb](https://github.com/altkatz/jieba_rb) - 
 - [text](https://github.com/threedaymonk/text) - Collection of text algorithms. gem install text
 - [vim-kompleter](https://github.com/szw/vim-kompleter) - A smart, fast, simple, and reliable keyword completion replacement for Vim
-- [clio3-syllabus](https://github.com/lmullen/clio3-syllabus) - Syllabus and course website for Clio 3: Programming for Historians
 - [tpp](https://github.com/cbbrowne/tpp) - Text Powerpoint
 - [selecta](https://github.com/garybernhardt/selecta) - A fuzzy text selector for files and anything else you need to select. Use it from vim, from the command line, or anywhere you can run a shell command.
 - [markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
@@ -2695,7 +3438,6 @@
 - [vimdeck](https://github.com/tybenz/vimdeck) - VIM as a presentation tool
 - [jekyll-scholmd](https://github.com/mfenner/jekyll-scholmd) - Auto-linking of scholarly identifiers in markdown files
 - [pinboard-cli](https://github.com/badboy/pinboard-cli) - Pinboard on your command line.
-- [ATS-bibliography](https://github.com/lmullen/ATS-bibliography) - Analysis of the American Antiquarian Society's cataloging data for American Tract Society pamphlets
 - [wortsammler](https://github.com/bwl21/wortsammler) - an environment to manage comprehensive audience specific documentation and requirements tracing (based on pandoc)
 - [jekyll-bootstrap](https://github.com/plusjade/jekyll-bootstrap) - The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages.
 - [FeedPlus](https://github.com/ilpianista/FeedPlus) - Google+ posts RSS feed generator
@@ -2707,7 +3449,7 @@
 - [tagteam](https://github.com/berkmancenter/tagteam) - Enhanced Social Tagging for Academic Communities
 - [tumblr-gator](https://github.com/nbfowler/tumblr-gator) - An aggregator script that reblogs content from a hand-selected list of tumblr accounts
 - [readably](https://github.com/sunaku/readably) - 📚 Static blogs: YAML + Slim → HTML5
-- [jekyll-pandoc-multiple-formats](https://github.com/fauno/jekyll-pandoc-multiple-formats) - Use pandoc on jekyll to generate posts in multiple formats
+- [jekyll-pandoc-multiple-formats](https://github.com/fauno/jekyll-pandoc-multiple-formats) - Use pandoc on jekyll to generate posts in multiple formats. Development has moved to https://0xacab.org/edsl/jekyll-pandoc-multiple-formats
 - [inploy](https://github.com/dcrec1/inploy) - Rails and Sinatra deployment made easy
 - [shelr](https://github.com/shelr/shelr) - Console screencasting tool
 - [tagextract](https://github.com/houshuang/tagextract) - A simple Sinatra file upload application
@@ -2719,7 +3461,7 @@
 - [mina](https://github.com/mina-deploy/mina) - Blazing fast application deployment tool.
 - [fake-s3](https://github.com/jubos/fake-s3) - A lightweight server clone of Amazon S3 that simulates most of the commands supported by S3 with minimal dependencies
 - [hl](https://github.com/davetron5000/hl) - Highlight terms in output or files to assist with visual scanning
-- [github_cli](https://github.com/piotrmurach/github_cli) - CLI-based access to GitHub API v3
+- [github_cli](https://github.com/piotrmurach/github_cli) - GitHub on your command line. Use your terminal, not the browser.
 - [binman](https://github.com/sunaku/binman) - 🤓 Creates manual pages from header comments
 - [sinew](https://github.com/gurgeous/sinew) - A Ruby DSL for structured web crawling, with a robust caching system.
 - [juvia](https://github.com/phusion/juvia) - A commenting server similar to Disqus and IntenseDebate. CURRENTLY UNMAINTAINED
@@ -2727,7 +3469,7 @@
 - [giddyup](https://github.com/mpalmer/giddyup) - Simple web application deployment with "git push"
 - [yaml_record](https://github.com/nicotaing/yaml_record) - Persisted data with yaml
 - [paint](https://github.com/janlelis/paint) - Ruby gem for ANSI terminal colors 🎨︎ VERY FAST
-- [pdfextract](https://github.com/CrossRef/pdfextract) - A tool and library that can extract various areas of text from a PDF, especially a scholarly article PDF.
+- [pdfextract](https://github.com/CrossRef/pdfextract) - MOVED TO https://gitlab.com/crossref/pdfextract
 - [mp3tools](https://github.com/PhilT/mp3tools) - Currently only adds album art to MP3s that have none. May add more later.
 - [soundCLI](https://github.com/rekado/soundCLI) - A command line client for soundcloud.com with streaming support via gstreamer
 - [jekyll_indextank](https://github.com/pascalw/jekyll_indextank) - Jekyll + indextank = Static websites with powerful full-text search
@@ -2740,7 +3482,6 @@
 - [cooker](https://github.com/TiddlyWiki/cooker) - cook and ginsu for making and dicing tiddlywiki classic
 - [methadone](https://github.com/davetron5000/methadone) - Kick the bash habit - start your command line scripts off right in Ruby
 - [simsalabim](https://github.com/kl/simsalabim) - Easy upload and batch upload to a Google Picasa account
-- [exceptional_individual](https://github.com/kl/exceptional_individual) - A bunch of Ruby scripts to download Leper's Colony (somethingawful.com banlist), store the data in a YAML-file and seed it to a MongoDB database.
 - [autorefresh](https://github.com/logankoester/autorefresh) - Automatically refresh your browser when a file has changed (using WebSockets)
 - [anyplayer](https://github.com/sunny/anyplayer) - Interact with the currently running music player. Supports iTunes Mac, iTunes Windows, Spotify Mac, Rdio Mac, MPD, Rhythmbox, Amarok and XMMS2.
 - [delicious-couch](https://github.com/stevenwilkin/delicious-couch) - Back up saved bookmarks from Delicous to CouchDB using Ruby
@@ -2793,7 +3534,6 @@
 - [murder](https://github.com/lg/murder) - Large scale server deploys using BitTorrent and the BitTornado library (NOTE: project no longer maintained)
 - [viddl-rb](https://github.com/rb2k/viddl-rb) - An extendable commandline video downloader for flash video sites like vimeo, youtube, ...
 - [heroku_san](https://github.com/jqr/heroku_san) - Helpful stuffs for Heroku.
-- [lorax](https://github.com/flavorjones/lorax) - XML/HTML diff generator, based on Nokogiri.
 - [ronn](https://github.com/rtomayko/ronn) - the opposite of roff
 - [webcurl](https://github.com/holin/webcurl) - web curl
 - [toto](https://github.com/cloudhead/toto) - the 10 second blog-engine for hackers
@@ -2805,7 +3545,6 @@
 - [cloud-crowd](https://github.com/documentcloud/cloud-crowd) - Parallel Processing for the Rest of Us
 - [middleman](https://github.com/middleman/middleman) - Hand-crafted frontend development
 - [progit](https://github.com/progit/progit) - Pro Git Book Content, 1st Edition - This content is deprecated. See 2nd edition at [progit2](https://github.com/progit/progit2)
-- [active_hash](https://github.com/zilkey/active_hash) - A readonly ActiveRecord-esque base class that lets you use a hash, a Yaml file or a custom file as the datasource
 - [movieapp](https://github.com/mislav/movieapp) - Mark movies you watched, liked, or plan to watch, and share with your friends.
 - [yaml2csv](https://github.com/tokland/yaml2csv) - Convert YAML to CSV (and backward)
 - [anemone](https://github.com/chriskite/anemone) - Anemone web-spider framework
@@ -2820,7 +3559,7 @@
 - [feedjira](https://github.com/feedjira/feedjira) - A feed parsing library
 - [so-nice](https://github.com/sunny/so-nice) - Small Web interface to control iTunes, Spotify, Rdio, MPD, Rhythmbox, Amarok and XMMS2. ♫
 - [fat_free_crm](https://github.com/fatfreecrm/fat_free_crm) - Ruby on Rails CRM platform
-- [trivium](https://github.com/chneukirchen/trivium) - Trivium, my minimalist blogging engine
+- [trivium](https://github.com/leahneukirchen/trivium) - Trivium, my minimalist blogging engine
 - [rimes](https://github.com/sunny/rimes) - Ruby script to find rhymes
 - [jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [commander](https://github.com/tj/commander) - The complete solution for Ruby command-line executables
@@ -2829,14 +3568,55 @@
 - [pocketmaps](https://github.com/ajturner/pocketmaps) - Ruby library to generate PocketMods and PocketMaps - small foldable paper booklets
 - [httparty](https://github.com/jnunemaker/httparty) - :tada: Makes http fun again!
 - [deprec](https://github.com/mbailey/deprec) - master respository for deprec - deployment recipes for capistrano
-- [metainspector](https://github.com/jaimeiniesta/metainspector) - Ruby gem for web scraping purposes. It scrapes a given URL, and returns you its title, meta description, meta keywords, links, images...
+- [metainspector](https://github.com/metainspector/metainspector) - Ruby gem for web scraping purposes. It scrapes a given URL, and returns you its title, meta description, meta keywords, links, images...
 - [rubber](https://github.com/rubber/rubber) - A capistrano/rails plugin that makes it easy to deploy/manage/scale to various service providers, including EC2, DigitalOcean, vSphere, and bare metal servers.
 
 ## Rust 
 
+- [wallabag-api](https://github.com/swalladge/wallabag-api) - Wallabag api client
+- [searchr](https://github.com/swalladge/searchr) - index and full text search local files
+- [tantivy-cli](https://github.com/tantivy-search/tantivy-cli) - 
+- [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [pix-image-viewer](https://github.com/google/pix-image-viewer) - Desktop image viewer. View thousands of images in a zoomable, pannable grid.
+- [youtube-subscriptions](https://github.com/yazgoo/youtube-subscriptions) - terminal client to browse youtube subscriptions
+- [monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
+- [comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
+- [pandoc-kakuyomu-ruby](https://github.com/Gamou-T/pandoc-kakuyomu-ruby) - カクヨム風のルビと圏点に対応したPandocフィルタ
+- [mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
+- [rppal](https://github.com/golemparts/rppal) - A Rust library that provides access to the Raspberry Pi's GPIO, I2C, PWM, SPI and UART peripherals.
+- [boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
+- [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+- [ruplacer](https://github.com/TankerHQ/ruplacer) - Find and replace text in source files
+- [runiq](https://github.com/whitfin/runiq) - An efficient way to filter duplicate lines from input, à la uniq.
+- [shell_completion](https://github.com/JoshMcguigan/shell_completion) - Write shell completion scripts in pure Rust
+- [bukubrow-host](https://github.com/SamHH/bukubrow-host) - Host application for the Bukubrow WebExtension
+- [hunter](https://github.com/rabite0/hunter) - ranger-like file browser written in rust
+- [lemmy](https://github.com/dessalines/lemmy) - 🐀 Building a federated alternative to reddit in rust
+- [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+- [ufo](https://github.com/ajmwagar/ufo) - :rocket: :space_invader: A Drone/UAV Programming Library for Rust.
+- [wordpress-to-zola](https://github.com/TatriX/wordpress-to-zola) - Convert wordpress xml dump to zola static site generator markdown files
+- [mack](https://github.com/cdown/mack) - An opinionated, fast music organiser.
+- [pandoc-ac](https://github.com/Enet4/pandoc-ac) - Simple Pandoc filter for a clean syntax to LaTeX acronyms
+- [jsonwatch](https://github.com/dbohdan/jsonwatch) - Track changes in JSON data from the command line
+- [stest](https://github.com/opensourcegeek/stest) - Command line client for speedtest.net written in Rust
+- [liquid-rust](https://github.com/cobalt-org/liquid-rust) - Liquid templating for Rust
+- [pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - 
+- [lightning-rs](https://github.com/chriskrycho/lightning-rs) - Yet another static site generator—but this one's written in Rust
+- [epub-builder](https://github.com/lise-henry/epub-builder) - A Rust library for generating EPUB files
+- [crowbook](https://github.com/lise-henry/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
+- [cobalt-migrate-jekyll](https://github.com/cobalt-org/cobalt-migrate-jekyll) - Standalone utility to convert a jekyll site to cobalt
+- [cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
+- [mdblog.rs](https://github.com/FuGangqiang/mdblog.rs) - static site generator from markdown files.
+- [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
+- [svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
+- [ff](https://github.com/vishaltelangre/ff) - Find files (ff) by name, fast!
+- [ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
+- [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
+- [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [rargs](https://github.com/lotabout/rargs) - xargs + awk with pattern matching support. `ls *.bak | rargs -p '(.*)\.bak' mv {0} {1}`
 - [lscolors](https://github.com/sharkdp/lscolors) - A Rust library to colorize paths using LS_COLORS
-- [lsd](https://github.com/Peltoche/lsd) - An ls with a lot of pretty colors and awesome icons
+- [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [vivid](https://github.com/sharkdp/vivid) - A generator for LS_COLORS with support for multiple color themes
 - [plato](https://github.com/baskerville/plato) - Document reader
 - [warp](https://github.com/dgiagio/warp) - Create self-contained single binary applications
@@ -2846,12 +3626,13 @@
 - [gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
 - [miniserve](https://github.com/svenstaro/miniserve) - :star2: For when you really just want to serve some files over HTTP right now!
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
 - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 
 ## SMT 
 
-- [precious-plastic-kit](https://github.com/hakkens/precious-plastic-kit) - Precious Plastic Downloadpack
+- [precious-plastic-kit](https://github.com/ONEARMY/precious-plastic-kit) - Precious Plastic Downloadpack
 
 ## Scala 
 
@@ -2868,27 +3649,101 @@
 
 ## Shell 
 
+- [aok](https://github.com/cubetronic/aok) - The easy way to get Arch Linux, Xfce, Firefox, and more running on an old Chromebook
+- [PADD](https://github.com/jpmck/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
+- [kiss](https://github.com/kisslinux/kiss) - 🧱 Package manager for KISS
+- [pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
+- [paleta](https://github.com/dylanaraps/paleta) - Change terminal colors on the fly.
+- [pash](https://github.com/dylanaraps/pash) - 🔒 A simple password manager using GPG written in POSIX sh.
+- [cursedtag](https://github.com/hellricer/cursedtag) - A console audio tag editor.
+- [mmpv](https://github.com/hellricer/mmpv) - A simple MPD-aware wrapper for avoiding overlapping of music
+- [PDFMtEd](https://github.com/glutanimate/PDFMtEd) - View and modify PDF metadata on Linux graphically
+- [scripts](https://github.com/vermaden/scripts) - Various scripts I wrote when using FreeBSD/Linux/UNIX systems for 15+ years.
+- [ublock-umatrix-rulesets](https://github.com/migueldemoura/ublock-umatrix-rulesets) - Hosts Files, uBlock & uMatrix Rulesets
+- [tmux-pop](https://github.com/roosta/tmux-pop) - Tmux plugin that flashes the active pane on change
+- [FlashDumper](https://github.com/oszilloskop/FlashDumper) - TP-Link WR841N: RAM und Flash aufrüsten - Flash Dumper Skript für Linux und macOS
+- [pass_rofi](https://github.com/Docbroke/pass_rofi) - wrapper around pass (the password manager)
+- [OpenWrtScripts](https://github.com/richb-hanover/OpenWrtScripts) - A set of scripts for maintaining and testing OpenWrt
+- [qb-bookmarks](https://github.com/ckardaris/qb-bookmarks) - Script to provide a toolbar-like functionality to qutebrowser with the help of rofi
+- [stpv](https://github.com/Naheel-Azawy/stpv) - Simple Terminal PreViewer
+- [IOTstack](https://github.com/gcgarner/IOTstack) - docker stack for getting started on IOT on the Raspberry PI
+- [osm-seed](https://github.com/developmentseed/osm-seed) - A collection of Dockerfiles to run a containerized version of OpenStreetMap
+- [pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
+- [googlefonts-loader](https://github.com/theel0ja/googlefonts-loader) - Copy all Google Fonts to a folder
+- [kaldi](https://github.com/kaldi-asr/kaldi) - This is the official location of the Kaldi project.
+- [rPi-ReadOnly](https://github.com/MarkDurbin104/rPi-ReadOnly) - A couple of scripts to make a Raspberry Pi file system Read Only (and subsequently Read/Write)
+- [wallabag_scripts](https://github.com/moparisthebest/wallabag_scripts) - Handy shell scripts for wallabag
+- [pocket-sh-add](https://github.com/riichard/pocket-sh-add) - Shell script to bookmark URLs to getpocket.com. No libraries, just shell & curl.
+- [wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
+- [pihole-google](https://github.com/nickspaargaren/pihole-google) - Completely block Google and its services
+- [sbc-bench](https://github.com/ThomasKaiser/sbc-bench) - Simple benchmark for single board computers
+- [userrecon](https://github.com/thelinuxchoice/userrecon) - Find usernames across over 75 social networks
+- [archtorify](https://github.com/brainfucksec/archtorify) - Transparent proxy through Tor for Arch Linux OS
+- [openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+- [GAShell](https://github.com/TechtonicSoftware/GAShell) - A bash script that generates and securely manages Google Authenticator codes
+- [play_stdin.sh](https://github.com/connor-brooks/play_stdin.sh) - A set of lightweight scripts to stream audio between two Linux machines. Perfect for use with a Raspberry Pi
+- [PartyLoud](https://github.com/realtho/PartyLoud) - A simple tool to generate fake web browsing and mitigate tracking
+- [archlinuxarm-installer](https://github.com/adjutant/archlinuxarm-installer) - Universal, automatic, pain-free installer for ArchLinux ARM
+- [PKGBUILDs](https://github.com/150balbes/PKGBUILDs) - PKGBUILDs modified to build on Arch Linux ARM
+- [zram-config](https://github.com/StuartIanNaylor/zram-config) - Complete zram config utility for swap, directory & log. Usefull for IoT / maker projects for reducing SD, Nand and Emmc block wear via log operations. Uses Zram to minimise precious memory footprint and extremely infrequent write outs and near ram speed working dirs.
+- [cattlepi](https://github.com/cattlepi/cattlepi) - effortlessly boot, configure, update and monitor your raspberry pi :cloud:
+- [xe303c12_play_linux](https://github.com/quarkscript/xe303c12_play_linux) - 
+- [bash_scripts](https://github.com/gromgit/bash_scripts) - My collection of bash scripts
+- [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with home server apps running in Docker.
+- [tmux-logging](https://github.com/tmux-plugins/tmux-logging) - Easy logging and screen capturing for Tmux.
+- [nota](https://github.com/cdown/nota) - Simple note taking using your $EDITOR and git
+- [mpseek](https://github.com/hellricer/mpseek) - Conditional search queries for Music Player Daemon (MPD)
+- [dotfiles](https://github.com/mjturt/dotfiles) - Yet another dotfiles repository
+- [dotfiles](https://github.com/lecler-i/dotfiles) - 
+- [dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, i3, kitty, kakoune, zsh and more + installation guide
+- [docker-arch-build-aur](https://github.com/maximbaz/docker-arch-build-aur) - Build AUR packages (useful for building *-bin packages via Travis / Shippable)
+- [rofi-scripts](https://github.com/miroslavvidovic/rofi-scripts) - Small scripts for rofi
+- [teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
+- [rofi-pass](https://github.com/carnager/rofi-pass) - rofi frontend for pass
+- [resmushit-cli](https://github.com/charlyie/resmushit-cli) - CLI client for reSmush.it : the Free Image Optimization API. Image optimizer shell script.
+- [fanboy-adblock](https://github.com/ryanbr/fanboy-adblock) - 
+- [phicomm-n1](https://github.com/yangxuan8282/phicomm-n1) - 
+- [recipe](https://github.com/archphile/recipe) - installation scripts and files needed for Archphile
+- [alwaysontop](https://github.com/swirepe/alwaysontop) - Keep the input line at the top of the terminal
+- [pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
+- [tld_checker](https://github.com/jomo/tld_checker) - Check domain availability on all TLDs
+- [imgur-screenshot](https://github.com/jomo/imgur-screenshot) - Take screenshot selection, upload to imgur. + more cool things
+- [Bash-Quick-Start-Guide](https://github.com/PacktPublishing/Bash-Quick-Start-Guide) - Bash Quick Start Guide, published by Packt
+- [raspberry-noaa](https://github.com/reynico/raspberry-noaa) - Fully automated NOAA satellite image downloader using Raspberry PI
+- [GoodbyeBigFive](https://github.com/GMG-Special-Projects-Desk/GoodbyeBigFive) - Streamlined version of the tech in the Goodbye Big Five Series
+- [buku_run](https://github.com/carnager/buku_run) - rofi frontend for buku bookmarks manager
+- [Open.HD_Image_Builder](https://github.com/OpenHD/Open.HD_Image_Builder) - Script for building automatically Open.HD
+- [nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
+- [complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
+- [kunst](https://github.com/sdushantha/kunst) - 🖼️ Download and display album art or display embedded album art
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+- [minimal-container-linux](https://github.com/prologic/minimal-container-linux) - Minimal Container Linux (MCL)
+- [whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
+- [wifibroadcast-image-builder](https://github.com/RespawnDespair/wifibroadcast-image-builder) - Image builder for the EZ-Wifibroadcast project
+- [clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
+- [A-vim-like-firefox-like-configuration-for-w3m](https://github.com/felipesaa/A-vim-like-firefox-like-configuration-for-w3m) - A configuration and documentation for w3m
 - [vimcat](https://github.com/trapd00r/vimcat) - cat files in style with vim
 - [tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) - A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
 - [yt_podoff](https://github.com/gromgit/yt_podoff) - A simple bash YouTube podcatcher
 - [KoboCloud](https://github.com/fsantini/KoboCloud) - A set of scripts to synchronize a kobo reader with popular cloud services
-- [kobopatch-patches](https://github.com/geek1011/kobopatch-patches) - Patches for use with kobopatch.
+- [kobopatch-config](https://github.com/geek1011/kobopatch-config) - My kobopatch configuration
 - [cookie](https://github.com/bbugyi200/cookie) - A Template-based File Generator. Like cookiecutter but works with file templates instead of project templates.
-- [termux-archlinux](https://github.com/sdrausty/termux-archlinux) - You can use setupTermuxArch.sh 📲 to install Arch Linux in Termux on Amazon Fire, Android and Chromebook.
+- [termux-archlinux](https://github.com/SDRausty/termux-archlinux) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Termux on Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/termux-archlinux/
 - [plowshare](https://github.com/mcrapet/plowshare) - Command-line tool and engine for managing sharing websites
-- [fff](https://github.com/dylanaraps/fff) - :rocket: fucking fast file-manager
-- [dank-selfhosted](https://github.com/cullum/dank-selfhosted) - Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD.
-- [caesonia](https://github.com/vedetta-com/caesonia) - OpenBSD Email Service
+- [fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [torque](https://github.com/dylanaraps/torque) - 🚂 A TUI client for transmission written in pure bash.
 - [jekyll-style-guide](https://github.com/benbalter/jekyll-style-guide) - An opinionated guide to common Jekyll design patterns and anti-patterns.
 - [charmbian](https://github.com/5ilver/charmbian) - Debian install script for samsung arm chromebook
+- [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
-- [mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and offlineIMAP with a simple interface and safe passwords
+- [voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
+- [mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords
 - [hostsblock](https://github.com/gaenserich/hostsblock) - an ad- and malware-blocking script for Linux
 - [PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
 - [arch-pkgs](https://github.com/mdaffin/arch-pkgs) - Managment repo for my Arch Linux systems.
 - [fread-vagrant](https://github.com/fread-ink/fread-vagrant) - vagrant system for compiling fread.ink
 - [ARMchromebook](https://github.com/MToniotti/ARMchromebook) - 
+- [debian_chromebook_XE303C12](https://github.com/13pgeiser/debian_chromebook_XE303C12) - Debian Buster on Samsung Chromebook (XE303C12, ARM Exynos)
 - [passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
 - [mosbuild](https://github.com/moode-player/mosbuild) - Sources and configs
 - [RuneOS](https://github.com/RuneAudio/RuneOS) - ArchLinux optimized distribution for audio playback
@@ -2898,6 +3753,7 @@
 - [dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
 - [fmui](https://github.com/seebye/fmui) - fzf mpd user interface
 - [stowsh](https://github.com/williamsmj/stowsh) - A shell script to install and uninstall dotfiles using symlinks. stow written in bash, in other words.
+- [dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration
 - [LoraGW-Setup](https://github.com/ch2i/LoraGW-Setup) - SX1301 Lora Concentrator Raspberry PI based gateway setup
 - [mobisys2018_nexmon_software_defined_radio](https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio) - Proof of concept project for operating Broadcom Wi-Fi chips as arbitrary signal transmitters similar to software-defined radios (SDRs)
 - [fang-hacks](https://github.com/samtap/fang-hacks) - Collection of modifications for the XiaoFang WiFi Camera
@@ -2905,8 +3761,7 @@
 - [hugoThemes](https://github.com/gohugoio/hugoThemes) - All Hugo themes
 - [shortcut-sync](https://github.com/LukeSmithxyz/shortcut-sync) - Luke's Scripts for bash, ranger and qutebrowser synchronization
 - [ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
-- [osm4etrex10](https://github.com/dorski/osm4etrex10) - Create OSM based maps for eTrex 10 GPS receivers
-- [ramroot](https://github.com/arcmags/ramroot) - Load root filesystem entirely into RAM during boot.
+- [ramroot](https://github.com/arcmags/ramroot) - Load root file system to ram during boot.
 - [screencast](https://github.com/dbermond/screencast) - Interface to record a X11 desktop
 - [alarm-raspi-config](https://github.com/jgmdev/alarm-raspi-config) - Stripped down version of raspi-config for ArchLinux ARM
 - [irdb](https://github.com/probonopd/irdb) - One of the largest crowd-sourced, manufacturer-independent databases of infrared remote control codes on the web, and aspiring to become the most comprehensive and most accurate one
@@ -2914,21 +3769,20 @@
 - [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) - Quickly open any url on your terminal window!
 - [dotfiles](https://github.com/paretje/dotfiles) - My dotfiles
 - [raspi-overlayroot](https://github.com/nils-werner/raspi-overlayroot) - Protect your SD card against wear and tear
-- [netboot.xyz](https://github.com/antonym/netboot.xyz) - Network bootable operating system installer based on iPXE
+- [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [pmbootstrap](https://github.com/postmarketOS/pmbootstrap) - Repository has been moved! https://postmarketos.org/move.html#/pmbootstrap :truck: :truck: :truck:
 - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 - [dotfiles](https://github.com/gotbletu/dotfiles) - Linux configs v4 ; modular design for GNU stow
 - [neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-- [log2ram](https://github.com/azlux/log2ram) - ramlog like for systemd on debian 8 jessie (Put log into a ram folder)
+- [log2ram](https://github.com/azlux/log2ram) - ramlog like for systemd (Put log into a ram folder)
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
-- [fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature of z
+- [fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature of z jump around command.
 - [okreader](https://github.com/lgeek/okreader) - Free/libre software for Kobo ebook readers
 - [archbk](https://github.com/altreact/archbk) - Run Arch Linux ARM on Your Chromebook
 - [openwrt-simple-adblock](https://github.com/stangri/openwrt-simple-adblock) - A simple DNSMASQ-based adblocking script for OpenWrt/LEDE Project
 - [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [ssh-allow-friend](https://github.com/flplv/ssh-allow-friend) - A shell script to temporary allow ssh logins for friends
-- [newsbeuter-configuration](https://github.com/Digital-Contraptions-Imaginarium/newsbeuter-configuration) - I publish in this repository the configuration I use for the Newsbeuter news reader.
 - [A6-ESP8266-breakout](https://github.com/skorokithakis/A6-ESP8266-breakout) - A breakout board that includes an ESP8266 and an A6 GSM module, for easily making GSM-enabled applications (mirror)
 - [bin-pub](https://github.com/vain/bin-pub) - Public ~/bin
 - [gitary](https://github.com/vain/gitary) - A simple diary using Git as its backend
@@ -2938,23 +3792,20 @@
 - [wgetflv](https://github.com/wuyongzheng/wgetflv) - Scripts to Download Flash Videos
 - [stows](https://github.com/donm/stows) - `stows` stows stows with `stow`
 - [git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt) - PGP-encrypted git remotes
-- [cli-media-viewer](https://github.com/alex-wellbelove/cli-media-viewer) - A very simple solution to the problem of viewing images and videos from elinks.
+- [cli-media-viewer](https://github.com/alex-wellbelove/cli-media-viewer) - View media from elinks
 - [git-directory-deploy](https://github.com/X1011/git-directory-deploy) - deploy a directory as a git branch
 - [ATX-Raspi](https://github.com/LowPowerLab/ATX-Raspi) - ATXRaspi is a smart power controller for RaspberryPi that allows you to have an external ATX style shutdown button
 - [chrx](https://github.com/reynhout/chrx) - Chromebook Unix
-- [kali-arm-build-scripts](https://github.com/offensive-security/kali-arm-build-scripts) - Kali Linux ARM build scripts
 - [fzf-marks](https://github.com/urbainvaes/fzf-marks) - Plugin to manage bookmarks in bash and zsh
 - [notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
 - [opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
-- [xscast](https://github.com/KeyboardFire/xscast) - screencasts of windows with list of keystrokes overlayed
+- [xscast](https://github.com/tckmn/xscast) - screencasts of windows with list of keystrokes overlayed
 - [jqt](https://github.com/fadado/jqt) - jqt · The jq template engine
 - [guestwlan](https://github.com/NicoHood/guestwlan) - Easy & Secure Guest WLAN setup with QR code GUI and photodiashow.
 - [oil](https://github.com/AndreiUlmeyda/oil) - Search-as-you-type cli frontend for the buku bookmarks manager using peco.
 - [git-annex-remote-rclone](https://github.com/DanielDent/git-annex-remote-rclone) - Use rclone supported cloud storage providers with git-annex
-- [sshmux](https://github.com/Russell91/sshmux) - Persistent ssh sessions with tmux
 - [tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints.
 - [bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern boilerplate / framework / standard library for bash
-- [weather-station](https://github.com/masneyb/weather-station) - A lightweight, self contained, solar-powered weather station for the Raspberry Pi.
 - [pdsite](https://github.com/GordStephen/pdsite) - Pandoc-backed static site generator shell script with precompiled binary dependencies
 - [Fritzing-Part-WeMos-D1-mini-Shields](https://github.com/mcauser/Fritzing-Part-WeMos-D1-mini-Shields) - Fritzing Part: WeMos D1 Mini Shields
 - [hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
@@ -2964,27 +3815,26 @@
 - [commit-comments](https://github.com/thebearjew/commit-comments) - Build commit message in the comments of your code
 - [bash-concurrent](https://github.com/themattrix/bash-concurrent) - Bash function to run tasks in parallel and display pretty output as they complete.
 - [archlinux-pkgbuilds](https://github.com/dhead666/archlinux-pkgbuilds) - 
-- [sshrc](https://github.com/Russell91/sshrc) - bring your .bashrc, .vimrc, etc. with you when you ssh
 - [gutbackup](https://github.com/gutenye/gutbackup) - [Bash] The simplest rsync wrapper for backup  and restore Linux system. Support  ArchLinux, Ubuntu, etc
 - [chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
 - [dotgit](https://github.com/kobus-v-schoor/dotgit) - A comprehensive solution to managing your dotfiles
 - [zfs-remote-mirror](https://github.com/hughobrien/zfs-remote-mirror) - A detailed tutorial on setting up a remote ZFS mirror for home use.
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
 - [dotfiles](https://github.com/DamienRobert/dotfiles) - My config files
 - [hosts-update](https://github.com/graysky2/hosts-update) - Updates /etc/hosts with the mvps blocklist to prevent thousands of parasites, hijackers and unwanted adware/spyware/privacy websites from working.
 - [scripts](https://github.com/MrChromebox/scripts) - Scripts for setup/install/firmware update for ChromeOS devices
-- [pandoc-travis-setup](https://github.com/livioso/pandoc-travis-setup) - Build PDFs from Markdown on Travis
+- [pandoc-travis-setup](https://github.com/livioso/pandoc-travis-setup) - 🔖 Build PDFs from Markdown on Travis
 - [xf86-input-cmt](https://github.com/hugegreenbug/xf86-input-cmt) - X11 ChromiumOS touchpad driver ported to Linux
 - [archarm-usb-hp-chromebook-11](https://github.com/omgmog/archarm-usb-hp-chromebook-11) - Arch ARM USB installer for the HP Chromebook 11
 - [minikrebs](https://github.com/krebs/minikrebs) - Openwrt Profile Builder
-- [minikrebs](https://github.com/probonopd/minikrebs) - OpenWrt-based webradio firmware generator for D-Link DIR-505, TP-LINK TL-WR710N and TP-LINK TL-WR703N and USB sound card
+- [minikrebs](https://github.com/probonopd/minikrebs) - OpenWrt-based webradio firmware generator for A5-V11, D-Link DIR-505, TP-LINK TL-WR710N and TP-LINK TL-WR703N and USB sound card
 - [tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
 - [cerberus](https://github.com/NapoleonWils0n/cerberus) - cerberus code library
 - [piradio](https://github.com/ednl/piradio) - Raspberry Pi as internet radio. Manage station playback by mpd via the command line or a web interface.
 - [iocage_legacy](https://github.com/iocage/iocage_legacy) - FreeBSD jail manager
 - [inox-patchset](https://github.com/gcarq/inox-patchset) - Inox patchset tries to provide a minimal Chromium based browser with focus on privacy by disabling data transmission to Google.
 - [pangitive](https://github.com/Qeole/pangitive) - Static blog generator based on pandoc and on Git hooks − this is a fork of fugitive static blog generator
-- [bash-doxygen](https://github.com/Anvil/bash-doxygen) - A doxygen filter for bash scripts
 - [dotsync](https://github.com/dotphiles/dotsync) - Sync dotfiles between multiple machines from a git repo or push using rsync
 - [junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs upon any Linux distros without root access
 - [ok.sh](https://github.com/whiteinge/ok.sh) - A Bourne shell GitHub API client library focused on interfacing with shell scripts
@@ -2995,7 +3845,6 @@
 - [dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [soa-aur](https://github.com/SqueezeOnArch/soa-aur) - Squeeze on Arch (SOA) Arch User Repository
 - [packages](https://github.com/archphile/packages) - packages used in Archphile distribution
-- [recipe](https://github.com/archphile/recipe) - installation scripts and files needed for Archphile
 - [pimusicbox](https://github.com/pimusicbox/pimusicbox) - An image (SD-card) to turn the Raspberry Pi into an easy to use MusicBox with Spotify playback and AirTunes streaming
 - [confi](https://github.com/b79/confi) - configuration files & shell scripts for a Linux environment
 - [git-hub](https://github.com/ingydotnet/git-hub) - Do GitHub operations from the `git` command
@@ -3004,7 +3853,6 @@
 - [fadecut](https://github.com/fadecut/fadecut) - This repo was migrated to https://gitlab.com/fadecut/fadecut
 - [rsyncbtrfs](https://github.com/oxplot/rsyncbtrfs) - Backup tool combining rsync and btrfs
 - [babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
-- [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) - Revoke China certificates.
 - [fzf-contrib](https://github.com/d630/fzf-contrib) - [Discontinued] :cherry_blossom: Organize useful code snippets around https://github.com/junegunn/fzf
 - [sentaku](https://github.com/rcmdnk/sentaku) - Utility to make sentaku (selection, 選択(sentaku)) window with shell command.
 - [myvim](https://github.com/junegunn/myvim) - :bento: Script to create a portable bundle of Vim environment
@@ -3018,7 +3866,6 @@
 - [automatically_update_github_pages_with_travis_example](https://github.com/steveklabnik/automatically_update_github_pages_with_travis_example) - An example of automatically updating GitHub Pages when you're using Travis CI.
 - [traveling-ruby](https://github.com/phusion/traveling-ruby) - Self-contained, Ruby binaries that can run on any Linux distribution and any OS X machine.
 - [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
-- [littler](https://github.com/eddelbuettel/littler) - A scripting and command-line front-end for GNU R
 - [watch](https://github.com/NinoScript/watch) - Run arbitrary scripts files when files change
 - [dmenu-scripts-collection](https://github.com/jukil/dmenu-scripts-collection) - Collection of optional dmenu hacking scripts:
 - [rocker](https://github.com/rocker-org/rocker) - R configurations for Docker
@@ -3039,6 +3886,7 @@
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [dotfiles](https://github.com/bling/dotfiles) - here be dragons
 - [simsalabash](https://github.com/markusfisch/simsalabash) - Hypertext mechanics in Bash
+- [docopts](https://github.com/docopt/docopts) - Shell interpreter for docopt, the command-line interface description language.
 - [note](https://github.com/nuex/note) - Shellscript for storing and looking up tagged notes
 - [vranger](https://github.com/mikezackles/vranger) - Use ranger as a filesystem explorer for a single vim instance
 - [pipe2eval](https://github.com/zweifisch/pipe2eval) - REPL inside vim
@@ -3051,10 +3899,9 @@
 - [notes](https://github.com/connermcd/notes) - Shell script for compiling pdf/html notes with pandoc.
 - [cndict](https://github.com/Lemmih/cndict) - 
 - [aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
-- [shownotes](https://github.com/gotbletu/shownotes) - notes for youtube videos
+- [shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [crochet](https://github.com/freebsd/crochet) - Build FreeBSD images for RaspberryPi, BeagleBone, PandaBoard, and others.
 - [dotfiles](https://github.com/stsquad/dotfiles) - A collection of .bashrc stuff and other dotfiles
-- [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [create_ap](https://github.com/oblique/create_ap) - This script creates a NATed or Bridged WiFi Access Point.
 - [na](https://github.com/ttscoff/na) - Bash function for displaying next actions in plain-text files per project directory
 - [TickTick](https://github.com/kristopolous/TickTick) - JSON in your Bash scripts
@@ -3106,25 +3953,40 @@
 - [SquashFu](https://github.com/falconindy/SquashFu) - A backup program employing the use of SquashFS, Aufs and Rsync
 - [ocd](https://github.com/nycksw/ocd) - Obessive Compulsive Directory
 - [PKGBUILDs](https://github.com/archlinuxarm/PKGBUILDs) - PKGBUILDs modified to build on Arch Linux ARM
+- [utterson](https://github.com/stef/utterson) - a minimal static blog generator written using old-school unix tools (make, ksh, m4, awk, procmail and a pinch of elisp)
 - [jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
 - [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
 - [dotfiles](https://github.com/barrucadu/dotfiles) - My dotfiles and assorted other crap, managed with GNU Stow.
 
 ## Standard ML 
 
-- [shedbuilt-system](https://github.com/shedbuilt/shedbuilt-system) - Shedbuilt system image repository
+- [initool](https://github.com/dbohdan/initool) - Manipulate INI files from the command line
+
+## TSQL 
+
+- [ilcampaigncash](https://github.com/propublica/ilcampaigncash) - Load Illinois political contribute and spending data efficiently
 
 ## Tcl 
 
+- [sqawk](https://github.com/dbohdan/sqawk) - Like Awk, but with SQL and table joins
 - [journal2ebook](https://github.com/adasilva/journal2ebook) - optimize academic pdfs for e-readers
 
 ## TeX 
 
-- [open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
+- [gt-nlp-class](https://github.com/jacobeisenstein/gt-nlp-class) - Course materials for Georgia Tech CS 4650 and 7650, "Natural Language"
+- [Richland_prefab_2br](https://github.com/jfishe/Richland_prefab_2br) - Richland, WA, 2 bedroom Prefab Remodel
+- [phd-thesis](https://github.com/malramsay64/phd-thesis) - My (currently work in progress) PhD Thesis on Understanding Crystal Growth
+- [bibsearch](https://github.com/mjpost/bibsearch) - Download, manage, and search a BibTeX database.
+- [pinp](https://github.com/eddelbuettel/pinp) - Pinp Is Not PNAS -- Two-Column PDF Template
+- [pandoc-letter](https://github.com/aaronwolen/pandoc-letter) - Pandoc template for writing letters in markdown
+- [linl](https://github.com/eddelbuettel/linl) - Linl Is Not Letter -- Markdown-based LaTeX Letter Template
+- [Getting-Started-in-R](https://github.com/saghirb/Getting-Started-in-R) - An 8 page guide to starting with R - Tidyverse Edition
+- [binb](https://github.com/eddelbuettel/binb) - Binb is not Beamer
 - [nheengatu](https://github.com/joseflaviojr/nheengatu) - Extensão que complementa a Pandoc para fins de publicação de trabalhos
 - [calculus](https://github.com/bcrowell/calculus) - a free and open-source calculus textbook
 - [pandoc_resume](https://github.com/mszep/pandoc_resume) - The Markdown Resume
 - [scientific-articles-markdown](https://github.com/robert-winkler/scientific-articles-markdown) - Creation of scientific articles in various output formats (DOCX, ODT, PDF, LATEX, HTML, EPUB) with markdown/ pandoc
+- [happy-git-with-r](https://github.com/jennybc/happy-git-with-r) - Using Git and GitHub with R, Rstudio, and R Markdown
 - [pandoc-starter](https://github.com/jez/pandoc-starter) - 📄My pandoc markdown templates and makefiles
 - [tidy-text-mining](https://github.com/dgrtwo/tidy-text-mining) - Manuscript of the book "Tidy Text Mining with R" by Julia Silge and David Robinson
 - [cv-boilerplate](https://github.com/mrzool/cv-boilerplate) - Programmatic generation of high-quality CVs
@@ -3141,13 +4003,13 @@
 - [knitr-examples](https://github.com/yihui/knitr-examples) - A collection of knitr examples
 - [stat133](https://github.com/gastonstat/stat133) - Concepts in Computing with Data, UC Berkeley
 - [resume](https://github.com/divad12/resume) - Yaml resume compiled into multiple formats (such as LaTeX, HTML (TODO), etc.)
-- [openintro-statistics](https://github.com/OpenIntroOrg/openintro-statistics) - An open-source textbook written at the college level. OpenIntro also offers a second college-level intro stat textbook and also a high school variant.
+- [openintro-statistics](https://github.com/OpenIntroStat/openintro-statistics) - An open-source textbook written at the college level. OpenIntro also offers a second college-level intro stat textbook and also a high school variant.
 - [rticles](https://github.com/rstudio/rticles) - LaTeX Journal Article Templates for R Markdown
 - [MScStatisticsNotes](https://github.com/vasishth/MScStatisticsNotes) - These are cheat sheets and notes I made as part of an MSc in Statistics, at the University of Sheffield, UK.
 - [markdown-latex-boilerplate](https://github.com/davecap/markdown-latex-boilerplate) - Boilerplate for writing a paper with Markdown/Latex and Pandoc
-- [ggplot2-book](https://github.com/hadley/ggplot2-book) - The ggplot2 book
 - [rfss](https://github.com/zmjones/rfss) - "Exploratory Data Analysis using Random Forests"
 - [pandoc-journal-templates](https://github.com/sachsmc/pandoc-journal-templates) - Pandoc templates and resources for the major (bio)statistics journals
+- [r-pkgs](https://github.com/hadley/r-pkgs) - Building R packages
 - [lnraw](https://github.com/mmadsen/lnraw) - Lab Notebook - Source Version
 - [civil-war-reader](https://github.com/wcaleb/civil-war-reader) - Open-source collection of handouts for Civil War history
 - [Dictionaries](https://github.com/openeventdata/Dictionaries) - PETRARCH actor, agent and verb dictionaries
@@ -3170,29 +4032,73 @@
 - [TeX-sidenotes](https://github.com/andythomas/TeX-sidenotes) - This package allows the typesetting of manuscripts with notes, figures, citations, captions and tables in the margin, which is common e.g. in science textbooks or theses.
 - [Kartei](https://github.com/kellertuer/Kartei) - Eine Karteikartenklasse für LaTeX
 - [filter](https://github.com/adityam/filter) - ConTeXt module to process contents of a start-stop environment through an external program
+- [pandoc-templates](https://github.com/kjhealy/pandoc-templates) - Some templates for Pandoc.
 
 ## TypeScript 
 
+- [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
+- [Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
+- [aristotl](https://github.com/andrewscwei/aristotl) - An experimental logical fallacy lookup tool
+- [pocket-wiki](https://github.com/tadeussenf/pocket-wiki) - Alternative User Interface for getpocket.com
+- [firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in your browser.
+- [owid-grapher](https://github.com/owid/owid-grapher) - Interactive data visualizations done quickly
+- [utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
+- [turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [stimulus](https://github.com/stimulusjs/stimulus) - A modest JavaScript framework for the HTML you already have
 - [polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
-- [bukubrow](https://github.com/SamHH/bukubrow) - WebExtension for Buku
+- [audio-only-youtube](https://github.com/Ashish-Bansal/audio-only-youtube) - Listen to only audio on youtube.
+- [bukubrow-webext](https://github.com/SamHH/bukubrow-webext) - WebExtension for Buku
+- [temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
 - [zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts
 - [tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
+- [vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
 - [mapillary-js](https://github.com/mapillary/mapillary-js) - WebGL & JavaScript library for displaying street level imagery from Mapillary
+- [staticsitegenerators-list](https://github.com/bevry/staticsitegenerators-list) - A comprehensive, partially automatically generated comparison of static site generators
 - [cjkDecompVis](https://github.com/djuretic/cjkDecompVis) - Visualization of CJK Decomposition Data using D3.js
 - [sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
-- [requestpolicy](https://github.com/RequestPolicyContinued/requestpolicy) - RequestPolicy is a Firefox extension that gives you control over cross-site requests.
+- [Ficdown.js](https://github.com/rudism/Ficdown.js) - Ficdown parser and runner in Javascript
+- [requestpolicy](https://github.com/RequestPolicyContinued/requestpolicy) - a web browser extension that gives you control over cross-site requests. Currently only supports XUL+XPCOM-based browsers.
+
+## Vala 
+
+- [web-archives](https://github.com/birros/web-archives) - A web archives reader
+- [pdftricks](https://github.com/muriloventuroso/pdftricks) - A simple, efficient application for small manipulations in PDF files using Ghostscript.
+
+## Vim Snippet 
+
+- [vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
 
 ## Vim script 
 
+- [slides.vim](https://github.com/eiro/slides.vim) - yet another WYSIWYG presentation editor
+- [vim-flog](https://github.com/rbong/vim-flog) - A lightweight and powerful git branch viewer for vim.
+- [colorcli](https://github.com/jonasjacek/colorcli) - Collection of harmonized, light command-line interface (CLI) color themes for tmux, cmus, newsboat, mcabber, and Vim.
+- [neomux](https://github.com/nikvdp/neomux) - 
+- [configs](https://github.com/manu-mannattil/configs) - A repository for my configuration files (vim, mutt, bash, etc.)
+- [awk-ward.nvim](https://github.com/HiPhish/awk-ward.nvim) - Mirror of https://gitlab.com/HiPhish/awk-ward.nvim
+- [vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
+- [markdown-drawer](https://github.com/Scuilion/markdown-drawer) - Simplify navigation in large markdown files.
+- [undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM
+- [vim-mundo](https://github.com/simnalamburt/vim-mundo) - :christmas_tree: Vim undo tree visualizer
+- [NrrwRgn](https://github.com/chrisbra/NrrwRgn) - A Narrow Region Plugin for vim (like Emacs Narrow Region)
+- [vim-rmarkdown](https://github.com/vim-pandoc/vim-rmarkdown) - Rmarkdown support for vim
+- [vim-tmux](https://github.com/tmux-plugins/vim-tmux) - vim plugin for tmux.conf
+- [vim-gnupg](https://github.com/jamessan/vim-gnupg) - This script implements transparent editing of gpg encrypted files. The filename must have a ".gpg", ".pgp" or ".asc" suffix. When opening such a file the content is decrypted, when opening a new file the script will ask for the recipients of the encrypted file. The file content will be encrypted to all recipients before it is written. The script turns off viminfo, swapfile, and undofile to increase security.
+- [literate-vimrc](https://github.com/thcipriani/literate-vimrc) - Create a literate Vim configuration because reasons.
+- [xdg_open.vim](https://github.com/arp242/xdg_open.vim) - Run xdg-open from Vim; re-implements netrw's gx.
+- [configs](https://github.com/trapd00r/configs) - My ~/etc - configs, dotfiles
+- [vim-autoformat](https://github.com/Chiel92/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.
+- [minpac](https://github.com/k-takata/minpac) - A minimal package manager for Vim 8 (and Neovim)
+- [vim-picker](https://github.com/srstevenson/vim-picker) - A fuzzy picker for Neovim and Vim
+- [tagbar](https://github.com/majutsushi/tagbar) - Vim plugin that displays tags in a window, ordered by scope
 - [vim-waikiki](https://github.com/fcpg/vim-waikiki) - Vim minimal wiki
 - [wiki.vim](https://github.com/lervag/wiki.vim) - A wiki plugin for Vim
-- [voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
 - [vim-zen](https://github.com/danishprakash/vim-zen) - Barebones Vim Plugin Manager
 - [vim-apathy](https://github.com/tpope/vim-apathy) - apathy.vim: Set the 'path' option for miscellaneous file types
 - [idiomatic-vimrc](https://github.com/romainl/idiomatic-vimrc) - Guidelines for sculpting your very own ~/.vimrc.
 - [vim-lsp](https://github.com/prabirshrestha/vim-lsp) - async language server protocol plugin for vim and neovim
 - [asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim) - async completion in pure vim script for vim8 and neovim
+- [webcomplete.vim](https://github.com/thalesmello/webcomplete.vim) - A plugin for Vim that completes words from your browser
 - [vimpyter](https://github.com/szymonmaszke/vimpyter) - Edit your Jupyter notebooks in Vim/Neovim
 - [vim-grammarous](https://github.com/rhysd/vim-grammarous) - A powerful grammar checker for Vim using LanguageTool.
 - [neoranger](https://github.com/Lokaltog/neoranger) - Simple ranger wrapper for neovim.
@@ -3214,19 +4120,19 @@
 - [gitv](https://github.com/gregsexton/gitv) - gitk for Vim.
 - [vim-arduino](https://github.com/stevearc/vim-arduino) - Vim plugin for compiling and uploading arduino sketches
 - [vim-arduino-ino](https://github.com/jplaut/vim-arduino-ino) - 
+- [vim-syntax-vidir-ls](https://github.com/trapd00r/vim-syntax-vidir-ls) - dircolors in your vidir session
 - [gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
 - [vim-dasht](https://github.com/sunaku/vim-dasht) - :information_desk_person: (Neo)Vim plugin for dasht integration
 - [vim-json](https://github.com/elzr/vim-json) - A better JSON for Vim: distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, quote concealing. Pathogen-friendly.
 - [braceless.vim](https://github.com/tweekmonster/braceless.vim) - :snake: Text objects, folding, and more for Python and other indented languages.
 - [til](https://github.com/jbranchaud/til) - :memo: Today I Learned
-- [neoman.vim](https://github.com/nhooyr/neoman.vim) - A modern man page plugin for vim
 - [gv.vim](https://github.com/junegunn/gv.vim) - A git commit browser in Vim
 - [vim-bracketed-paste](https://github.com/ConradIrwin/vim-bracketed-paste) - Handles bracketed-paste-mode in vim (aka. automatic `:set paste`)
 - [vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
 - [vimcmdline](https://github.com/jalvesaq/vimcmdline) - Send code to command line interpreter
 - [ranger.vim](https://github.com/francoiscabrol/ranger.vim) - Ranger integration in vim and neovim
 - [vim-rhubarb](https://github.com/tpope/vim-rhubarb) - rhubarb.vim: GitHub extension for fugitive.vim
-- [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows a git diff in the gutter (sign column) and stages/undoes hunks.
+- [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows a git diff in the gutter (sign column) and stages/undoes hunks and partial hunks.
 - [vim-grepper](https://github.com/mhinz/vim-grepper) - :space_invader: Helps you win at grep.
 - [unite-pocket.vim](https://github.com/syurazo/unite-pocket.vim) - Unite source for pocket api
 - [neomru.vim](https://github.com/Shougo/neomru.vim) - MRU plugin includes unite.vim/denite.nvim MRU sources
@@ -3240,7 +4146,7 @@
 - [vim-man](https://github.com/vim-utils/vim-man) - View and grep man pages in vim
 - [vim-flagship](https://github.com/tpope/vim-flagship) - flagship.vim: Configurable and extensible tab line and status line
 - [vim-wintabs](https://github.com/zefei/vim-wintabs) - Modern buffer manager for Vim
-- [vim-test](https://github.com/janko-m/vim-test) - Run your tests at the speed of thought
+- [vim-test](https://github.com/janko/vim-test) - Run your tests at the speed of thought
 - [vinfo](https://github.com/alx741/vinfo) - Vim info documentation reader, allows to read info pages when inside a Vim session or from the shell prompt (instead of Info)
 - [vim-pandoctitude](https://github.com/jeetsukumaran/vim-pandoctitude) - Equipping Your Vim With a Pandoc Attitude!
 - [vim-gtfo](https://github.com/justinmk/vim-gtfo) - Go to Terminal or File manager :point_right:
@@ -3256,6 +4162,8 @@
 - [vimbed](https://github.com/ardagnir/vimbed) - A plugin for embedding vim
 - [open-browser-github.vim](https://github.com/tyru/open-browser-github.vim) - Open GitHub URL of current file, etc. from Vim editor (supported GitHub Enterprise)
 - [vim-github-dashboard](https://github.com/junegunn/vim-github-dashboard) - :octocat: Browse GitHub events in Vim
+- [vim-markdownfootnotes](https://github.com/vim-pandoc/vim-markdownfootnotes) - Insert Extended Markdown Footnotes in Vim
+- [vim-markdownfootnotes](https://github.com/derdennis/vim-markdownfootnotes) - Insert Extended Markdown Footnotes in Vim
 - [ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) - An ack.vim alternative mimics Ctrl-Shift-F on Sublime Text 2
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [dots](https://github.com/jintonic/dots) - dots - ~/.*
@@ -3269,7 +4177,9 @@
 - [neobundle.vim](https://github.com/Shougo/neobundle.vim) - Next generation Vim package manager
 - [tmux-complete.vim](https://github.com/wellle/tmux-complete.vim) - Vim plugin for insert mode completion of words in adjacent tmux panes
 - [unite-outline](https://github.com/Shougo/unite-outline) - outline source for unite.vim
+- [cutils.vim](https://github.com/javier-lopez/cutils.vim) - cutils is a repository of small functions I've found useful when using vim.
 - [targets.vim](https://github.com/wellle/targets.vim) - Vim plugin that provides additional text objects
+- [vim-ref](https://github.com/thinca/vim-ref) - Integrated reference viewer.
 - [vitality.vim](https://github.com/sjl/vitality.vim) - Make Vim play nicely with iTerm 2 and tmux.
 - [VOoM_extras](https://github.com/vim-voom/VOoM_extras) - Supplementary materials for VOoM
 - [lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
@@ -3294,9 +4204,12 @@
 - [vim-dispatch](https://github.com/tpope/vim-dispatch) - dispatch.vim: Asynchronous build and test dispatcher
 - [dotfiles](https://github.com/nelstrom/dotfiles) - My dotfiles. Mainly customisations for Vim and Bash.
 - [vim-PinyinSearch](https://github.com/ppwwyyxx/vim-PinyinSearch) - help vim search Chinese by Pinyin
+- [clam.vim](https://github.com/sjl/clam.vim) - A lightweight Vim plugin for working with shell commands.
 - [vimux](https://github.com/benmills/vimux) - vim plugin to interact with tmux
 - [vim-unbundle](https://github.com/sunaku/vim-unbundle) - 🎁 Fast, filetype-lazy loader of Vim scripts & plugins
 - [vim-altr](https://github.com/kana/vim-altr) - Vim plugin: Switch to the missing file without interaction
+- [vim-extradite](https://github.com/int3/vim-extradite) - A git commit browser for vim. Extends fugitive.vim.
+- [soywiki](https://github.com/danchoi/soywiki) - A wiki engine built on top of Vim and Git
 - [vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs)
 - [vimpager](https://github.com/rkitover/vimpager) - Use Vim as PAGER
 - [vim-substitute](https://github.com/aklt/vim-substitute) - Mappings for vim that make it easier to substitute the word under the curser
@@ -3315,6 +4228,7 @@
 - [config](https://github.com/smith/config) - Smith's configuration files
 - [vim-quickrun](https://github.com/thinca/vim-quickrun) - Run commands quickly.
 - [vim-unimpaired](https://github.com/tpope/vim-unimpaired) - unimpaired.vim: Pairs of handy bracket mappings
+- [tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
 - [vim-surround](https://github.com/tpope/vim-surround) - surround.vim: quoting/parenthesizing made simple
 
 ## VimL 
@@ -3328,7 +4242,6 @@
 - [ctrlp-colorscheme](https://github.com/hara/ctrlp-colorscheme) - 
 - [ctrlp-mpc.vim](https://github.com/lucidstack/ctrlp-mpc.vim) - Control MPD from vim, through mpc, with ctrlp!
 - [MPage](https://github.com/vim-scripts/MPage) - Shows synchronized pages of a file in multiple windows
-- [vim-syntax-vidir-ls](https://github.com/trapd00r/vim-syntax-vidir-ls) - dircolors in your vidir session
 - [vmustache](https://github.com/tobyS/vmustache) - Mustache template system for VIMScript
 - [vim-stencil](https://github.com/mrtazz/vim-stencil) - simple template loading plugin for VIM
 - [neovim-ranger](https://github.com/airodactyl/neovim-ranger) - 
@@ -3345,9 +4258,7 @@
 - [vim-taskwarrior](https://github.com/blindFS/vim-taskwarrior) - vim interface for taskwarrior
 - [pandoc-sections.vim](https://github.com/gbgar/pandoc-sections.vim) - Section movements and text-objects for (Pandoc) markdown.
 - [elinks.vim](https://github.com/danchoi/elinks.vim) - Integrate elinks and vim
-- [vim-markdownfootnotes](https://github.com/vim-pandoc/vim-markdownfootnotes) - Insert Extended Markdown Footnotes in Vim
 - [vim-online-thesaurus](https://github.com/beloglazov/vim-online-thesaurus) - A Vim plugin for looking up words in an online thesaurus
-- [vim-markdownfootnotes](https://github.com/derdennis/vim-markdownfootnotes) - Insert Extended Markdown Footnotes in Vim
 - [vimtux](https://github.com/brauner/vimtux) - Send commands from Vim to Tmux
 - [vim-migemo](https://github.com/haya14busa/vim-migemo) - Vim Plugin for C/Migemo
 - [vim-husk](https://github.com/vim-utils/vim-husk) - Mappings that boost vim's command line.
@@ -3361,7 +4272,6 @@
 - [unite-radio.vim](https://github.com/klen/unite-radio.vim) - Play radio stations in your VIM
 - [wildfire.vim](https://github.com/gcmt/wildfire.vim) - Smart selection of the closest text object
 - [wildfire.vim](https://github.com/mattn/wildfire.vim) - Smart selection of the closest text object
-- [vim-ref](https://github.com/thinca/vim-ref) - Integrated reference viewer.
 - [vim-textobj-uri](https://github.com/jceb/vim-textobj-uri) - Text objects for dealing with URIs
 - [vim-textobj-underscore](https://github.com/lucapette/vim-textobj-underscore) - Underscore text-object for Vim
 - [vim-textobj-word-column](https://github.com/rhysd/vim-textobj-word-column) - Adds text-objects for word-based columns in Vim.
@@ -3370,7 +4280,7 @@
 - [taskpaper.vim](https://github.com/vim-scripts/taskpaper.vim) - TaskPaper to-do list format support
 - [vim-expand-region](https://github.com/terryma/vim-expand-region) - Vim plugin that allows you to visually select increasingly larger regions of text using the same key combination.
 - [vim-tmuxify](https://github.com/jebaum/vim-tmuxify) - Vim plugin for handling tmux panes.
-- [slimux](https://github.com/epeli/slimux) - SLIME inspired tmux integration plugin for Vim
+- [slimux](https://github.com/esamattis/slimux) - SLIME inspired tmux integration plugin for Vim
 - [trans.vim](https://github.com/gu-fan/trans.vim) - Easier translation in vim
 - [w3m.vim](https://github.com/yuratomo/w3m.vim) - w3m plugin for vim
 - [vim-qfnotes](https://github.com/khorser/vim-qfnotes) - Vim plugin for external file annotation
@@ -3380,11 +4290,8 @@
 - [vim-hybrid](https://github.com/w0ng/vim-hybrid) - A dark color scheme for Vim
 - [textobj-word-column.vim](https://github.com/coderifous/textobj-word-column.vim) - Adds text-objects for word-based columns in Vim.
 - [vim-pipe](https://github.com/krisajenkins/vim-pipe) - Send a vim buffer through a command and instantly see the output.
-- [clam.vim](https://github.com/sjl/clam.vim) - A lightweight Vim plugin for working with shell commands.
 - [vim-buffersaurus](https://github.com/jeetsukumaran/vim-buffersaurus) - Vim plugin to search, index, and navigate buffer content using regular expression patterns.
-- [vim-extradite](https://github.com/int3/vim-extradite) - A git commit browser for vim. Extends fugitive.vim.
 - [vim-phrase](https://github.com/t9md/vim-phrase) - gather userful phrase for reference
-- [soywiki](https://github.com/danchoi/soywiki) - A wiki engine built on top of Vim and Git
 - [vim-notes](https://github.com/xolox/vim-notes) - Easy note taking in Vim
 - [txt.vim--xu](https://github.com/vim-scripts/txt.vim--xu) - Syntax file for plain text file in Chinese
 - [vim-editqf](https://github.com/jceb/vim-editqf) - Make quickfix entries editable
@@ -3394,12 +4301,19 @@
 - [taskpaper.vim](https://github.com/davidoc/taskpaper.vim) - This package contains a syntax file and a file-type plugin for the simple format used by the TaskPaper application.
 - [ttoc_vim](https://github.com/tomtom/ttoc_vim) - A regexp-based table of contents of the current buffer for vim
 - [vim-space](https://github.com/spiiph/vim-space) - space.vim - Smart Space key for Vim
-- [tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
 - [snipmate.vim](https://github.com/msanders/snipmate.vim) - snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim.
 
 ## Visual Basic 
 
 - [vibreoffice](https://github.com/seanyeh/vibreoffice) - Vi Mode for LibreOffice/OpenOffice
+
+## Vue 
+
+- [course-sketcher](https://github.com/perliedman/course-sketcher) - Web based course setting for orienteering
+
+## sed 
+
+- [bash-doxygen](https://github.com/Anvil/bash-doxygen) - A doxygen filter for bash scripts
 
 
 ## License
