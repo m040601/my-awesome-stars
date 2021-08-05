@@ -3272,7 +3272,7 @@
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [midnightprioriem/mkdocs-vim-md-tags-plugin](https://github.com/midnightprioriem/mkdocs-vim-md-tags-plugin) - An MkDocs plugin that creates a vim tag file of all markdown files
 - [TheStaticTurtle/Open433](https://github.com/TheStaticTurtle/Open433) - This project is an opensource usb 433Mhz rf transmitter / receiver based on an atmega328p
-- [dataframehq/whale](https://github.com/dataframehq/whale) - 🐳 The stupidly simple CLI workspace for your data warehouse.
+- [hyperqueryhq/whale](https://github.com/hyperqueryhq/whale) - 🐳 The stupidly simple CLI workspace for your data warehouse.
 - [random-python/nspawn](https://github.com/random-python/nspawn) - Containers with systemd-nspawn
 - [larsks/snarl](https://github.com/larsks/snarl) - 
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
@@ -5305,7 +5305,7 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [ueokande/vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
-- [mapillary/mapillary-js](https://github.com/mapillary/mapillary-js) - Interactive, extendable street imagery visualization platform in the browser, powered by WebGL
+- [mapillary/mapillary-js](https://github.com/mapillary/mapillary-js) - Interactive, extendable street imagery map visualization in the browser, powered by WebGL
 - [bevry/staticsitegenerators-list](https://github.com/bevry/staticsitegenerators-list) - A comprehensive, partially automatically generated comparison of static site generators
 - [jupyter/jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for jupyter notebooks
 - [djuretic/cjkDecompVis](https://github.com/djuretic/cjkDecompVis) - Visualization of CJK Decomposition Data using D3.js
