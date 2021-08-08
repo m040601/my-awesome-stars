@@ -2156,6 +2156,7 @@
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
 - [intika/Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
 - [sigdeletras/Leaflet.Spain.WMS](https://github.com/sigdeletras/Leaflet.Spain.WMS) - Provides easy setup for several Web Map Services (WMS) layers for Spain (PNOA, IGN base, Catastro, etc), from Spanish mapping agencies.
+- [mapillary/OpenSfM](https://github.com/mapillary/OpenSfM) - Open source Structure-from-Motion pipeline
 - [tuxor1337/firedict](https://github.com/tuxor1337/firedict) - Read-only mirror of https://framagit.org/tuxor1337/firedict. Pull requests and issues on GitHub cannot be accepted and will be automatically closed.
 - [andrewharvey/osm-editor-layer-index-qgis](https://github.com/andrewharvey/osm-editor-layer-index-qgis) - Convert OSM Editor Layer Index to QGIS XYZ Tiles Connections
 - [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa) - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appliance".
@@ -2724,6 +2725,7 @@
 
 ## Others 
 
+- [Xinyuan-LilyGO/LilyGO-T-Motion](https://github.com/Xinyuan-LilyGO/LilyGO-T-Motion) - LilyGO-T-Motion
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [sbcshop/Pico-2G-Expansion](https://github.com/sbcshop/Pico-2G-Expansion) - 
 - [robhagemans/hoard-of-bitfonts](https://github.com/robhagemans/hoard-of-bitfonts) - turns out I like bitmap fonts
@@ -3529,7 +3531,6 @@
 - [nurdtechie98/drive-cli](https://github.com/nurdtechie98/drive-cli) - A command line interface for accessing google drive
 - [AnaviTechnology/anavi-play-phat](https://github.com/AnaviTechnology/anavi-play-phat) - Simple open source hardware keyboard for playing games on Raspberry Pi
 - [mitshel/sopds](https://github.com/mitshel/sopds) - Simple opds catalog
-- [mapillary/OpenSfM](https://github.com/mapillary/OpenSfM) - Open source Structure-from-Motion pipeline
 - [inkcut/inkcut](https://github.com/inkcut/inkcut) - An application for controlling 2D plotters, cutters, engravers, and CNC machines.
 - [tuxor1337/springerdownload](https://github.com/tuxor1337/springerdownload) - Read-only mirror of https://framagit.org/tuxor1337/springerdownload. Pull requests and issues on GitHub cannot be accepted and will be automatically closed.
 - [tuxor1337/dictmaster](https://github.com/tuxor1337/dictmaster) - Read-only mirror of https://framagit.org/tuxor1337/dictmaster Pull requests and issues on GitHub cannot be accepted and will be automatically closed.
@@ -4710,7 +4711,6 @@
 - [Bugswriter/tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [bakkenbaeck/a-random-walk-through-git](https://github.com/bakkenbaeck/a-random-walk-through-git) - A weird tour through Git and some of its internals.
 - [robviauc/openwrtfw-ha](https://github.com/robviauc/openwrtfw-ha) - Integrates OpenWRT firewall with HomeAssistant via MQTT
-- [invas10n01/mpvc](https://github.com/invas10n01/mpvc) - a cli tool for listening music with mpv
 - [system76/launch](https://github.com/system76/launch) - System76 Launch Configurable Keyboard
 - [Roshan-R/termv](https://github.com/Roshan-R/termv) - A terminal iptv player written in bash
 - [huijunchen9260/shbib](https://github.com/huijunchen9260/shbib) - A BibTeX-centric bibliography manager written in POSIX shell
