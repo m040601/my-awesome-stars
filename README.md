@@ -3258,7 +3258,7 @@
 - [plant99/felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
 - [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
-- [greyltc/python-live-chart](https://github.com/greyltc/python-live-chart) - Real time data plotting in the terminal with python, curses and asciichart
+- [greyltc-org/python-live-chart](https://github.com/greyltc-org/python-live-chart) - Real time data plotting in the terminal with python, curses and asciichart
 - [wustho/epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
 - [hifiberry/snapcastmpris](https://github.com/hifiberry/snapcastmpris) - MPRIS interface to snapcast
 - [xkonni/snapcastr](https://github.com/xkonni/snapcastr) - webinterface to control a snapserver
