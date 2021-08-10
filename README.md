@@ -1740,6 +1740,7 @@
 - [ArchiveTeam/wpull](https://github.com/ArchiveTeam/wpull) - Wget-compatible web downloader and crawler.
 - [kbenoit/ITAUR](https://github.com/kbenoit/ITAUR) - Introduction to Text Analysis Using R
 - [trinker/pacman](https://github.com/trinker/pacman) - A package management tools for R
+- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [cran/transcribeR](https://github.com/cran/transcribeR) - :exclamation: This is a read-only mirror of the CRAN R package repository.  transcribeR — Automated Transcription of Audio Files Through the HP IDOL API
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [interedition/collatex](https://github.com/interedition/collatex) - CollateX – Software for Collating Textual Sources
@@ -2638,6 +2639,8 @@
 
 ## Makefile 
 
+- [dibdot/packages](https://github.com/dibdot/packages) - Community maintained packages for OpenWrt
+- [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 - [jp-fosterson/pandoc-novel](https://github.com/jp-fosterson/pandoc-novel) - Markdown text to a novel in ePub and PDF.
 - [ivanstojic/pandoc-ssg](https://github.com/ivanstojic/pandoc-ssg) - Pandoc-SSG is a Make driven Pandoc static site generator. It features basic functionality in a trivial implementation.
 - [patrickbr/hagel](https://github.com/patrickbr/hagel) - Single Makefile static page generator. Mostly meant as a joke.
@@ -2888,7 +2891,6 @@
 - [PolyVection/RPI-ZERO-case](https://github.com/PolyVection/RPI-ZERO-case) - Minimal case for PlainDAC and Raspberry Pi ZERO
 - [pritambaral/hostapd-rtl871xdrv](https://github.com/pritambaral/hostapd-rtl871xdrv) - Hostapd driver for RTL8188{C|CU|CUS} wifi chips.
 - [evangoer/pandoc-ebook-template](https://github.com/evangoer/pandoc-ebook-template) - This project defines a skeleton repo for creating ebooks out of Pandoc Markdown.
-- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - Official documentation for the Raspberry Pi
 - [iantrich/ChrUbuntu-Guides](https://github.com/iantrich/ChrUbuntu-Guides) - Guides, Walk-throughs, General Fixes and Tips for Chromebook users running ChrUbuntu
 - [davepwsmith/academic-scrivener-howto](https://github.com/davepwsmith/academic-scrivener-howto) - How to use Scrivener for academic writing with Zotero and Pandoc
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
@@ -3258,7 +3260,7 @@
 - [plant99/felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
 - [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
-- [greyltc-org/python-live-chart](https://github.com/greyltc-org/python-live-chart) - Real time data plotting in the terminal with python, curses and asciichart
+- [greyltc-org/livechart](https://github.com/greyltc-org/livechart) - Real time data plotting in the terminal with python, curses and asciichart
 - [wustho/epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
 - [hifiberry/snapcastmpris](https://github.com/hifiberry/snapcastmpris) - MPRIS interface to snapcast
 - [xkonni/snapcastr](https://github.com/xkonni/snapcastr) - webinterface to control a snapserver
@@ -4697,6 +4699,7 @@
 
 ## Shell 
 
+- [attila-lendvai/openwrt-auto-extroot](https://github.com/attila-lendvai/openwrt-auto-extroot) - Use the OpenWRT ImageBuilder to build a firmware that automatically formats and moves extroot to any (!) inserted storage device
 - [samoshkin/tmux-plugin-sysstat](https://github.com/samoshkin/tmux-plugin-sysstat) - Prints CPU usage, memory & swap, load average, net I/O metrics in Tmux status bar
 - [spywhere/tmux-now-playing](https://github.com/spywhere/tmux-now-playing) - Add music player with music control through key bindings to tmux
 - [Feqzz/tmux-mpv-info](https://github.com/Feqzz/tmux-mpv-info) - 🎵 Displays the current song playing with MPV in your tmux status bar.
