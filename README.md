@@ -250,7 +250,7 @@
 - [pmumby/snapclient](https://github.com/pmumby/snapclient) - WIP snapclient on ESP32
 - [karlb/smu](https://github.com/karlb/smu) - Simple MarkUp - markdown/commonmark like syntax
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
-- [mkws-1/pp-1](https://github.com/mkws-1/pp-1) - a preprocessor
+- [mkws-1/pp](https://github.com/mkws-1/pp) - a preprocessor
 - [gamelinux/passivedns](https://github.com/gamelinux/passivedns) - A network sniffer that logs all DNS server replies for use in a passive DNS setup
 - [ericpruitt/emus](https://github.com/ericpruitt/emus) - EMUS: Eric's Multi-platform UNIX Stack
 - [LuisRusso/PamUUID](https://github.com/LuisRusso/PamUUID) - A PAM authentication for Linux and FreeBSD using USB Flash Drives.
@@ -4291,7 +4291,7 @@
 ## Roff 
 
 - [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter) - OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
-- [mkws-1/mkws-1](https://github.com/mkws-1/mkws-1) - Efficient Static Site Generator
+- [mkws-1/mkws](https://github.com/mkws-1/mkws) - A small, no bloat, minimalist static site generator using `sh` as a templating language.
 - [rrthomas/pdfjam-extras](https://github.com/rrthomas/pdfjam-extras) - Some unsupported 'wrapper' scripts for pdfjam
 - [d630/etc-bash](https://github.com/d630/etc-bash) - 
 - [Creality3DPrinting/Ender-3](https://github.com/Creality3DPrinting/Ender-3) - The Creality3D Ender-3, a fully Open Source 3D printer perfect for new users on a budget.
@@ -4745,7 +4745,7 @@
 - [archdroid-org/alarm-image-generator](https://github.com/archdroid-org/alarm-image-generator) - ArchLinuxARM Disk Image Generator
 - [LibreSolar/learn.libre.solar](https://github.com/LibreSolar/learn.libre.solar) - Building DC Energy Systems (OER)
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
-- [hexdump0815/imagebuilder](https://github.com/hexdump0815/imagebuilder) - simple script framework to build ubuntu 20.04 lts (focal) and (soon) debian 11 (bullseye) bootable sd card images for arm devices
+- [hexdump0815/imagebuilder](https://github.com/hexdump0815/imagebuilder) - simple script framework to build ubuntu 20.04 lts (focal) and (soon) debian 11 (bullseye) bootable sd card images for some arm and intel devices
 - [krjdev/rock64_openbsd](https://github.com/krjdev/rock64_openbsd) - TUTORIAL: Install OpenBSD on a PINE64 ROCK64 media board.
 - [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
 - [netlify/actions](https://github.com/netlify/actions) - 
