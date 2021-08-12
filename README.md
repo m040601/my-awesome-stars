@@ -455,7 +455,7 @@
 - [s54mtb/LoRaDunchy](https://github.com/s54mtb/LoRaDunchy) - Lora board with Arduino nano compatibile pinout and simple battery management
 - [astuder/dAISy](https://github.com/astuder/dAISy) - Simple AIS Receiver based on Si4362 and MSP430
 - [jcorporation/myMPD](https://github.com/jcorporation/myMPD) - myMPD is a standalone and mobile friendly web mpd client with a tiny footprint and advanced features.
-- [piconomix/piconomix-fwlib](https://github.com/piconomix/piconomix-fwlib) - open source bare-metal C firmware and documentation for microcontrollers
+- [piconomix/px-fwlib](https://github.com/piconomix/px-fwlib) - open source bare-metal C firmware and documentation for microcontrollers
 - [tats/w3m](https://github.com/tats/w3m) - Debian's w3m: WWW browsable pager
 - [posva/catimg](https://github.com/posva/catimg) - 🦦 Insanely fast image printing in your terminal
 - [kevinboone/epub2txt2](https://github.com/kevinboone/epub2txt2) - A simple command-line utility for Linux, for extracting text from EPUB documents.
@@ -928,7 +928,7 @@
 - [scantailor/scantailor](https://github.com/scantailor/scantailor) - 
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - Primary QPDF source code and documentation
 - [XRobots/WiperMotorServo](https://github.com/XRobots/WiperMotorServo) - 
-- [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale compatibility, SMS & LORA.
+- [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermometer compatibility, SMS & LORA.
 - [vedderb/vesc_tool](https://github.com/vedderb/vesc_tool) - The source code for VESC Tool. See vesc-project.com
 - [SensorsIot/Hacking-433](https://github.com/SensorsIot/Hacking-433) - 
 - [gnss-sdr/gnss-sdr](https://github.com/gnss-sdr/gnss-sdr) - GNSS-SDR, an open-source software-defined GNSS receiver
@@ -1640,7 +1640,6 @@
 - [jcs/no_color](https://github.com/jcs/no_color) - Website data for no-color.org
 - [yakivmospan/github-wikito-converter](https://github.com/yakivmospan/github-wikito-converter) - Generate HTML & PDF documentation from Github wiki or any other markdown-based wiki.
 - [d33tah/inkstone](https://github.com/d33tah/inkstone) - Learn Chinese on the go - no Internet connection required!
-- [benibr/ansible-role-nspawn-container](https://github.com/benibr/ansible-role-nspawn-container) - An ansible role to manage systemd nspawn containers and to reach them via avahi/zeroconf
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
 - [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - [lgaggini/ansible-arch](https://github.com/lgaggini/ansible-arch) - ansible-arch is an Ansible playbook to provision and recreate from scratch my archlinux workstation environment.
@@ -2519,6 +2518,7 @@
 ## Jinja 
 
 - [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
+- [benibr/ansible-role-nspawn-container](https://github.com/benibr/ansible-role-nspawn-container) - An ansible role to manage systemd nspawn containers and to reach them via avahi/zeroconf
 - [pigmonkey/spark](https://github.com/pigmonkey/spark) - Arch Linux Provisioning with Ansible
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 
@@ -3810,7 +3810,7 @@
 - [antiboredom/audiogrep](https://github.com/antiboredom/audiogrep) - Creates audio supercuts.
 - [itkach/slob](https://github.com/itkach/slob) - Data store for Aard 2
 - [itkach/slobby](https://github.com/itkach/slobby) - 
-- [ilius/pyglossary](https://github.com/ilius/pyglossary) - A tool for converting dictionary files aka glossaries. The primary purpose is to be able to use our offline glossaries in any Open Source dictionary we like on any OS/device.
+- [ilius/pyglossary](https://github.com/ilius/pyglossary) - A tool for converting dictionary files aka glossaries. Mainly to help use our offline glossaries in any Open Source dictionary we like on any modern operating system / device.
 - [firecat53/urlscan](https://github.com/firecat53/urlscan) - Mutt and terminal url selector (similar to urlview)
 - [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 - [takluyver/nbopen](https://github.com/takluyver/nbopen) - Open a Jupyter notebook in the best available server
@@ -4537,6 +4537,7 @@
 
 ## Rust 
 
+- [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [MarioJim/fuzzy-pdf](https://github.com/MarioJim/fuzzy-pdf) - Fuzzy finder for a collection of pdf files
@@ -4699,6 +4700,7 @@
 
 ## Shell 
 
+- [bjesus/muxile](https://github.com/bjesus/muxile) - Putting tmux on your mobile - Muxile is a tmux plugin that lets you control a running tmux session with your phone, no app needed.
 - [attila-lendvai/openwrt-auto-extroot](https://github.com/attila-lendvai/openwrt-auto-extroot) - Use the OpenWRT ImageBuilder to build a firmware that automatically formats and moves extroot to any (!) inserted storage device
 - [samoshkin/tmux-plugin-sysstat](https://github.com/samoshkin/tmux-plugin-sysstat) - Prints CPU usage, memory & swap, load average, net I/O metrics in Tmux status bar
 - [spywhere/tmux-now-playing](https://github.com/spywhere/tmux-now-playing) - Add music player with music control through key bindings to tmux
