@@ -2952,7 +2952,7 @@
 ## PHP 
 
 - [webkul/hotelcommerce](https://github.com/webkul/hotelcommerce) - Hotel & Booking Reservation Ecommerce system on Prestashop
-- [lvht/tagbar-markdown](https://github.com/lvht/tagbar-markdown) - vim-tagbar extension for markdown
+- [epii1/tagbar-markdown](https://github.com/epii1/tagbar-markdown) - vim-tagbar extension for markdown
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
 - [SnaKKo/Fossdroid-Core](https://github.com/SnaKKo/Fossdroid-Core) - Fossdroid Core is a web frontend of F-Droid: an alternative software repository comprising only free, open source software for Android. This repo is the open source version of fossdroid.com.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
@@ -5396,7 +5396,7 @@
 - [romainl/vim-qf](https://github.com/romainl/vim-qf) - Tame the quickfix window
 - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) - sensible.vim: Defaults everyone can agree on
 - [jalvesaq/Nvim-R](https://github.com/jalvesaq/Nvim-R) - Vim plugin to work with R
-- [lvht/fzf-mru.vim](https://github.com/lvht/fzf-mru.vim) - FZF MRU(Most Recently Used) File List Vim/NeoVim Plugin
+- [epii1/fzf-mru.vim](https://github.com/epii1/fzf-mru.vim) - FZF MRU(Most Recently Used) File List Vim/NeoVim Plugin
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
 - [yami-beta/ctrlp-explorer](https://github.com/yami-beta/ctrlp-explorer) - 
 - [ivalkeen/vim-ctrlp-tjump](https://github.com/ivalkeen/vim-ctrlp-tjump) - CtrlP extension for fuzzy-search in tag matches (:tjump replacement).
