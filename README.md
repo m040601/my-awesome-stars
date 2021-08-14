@@ -1016,6 +1016,7 @@
 - [adafruit/Adafruit_ILI9341](https://github.com/adafruit/Adafruit_ILI9341) - Library for Adafruit ILI9341 displays
 - [MarcoMartines/GSM-GPRS-GPS-Shield](https://github.com/MarcoMartines/GSM-GPRS-GPS-Shield) - GSM/GPRS & GPS Shield Library for modules using SIM900/SIM908
 - [NVSL/PiDuino_Library](https://github.com/NVSL/PiDuino_Library) - 
+- [letscontrolit/ESPEasy](https://github.com/letscontrolit/ESPEasy) - Easy MultiSensor device based on ESP8266
 - [me-no-dev/RasPiArduino](https://github.com/me-no-dev/RasPiArduino) - Arduino Framework for RaspberryPI
 - [Verwegener-Vogel/bfc3000](https://github.com/Verwegener-Vogel/bfc3000) - embedded partly sophisticated bird feeding measurement
 - [Links2004/arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets) - arduinoWebSockets
@@ -1723,7 +1724,6 @@
 - [dahu/vim_waz_ere](https://github.com/dahu/vim_waz_ere) - Vimmified version of the venerable Walter A. Zintz Vi/Ex Tutorial Series
 - [machinegurning/Rcourse](https://github.com/machinegurning/Rcourse) - Introductory course for complete R beginners
 - [swcarpentry/website](https://github.com/swcarpentry/website) - Software Carpentry website
-- [letscontrolit/ESPEasy](https://github.com/letscontrolit/ESPEasy) - Easy MultiSensor device based on ESP8266
 - [xpmethod/no-connect](https://github.com/xpmethod/no-connect) - 
 - [TEIC/TEI-Simple](https://github.com/TEIC/TEI-Simple) - Legacy Repository: TEI SimplePrint now merged into TEI Repository. Originally TEI Simple aimed to define a new highly-constrained and  prescriptive subset of the Text Encoding Initiative (TEI) Guidelines suited to the representation of early modern and modern books, a formally-defined set of processing model rules that enable web applications to easily present and analyze the encoded texts, mapping to other ontologies, and processes to describe the encoding status and richness of a TEI digital text.
 - [DH-Box/dhbox](https://github.com/DH-Box/dhbox) - A push-button Digital Humanities laboratory.
@@ -3908,7 +3908,7 @@
 - [rmalouf/learning](https://github.com/rmalouf/learning) - Notes on learning models (Rescorla-Wagner, etc)
 - [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
 - [jasperproject/jasper-client](https://github.com/jasperproject/jasper-client) - Client code for Jasper voice computing platform
-- [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
+- [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [Anomareh/mynt](https://github.com/Anomareh/mynt) - A static site generator.
 - [tkem/mopidy-podcast](https://github.com/tkem/mopidy-podcast) - Mopidy extension for browsing and playing podcasts
