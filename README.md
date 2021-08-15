@@ -2570,6 +2570,7 @@
 
 ## Lua 
 
+- [wis/mpvSockets](https://github.com/wis/mpvSockets) - creates one IPC socket per mpv instance
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - Better quickfix window in Neovim, polish old quickfix window.
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
@@ -4606,8 +4607,7 @@
 - [google/OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [koraa/huniq](https://github.com/koraa/huniq) - Filter out duplicates on the command line. Replacement for `sort | uniq` optimized for speed (10x faster) when sorting is not needed.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [swalladge/wallabag-api](https://github.com/swalladge/wallabag-api) - Wallabag api client
-- [swalladge/searchr](https://github.com/swalladge/searchr) - index and full text search local files
+- [swalladge/wallabag-api](https://github.com/swalladge/wallabag-api) - Moved to https://git.sr.ht/~swalladge/wallabag-api
 - [tantivy-search/tantivy-cli](https://github.com/tantivy-search/tantivy-cli) - 
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [google/pix-image-viewer](https://github.com/google/pix-image-viewer) - Desktop image viewer. View thousands of images in a zoomable, pannable grid.
@@ -4700,6 +4700,7 @@
 
 ## Shell 
 
+- [quarkscript/linux-armv7-xe303c12-only](https://github.com/quarkscript/linux-armv7-xe303c12-only) - Linux kernel for old google-snow chromebook
 - [bjesus/muxile](https://github.com/bjesus/muxile) - Putting tmux on your mobile - Muxile is a tmux plugin that lets you control a running tmux session with your phone, no app needed.
 - [attila-lendvai/openwrt-auto-extroot](https://github.com/attila-lendvai/openwrt-auto-extroot) - Use the OpenWRT ImageBuilder to build a firmware that automatically formats and moves extroot to any (!) inserted storage device
 - [samoshkin/tmux-plugin-sysstat](https://github.com/samoshkin/tmux-plugin-sysstat) - Prints CPU usage, memory & swap, load average, net I/O metrics in Tmux status bar
