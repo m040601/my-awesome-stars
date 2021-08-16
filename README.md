@@ -4758,7 +4758,7 @@
 - [David-Byrne/jekyll-diff-action](https://github.com/David-Byrne/jekyll-diff-action) - Github Action that diffs the built Jekyll site after a change, and comments the result back to GitHub.
 - [appleboy/scp-action](https://github.com/appleboy/scp-action) - GitHub Action that copy files and artifacts via SSH.
 - [repo-sync/github-sync](https://github.com/repo-sync/github-sync) - ⤵️ A GitHub Action for syncing current repository with remote
-- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more in a single portable script.
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [csdvrx/sixel-gnuplot](https://github.com/csdvrx/sixel-gnuplot) - GNUplot with sixel support
 - [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
 - [cdown/ansible-desktop](https://github.com/cdown/ansible-desktop) - Ansible playbook for my personal machines.
