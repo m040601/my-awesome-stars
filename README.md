@@ -2570,6 +2570,7 @@
 
 ## Lua 
 
+- [jgreco/mpv-youtube-quality](https://github.com/jgreco/mpv-youtube-quality) - A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly
 - [wis/mpvSockets](https://github.com/wis/mpvSockets) - creates one IPC socket per mpv instance
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - Better quickfix window in Neovim, polish old quickfix window.
@@ -4700,6 +4701,7 @@
 
 ## Shell 
 
+- [MyOS-ArchLinux/vids](https://github.com/MyOS-ArchLinux/vids) - vids - search for videos from youtube.com or other video platforms
 - [quarkscript/linux-armv7-xe303c12-only](https://github.com/quarkscript/linux-armv7-xe303c12-only) - Linux kernel for old google-snow chromebook
 - [bjesus/muxile](https://github.com/bjesus/muxile) - Putting tmux on your mobile - Muxile is a tmux plugin that lets you control a running tmux session with your phone, no app needed.
 - [attila-lendvai/openwrt-auto-extroot](https://github.com/attila-lendvai/openwrt-auto-extroot) - Use the OpenWRT ImageBuilder to build a firmware that automatically formats and moves extroot to any (!) inserted storage device
@@ -5358,7 +5360,7 @@
 - [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
 - [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
 - [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist) - projectionist.vim: Granular project configuration
-- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant generic finder and dispatcher for Vim and NeoVim
+- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
 - [chimay/configuration](https://github.com/chimay/configuration) - Config files
 - [eiro/slides.vim](https://github.com/eiro/slides.vim) - yet another WYSIWYG presentation editor
 - [rbong/vim-flog](https://github.com/rbong/vim-flog) - A lightweight and powerful git branch viewer for vim.
