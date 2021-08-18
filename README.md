@@ -165,7 +165,6 @@
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [pschatzmann/pico-arduino](https://github.com/pschatzmann/pico-arduino) - Arduino API Library for the Raspberry Pico
 - [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (Music Player, Music Recorder supporting I2S, Microphones, DAC, ADC, A2DP, Url)
-- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [SartoxOnlyGNU/audacium](https://github.com/SartoxOnlyGNU/audacium) - Audacity fork without Telemetry and with new features
 - [omar-polo/gmid](https://github.com/omar-polo/gmid) - simple and secure Gemini server
 - [omar-polo/telescope](https://github.com/omar-polo/telescope) - A Gemini Browser
@@ -746,6 +745,7 @@
 - [SebastianHinz73/InternetRadio](https://github.com/SebastianHinz73/InternetRadio) - With this repository, Espressif's LyraT board becomes an Internet radio.
 - [xavery/dcue](https://github.com/xavery/dcue) - DCue is a tool for generating CUE sheets from Discogs data.
 - [nopnop2002/esp8266-mpd-client](https://github.com/nopnop2002/esp8266-mpd-client) - MPD client example for ESP8266/ESP32.
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [DjordjeMandic/Universal-IR-Blaster-TV-B-Gone](https://github.com/DjordjeMandic/Universal-IR-Blaster-TV-B-Gone) - TV-B-Gone on steroids using Universal IR Blaster board
 - [wagiminator/ATtiny13-TinyUPS](https://github.com/wagiminator/ATtiny13-TinyUPS) - Uninterruptible Power Supply
 - [wagiminator/ATtiny13-TinyRemote](https://github.com/wagiminator/ATtiny13-TinyRemote) - IR Remote Control
