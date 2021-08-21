@@ -160,6 +160,7 @@
 
 ## C 
 
+- [turgu1/EPub-InkPlate](https://github.com/turgu1/EPub-InkPlate) - An EPub Reader for the ESP32 based InkPlate e-Ink devices.
 - [msharov/snownews](https://github.com/msharov/snownews) - :snowman: Snownews is a text-mode RSS feed reader.
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [pschatzmann/pico-arduino](https://github.com/pschatzmann/pico-arduino) - Arduino API Library for the Raspberry Pico
@@ -1958,6 +1959,7 @@
 
 ## JavaScript 
 
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [segfall/static-wiki](https://github.com/segfall/static-wiki) - Wikipedia using only static assets & no backend
 - [iiab/maps](https://github.com/iiab/maps) - Internet-in-a-Box (IIAB) Maps are like Google Maps but better, for schools especially, as they work offline (including satellite photos!) and avoid all the advertising.  LATEST README: https://github.com/iiab/iiab/tree/master/roles/osm-vector-maps
 - [rern/rAudio-addons](https://github.com/rern/rAudio-addons) - 
@@ -2584,7 +2586,7 @@
 - [Ajatt-Tools/videoclip](https://github.com/Ajatt-Tools/videoclip) - Easily create videoclips with mpv.
 - [Ajatt-Tools/mpvacious](https://github.com/Ajatt-Tools/mpvacious) - Adds mpv keybindings to create Anki cards from movies and TV shows.
 - [jonniek/mpv-playlistmanager](https://github.com/jonniek/mpv-playlistmanager) - Mpv lua script to create and manage playlists
-- [cvzi/mpv-youtube-upnext](https://github.com/cvzi/mpv-youtube-upnext) - A userscript for MPV that allows you to play "up next"/recommended youtube videos
+- [cvzi/mpv-youtube-upnext](https://github.com/cvzi/mpv-youtube-upnext) - A userscript for MPV that allows you to play "up next"/recommended youtube videos ⏭️
 - [zevv/lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [kr1sp1n/gemini-pandoc-lua-filter](https://github.com/kr1sp1n/gemini-pandoc-lua-filter) - Pandoc Lua filter to transform HTML to text/gemini.
 - [L1L1/cardpeek](https://github.com/L1L1/cardpeek) - Automatically exported from code.google.com/p/cardpeek
