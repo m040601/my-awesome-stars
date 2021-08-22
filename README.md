@@ -1318,6 +1318,8 @@
 
 ## Go 
 
+- [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon
+- [bacardi55/gtl](https://github.com/bacardi55/gtl) - gtl - Gemini Tiny Logs - A simple TUI for the tinylog format on gemini
 - [codesoap/mpq](https://github.com/codesoap/mpq) - music player queue - a minimalist viewer and manipulator for the mpd queue
 - [codesoap/songmem](https://github.com/codesoap/songmem) - Remember the songs you heard and analyse your listening patterns
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
@@ -3133,6 +3135,8 @@
 
 ## Python 
 
+- [Nepochal/wallabag-cli](https://github.com/Nepochal/wallabag-cli) - Wallabag-cli is a command line client for the self hosted read-it-later app wallabag.
+- [knosmos/cmdpxl](https://github.com/knosmos/cmdpxl) - totally practical command-line image editor
 - [dmedvinsky/mutt-ics](https://github.com/dmedvinsky/mutt-ics) - Simple viewer for ics in mutt
 - [juliojsb/sarviewer](https://github.com/juliojsb/sarviewer) - Generate graphs with gnuplot or matplotlib (Python) from sar data
 - [trehn/termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
