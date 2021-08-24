@@ -3717,7 +3717,7 @@
 - [christofs/diffs](https://github.com/christofs/diffs) - Python script to classify differences between two text versions
 - [dzone/osqa](https://github.com/dzone/osqa) - OSQA is a free, entry-level Q&A system from the makers of AnswerHub, the market-leading professional Q&A platform.   Looking for Enterprise functionality?  Checkout https://devada.com/answerhub/
 - [heldersepu/GMapCatcher](https://github.com/heldersepu/GMapCatcher) - An offline map viewer
-- [LuminosoInsight/wordfreq](https://github.com/LuminosoInsight/wordfreq) - Access a database of word frequencies, in various natural languages.
+- [rspeer/wordfreq](https://github.com/rspeer/wordfreq) - Access a database of word frequencies, in various natural languages.
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
 - [feihong/shu](https://github.com/feihong/shu) - A tool for making Chinese ebooks
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -4710,7 +4710,7 @@
 
 - [slavistan/lf-gadgets](https://github.com/slavistan/lf-gadgets) - A collection of useful and nifty use cases and configurations for lf.
 - [snonux/gemtexter](https://github.com/snonux/gemtexter) - Gemini Gemtext blog engine and to HTML + Markdown converter
-- [MyOS-ArchLinux/vids](https://github.com/MyOS-ArchLinux/vids) - vids - search for videos from youtube.com or other video platforms
+- [MyOS-ArchLinux/vids](https://github.com/MyOS-ArchLinux/vids) - 🔍 🔘 ⏯️ 🔁 - search for videos to play from youtube.com and other platforms...
 - [quarkscript/linux-armv7-xe303c12-only](https://github.com/quarkscript/linux-armv7-xe303c12-only) - Linux kernel for old google-snow chromebook
 - [bjesus/muxile](https://github.com/bjesus/muxile) - Putting tmux on your mobile - Muxile is a tmux plugin that lets you control a running tmux session with your phone, no app needed.
 - [attila-lendvai/openwrt-auto-extroot](https://github.com/attila-lendvai/openwrt-auto-extroot) - Use the OpenWRT ImageBuilder to build a firmware that automatically formats and moves extroot to any (!) inserted storage device
