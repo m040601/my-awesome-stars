@@ -1613,7 +1613,7 @@
 
 - [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - SEO (More like SEE or Search Engine Enabling) service for GitHub Wikis.
 - [chrisman/m4-blog](https://github.com/chrisman/m4-blog) - boilerplate for an m4 blog
-- [m8/refined.blog](https://github.com/m8/refined.blog) - 
+- [m8/refined.blog](https://github.com/m8/refined.blog) - curated list of personal blogs
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [clauswilke/dataviz](https://github.com/clauswilke/dataviz) - A book covering the fundamentals of data visualization
 - [amyjko/foundations-of-information](https://github.com/amyjko/foundations-of-information) - A book to support the INFO 200 Intellectual Foundations of Information course.
@@ -4708,6 +4708,7 @@
 
 ## Shell 
 
+- [MunifTanjim/tmux-mode-indicator](https://github.com/MunifTanjim/tmux-mode-indicator) - Plugin that displays prompt indicating currently active Tmux mode.
 - [slavistan/lf-gadgets](https://github.com/slavistan/lf-gadgets) - A collection of useful and nifty use cases and configurations for lf.
 - [snonux/gemtexter](https://github.com/snonux/gemtexter) - Gemini Gemtext blog engine and to HTML + Markdown converter
 - [MyOS-ArchLinux/vids](https://github.com/MyOS-ArchLinux/vids) - 🔍 🔘 ⏯️ 🔁 - search for videos to play from youtube.com and other platforms...
