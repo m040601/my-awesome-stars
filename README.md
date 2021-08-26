@@ -4044,7 +4044,7 @@
 - [spantaleev/sftpman](https://github.com/spantaleev/sftpman) - Application that handles sshfs/sftp file systems mounting.
 - [deerhead/RapidRacer](https://github.com/deerhead/RapidRacer) - Search rapidshare links, check their status (and maybe more, german commented)
 - [devstructure/blueprint](https://github.com/devstructure/blueprint) - Reverse engineer server configuration
-- [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. Implementations in Python, C, Node.js and Ruby.
+- [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
 - [KonishchevDmitry/pytee](https://github.com/KonishchevDmitry/pytee) - Video player for watching movies with subtitles
 - [apenwarr/redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
