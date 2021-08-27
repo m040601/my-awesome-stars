@@ -1788,7 +1788,7 @@
 - [maybegeek/ur-magnum-opus-pandoc](https://github.com/maybegeek/ur-magnum-opus-pandoc) - Vorlage für schriftliche Arbeiten mit pandoc samt angepasster Stilvorgaben für den geisteswissenschaftlichen Kontext.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [buriy/python-readability](https://github.com/buriy/python-readability) - fast python port of arc90's readability tool, updated to match latest readability.js!
-- [ftsrg/thesis-template-markdown](https://github.com/ftsrg/thesis-template-markdown) - Thesis template in Markdown
+- [ftsrg-edu/thesis-template-markdown](https://github.com/ftsrg-edu/thesis-template-markdown) - Thesis template in Markdown
 - [programminghistorian/jekyll](https://github.com/programminghistorian/jekyll) - Jekyll-based static site for The Programming Historian
 - [Xeoncross/jr](https://github.com/Xeoncross/jr) - Jr. the static, static javascript site generator (you should see this)
 - [kbroman/Tools4RR](https://github.com/kbroman/Tools4RR) - Materials for a one-credit course on reproducible research
@@ -3762,7 +3762,6 @@
 - [oschettler/radio](https://github.com/oschettler/radio) - Internet Radio for Raspberry PI, based in MPD / Adafruit LCD Plate / Python
 - [mweissbacher/armory-pass](https://github.com/mweissbacher/armory-pass) - Password manager for USB Armory
 - [rbarrois/mpdlcd](https://github.com/rbarrois/mpdlcd) - A small tool to display MPD status on a lcdproc server
-- [Diblo/KODI-Popcorn-Time](https://github.com/Diblo/KODI-Popcorn-Time) - With KODI Popcorn Time you can search for movies that you can see immediately in KODI.
 - [rupeshk/web2epub](https://github.com/rupeshk/web2epub) - Command line tool to convert a set of web pages to epub
 - [setanta/ebookmaker](https://github.com/setanta/ebookmaker) - Python script that builds epub files from common HTML and a JSON book description.
 - [ccrisan/motioneye](https://github.com/ccrisan/motioneye) - A web frontend for the motion daemon.
@@ -4546,6 +4545,8 @@
 
 ## Rust 
 
+- [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
@@ -4615,7 +4616,6 @@
 - [google/OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [koraa/huniq](https://github.com/koraa/huniq) - Filter out duplicates on the command line. Replacement for `sort | uniq` optimized for speed (10x faster) when sorting is not needed.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [swalladge/wallabag-api](https://github.com/swalladge/wallabag-api) - Moved to https://git.sr.ht/~swalladge/wallabag-api
 - [tantivy-search/tantivy-cli](https://github.com/tantivy-search/tantivy-cli) - 
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [google/pix-image-viewer](https://github.com/google/pix-image-viewer) - Desktop image viewer. View thousands of images in a zoomable, pannable grid.
@@ -5319,7 +5319,7 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [ueokande/vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
-- [mapillary/mapillary-js](https://github.com/mapillary/mapillary-js) - Interactive, extendable street imagery map visualization in the browser, powered by WebGL
+- [mapillary/mapillary-js](https://github.com/mapillary/mapillary-js) - Interactive, extendable street imagery map experiences in the browser, powered by WebGL
 - [bevry/staticsitegenerators-list](https://github.com/bevry/staticsitegenerators-list) - A comprehensive, partially automatically generated comparison of static site generators
 - [jupyter/jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for jupyter notebooks
 - [djuretic/cjkDecompVis](https://github.com/djuretic/cjkDecompVis) - Visualization of CJK Decomposition Data using D3.js
