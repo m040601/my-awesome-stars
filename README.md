@@ -1319,6 +1319,7 @@
 
 ## Go 
 
+- [Phantas0s/gocket](https://github.com/Phantas0s/gocket) - 💼 CLI / TUI for Pocket
 - [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon
 - [bacardi55/gtl](https://github.com/bacardi55/gtl) - gtl - Gemini Tiny Logs - A simple TUI for the tinylog format on gemini
 - [codesoap/mpq](https://github.com/codesoap/mpq) - music player queue - a minimalist viewer and manipulator for the mpd queue
@@ -2524,7 +2525,7 @@
 - [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 - [benibr/ansible-role-nspawn-container](https://github.com/benibr/ansible-role-nspawn-container) - An ansible role to manage systemd nspawn containers and to reach them via avahi/zeroconf
 - [pigmonkey/spark](https://github.com/pigmonkey/spark) - Arch Linux Provisioning with Ansible
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 
 ## Jupyter Notebook 
 
@@ -3136,6 +3137,7 @@
 
 ## Python 
 
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [Nepochal/wallabag-cli](https://github.com/Nepochal/wallabag-cli) - Wallabag-cli is a command line client for the self hosted read-it-later app wallabag.
 - [knosmos/cmdpxl](https://github.com/knosmos/cmdpxl) - totally practical command-line image editor
 - [dmedvinsky/mutt-ics](https://github.com/dmedvinsky/mutt-ics) - Simple viewer for ics in mutt
