@@ -741,6 +741,9 @@
 
 ## C++ 
 
+- [JvanKatwijk/drm-receiver](https://github.com/JvanKatwijk/drm-receiver) - 
+- [JvanKatwijk/SDRunoPlugin_weatherfax](https://github.com/JvanKatwijk/SDRunoPlugin_weatherfax) - SDRuno_weatherfax plugin for SDRuno
+- [JvanKatwijk/duoreceiver](https://github.com/JvanKatwijk/duoreceiver) - combined decoder for DAB and FM
 - [Clortox/rss-cli](https://github.com/Clortox/rss-cli) - A unix-inspired cli application for interacting with rss feeds
 - [d99kris/nmail](https://github.com/d99kris/nmail) - Console-based email client for Linux and macOS
 - [SebastianHinz73/InternetRadio](https://github.com/SebastianHinz73/InternetRadio) - With this repository, Espressif's LyraT board becomes an Internet radio.
@@ -1612,6 +1615,7 @@
 
 ## HTML 
 
+- [arendst/Tasmota-firmware](https://github.com/arendst/Tasmota-firmware) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 - [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - SEO (More like SEE or Search Engine Enabling) service for GitHub Wikis.
 - [chrisman/m4-blog](https://github.com/chrisman/m4-blog) - boilerplate for an m4 blog
 - [m8/refined.blog](https://github.com/m8/refined.blog) - curated list of personal blogs
@@ -3137,6 +3141,7 @@
 
 ## Python 
 
+- [doersino/google-maps-at-88-mph](https://github.com/doersino/google-maps-at-88-mph) - Google Maps keeps old satellite imagery around for a while – this tool collects what's available for a user-specified region in the form of a GIF.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [Nepochal/wallabag-cli](https://github.com/Nepochal/wallabag-cli) - Wallabag-cli is a command line client for the self hosted read-it-later app wallabag.
 - [knosmos/cmdpxl](https://github.com/knosmos/cmdpxl) - totally practical command-line image editor
