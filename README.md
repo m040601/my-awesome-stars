@@ -161,6 +161,7 @@
 
 ## C 
 
+- [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32
 - [turgu1/EPub-InkPlate](https://github.com/turgu1/EPub-InkPlate) - An EPub Reader for the ESP32 based InkPlate e-Ink devices.
 - [msharov/snownews](https://github.com/msharov/snownews) - :snowman: Snownews is a text-mode RSS feed reader.
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
@@ -741,11 +742,12 @@
 
 ## C++ 
 
+- [tomschwarz/neix](https://github.com/tomschwarz/neix) - neix - a RSS/Atom feed reader for your terminal.
 - [JvanKatwijk/drm-receiver](https://github.com/JvanKatwijk/drm-receiver) - 
 - [JvanKatwijk/SDRunoPlugin_weatherfax](https://github.com/JvanKatwijk/SDRunoPlugin_weatherfax) - SDRuno_weatherfax plugin for SDRuno
 - [JvanKatwijk/duoreceiver](https://github.com/JvanKatwijk/duoreceiver) - combined decoder for DAB and FM
 - [Clortox/rss-cli](https://github.com/Clortox/rss-cli) - A unix-inspired cli application for interacting with rss feeds
-- [d99kris/nmail](https://github.com/d99kris/nmail) - Console-based email client for Linux and macOS
+- [d99kris/nmail](https://github.com/d99kris/nmail) - Terminal-based email client for Linux and macOS
 - [SebastianHinz73/InternetRadio](https://github.com/SebastianHinz73/InternetRadio) - With this repository, Espressif's LyraT board becomes an Internet radio.
 - [xavery/dcue](https://github.com/xavery/dcue) - DCue is a tool for generating CUE sheets from Discogs data.
 - [nopnop2002/esp8266-mpd-client](https://github.com/nopnop2002/esp8266-mpd-client) - MPD client example for ESP8266/ESP32.
@@ -1322,6 +1324,7 @@
 
 ## Go 
 
+- [pgorman/gneto](https://github.com/pgorman/gneto) - Gneto is a personal HTTP proxy for the Gemini protocol
 - [Phantas0s/gocket](https://github.com/Phantas0s/gocket) - 💼 CLI / TUI for Pocket
 - [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon
 - [bacardi55/gtl](https://github.com/bacardi55/gtl) - gtl - Gemini Tiny Logs - A simple TUI for the tinylog format on gemini
@@ -1700,7 +1703,7 @@
 - [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
 - [Crazepony/crazepony.github.io](https://github.com/Crazepony/crazepony.github.io) - The web site of Crazepony.
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
-- [wowchemy/wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 🔥 The website builder for Hugo. No code, build with widgets! 创建在线课程，学术简历或初创网站。
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [tomcritchlow/tomcritchlow.github.io](https://github.com/tomcritchlow/tomcritchlow.github.io) - Me. Learning to use Github and learning to live life.
 - [flukus/flukus.github.io](https://github.com/flukus/flukus.github.io) - 
 - [kaihendry/natalian](https://github.com/kaihendry/natalian) - Kai Hendry's blog
@@ -2739,6 +2742,7 @@
 
 ## Others 
 
+- [jazmichaelking/mastodon-near-me](https://github.com/jazmichaelking/mastodon-near-me) - Directory of Mastodon and related servers that operate primarily in or are targeted to a locality or region
 - [Xinyuan-LilyGO/LilyGO-T-Motion](https://github.com/Xinyuan-LilyGO/LilyGO-T-Motion) - LilyGO-T-Motion
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [sbcshop/Pico-2G-Expansion](https://github.com/sbcshop/Pico-2G-Expansion) - 
@@ -2787,6 +2791,7 @@
 - [dogsheep/dogsheep.github.io](https://github.com/dogsheep/dogsheep.github.io) - Tools for personal analytics using SQLite and Datasette
 - [SixArm/tmux-conf](https://github.com/SixArm/tmux-conf) - tmux configuration files with annotations
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
+- [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
 - [infrawiki/infrawiki](https://github.com/infrawiki/infrawiki) - an infrastructure wiki. POC
 - [eddelbuettel/minm](https://github.com/eddelbuettel/minm) - Minm Is Not Meta: One way to get several RMarkdown-using packages
 - [open-boat-projects-org/website](https://github.com/open-boat-projects-org/website) - 
@@ -3348,7 +3353,6 @@
 - [Bubblbu/zotnote](https://github.com/Bubblbu/zotnote) - Automatize and manage your reading notes with Zotero & Better Bibtex Plugin (BBT)
 - [josch/img2pdf](https://github.com/josch/img2pdf) - mirror of https://gitlab.mister-muffin.de/josch/img2pdf for Travis and appveyor CI
 - [aparcar/asu](https://github.com/aparcar/asu) - A image on demand server for OpenWrt based distributions
-- [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
 - [The-Compiler/journalwatch](https://github.com/The-Compiler/journalwatch) - Simple log parsing utility for the systemd journal
 - [giggls/osmpoidb](https://github.com/giggls/osmpoidb) - 
 - [kizniche/Mycodo](https://github.com/kizniche/Mycodo) - An environmental monitoring and regulation system
@@ -5609,7 +5613,7 @@
 ## Vue 
 
 - [pschatzmann/esp32_radio](https://github.com/pschatzmann/esp32_radio) - Web Radio Player which is also working with a ESP32 Micro Controller
-- [radiantearth/stac-browser](https://github.com/radiantearth/stac-browser) - A Vue-based STAC browser intended for static + dynamic deployment
+- [radiantearth/stac-browser](https://github.com/radiantearth/stac-browser) - A Vue-based STAC browser for static catalogs and APIs
 - [anonaddy/browser-extension](https://github.com/anonaddy/browser-extension) - The source code for the browser extension
 - [perliedman/course-sketcher](https://github.com/perliedman/course-sketcher) - Web based course setting for orienteering
 
