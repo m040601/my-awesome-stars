@@ -161,6 +161,8 @@
 
 ## C 
 
+- [Netflix/dial-reference](https://github.com/Netflix/dial-reference) - 
+- [dharple/detox](https://github.com/dharple/detox) - Tames problematic filenames
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32
 - [turgu1/EPub-InkPlate](https://github.com/turgu1/EPub-InkPlate) - An EPub Reader for the ESP32 based InkPlate e-Ink devices.
 - [msharov/snownews](https://github.com/msharov/snownews) - :snowman: Snownews is a text-mode RSS feed reader.
@@ -631,6 +633,7 @@
 - [ardagnir/athame](https://github.com/ardagnir/athame) - Full vim for your shell (bash, zsh, gdb, python, etc)
 - [saitoha/FFmpeg-SIXEL](https://github.com/saitoha/FFmpeg-SIXEL) - Experimental fork git://source.ffmpeg.org/ffmpeg.git
 - [saitoha/libsixel](https://github.com/saitoha/libsixel) - A SIXEL encoder/decoder implementation derived from kmiya's sixel (https://github.com/saitoha/sixel).
+- [saitoha/seq2gif](https://github.com/saitoha/seq2gif) - Convert a ttyrec record into a gif animation directly (almost vt102 compatible terminal emulation).
 - [uobikiemukot/yaft](https://github.com/uobikiemukot/yaft) - yet another framebuffer terminal
 - [rstudio/httpuv](https://github.com/rstudio/httpuv) - HTTP and WebSocket server package for R
 - [mptre/pick](https://github.com/mptre/pick) - A fuzzy search tool for the command-line
@@ -1324,6 +1327,8 @@
 
 ## Go 
 
+- [CarlosDerSeher/plaincast](https://github.com/CarlosDerSeher/plaincast) - Server that acts like a lightweight/headless Chromecast that only includes YouTube (for the time being)
+- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) - easymotion-style text copying for tmux.
 - [pgorman/gneto](https://github.com/pgorman/gneto) - Gneto is a personal HTTP proxy for the Gemini protocol
 - [Phantas0s/gocket](https://github.com/Phantas0s/gocket) - 💼 CLI / TUI for Pocket
 - [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon
@@ -2716,7 +2721,6 @@
 
 - [colindean/optar](https://github.com/colindean/optar) - OPTical ARchiver - highly compressed 2D barcode for paper or film archiving of digital data
 - [tweekmonster/nmux](https://github.com/tweekmonster/nmux) - A multiplexer for Neovim processes
-- [saitoha/seq2gif](https://github.com/saitoha/seq2gif) - Convert a ttyrec record into a gif animation directly (almost vt102 compatible terminal emulation).
 - [puconghan/Computational-Journalism-for-People-s-Daily-Opinion](https://github.com/puconghan/Computational-Journalism-for-People-s-Daily-Opinion) - Statistical topic models – one of the sub fields of machine learning and natural language processing – provide a data-driven framework for analyzing collections of text documents. It has become one of the most frequently used tools for computational journalism used to investigate abstract topics and keywords that occur in a collection of text documents. Digital journalists can use such tools to extract frequently appearing terms, and to analyze the trend of a particular news brand or stories about a social event. Articles, analyses and documents written in Chinese have become increasingly important for multimedia stories about China. Available Chinese archives on the Internet might contain stories that require digital journalists to apply appropriate topic modeling tools. Unlike English and other alphabetic languages, the basic structural unit of Chinese language is character encoded in Guobiao GB18030 or Unicode.  I implement apps using the Chinese topic-modeling tools jieba for computational journalism. This app analyzes articles from the opinion archive of the People’s Daily and generate a list of frequently appearing words using the keyword extraction tool provided by the jieba library.
 - [nyousefi/Fountain](https://github.com/nyousefi/Fountain) - An open source implementation of the Fountain screenplay formatting language.
 
@@ -2742,6 +2746,7 @@
 
 ## Others 
 
+- [RichardLitt/meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
 - [jazmichaelking/mastodon-near-me](https://github.com/jazmichaelking/mastodon-near-me) - Directory of Mastodon and related servers that operate primarily in or are targeted to a locality or region
 - [Xinyuan-LilyGO/LilyGO-T-Motion](https://github.com/Xinyuan-LilyGO/LilyGO-T-Motion) - LilyGO-T-Motion
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
@@ -3146,6 +3151,7 @@
 
 ## Python 
 
+- [CrispyConductor/tmux-copy-toolkit](https://github.com/CrispyConductor/tmux-copy-toolkit) - TMUX plugin with various copy-mode tools
 - [doersino/google-maps-at-88-mph](https://github.com/doersino/google-maps-at-88-mph) - Google Maps keeps old satellite imagery around for a while – this tool collects what's available for a user-specified region in the form of a GIF.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [Nepochal/wallabag-cli](https://github.com/Nepochal/wallabag-cli) - Wallabag-cli is a command line client for the self hosted read-it-later app wallabag.
@@ -4556,6 +4562,7 @@
 
 ## Rust 
 
+- [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
@@ -5355,6 +5362,7 @@
 
 ## Vim script 
 
+- [ojroques/vim-oscyank](https://github.com/ojroques/vim-oscyank) - A Vim plugin to copy text from anywhere with OSC52
 - [samoshkin/dotvim](https://github.com/samoshkin/dotvim) - Personal vim configuration: vimrc file and friends
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
 - [wlemuel/vim-tldr](https://github.com/wlemuel/vim-tldr) - tldr client for vim/neovim
