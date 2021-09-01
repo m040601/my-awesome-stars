@@ -1975,6 +1975,7 @@
 
 ## JavaScript 
 
+- [y-taka-23/wasm-pandoc](https://github.com/y-taka-23/wasm-pandoc) - Pandoc compiled into WebAssembly by Asterius.
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [segfall/static-wiki](https://github.com/segfall/static-wiki) - Wikipedia using only static assets & no backend
 - [iiab/maps](https://github.com/iiab/maps) - Internet-in-a-Box (IIAB) Maps are like Google Maps but better, for schools especially, as they work offline (including satellite photos!) and avoid all the advertising.  LATEST README: https://github.com/iiab/iiab/tree/master/roles/osm-vector-maps
@@ -5432,7 +5433,7 @@
 - [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
 - [jreybert/vimagit](https://github.com/jreybert/vimagit) - Ease your git workflow within Vim
 - [Olical/vim-enmasse](https://github.com/Olical/vim-enmasse) - Edit every line in a quickfix list at the same time
-- [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich) - The set of operator and textobject plugins to search/select/edit sandwiched textobjects.
+- [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich) - Set of operators and textobjects to search/select/edit sandwiched texts.
 - [gregsexton/gitv](https://github.com/gregsexton/gitv) - gitk for Vim.
 - [stevearc/vim-arduino](https://github.com/stevearc/vim-arduino) - Vim plugin for compiling and uploading arduino sketches
 - [jplaut/vim-arduino-ino](https://github.com/jplaut/vim-arduino-ino) - 
