@@ -161,6 +161,7 @@
 
 ## C 
 
+- [johanmalm/jgmenu](https://github.com/johanmalm/jgmenu) - An X11 menu
 - [Netflix/dial-reference](https://github.com/Netflix/dial-reference) - 
 - [dharple/detox](https://github.com/dharple/detox) - Tames problematic filenames
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32
@@ -4730,6 +4731,7 @@
 
 ## Shell 
 
+- [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [MunifTanjim/tmux-mode-indicator](https://github.com/MunifTanjim/tmux-mode-indicator) - Plugin that displays prompt indicating currently active Tmux mode.
 - [slavistan/lf-gadgets](https://github.com/slavistan/lf-gadgets) - A collection of useful and nifty use cases and configurations for lf.
 - [snonux/gemtexter](https://github.com/snonux/gemtexter) - Gemini Gemtext blog engine and to HTML + Markdown converter
