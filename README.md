@@ -1328,6 +1328,7 @@
 
 ## Go 
 
+- [jonamat/wikiloc-earth-layer](https://github.com/jonamat/wikiloc-earth-layer) - View Wikiloc.com trails in Google Earth
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [CarlosDerSeher/plaincast](https://github.com/CarlosDerSeher/plaincast) - Server that acts like a lightweight/headless Chromecast that only includes YouTube (for the time being)
@@ -5326,7 +5327,7 @@
 - [andrewscwei/aristotl](https://github.com/andrewscwei/aristotl) - An experimental logical fallacy lookup tool
 - [tadeussenf/pocket-wiki](https://github.com/tadeussenf/pocket-wiki) - Alternative User Interface for getpocket.com
 - [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub) - A plugin that will automatically download PDFs of zotero items from sci-hub
-- [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in your browser.
+- [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox, Thunderbird and many other pieces of software.
 - [owid/owid-grapher](https://github.com/owid/owid-grapher) - A platform for creating interactive data visualizations
 - [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer) - Chinese character stroke order animations and practice quizzes
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
