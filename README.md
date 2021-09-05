@@ -1907,6 +1907,7 @@
 
 ## Java 
 
+- [openremote/openremote](https://github.com/openremote/openremote) - 100% open-source IoT Platform - Integrate your assets, create rules, and visualize your data
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 - [airsonic/airsonic](https://github.com/airsonic/airsonic) - :satellite: :cloud: :notes:Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic)
 - [stingle/stingle-photos-android](https://github.com/stingle/stingle-photos-android) - Stingle Photos is an open-source, end-to-end encrypted media gallery application that provides backup, sharing and cross-platform sync functionality without sacrificing convenience.
@@ -4170,7 +4171,7 @@
 - [ropensci/ezknitr](https://github.com/ropensci/ezknitr) - Avoid the typical working directory pain when using 'knitr'
 - [mtennekes/tabplot](https://github.com/mtennekes/tabplot) - R package for tableplot visualisation
 - [mtennekes/treemap](https://github.com/mtennekes/treemap) - R package for treemap visualisation
-- [mtennekes/tmap](https://github.com/mtennekes/tmap) - R package for thematic maps
+- [r-tmap/tmap](https://github.com/r-tmap/tmap) - R package for thematic maps
 - [tidyverse/multidplyr](https://github.com/tidyverse/multidplyr) - A dplyr backend that partitions a data frame over multiple processes
 - [dselivanov/text2vec](https://github.com/dselivanov/text2vec) - Fast vectorization, topic modeling, distances and GloVe word embeddings in R.
 - [RBigData/remoter](https://github.com/RBigData/remoter) - Control a remote R session from your local R session.
