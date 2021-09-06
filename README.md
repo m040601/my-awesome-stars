@@ -1980,6 +1980,7 @@
 
 ## JavaScript 
 
+- [edvardxyz/Tabs-in-title](https://github.com/edvardxyz/Tabs-in-title) - Firefox tabs in title, intended for firefox in kiosk/full-screen mode with dwm. With this extension you can see your tabs in the dwm bar.
 - [y-taka-23/wasm-pandoc](https://github.com/y-taka-23/wasm-pandoc) - Pandoc compiled into WebAssembly by Asterius.
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [segfall/static-wiki](https://github.com/segfall/static-wiki) - Wikipedia using only static assets & no backend
@@ -4569,6 +4570,10 @@
 
 ## Rust 
 
+- [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
+- [ItayGarin/ktrl](https://github.com/ItayGarin/ktrl) - A Supercharged Keyboard Programming Daemon ⌨️
+- [maxblee/clipivot](https://github.com/maxblee/clipivot) - A tool for creating pivot tables from the command line.
+- [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling maximize viewer enjoyment.
 - [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
