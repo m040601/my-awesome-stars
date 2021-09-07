@@ -84,6 +84,7 @@
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
+  - [Smarty](#smarty)
   - [Standard ML](#standard-ml)
   - [Swift](#swift)
   - [TSQL](#tsql)
@@ -3192,7 +3193,6 @@
 - [4nd3r/adblock-simulator](https://github.com/4nd3r/adblock-simulator) - simulate adblock like a pro
 - [4nd3r/requests-logger](https://github.com/4nd3r/requests-logger) - log website requests
 - [kylebarron/usgs-topo-tiler](https://github.com/kylebarron/usgs-topo-tiler) - Python package to read Web Mercator map tiles from USGS Historical Topographic Maps
-- [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
 - [doersino/aerialbot](https://github.com/doersino/aerialbot) - A simple yet highly configurable bot that tweets geotagged aerial imagery of a random location in the world.
 - [doersino/earthacrosstime](https://github.com/doersino/earthacrosstime) - Twitter bot that posts videos showcasing how random locations in the world have changed since 1984.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
@@ -5209,6 +5209,10 @@
 - [micha/jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
 - [micha/resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
 - [barrucadu/dotfiles](https://github.com/barrucadu/dotfiles) - My dotfiles and assorted other crap, managed with GNU Stow.
+
+## Smarty 
+
+- [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
 
 ## Standard ML 
 
