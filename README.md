@@ -3160,6 +3160,8 @@
 
 ## Python 
 
+- [sezanzeb/key-mapper](https://github.com/sezanzeb/key-mapper) - 🎮 An easy to use tool to change the mapping of your input device buttons.
+- [flags/MacroPad](https://github.com/flags/MacroPad) - Run commands/shortcuts/macros from an extra keyboard or keypad. Linux only.
 - [CrispyConductor/tmux-copy-toolkit](https://github.com/CrispyConductor/tmux-copy-toolkit) - TMUX plugin with various copy-mode tools
 - [doersino/google-maps-at-88-mph](https://github.com/doersino/google-maps-at-88-mph) - Google Maps keeps old satellite imagery around for a while – this tool collects what's available for a user-specified region in the form of a GIF.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
