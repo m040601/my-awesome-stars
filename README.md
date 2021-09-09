@@ -162,6 +162,7 @@
 
 ## C 
 
+- [spkr-beep/beep](https://github.com/spkr-beep/beep) - beep is a command line tool for linux that beeps the PC speaker
 - [johanmalm/jgmenu](https://github.com/johanmalm/jgmenu) - An X11 menu
 - [Netflix/dial-reference](https://github.com/Netflix/dial-reference) - 
 - [dharple/detox](https://github.com/dharple/detox) - Tames problematic filenames
@@ -1629,7 +1630,7 @@
 ## HTML 
 
 - [arendst/Tasmota-firmware](https://github.com/arendst/Tasmota-firmware) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-- [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - SEO (More like SEE or Search Engine Enabling) service for GitHub Wikis.
+- [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - Did you know GitHub Wikis aren't indexed on search engines? Search Engine Enablement for GitHub Wikis service.
 - [chrisman/m4-blog](https://github.com/chrisman/m4-blog) - boilerplate for an m4 blog
 - [m8/refined.blog](https://github.com/m8/refined.blog) - curated list of personal blogs
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
@@ -3160,6 +3161,8 @@
 
 ## Python 
 
+- [moses-palmer/pynput](https://github.com/moses-palmer/pynput) - Sends virtual input commands
+- [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [sezanzeb/key-mapper](https://github.com/sezanzeb/key-mapper) - 🎮 An easy to use tool to change the mapping of your input device buttons.
 - [flags/MacroPad](https://github.com/flags/MacroPad) - Run commands/shortcuts/macros from an extra keyboard or keypad. Linux only.
 - [CrispyConductor/tmux-copy-toolkit](https://github.com/CrispyConductor/tmux-copy-toolkit) - TMUX plugin with various copy-mode tools
@@ -3183,7 +3186,6 @@
 - [arrase/Raspiducky](https://github.com/arrase/Raspiducky) - A Keystroke Injection Tool like Rubber Ducky build over Raspberry Pi Zero W
 - [SoongNoonien/mpdevil](https://github.com/SoongNoonien/mpdevil) - A simple music browser for MPD
 - [phillipberndt/autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
-- [aw1cks/sloth](https://github.com/aw1cks/sloth) - The lazy installer for Arch Linux
 - [epilys/bibliothecula](https://github.com/epilys/bibliothecula) - document organizer with tags and full-text-search, in a simple and clean sqlite3 schema
 - [mayureshw/feeds2mail](https://github.com/mayureshw/feeds2mail) - feeds2mail is a tool to email new articles appearing on web in the form of rss feeds, collections of rss feeds, youtube etc. Its basic idea is inspired by rss2email with a lot of flexibility in terms of specifying sources of articles
 - [thiswillbeyourgithub/IndexableAnki](https://github.com/thiswillbeyourgithub/IndexableAnki) - Turn each card of an anki collection into easily searchable txt files
@@ -4755,6 +4757,7 @@
 - [roosta/tmux-fuzzback](https://github.com/roosta/tmux-fuzzback) - Search your tmux scrollback buffer using fzf
 - [inkarkat/tmux-extensions](https://github.com/inkarkat/tmux-extensions) - Additions and tweaks to the tmux CLI.
 - [inkarkat/shell-basics](https://github.com/inkarkat/shell-basics) - A collection of basic shell scripts that are either useful on its own (in interactive sessions), or offer generic functionality for higher-level scripts.
+- [aw1cks/sloth](https://github.com/aw1cks/sloth) - The lazy installer for Arch Linux
 - [rpuntaie/mailwizard](https://github.com/rpuntaie/mailwizard) - Configuring mbsync, getmail, msmtp and mutt in one go.
 - [kevinboone/rasp-pi-minicom-build](https://github.com/kevinboone/rasp-pi-minicom-build) - A collection of shell and Perl scripts that build a read-only Linux for the Pi Zero, that boots straight to Minicom
 - [aleclearmind/nested-tmux](https://github.com/aleclearmind/nested-tmux) - A simple tmux configuration for nested tmux sessions
