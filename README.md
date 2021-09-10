@@ -162,6 +162,7 @@
 
 ## C 
 
+- [Patrick-Thomas/Sparkpad-Arduino](https://github.com/Patrick-Thomas/Sparkpad-Arduino) - 
 - [spkr-beep/beep](https://github.com/spkr-beep/beep) - beep is a command line tool for linux that beeps the PC speaker
 - [johanmalm/jgmenu](https://github.com/johanmalm/jgmenu) - An X11 menu
 - [Netflix/dial-reference](https://github.com/Netflix/dial-reference) - 
@@ -562,7 +563,6 @@
 - [DeviationTX/deviation](https://github.com/DeviationTX/deviation) - Custom firmware for RC Transmitters
 - [cleanflight/cleanflight](https://github.com/cleanflight/cleanflight) - Clean-code version of the baseflight flight controller firmware
 - [neomutt/neomutt](https://github.com/neomutt/neomutt) - :envelope: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
-- [Arduino-IRremote/Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote) - Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
 - [masneyb/weather-station](https://github.com/masneyb/weather-station) - A lightweight, self contained, solar-powered weather station for the Raspberry Pi.
 - [SuperHouse/esp-open-rtos](https://github.com/SuperHouse/esp-open-rtos) - Open source FreeRTOS-based ESP8266 software framework
 - [rodizio1/EZ-WifiBroadcast](https://github.com/rodizio1/EZ-WifiBroadcast) - Affordable Digital HD Video Transmission made easy!
@@ -1026,6 +1026,7 @@
 - [thingSoC/embedis](https://github.com/thingSoC/embedis) - Embedded Dictionary Server
 - [letscontrolit/ESPEasyPluginPlayground](https://github.com/letscontrolit/ESPEasyPluginPlayground) - Plugin ideas, concepts, user contributed, etc
 - [adafruit/Adafruit_ILI9341](https://github.com/adafruit/Adafruit_ILI9341) - Library for Adafruit ILI9341 displays
+- [Arduino-IRremote/Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote) - Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
 - [MarcoMartines/GSM-GPRS-GPS-Shield](https://github.com/MarcoMartines/GSM-GPRS-GPS-Shield) - GSM/GPRS & GPS Shield Library for modules using SIM900/SIM908
 - [NVSL/PiDuino_Library](https://github.com/NVSL/PiDuino_Library) - 
 - [letscontrolit/ESPEasy](https://github.com/letscontrolit/ESPEasy) - Easy MultiSensor device based on ESP8266
@@ -5383,7 +5384,7 @@
 
 ## Vim script 
 
-- [ojroques/vim-oscyank](https://github.com/ojroques/vim-oscyank) - A Vim plugin to copy text from anywhere with OSC52
+- [ojroques/vim-oscyank](https://github.com/ojroques/vim-oscyank) - A Vim plugin to copy text through SSH with OSC52
 - [samoshkin/dotvim](https://github.com/samoshkin/dotvim) - Personal vim configuration: vimrc file and friends
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
 - [wlemuel/vim-tldr](https://github.com/wlemuel/vim-tldr) - tldr client for vim/neovim
