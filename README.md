@@ -202,7 +202,6 @@
 - [anholt/linux](https://github.com/anholt/linux) - 
 - [legionus/kbd](https://github.com/legionus/kbd) - Mirror of https://git.kernel.org/pub/scm/linux/kernel/git/legion/kbd.git
 - [rocasa/ttylog](https://github.com/rocasa/ttylog) - Print everything to stdout that comes from a serial device.
-- [ukw100/IRMP](https://github.com/ukw100/IRMP) - Infrared Multi Protocol Decoder
 - [kevinboone/ebookinfo](https://github.com/kevinboone/ebookinfo) - A library and utility for extracting meta-data from certain e-book files
 - [kevinboone/kobo](https://github.com/kevinboone/kobo) - 
 - [kevinboone/solunar2](https://github.com/kevinboone/solunar2) - A command-line utility for Linux, for display sunrise/set and similar information
@@ -773,6 +772,7 @@
 - [justinmklam/iot-sourdough-starter-monitor](https://github.com/justinmklam/iot-sourdough-starter-monitor) - Tracking the fermentation of sourdough starter over the cloud.
 - [Edzelf/ESP32-Radio](https://github.com/Edzelf/ESP32-Radio) - Internet radio based on ESP32, VS1053 and a TFT screen.
 - [NicoHood/IRLremote](https://github.com/NicoHood/IRLremote) - Lightweight Infrared library for Arduino
+- [ukw100/IRMP](https://github.com/ukw100/IRMP) - Infrared Multi Protocol Decoder
 - [sidoh/esp8266_milight_hub](https://github.com/sidoh/esp8266_milight_hub) - Replacement for a Milight/LimitlessLED hub hosted on an ESP8266
 - [JvanKatwijk/terminal-DAB-xxx](https://github.com/JvanKatwijk/terminal-DAB-xxx) - Terminal based DAB decoder,  showing slides and with up/down service selectors
 - [lvandeve/lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
@@ -4604,7 +4604,7 @@
 - [cartoon-raccoon/cogsy](https://github.com/cartoon-raccoon/cogsy) - a command line local Discogs client
 - [grego/blades](https://github.com/grego/blades) - Blazing fast dead simple static site generator
 - [dbohdan/csv2html](https://github.com/dbohdan/csv2html) - Convert CSV files to HTML tables
-- [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit written in Rust
+- [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 - [figsoda/mmtc](https://github.com/figsoda/mmtc) - Minimal mpd terminal client that aims to be simple yet highly configurable
