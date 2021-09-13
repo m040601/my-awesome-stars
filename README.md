@@ -162,6 +162,7 @@
 
 ## C 
 
+- [tom5760/usermount](https://github.com/tom5760/usermount) - A simple C program to automatically mount removable drives using UDisks2 and D-Bus.
 - [caramelli/fbmark](https://github.com/caramelli/fbmark) - Linux Framebuffer Benchmark
 - [AndrewFromMelbourne/raspi2fb](https://github.com/AndrewFromMelbourne/raspi2fb) - Program to copy the Raspberry Pi display to a secondary framebuffer.
 - [Patrick-Thomas/Sparkpad-Arduino](https://github.com/Patrick-Thomas/Sparkpad-Arduino) - 
@@ -749,6 +750,10 @@
 
 ## C++ 
 
+- [muesli4/mpd-touch-screen-gui](https://github.com/muesli4/mpd-touch-screen-gui) - A small MPD client that let's you view covers and has controls suitable for small touchscreens. It allows to browse the queue, search for songs and run as standalone application.
+- [muesli4/mpd-automount](https://github.com/muesli4/mpd-automount) - udisks2-based automounter that adds mountpoints to the mpd library.
+- [oe3cjb/TTGO-T-Beam-LoRa-APRS](https://github.com/oe3cjb/TTGO-T-Beam-LoRa-APRS) - Use TTGO T-Beam as LoRa APRS Tracker
+- [lora-aprs/LoRa_APRS_Tracker](https://github.com/lora-aprs/LoRa_APRS_Tracker) - 
 - [tomschwarz/neix](https://github.com/tomschwarz/neix) - neix - a RSS/Atom feed reader for your terminal.
 - [JvanKatwijk/drm-receiver](https://github.com/JvanKatwijk/drm-receiver) - 
 - [JvanKatwijk/SDRunoPlugin_weatherfax](https://github.com/JvanKatwijk/SDRunoPlugin_weatherfax) - SDRuno_weatherfax plugin for SDRuno
@@ -2465,7 +2470,6 @@
 - [pump-io/pump.io](https://github.com/pump-io/pump.io) - Social server with an ActivityStreams API
 - [maboa/hyperaudiopad](https://github.com/maboa/hyperaudiopad) - A tool for assembling media from their hypertranscripts.
 - [davatron5000/TimeJump](https://github.com/davatron5000/TimeJump) - TimeJump – Deep-links for Podcasts
-- [WebBooks/wbb](https://github.com/WebBooks/wbb) - The Web Book Boilerplate - Your place to start writing books for every platform.
 - [okfn/textus-viewer](https://github.com/okfn/textus-viewer) - A sophisticated HTML-based viewer for texts
 - [Leask/ED2K-Xunlei-Lixian](https://github.com/Leask/ED2K-Xunlei-Lixian) - A Safari Extension can let you add ED2K links as Xunlei-Lixian jobs by one single click.
 - [henriklundgren/explainys.js](https://github.com/henriklundgren/explainys.js) - jQuery plugin to add sidenotes/footnotes.
@@ -3167,6 +3171,7 @@
 
 ## Python 
 
+- [FreeTAKTeam/FreeTakServer](https://github.com/FreeTAKTeam/FreeTakServer) - an open source, lightweight Server for connect TAK clients
 - [moses-palmer/pynput](https://github.com/moses-palmer/pynput) - Sends virtual input commands
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [sezanzeb/key-mapper](https://github.com/sezanzeb/key-mapper) - 🎮 An easy to use tool to change the mapping of your input device buttons.
@@ -4334,7 +4339,7 @@
 ## Roff 
 
 - [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter) - OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
-- [mkws-1/mkws](https://github.com/mkws-1/mkws) - A small, no bloat, minimalist static site generator using `sh` as a templating language.
+- [mkws-1/mkws](https://github.com/mkws-1/mkws) - A simple static site generator using `sh` as a templating language.
 - [rrthomas/pdfjam-extras](https://github.com/rrthomas/pdfjam-extras) - Some unsupported 'wrapper' scripts for pdfjam
 - [d630/etc-bash](https://github.com/d630/etc-bash) - 
 - [Creality3DPrinting/Ender-3](https://github.com/Creality3DPrinting/Ender-3) - The Creality3D Ender-3, a fully Open Source 3D printer perfect for new users on a budget.
