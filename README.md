@@ -2844,7 +2844,7 @@
 - [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - A collection of open source and commercial tools that aid in red team operations.
 - [joseignaci/Recursos-Informacion-Geografica](https://github.com/joseignaci/Recursos-Informacion-Geografica) - Recursos abiertos de Información Geográfica para la investigación
 - [brunomiguel/antinonio](https://github.com/brunomiguel/antinonio) - Lista de bloqueios para a plataforma Nónio
-- [migueldemoura/ublock-umatrix-rulesets](https://github.com/migueldemoura/ublock-umatrix-rulesets) - Hosts Files, uBlock & uMatrix Rulesets
+- [migueldemoura/ublock-umatrix-rulesets](https://github.com/migueldemoura/ublock-umatrix-rulesets) - Hosts and uBlock Rulesets
 - [adafruit/awesome-feather](https://github.com/adafruit/awesome-feather) - A curated list of awesome Feather form factor boards, guides, videos, libraries, software and resources.
 - [hsgw/tartan](https://github.com/hsgw/tartan) - 60% keyboard made by through-hole parts only
 - [hsgw/plaid](https://github.com/hsgw/plaid) - 12x4 ortholinear usb keyboard made by Through Hole components ONLY.
