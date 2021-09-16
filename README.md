@@ -571,7 +571,6 @@
 - [CongducPham/LowCostLoRaGw](https://github.com/CongducPham/LowCostLoRaGw) - Low-cost LoRa IoT & gateway with SX12XX (SX1261/62/68; SX1272/76/77/78/79; SX1280/81), RaspberryPI and Arduino boards
 - [dimkr/shus](https://github.com/dimkr/shus) - A tiny HTTP server for static sites
 - [dimkr/nss-block](https://github.com/dimkr/nss-block) - A transparent, domain-based ad blocker
-- [tardate/LittleArduinoProjects](https://github.com/tardate/LittleArduinoProjects) - a collection of Arduino and general electronics projects
 - [someburner/esp-rfm69](https://github.com/someburner/esp-rfm69) - Driver + Interface for RFM69 on ESP8266
 - [SamuelBrucksch/wifibroadcast_osd](https://github.com/SamuelBrucksch/wifibroadcast_osd) - OSD for HD wireless FPV system based on wifibroadcast from befi
 - [kanflo/esparducam](https://github.com/kanflo/esparducam) - An ESP8266 development board for the Arducam Mini module, and more.
@@ -1042,6 +1041,7 @@
 - [Verwegener-Vogel/bfc3000](https://github.com/Verwegener-Vogel/bfc3000) - embedded partly sophisticated bird feeding measurement
 - [Links2004/arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets) - arduinoWebSockets
 - [hidnseek/hidnseek](https://github.com/hidnseek/hidnseek) - This is arduino and eagle files for the HidnSeek GPS tracker that use SIGFOX network
+- [tardate/LittleArduinoProjects](https://github.com/tardate/LittleArduinoProjects) - a collection of Arduino and general electronics projects
 - [me-no-dev/ESPAsyncUDP](https://github.com/me-no-dev/ESPAsyncUDP) - Async UDP library for ESP8266
 - [SensorsIot/ESPDailyTaskNTP](https://github.com/SensorsIot/ESPDailyTaskNTP) - Schedule one task every day at the same time. Deepsleep inbetween
 - [chaeplin/esp8266_and_arduino](https://github.com/chaeplin/esp8266_and_arduino) - esp8266 mqtt node / esp8266
@@ -4757,6 +4757,7 @@
 
 ## Shell 
 
+- [makedeb/makedeb](https://github.com/makedeb/makedeb) - Create Debian archives from PKGBUILDs
 - [mbhangui/pistop](https://github.com/mbhangui/pistop) - Start/Stop services on all clients on server shutdown
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [MunifTanjim/tmux-mode-indicator](https://github.com/MunifTanjim/tmux-mode-indicator) - Plugin that displays prompt indicating currently active Tmux mode.
