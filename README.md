@@ -162,6 +162,8 @@
 
 ## C 
 
+- [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
+- [Tarsnap/spiped](https://github.com/Tarsnap/spiped) - Spiped is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses.
 - [tom5760/usermount](https://github.com/tom5760/usermount) - A simple C program to automatically mount removable drives using UDisks2 and D-Bus.
 - [caramelli/fbmark](https://github.com/caramelli/fbmark) - Linux Framebuffer Benchmark
 - [AndrewFromMelbourne/raspi2fb](https://github.com/AndrewFromMelbourne/raspi2fb) - Program to copy the Raspberry Pi display to a secondary framebuffer.
@@ -5137,7 +5139,7 @@
 - [craigcitro/r-travis](https://github.com/craigcitro/r-travis) - Tools for using R with Travis (http://travis-ci.org)   in lieu of a website:
 - [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 - [steveklabnik/automatically_update_github_pages_with_travis_example](https://github.com/steveklabnik/automatically_update_github_pages_with_travis_example) - An example of automatically updating GitHub Pages when you're using Travis CI.
-- [phusion/traveling-ruby](https://github.com/phusion/traveling-ruby) - Self-contained Ruby binaries that can run on any Linux distribution and any macOS machine.
+- [FooBarWidget/traveling-ruby](https://github.com/FooBarWidget/traveling-ruby) - Self-contained Ruby binaries that can run on any Linux distribution and any macOS machine.
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [NinoScript/watch](https://github.com/NinoScript/watch) - Run arbitrary scripts files when files change
 - [jukil/dmenu-scripts-collection](https://github.com/jukil/dmenu-scripts-collection) - Collection of optional dmenu hacking scripts:
