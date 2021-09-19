@@ -1043,7 +1043,7 @@
 - [Verwegener-Vogel/bfc3000](https://github.com/Verwegener-Vogel/bfc3000) - embedded partly sophisticated bird feeding measurement
 - [Links2004/arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets) - arduinoWebSockets
 - [hidnseek/hidnseek](https://github.com/hidnseek/hidnseek) - This is arduino and eagle files for the HidnSeek GPS tracker that use SIGFOX network
-- [tardate/LittleArduinoProjects](https://github.com/tardate/LittleArduinoProjects) - a collection of Arduino and general electronics projects
+- [tardate/LittleArduinoProjects](https://github.com/tardate/LittleArduinoProjects) - a collection of little projects, most involving electronics or an Arduino in one way or another!
 - [me-no-dev/ESPAsyncUDP](https://github.com/me-no-dev/ESPAsyncUDP) - Async UDP library for ESP8266
 - [SensorsIot/ESPDailyTaskNTP](https://github.com/SensorsIot/ESPDailyTaskNTP) - Schedule one task every day at the same time. Deepsleep inbetween
 - [chaeplin/esp8266_and_arduino](https://github.com/chaeplin/esp8266_and_arduino) - esp8266 mqtt node / esp8266
@@ -4640,7 +4640,6 @@
 - [bchretien/rust-ncmpc](https://github.com/bchretien/rust-ncmpc) - ncmpcpp clone written in Rust
 - [kalj/wump](https://github.com/kalj/wump) - Wake-Up Music Player, code for controlling a Raspberry Pi Zero W + HifiBerry Miniamp as an alarm clock.
 - [sp1ff/mpdpopm](https://github.com/sp1ff/mpdpopm) - Maintain ratings & playcounts for your mpd server
-- [LEARAX/gnaw](https://github.com/LEARAX/gnaw) - (WIP) Simple MPD client written in Rust
 - [kstep/rust-mpd](https://github.com/kstep/rust-mpd) - Rust version of libmpdclient
 - [hoodie/toastify](https://github.com/hoodie/toastify) - 🍞A commandline tool that shows desktop notifications using notify-rust
 - [orhanbalci/rasciigraph](https://github.com/orhanbalci/rasciigraph) - Zero dependency Rust crate to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
