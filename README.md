@@ -1641,6 +1641,7 @@
 
 ## HTML 
 
+- [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [arendst/Tasmota-firmware](https://github.com/arendst/Tasmota-firmware) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 - [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - Did you know GitHub Wikis aren't indexed on search engines? Search Engine Enablement for GitHub Wikis service.
 - [chrisman/m4-blog](https://github.com/chrisman/m4-blog) - boilerplate for an m4 blog
@@ -1994,6 +1995,7 @@
 
 ## JavaScript 
 
+- [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [ShinobiCCTV/Shinobi](https://github.com/ShinobiCCTV/Shinobi) - :zap: Shinobi Pro - The Next Generation in Open-Source Video Management Software with support for over 6000 IP and USB Cameras
 - [edvardxyz/Tabs-in-title](https://github.com/edvardxyz/Tabs-in-title) - Firefox tabs in title, intended for firefox in kiosk/full-screen mode with dwm. With this extension you can see your tabs in the dwm bar.
 - [y-taka-23/wasm-pandoc](https://github.com/y-taka-23/wasm-pandoc) - Pandoc compiled into WebAssembly by Asterius.
@@ -3450,7 +3452,6 @@
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [FortyNorthSecurity/EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness) - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
 - [mister-monster/YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube) - A bot written in Python3 that mirrors YouTube channels to PeerTube channels as videos are released in a YouTube channel.
-- [dnebauer/dotfiles-qute](https://github.com/dnebauer/dotfiles-qute) - Qutebrowser configuration
 - [cyberaide/bookmanager](https://github.com/cyberaide/bookmanager) - 
 - [rbarrois/inputexec](https://github.com/rbarrois/inputexec) - Simple program to execute commands on keypress on headless Linux
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
