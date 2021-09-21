@@ -162,6 +162,7 @@
 
 ## C 
 
+- [dcantrell/bsdutils](https://github.com/dcantrell/bsdutils) - Alternative to GNU coreutils using software from FreeBSD
 - [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
 - [Tarsnap/spiped](https://github.com/Tarsnap/spiped) - Spiped is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses.
 - [tom5760/usermount](https://github.com/tom5760/usermount) - A simple C program to automatically mount removable drives using UDisks2 and D-Bus.
@@ -752,6 +753,8 @@
 
 ## C++ 
 
+- [RASPIAUDIO/museProto_radio](https://github.com/RASPIAUDIO/museProto_radio) - 
+- [RASPIAUDIO/Simple_Bluetooth_Speaker_ESP32](https://github.com/RASPIAUDIO/Simple_Bluetooth_Speaker_ESP32) - App for Muse board(ESP32 based)
 - [muesli4/mpd-touch-screen-gui](https://github.com/muesli4/mpd-touch-screen-gui) - A small MPD client that let's you view covers and has controls suitable for small touchscreens. It allows to browse the queue, search for songs and run as standalone application.
 - [muesli4/mpd-automount](https://github.com/muesli4/mpd-automount) - udisks2-based automounter that adds mountpoints to the mpd library.
 - [oe3cjb/TTGO-T-Beam-LoRa-APRS](https://github.com/oe3cjb/TTGO-T-Beam-LoRa-APRS) - Use TTGO T-Beam as LoRa APRS Tracker
@@ -3093,7 +3096,7 @@
 - [LudovicRousseau/pcsc-tools](https://github.com/LudovicRousseau/pcsc-tools) - Some tools to be used with smart cards and PC/SC
 - [vparnas/automations](https://github.com/vparnas/automations) - Automations for more powerful aliasing and the searching of disparate text content
 - [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe - display more with less
-- [trizen/straw-viewer](https://github.com/trizen/straw-viewer) - **DEPRECATED** A lightweight YouTube client for Linux, using the API of invidio.us
+- [trizen/straw-viewer](https://github.com/trizen/straw-viewer) - **DEPRECATED** Use https://github.com/trizen/pipe-viewer instead.
 - [o2346/.w3m](https://github.com/o2346/.w3m) - 
 - [tbsdtv/media_build](https://github.com/tbsdtv/media_build) - 
 - [aredn/aredn_ar71xx](https://github.com/aredn/aredn_ar71xx) - AREDN develop branch porting on top of OpenWRT 19.07.0
