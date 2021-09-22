@@ -162,6 +162,8 @@
 
 ## C 
 
+- [DanBiscotti/fbpad_mkfn](https://github.com/DanBiscotti/fbpad_mkfn) - copy of aligrudi's fbpad_mkfn
+- [DanBiscotti/fbpad](https://github.com/DanBiscotti/fbpad) - A small Linux framebuffer virtual terminal
 - [dcantrell/bsdutils](https://github.com/dcantrell/bsdutils) - Alternative to GNU coreutils using software from FreeBSD
 - [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
 - [Tarsnap/spiped](https://github.com/Tarsnap/spiped) - Spiped is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses.
@@ -753,6 +755,7 @@
 
 ## C++ 
 
+- [DanBiscotti/jfbview](https://github.com/DanBiscotti/jfbview) - PDF and image viewer for the Linux framebuffer.
 - [RASPIAUDIO/museProto_radio](https://github.com/RASPIAUDIO/museProto_radio) - 
 - [RASPIAUDIO/Simple_Bluetooth_Speaker_ESP32](https://github.com/RASPIAUDIO/Simple_Bluetooth_Speaker_ESP32) - App for Muse board(ESP32 based)
 - [muesli4/mpd-touch-screen-gui](https://github.com/muesli4/mpd-touch-screen-gui) - A small MPD client that let's you view covers and has controls suitable for small touchscreens. It allows to browse the queue, search for songs and run as standalone application.
@@ -3239,7 +3242,7 @@
 - [dogsheep/dogsheep-beta](https://github.com/dogsheep/dogsheep-beta) - Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette
 - [simonw/markdown-to-sqlite](https://github.com/simonw/markdown-to-sqlite) - CLI tool for loading markdown files into a SQLite database
 - [pyserial/pyserial](https://github.com/pyserial/pyserial) - Python serial port access library
-- [grijul/yt-audio](https://github.com/grijul/yt-audio) - A simple, configurable youtube-dl wrapper to download and manage youtube audio
+- [RijulGulati/yt-audio](https://github.com/RijulGulati/yt-audio) - A simple, configurable youtube-dl wrapper to download and manage youtube audio
 - [JeffCarpenter/export-stars](https://github.com/JeffCarpenter/export-stars) - Export (your) GitHub stars to a CSV file
 - [The-Compiler/nasebohr](https://github.com/The-Compiler/nasebohr) - A command-line tool for DNS queries, with colors and beautiful output
 - [volzotan/CompressorCam](https://github.com/volzotan/CompressorCam) - A camera for digital solargraphy and multi-day long exposure photography.
