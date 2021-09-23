@@ -162,6 +162,7 @@
 
 ## C 
 
+- [AndrewFromMelbourne/fb2png](https://github.com/AndrewFromMelbourne/fb2png) - Save Linux frambuffer (/dev/fb0) to a PNG image file.
 - [DanBiscotti/fbpad_mkfn](https://github.com/DanBiscotti/fbpad_mkfn) - copy of aligrudi's fbpad_mkfn
 - [DanBiscotti/fbpad](https://github.com/DanBiscotti/fbpad) - A small Linux framebuffer virtual terminal
 - [dcantrell/bsdutils](https://github.com/dcantrell/bsdutils) - Alternative to GNU coreutils using software from FreeBSD
@@ -181,7 +182,7 @@
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [pschatzmann/pico-arduino](https://github.com/pschatzmann/pico-arduino) - Arduino API Library for the Raspberry Pico
 - [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (Music Player, Music Recorder supporting I2S, Microphones, DAC, ADC, A2DP, Url)
-- [SartoxOnlyGNU/audacium](https://github.com/SartoxOnlyGNU/audacium) - Audacity fork without Telemetry and with new features
+- [SartoxSoftware/audacium](https://github.com/SartoxSoftware/audacium) - Audacity fork without Telemetry and with new features
 - [omar-polo/gmid](https://github.com/omar-polo/gmid) - simple and secure Gemini server
 - [omar-polo/telescope](https://github.com/omar-polo/telescope) - A Gemini Browser
 - [hexdump0815/linux-mainline-and-mali-generic-stable-kernel](https://github.com/hexdump0815/linux-mainline-and-mali-generic-stable-kernel) - my kind of generic armv7l 32bit linux mainline stable kernel build - used on bananapi m1, asus tinkerboard, tx1 allwinner h3 tv box, r39 allwinner h3 tv box, orbsmart s92 tv box (same as beelink r89, tronsmart orion r28, very similar to ubox tv box), raspberry pi 3b and 3b plus in 32bit mode
@@ -1347,6 +1348,7 @@
 
 ## Go 
 
+- [jmattheis/website](https://github.com/jmattheis/website) - A server that abuses various protocols to transmit content of my website.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [jonamat/wikiloc-earth-layer](https://github.com/jonamat/wikiloc-earth-layer) - View Wikiloc.com trails in Google Earth
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
@@ -2647,7 +2649,7 @@
 - [cagix/pandoc-lecture](https://github.com/cagix/pandoc-lecture) - This project defines a skeleton repo for creating lecture slides and handouts including lecture notes out of Pandoc Markdown (http://pandoc.org/MANUAL.html) using a single source approach.
 - [jgm/html2cmark](https://github.com/jgm/html2cmark) - Lua library to convert HTML5 to commonmark
 - [kelciour/mpv-scripts](https://github.com/kelciour/mpv-scripts) - Experimental scripts for mpv video player, mostly for foreign language learning
-- [a-vrma/pandoc-filters](https://github.com/a-vrma/pandoc-filters) - A small, useful collection of pandoc filters
+- [averms/pandoc-filters](https://github.com/averms/pandoc-filters) - A small, useful collection of pandoc filters
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) - Simon’s Improved Layout Engine
 - [ehildenb/pandoc-tangle](https://github.com/ehildenb/pandoc-tangle) - Simple tangler for Pandoc
 - [Orange-OpenSource/pandoc-terminal-writer](https://github.com/Orange-OpenSource/pandoc-terminal-writer) - Pretty-print text documents on a terminal using pandoc
