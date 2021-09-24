@@ -2853,7 +2853,7 @@
 - [simonw/sf-tree-history](https://github.com/simonw/sf-tree-history) - Tracking the history of trees in San Francisco
 - [sansna/keymap.w3m](https://github.com/sansna/keymap.w3m) - Use the vim-like key map in w3m!
 - [d630/etc-mutt](https://github.com/d630/etc-mutt) - 
-- [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - A collection of open source and commercial tools that aid in red team operations.
+- [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for red teamer.
 - [joseignaci/Recursos-Informacion-Geografica](https://github.com/joseignaci/Recursos-Informacion-Geografica) - Recursos abiertos de Información Geográfica para la investigación
 - [brunomiguel/antinonio](https://github.com/brunomiguel/antinonio) - Lista de bloqueios para a plataforma Nónio
 - [migueldemoura/ublock-umatrix-rulesets](https://github.com/migueldemoura/ublock-umatrix-rulesets) - Hosts and uBlock Rulesets
@@ -4609,7 +4609,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
-- [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
 - [MarioJim/fuzzy-pdf](https://github.com/MarioJim/fuzzy-pdf) - Fuzzy finder for a collection of pdf files
 - [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
