@@ -162,6 +162,7 @@
 
 ## C 
 
+- [MacPaw/XADMaster](https://github.com/MacPaw/XADMaster) - Objective-C library for archive and file unarchiving and extraction
 - [AndrewFromMelbourne/fb2png](https://github.com/AndrewFromMelbourne/fb2png) - Save Linux frambuffer (/dev/fb0) to a PNG image file.
 - [DanBiscotti/fbpad_mkfn](https://github.com/DanBiscotti/fbpad_mkfn) - copy of aligrudi's fbpad_mkfn
 - [DanBiscotti/fbpad](https://github.com/DanBiscotti/fbpad) - A small Linux framebuffer virtual terminal
@@ -181,7 +182,7 @@
 - [msharov/snownews](https://github.com/msharov/snownews) - :snowman: Snownews is a text-mode RSS feed reader.
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [pschatzmann/pico-arduino](https://github.com/pschatzmann/pico-arduino) - Arduino API Library for the Raspberry Pico
-- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (Music Player, Music Recorder supporting I2S, Microphones, DAC, ADC, A2DP, Url)
+- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (Music Player, Music Recorder supporting I2S, Microphones, DAC, ADC, A2DP, Url), MP3 Player, AAC Player
 - [SartoxSoftware/audacium](https://github.com/SartoxSoftware/audacium) - Audacity fork without Telemetry and with new features
 - [omar-polo/gmid](https://github.com/omar-polo/gmid) - simple and secure Gemini server
 - [omar-polo/telescope](https://github.com/omar-polo/telescope) - A Gemini Browser
@@ -358,7 +359,7 @@
 - [espressif/esp32-camera](https://github.com/espressif/esp32-camera) - 
 - [OLIMEX/dance_radio](https://github.com/OLIMEX/dance_radio) - esp32-adf internet radio with display and led stripe
 - [modtronix-com/esp32MX-E](https://github.com/modtronix-com/esp32MX-E) - 
-- [MOSAIC-LoPoW/dash7-ap-open-source-stack](https://github.com/MOSAIC-LoPoW/dash7-ap-open-source-stack) - OSS-7: Open Source Stack for Dash7 Alliance Protocol
+- [Sub-IoT/Sub-IoT-Stack](https://github.com/Sub-IoT/Sub-IoT-Stack) - Sub-IoT: Open Source Stack for Dash7 Alliance Protocol
 - [xoseperez/ttgo-beam-tracker](https://github.com/xoseperez/ttgo-beam-tracker) - TTN tracker based on TTGO T-Beam hardware
 - [tkerby/ttgo-tbeam-ttn-tracker](https://github.com/tkerby/ttgo-tbeam-ttn-tracker) - TTGO T-Beam Tracker for TTN Mapper and TTN Tracker using US (915 MHz) and EU (868 MHz) frequencies
 - [mesa3d/mesa](https://github.com/mesa3d/mesa) - Mesa 3D graphics library (read-only mirror)
@@ -2145,7 +2146,7 @@
 - [heiseonline/embetty-server](https://github.com/heiseonline/embetty-server) - 🐙 Proxy and provider of data for heiseonline/embetty
 - [realdennis/md2pdf](https://github.com/realdennis/md2pdf) - Offline markdown to pdf, choose -&gt; edit -&gt; transform 🥂
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
-- [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
+- [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [liberodark/ODrive](https://github.com/liberodark/ODrive) - Google Drive GUI for Windows / Mac / Linux
@@ -2782,7 +2783,6 @@
 - [jazmichaelking/mastodon-near-me](https://github.com/jazmichaelking/mastodon-near-me) - Directory of Mastodon and related servers that operate primarily in or are targeted to a locality or region
 - [Xinyuan-LilyGO/LilyGO-T-Motion](https://github.com/Xinyuan-LilyGO/LilyGO-T-Motion) - LilyGO-T-Motion
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
-- [sbcshop/Pico-2G-Expansion](https://github.com/sbcshop/Pico-2G-Expansion) - 
 - [robhagemans/hoard-of-bitfonts](https://github.com/robhagemans/hoard-of-bitfonts) - turns out I like bitmap fonts
 - [Vinnl/feeds](https://github.com/Vinnl/feeds) - Example repository for creating your own RSS feeds using Feed me up, Scotty!
 - [hexdump0815/linux-mainline-on-arm-chromebooks](https://github.com/hexdump0815/linux-mainline-on-arm-chromebooks) - running linux mainline on arm chromebooks - for example: samsung xe303c12 and xe503c12 (snow and peach), acer c100, c101 and c201 (veyron speedy, minnie etc. and gru bob and kevin), medion s2013 and s2015 (veyron jaq, mighty etc.), acer cb5 311 (nyan big), lenovo n23, acer r13 (oak elm and hana), lenovo duet (kukui krane) and most probably many many more over time ...
@@ -3197,6 +3197,7 @@
 - [knosmos/cmdpxl](https://github.com/knosmos/cmdpxl) - totally practical command-line image editor
 - [dmedvinsky/mutt-ics](https://github.com/dmedvinsky/mutt-ics) - Simple viewer for ics in mutt
 - [juliojsb/sarviewer](https://github.com/juliojsb/sarviewer) - Generate graphs with gnuplot or matplotlib (Python) from sar data
+- [sbcshop/Pico-2G-Expansion](https://github.com/sbcshop/Pico-2G-Expansion) - 
 - [trehn/termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
 - [laggardkernel/ranger-fzf-marks](https://github.com/laggardkernel/ranger-fzf-marks) - Ranger plugin to manage bookmarks with fzf
 - [stefandtw/feedranger](https://github.com/stefandtw/feedranger) - A file-based RSS/Atom reader that uses Ranger as a UI
@@ -4767,7 +4768,8 @@
 
 ## Shell 
 
-- [makedeb/makedeb](https://github.com/makedeb/makedeb) - Create Debian archives from PKGBUILDs
+- [eshrh/ames](https://github.com/eshrh/ames) - Anki Media Extractor Script: Update anki cards with desktop audio and image on gnu/linux
+- [makedeb/makedeb](https://github.com/makedeb/makedeb) - The modern packaging tool for Debian archives.
 - [mbhangui/pistop](https://github.com/mbhangui/pistop) - Start/Stop services on all clients on server shutdown
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [MunifTanjim/tmux-mode-indicator](https://github.com/MunifTanjim/tmux-mode-indicator) - Plugin that displays prompt indicating currently active Tmux mode.
@@ -4809,7 +4811,6 @@
 - [archdroid-org/builder](https://github.com/archdroid-org/builder) - A very basic PKGBUILD builder.
 - [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
-- [eshrh/ames](https://github.com/eshrh/ames) - Anki Media Extractor Script: Update anki cards with desktop audio and image on gnu/linux
 - [hexdump0815/u-boot-chainloading-for-arm-chromebooks](https://github.com/hexdump0815/u-boot-chainloading-for-arm-chromebooks) - notes on u-boot chainloading for arm chromebooks
 - [The-Compiler/sshtunnel](https://github.com/The-Compiler/sshtunnel) - Managing of ssh tunnels via systemd
 - [kazhala/dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf
