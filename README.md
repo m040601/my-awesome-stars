@@ -162,6 +162,8 @@
 
 ## C 
 
+- [gciruelos/termplot](https://github.com/gciruelos/termplot) - Terminal-based mathematical function plotter
+- [An7ar35/ctune](https://github.com/An7ar35/ctune) - nCurses internet radio player for Linux
 - [MacPaw/XADMaster](https://github.com/MacPaw/XADMaster) - Objective-C library for archive and file unarchiving and extraction
 - [AndrewFromMelbourne/fb2png](https://github.com/AndrewFromMelbourne/fb2png) - Save Linux frambuffer (/dev/fb0) to a PNG image file.
 - [DanBiscotti/fbpad_mkfn](https://github.com/DanBiscotti/fbpad_mkfn) - copy of aligrudi's fbpad_mkfn
@@ -757,6 +759,7 @@
 
 ## C++ 
 
+- [An7ar35/blogator](https://github.com/An7ar35/blogator) - Mirror for the static site generator 'Blogator'
 - [DanBiscotti/jfbview](https://github.com/DanBiscotti/jfbview) - PDF and image viewer for the Linux framebuffer.
 - [RASPIAUDIO/museProto_radio](https://github.com/RASPIAUDIO/museProto_radio) - 
 - [RASPIAUDIO/Simple_Bluetooth_Speaker_ESP32](https://github.com/RASPIAUDIO/Simple_Bluetooth_Speaker_ESP32) - App for Muse board(ESP32 based)
@@ -2853,7 +2856,7 @@
 - [simonw/sf-tree-history](https://github.com/simonw/sf-tree-history) - Tracking the history of trees in San Francisco
 - [sansna/keymap.w3m](https://github.com/sansna/keymap.w3m) - Use the vim-like key map in w3m!
 - [d630/etc-mutt](https://github.com/d630/etc-mutt) - 
-- [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for red teamer.
+- [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
 - [joseignaci/Recursos-Informacion-Geografica](https://github.com/joseignaci/Recursos-Informacion-Geografica) - Recursos abiertos de Información Geográfica para la investigación
 - [brunomiguel/antinonio](https://github.com/brunomiguel/antinonio) - Lista de bloqueios para a plataforma Nónio
 - [migueldemoura/ublock-umatrix-rulesets](https://github.com/migueldemoura/ublock-umatrix-rulesets) - Hosts and uBlock Rulesets
@@ -3185,6 +3188,7 @@
 
 ## Python 
 
+- [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [FreeTAKTeam/FreeTakServer](https://github.com/FreeTAKTeam/FreeTakServer) - an open source, lightweight Server for connect TAK clients
 - [moses-palmer/pynput](https://github.com/moses-palmer/pynput) - Sends virtual input commands
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
@@ -3197,7 +3201,7 @@
 - [knosmos/cmdpxl](https://github.com/knosmos/cmdpxl) - totally practical command-line image editor
 - [dmedvinsky/mutt-ics](https://github.com/dmedvinsky/mutt-ics) - Simple viewer for ics in mutt
 - [juliojsb/sarviewer](https://github.com/juliojsb/sarviewer) - Generate graphs with gnuplot or matplotlib (Python) from sar data
-- [sbcshop/Pico-2G-Expansion](https://github.com/sbcshop/Pico-2G-Expansion) - 
+- [sbcshop/Pico-2G-Expansion](https://github.com/sbcshop/Pico-2G-Expansion) - Raspberry Pi Pico 2G Expansion is a QUAD-Band GSM/GPRS/GNSS Expansion designed dedicatedly for Raspberry Pi Pico with UART, USB 2.0 Interface, 850/900/1800/1900 MHz.
 - [trehn/termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
 - [laggardkernel/ranger-fzf-marks](https://github.com/laggardkernel/ranger-fzf-marks) - Ranger plugin to manage bookmarks with fzf
 - [stefandtw/feedranger](https://github.com/stefandtw/feedranger) - A file-based RSS/Atom reader that uses Ranger as a UI
@@ -4381,7 +4385,7 @@
 - [softcover/softcover](https://github.com/softcover/softcover) - CLI for book generation, building, and publishing to softcover.io
 - [WebThingsIO/docs](https://github.com/WebThingsIO/docs) - WebThings Documentation
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
-- [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line tool
+- [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line utility
 - [antono/shelr](https://github.com/antono/shelr) - Console screencasting tool
 - [jgarber623/delicious-data-convertor](https://github.com/jgarber623/delicious-data-convertor) - A simple tool written in Ruby that converts exported Delicious bookmarks from HTML to JSON.
 - [mnyrop/pagemaster](https://github.com/mnyrop/pagemaster) - Jekyll plugin for generating Markdown collection pages from CSV/YAML/JSON records 🧙📖
@@ -4768,6 +4772,7 @@
 
 ## Shell 
 
+- [shinokada/tera](https://github.com/shinokada/tera) - Interactive music radio player. Play your favorite radio station, CRUD your favorite lists, and explore new radio stations from your terminal.
 - [eshrh/ames](https://github.com/eshrh/ames) - Anki Media Extractor Script: Update anki cards with desktop audio and image on gnu/linux
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - The modern packaging tool for Debian archives.
 - [mbhangui/pistop](https://github.com/mbhangui/pistop) - Start/Stop services on all clients on server shutdown
