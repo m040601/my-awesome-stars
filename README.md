@@ -150,6 +150,7 @@
 
 ## Awk 
 
+- [phillbush/incipit](https://github.com/phillbush/incipit) - the incipit plain text markup language, and the mi(7) troff macro package
 - [huijunchen9260/bib.awk](https://github.com/huijunchen9260/bib.awk) - Bibliography manager written in awk
 - [LukeSmithxyz/vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate Bible on the Command Line
 - [phillbush/man2md](https://github.com/phillbush/man2md) - man page to markdown converter
@@ -162,6 +163,7 @@
 
 ## C 
 
+- [phillbush/xfiles](https://github.com/phillbush/xfiles) - X11 file manager (work in progress)
 - [gciruelos/termplot](https://github.com/gciruelos/termplot) - Terminal-based mathematical function plotter
 - [An7ar35/ctune](https://github.com/An7ar35/ctune) - nCurses internet radio player for Linux
 - [MacPaw/XADMaster](https://github.com/MacPaw/XADMaster) - Objective-C library for archive and file unarchiving and extraction
@@ -308,7 +310,7 @@
 - [pgaskin/NickelHook](https://github.com/pgaskin/NickelHook) - A library for creating mods for Kobo's eReader software, Nickel.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [jrbasso/gistit](https://github.com/jrbasso/gistit) - Send content from console/file to GitHub gist
-- [EvanPurkhiser/linux-vt-setcolors](https://github.com/EvanPurkhiser/linux-vt-setcolors) - Utility tool to set the linux VT default color palette
+- [evanpurkhiser/linux-vt-setcolors](https://github.com/evanpurkhiser/linux-vt-setcolors) - Utility tool to set the linux VT default color palette
 - [app/imwheel](https://github.com/app/imwheel) - Patched copy of imwheel http://imwheel.sourceforge.net/
 - [codythegreat/dss](https://github.com/codythegreat/dss) - Dead Simple Slides - A terminal based presentation tool with Vim style keybindings
 - [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas) - A portable fork of the OpenBSD `doas` command
@@ -759,6 +761,7 @@
 
 ## C++ 
 
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [An7ar35/blogator](https://github.com/An7ar35/blogator) - Mirror for the static site generator 'Blogator'
 - [DanBiscotti/jfbview](https://github.com/DanBiscotti/jfbview) - PDF and image viewer for the Linux framebuffer.
 - [RASPIAUDIO/museProto_radio](https://github.com/RASPIAUDIO/museProto_radio) - 
@@ -2781,6 +2784,9 @@
 
 ## Others 
 
+- [victorlucachi/void9](https://github.com/victorlucachi/void9) - A 3x3 handwired macropad, running QMK firmware
+- [victorlucachi/void40](https://github.com/victorlucachi/void40) - A 40% handwired ortholinear keyboard, running QMK firmware
+- [victorlucachi/void30](https://github.com/victorlucachi/void30) - A 30% handwired ortholinear keyboard, running QMK firmware
 - [Rabios/awesome-raylib](https://github.com/Rabios/awesome-raylib) - Curated list of awesome stuff for raylib.
 - [RichardLitt/meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
 - [jazmichaelking/mastodon-near-me](https://github.com/jazmichaelking/mastodon-near-me) - Directory of Mastodon and related servers that operate primarily in or are targeted to a locality or region
@@ -3989,7 +3995,7 @@
 - [andrewheiss/pandoc-citekeys](https://github.com/andrewheiss/pandoc-citekeys) - Simple Python scripts to make it easier to use BibTeX citations in pandoc Markdown.
 - [chetan51/linguist](https://github.com/chetan51/linguist) - A language-learning AI based on NuPIC
 - [prosodylab/Prosodylab-Aligner](https://github.com/prosodylab/Prosodylab-Aligner) - Python interface for forced audio alignment using HTK and SoX
-- [EvanPurkhiser/dots](https://github.com/EvanPurkhiser/dots) - A portable tool for managing a single set of dotfiles in an organized fashion
+- [evanpurkhiser/dots](https://github.com/evanpurkhiser/dots) - A portable tool for managing a single set of dotfiles in an organized fashion
 - [fcicq/vdisk_lib](https://github.com/fcicq/vdisk_lib) - vdisk.me (vdisk.weibo.com) api & client implementation in Python
 - [markuman/mygithub](https://github.com/markuman/mygithub) - clone & pull my github (own repos + stars)
 - [chineselevel/worker](https://github.com/chineselevel/worker) - 
@@ -4866,8 +4872,8 @@
 - [gitenberg-dev/documentation](https://github.com/gitenberg-dev/documentation) - Documentation for the GITenberg books project
 - [mbhangui/mpdev](https://github.com/mbhangui/mpdev) - music player daemon events daemon
 - [vparnas/jrnl2](https://github.com/vparnas/jrnl2) - A CLI journaling system inspired by jrnl.sh
-- [EvanPurkhiser/dots-personal](https://github.com/EvanPurkhiser/dots-personal) - My personal dotfiles. Uses the dots utility to manage installation and organization.
-- [EvanPurkhiser/mkinitcpio-colors](https://github.com/EvanPurkhiser/mkinitcpio-colors) - Provides a hook for Arch Linux's mkinitcpio utility to set VT colors during early userspace
+- [evanpurkhiser/dots-personal](https://github.com/evanpurkhiser/dots-personal) - My personal dotfiles. Uses the dots utility to manage installation and organization.
+- [evanpurkhiser/mkinitcpio-colors](https://github.com/evanpurkhiser/mkinitcpio-colors) - Provides a hook for Arch Linux's mkinitcpio utility to set VT colors during early userspace
 - [hackerb9/fonttable](https://github.com/hackerb9/fonttable) - Print out every unicode character; see all possible glyphs in your terminal
 - [wmutils/contrib](https://github.com/wmutils/contrib) - Useful bits and pieces
 - [lwilletts/fwm](https://github.com/lwilletts/fwm) - wmutils based shell scripts for window management
