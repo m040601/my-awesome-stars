@@ -163,6 +163,7 @@
 
 ## C 
 
+- [gammu/gammu](https://github.com/gammu/gammu) - Gammu All Mobile Management Utilities
 - [phillbush/xfiles](https://github.com/phillbush/xfiles) - X11 file manager (work in progress)
 - [gciruelos/termplot](https://github.com/gciruelos/termplot) - Terminal-based mathematical function plotter
 - [An7ar35/ctune](https://github.com/An7ar35/ctune) - nCurses internet radio player for Linux
@@ -1656,6 +1657,7 @@
 
 ## HTML 
 
+- [gammu/gsm-docs](https://github.com/gammu/gsm-docs) - GSM related documentation
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [arendst/Tasmota-firmware](https://github.com/arendst/Tasmota-firmware) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 - [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - Did you know GitHub Wikis aren't indexed on search engines? Search Engine Enablement for GitHub Wikis service.
@@ -2410,7 +2412,7 @@
 - [post-forking/post-forking](https://github.com/post-forking/post-forking) - WordPress Post Forking allows users to "fork" or create an alternate version of content to foster a more collaborative approach to WordPress content curation.
 - [ivotron/bibtools](https://github.com/ivotron/bibtools) - Stuff I use along with Zotero
 - [zzmp/juliusjs](https://github.com/zzmp/juliusjs) - A speech recognition library for the web
-- [seethroughtrees/status-crawler](https://github.com/seethroughtrees/status-crawler) - A fully configurable crawler to check your website status codes, javascript errors and anything you want.
+- [seethroughdev/status-crawler](https://github.com/seethroughdev/status-crawler) - A fully configurable crawler to check your website status codes, javascript errors and anything you want.
 - [aaron2/bookmarks](https://github.com/aaron2/bookmarks) - a self hosted replacement for social bookmarking services such as delicious and pinboard using node.js, couchdb, bootstrap, and lucene
 - [apg/wipes](https://github.com/apg/wipes) - Pipe text to a WebSocket server
 - [machawk1/warcreate](https://github.com/machawk1/warcreate) - Chrome extension to "Create WARC files from any webpage"
