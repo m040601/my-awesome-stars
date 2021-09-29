@@ -282,7 +282,7 @@
 - [cybernoid/archivemount](https://github.com/cybernoid/archivemount) - A fuse filesystem for mounting archives in formats supported by libarchive.
 - [phillbush/pmenu](https://github.com/phillbush/pmenu) - A pie-menu in xlib and imlib2.
 - [phillbush/xprompt](https://github.com/phillbush/xprompt) - A dmenu rip-off with contextual completion
-- [phillbush/shod](https://github.com/phillbush/shod) - hybrid (floating and tiling) tabbed window manager
+- [phillbush/shod-old](https://github.com/phillbush/shod-old) - hybrid (floating and tiling) tabbed window manager
 - [phillbush/focus](https://github.com/phillbush/focus) - Focus window, workspace or monitor by direction or cycle through them.
 - [phillbush/xclickroot](https://github.com/phillbush/xclickroot) - click on root window and run a command
 - [phillbush/xmenu](https://github.com/phillbush/xmenu) - a x11 menu utility
@@ -1939,7 +1939,7 @@
 
 ## Java 
 
-- [openremote/openremote](https://github.com/openremote/openremote) - 100% open-source IoT Platform - Integrate your assets, create rules, and visualize your data
+- [openremote/openremote](https://github.com/openremote/openremote) - 100% open-source IoT Platform - Integrate your devices, create rules, and analyse and visualise your data
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 - [airsonic/airsonic](https://github.com/airsonic/airsonic) - :satellite: :cloud: :notes:Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic)
 - [stingle/stingle-photos-android](https://github.com/stingle/stingle-photos-android) - Stingle Photos is an open-source, end-to-end encrypted media gallery application that provides backup, sharing and cross-platform sync functionality without sacrificing convenience.
@@ -4298,7 +4298,7 @@
 - [rmcelreath/rethinking](https://github.com/rmcelreath/rethinking) - Statistical Rethinking course and book package
 - [Pakillo/Rmarkdown_tutorial](https://github.com/Pakillo/Rmarkdown_tutorial) - Reproducible Research with Rmarkdown: data management, analysis, and reporting all-in-one
 - [Pakillo/R-GIS-tutorial](https://github.com/Pakillo/R-GIS-tutorial) - Spatial data in R: using R as a GIS
-- [ropensci/plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R
+- [plotly/plotly.R](https://github.com/plotly/plotly.R) - An interactive graphing library for R
 - [amcat/amcat-r](https://github.com/amcat/amcat-r) - R bindings and utility functions for working with AmCAT
 - [amcat/amcat-r-tools](https://github.com/amcat/amcat-r-tools) - Tools for working with amcat-r data
 - [kasperwelbers/network-tools](https://github.com/kasperwelbers/network-tools) - An R package with various functions to create networks
