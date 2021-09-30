@@ -163,6 +163,7 @@
 
 ## C 
 
+- [networkupstools/nut](https://github.com/networkupstools/nut) - The Network UPS Tools repository
 - [gammu/gammu](https://github.com/gammu/gammu) - Gammu All Mobile Management Utilities
 - [phillbush/xfiles](https://github.com/phillbush/xfiles) - X11 file manager (work in progress)
 - [gciruelos/termplot](https://github.com/gciruelos/termplot) - Terminal-based mathematical function plotter
@@ -3017,6 +3018,7 @@
 
 ## PHP 
 
+- [DeBaschdi/docker.solaranzeige](https://github.com/DeBaschdi/docker.solaranzeige) - 
 - [webkul/hotelcommerce](https://github.com/webkul/hotelcommerce) - Hotel & Booking Reservation Ecommerce system on Prestashop
 - [epii1/tagbar-markdown](https://github.com/epii1/tagbar-markdown) - vim-tagbar extension for markdown
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
@@ -5548,6 +5550,7 @@
 - [tpope/vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
 - [bruno-/dotfiles](https://github.com/bruno-/dotfiles) - Simply - dotfiles
 - [dhruvasagar/vim-dotoo](https://github.com/dhruvasagar/vim-dotoo) - Org-mode like task logging & time tracking in Vim
+- [thinca/vim-qfreplace](https://github.com/thinca/vim-qfreplace) - Perform the replacement in quickfix.
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
 - [wellle/dotfiles](https://github.com/wellle/dotfiles) - vim, zsh, tmux etc.
 - [Shougo/neobundle.vim](https://github.com/Shougo/neobundle.vim) - Next generation Vim package manager
@@ -5642,7 +5645,6 @@
 - [haya14busa/vim-migemo](https://github.com/haya14busa/vim-migemo) - Vim Plugin for C/Migemo
 - [vim-utils/vim-husk](https://github.com/vim-utils/vim-husk) - Mappings that boost vim's command line.
 - [1995eaton/vim-fifo](https://github.com/1995eaton/vim-fifo) - An easy way to execute files through Vim and output their results to a shell fifo
-- [thinca/vim-qfreplace](https://github.com/thinca/vim-qfreplace) - Perform the replacement in quickfix.
 - [bling/dotvim](https://github.com/bling/dotvim) - lean & mean vim distribution
 - [chusiang/vim-sdcv](https://github.com/chusiang/vim-sdcv) - Searching word with sdcv at Vim.
 - [lambdalisue/shareboard.vim](https://github.com/lambdalisue/shareboard.vim) - A HTML viewer built for vim. Useful to see output of Pandoc or Markdown
