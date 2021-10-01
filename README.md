@@ -403,7 +403,7 @@
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
 - [Caltech-IPAC/Montage](https://github.com/Caltech-IPAC/Montage) - Image Mosaics for Astronomers
 - [kiu/lofence](https://github.com/kiu/lofence) - LoFence is a LoRaWAN capable IoT electric fence monitoring system running on the The Things Network.
-- [NiklasFauth/hoverboard-firmware-hack](https://github.com/NiklasFauth/hoverboard-firmware-hack) - New Hoverboard Firmware Hack. Now written from scratch and generally much better.
+- [lucysrausch/hoverboard-firmware-hack](https://github.com/lucysrausch/hoverboard-firmware-hack) - New Hoverboard Firmware Hack. Now written from scratch and generally much better.
 - [i-rinat/apulse](https://github.com/i-rinat/apulse) - PulseAudio emulation for ALSA
 - [Hermann-SW/Raspberry_v1_camera_global_external_shutter](https://github.com/Hermann-SW/Raspberry_v1_camera_global_external_shutter) - Enable Raspberry v1 camera to do global external shutter capturing
 - [antirez/dump1090](https://github.com/antirez/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
@@ -2773,7 +2773,7 @@
 
 - [groupgets/kimchi-micro](https://github.com/groupgets/kimchi-micro) - An open hardware embedded SBC for the NXP i.MX8M Mini application processor
 - [adereth/dactyl-keyboard](https://github.com/adereth/dactyl-keyboard) - Parameterized ergonomic keyboard
-- [Jan--Henrik/transpOtterNG](https://github.com/Jan--Henrik/transpOtterNG) - Next Generation of TranspOtter.
+- [Jana-Marie/transpOtterNG](https://github.com/Jana-Marie/transpOtterNG) - Next Generation of TranspOtter.
 - [FOSDEM/video-hardware](https://github.com/FOSDEM/video-hardware) - FOSDEM video hardware
 - [technoez/open-makers-cube](https://github.com/technoez/open-makers-cube) - An open source portable desktop-sized electronics workstation.
 - [ZeroPhone/ZeroPhone-PCBs](https://github.com/ZeroPhone/ZeroPhone-PCBs) - PCB files for ZeroPhone - for gerbers and schematics, go to "Releases" tab!
@@ -2787,6 +2787,7 @@
 
 ## Others 
 
+- [qmacro-org/url-notes](https://github.com/qmacro-org/url-notes) - 
 - [victorlucachi/void9](https://github.com/victorlucachi/void9) - A 3x3 handwired macropad, running QMK firmware
 - [victorlucachi/void40](https://github.com/victorlucachi/void40) - A 40% handwired ortholinear keyboard, running QMK firmware
 - [victorlucachi/void30](https://github.com/victorlucachi/void30) - A 30% handwired ortholinear keyboard, running QMK firmware
@@ -3137,7 +3138,6 @@
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [Jack000/Expose](https://github.com/Jack000/Expose) - A simple static site generator for photoessays
 - [robelix/sub2srt](https://github.com/robelix/sub2srt) - subtitle converter
-- [wizzat/distribution](https://github.com/wizzat/distribution) - Short, simple, direct scripts for creating ASCII graphical histograms in the terminal.
 - [drdrang/tp-planner](https://github.com/drdrang/tp-planner) - A set of scripts for printing TaskPaper documents compactly for inserting into a "Junior" sized planner.
 - [tarruda/dot-files](https://github.com/tarruda/dot-files) - 
 - [Koha-Community/Koha](https://github.com/Koha-Community/Koha) - Koha is a free software integrated library system (ILS). Koha is distributed under the GNU GPL version 3 or later. ***Note: this is a synced mirror of the official Koha repo. Note: This project uses its own bug tracker, see https://bugs.koha-community.org/ to report a bug or submit a patch.
@@ -3842,6 +3842,7 @@
 - [mk-fg/fgtk](https://github.com/mk-fg/fgtk) - A set of a misc tools to work with files and processes
 - [mk-fg/python-onedrive](https://github.com/mk-fg/python-onedrive) - Obsolete python/cli module for MS SkyDrive/OneDrive's old API, do not use for new projects
 - [ployground/bsdploy](https://github.com/ployground/bsdploy) - BSDploy is a tool to provision, configure and maintain FreeBSD jails.
+- [wizzat/distribution](https://github.com/wizzat/distribution) - Short, simple, direct scripts for creating ASCII graphical histograms in the terminal.
 - [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 - [stanfordjournalism/search-script-scrape](https://github.com/stanfordjournalism/search-script-scrape) - 101 real world web scraping exercises in Python 3 for data journalists
 - [MediaBrowser/plugin.video.emby](https://github.com/MediaBrowser/plugin.video.emby) - Integrate your Emby media library in Kodi
@@ -5350,6 +5351,7 @@
 
 ## TypeScript 
 
+- [ethomson/send-tweet-action](https://github.com/ethomson/send-tweet-action) - Send a tweet from a GitHub Action
 - [krisek/audioloader](https://github.com/krisek/audioloader) - A responsive Music Player Daemon web client with special focus on listening full albums.
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
