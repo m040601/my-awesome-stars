@@ -163,6 +163,7 @@
 
 ## C 
 
+- [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for ESP32.
 - [networkupstools/nut](https://github.com/networkupstools/nut) - The Network UPS Tools repository
 - [gammu/gammu](https://github.com/gammu/gammu) - Gammu All Mobile Management Utilities
 - [phillbush/xfiles](https://github.com/phillbush/xfiles) - X11 file manager (work in progress)
@@ -2259,7 +2260,7 @@
 - [Flood-UI/flood](https://github.com/Flood-UI/flood) - A web UI for rTorrent, qBittorrent and Transmission with a Node.js backend and React frontend. Migrate to v4: https://github.com/jesec/flood/wiki/Migrate-from-older-versions-of-Flood.
 - [georgjaehnig/webpages-to-ebook](https://github.com/georgjaehnig/webpages-to-ebook) - Create an EPUB from a list of URLs. Standing on the shoulders of Wget, Readability and Pandoc.
 - [passff/passff](https://github.com/passff/passff) - zx2c4 pass manager extension for Firefox, Chrome and Opera
-- [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - Generate a markdown TOC (table of contents) for a README or any markdown files, using remarkable. Used by assemble, verb, and lots of other projects on GitHub. API and CLI.
+- [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - Generate a markdown TOC (table of contents) for a README or any markdown files, using remarkable. Used by NASA, Sass, assemble, verb, and lots of other projects on GitHub. API and CLI.
 - [kyle8998/Vynchronize](https://github.com/kyle8998/Vynchronize) - Watch videos with friends online with the new real time video synchronization platform
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 - [zaidka/cliget](https://github.com/zaidka/cliget) - A Firefox addon to download login-protected files from the command line
@@ -3215,7 +3216,7 @@
 - [trehn/termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
 - [laggardkernel/ranger-fzf-marks](https://github.com/laggardkernel/ranger-fzf-marks) - Ranger plugin to manage bookmarks with fzf
 - [stefandtw/feedranger](https://github.com/stefandtw/feedranger) - A file-based RSS/Atom reader that uses Ranger as a UI
-- [andreztz/pyradios](https://github.com/andreztz/pyradios) - Python client for the https://api.radio-browser.info
+- [andreztz/pyradios](https://github.com/andreztz/pyradios) - Python client for the https://www.radio-browser.info/
 - [joalla/discogs_client](https://github.com/joalla/discogs_client) - Continuation of the "Official Python Client for the Discogs API"
 - [fscm/discogs2xlsx](https://github.com/fscm/discogs2xlsx) - Export your Discogs collection or wantlist into a xlsx file.
 - [intra2net/paperbackup](https://github.com/intra2net/paperbackup) - Create a pdf with barcodes to backup text files on paper. Designed to backup ASCII-armored GnuPG and SSH key files and ciphertext.
