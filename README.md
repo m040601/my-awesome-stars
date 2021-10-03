@@ -1358,6 +1358,7 @@
 
 ## Go 
 
+- [cirocosta/asciinema-edit](https://github.com/cirocosta/asciinema-edit) - asciinema casts post-production tools
 - [jmattheis/website](https://github.com/jmattheis/website) - A server that abuses various protocols to transmit content of my website.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [jonamat/wikiloc-earth-layer](https://github.com/jonamat/wikiloc-earth-layer) - View Wikiloc.com trails in Google Earth
@@ -2132,7 +2133,7 @@
 - [i5ik/22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer. Works well with WorldBrain/Memex to give you full-text search.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
-- [cmdalbem/ciclomapa](https://github.com/cmdalbem/ciclomapa) - Web app of bike maps in brazilian cities, powered by OpenStreetMap.
+- [cmdalbem/ciclomapa](https://github.com/cmdalbem/ciclomapa) - Beautiful bike maps of Brazilian cities, powered by OpenStreetMap.
 - [heiseonline/embetty](https://github.com/heiseonline/embetty) - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
 - [JVital2013/RoadApplePi](https://github.com/JVital2013/RoadApplePi) - An elegent "Black Box" solution that can be retrofitted into any car with an OBD(II) port for minimal cost.
 - [inventaire/inventaire](https://github.com/inventaire/inventaire) - a libre collaborative resource mapper powered by open-knowledge, starting with books! :books:
@@ -3199,6 +3200,7 @@
 
 ## Python 
 
+- [opcode-eu-org-libs/asciicast2movie](https://github.com/opcode-eu-org-libs/asciicast2movie) - 
 - [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [FreeTAKTeam/FreeTakServer](https://github.com/FreeTAKTeam/FreeTakServer) - an open source, lightweight Server for connect TAK clients
 - [moses-palmer/pynput](https://github.com/moses-palmer/pynput) - Sends virtual input commands
