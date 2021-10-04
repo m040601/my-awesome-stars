@@ -1589,7 +1589,6 @@
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [skorokithakis/gweet](https://github.com/skorokithakis/gweet) - A message queue for the abhorrently named Internet of Things
 - [aereal/markdown-toc](https://github.com/aereal/markdown-toc) - 
-- [gyuho/learn](https://github.com/gyuho/learn) - learn
 - [schollz/find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [schollz/find-lf](https://github.com/schollz/find-lf) - Track the location of every Wi-Fi device (:iphone:) in your house using Raspberry Pis and FIND
@@ -2942,6 +2941,7 @@
 - [ch2i/iC880A-Raspberry-PI](https://github.com/ch2i/iC880A-Raspberry-PI) - Raspberry PI iC880A and LinkLab Lora Gateway Shield
 - [riceissa/causeprioritization](https://github.com/riceissa/causeprioritization) - Cause Prioritization Wiki
 - [OpenGarage/OpenGarage-Hardware](https://github.com/OpenGarage/OpenGarage-Hardware) - 
+- [gyuho/learn](https://github.com/gyuho/learn) - learn
 - [SuperHouse/D1MTERMINAL](https://github.com/SuperHouse/D1MTERMINAL) - Terminal Shield for the WeMos D1 Mini with ESP8266
 - [offensive-security/kali-arm-build-scripts](https://github.com/offensive-security/kali-arm-build-scripts) - Kali Linux ARM build scripts
 - [mcauser/Raspberry-Pi-ITead-Studio-GPS-NEO-6M](https://github.com/mcauser/Raspberry-Pi-ITead-Studio-GPS-NEO-6M) - Experiments with my ITead Studio RPI GPS Add On
