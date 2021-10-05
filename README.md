@@ -764,6 +764,7 @@
 
 ## C++ 
 
+- [Edzelf/ESP32Radio-V2](https://github.com/Edzelf/ESP32Radio-V2) - New version of the well known ESP32 Radio.  Now optional I2S output!
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [An7ar35/blogator](https://github.com/An7ar35/blogator) - Mirror for the static site generator 'Blogator'
 - [DanBiscotti/jfbview](https://github.com/DanBiscotti/jfbview) - PDF and image viewer for the Linux framebuffer.
@@ -774,7 +775,6 @@
 - [oe3cjb/TTGO-T-Beam-LoRa-APRS](https://github.com/oe3cjb/TTGO-T-Beam-LoRa-APRS) - Use TTGO T-Beam as LoRa APRS Tracker
 - [lora-aprs/LoRa_APRS_Tracker](https://github.com/lora-aprs/LoRa_APRS_Tracker) - 
 - [tomschwarz/neix](https://github.com/tomschwarz/neix) - neix - a RSS/Atom feed reader for your terminal.
-- [JvanKatwijk/drm-receiver](https://github.com/JvanKatwijk/drm-receiver) - 
 - [JvanKatwijk/SDRunoPlugin_weatherfax](https://github.com/JvanKatwijk/SDRunoPlugin_weatherfax) - SDRuno_weatherfax plugin for SDRuno
 - [JvanKatwijk/duoreceiver](https://github.com/JvanKatwijk/duoreceiver) - combined decoder for DAB and FM
 - [Clortox/rss-cli](https://github.com/Clortox/rss-cli) - A unix-inspired cli application for interacting with rss feeds
@@ -1358,6 +1358,8 @@
 
 ## Go 
 
+- [forlater-email/mdawh](https://github.com/forlater-email/mdawh) - an MDA that sends a webhook on recieval of mail
+- [forlater-email/navani](https://github.com/forlater-email/navani) - forlater's primary mail processing service
 - [cirocosta/asciinema-edit](https://github.com/cirocosta/asciinema-edit) - asciinema casts post-production tools
 - [jmattheis/website](https://github.com/jmattheis/website) - A server that abuses various protocols to transmit content of my website.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -2700,6 +2702,7 @@
 
 ## Makefile 
 
+- [JvanKatwijk/drm-receiver](https://github.com/JvanKatwijk/drm-receiver) - 
 - [dibdot/packages](https://github.com/dibdot/packages) - Community maintained packages for OpenWrt
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 - [jp-fosterson/pandoc-novel](https://github.com/jp-fosterson/pandoc-novel) - Markdown text to a novel in ePub and PDF.
@@ -4786,6 +4789,7 @@
 
 ## Shell 
 
+- [dmpop/otto](https://github.com/dmpop/otto) - Otto is a clever little 🐒 that imports and organizes photos on your Linux machine or NAS
 - [shinokada/tera](https://github.com/shinokada/tera) - Interactive music radio player. Play your favorite radio station, CRUD your favorite lists, and explore new radio stations from your terminal.
 - [eshrh/ames](https://github.com/eshrh/ames) - Anki Media Extractor Script: Update anki cards with desktop audio and image on gnu/linux
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - The modern packaging tool for Debian archives.
