@@ -163,6 +163,7 @@
 
 ## C 
 
+- [aligrudi/neatsmtp](https://github.com/aligrudi/neatsmtp) - A small SMTP client
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for ESP32.
 - [networkupstools/nut](https://github.com/networkupstools/nut) - The Network UPS Tools repository
 - [gammu/gammu](https://github.com/gammu/gammu) - Gammu All Mobile Management Utilities
@@ -775,6 +776,7 @@
 - [oe3cjb/TTGO-T-Beam-LoRa-APRS](https://github.com/oe3cjb/TTGO-T-Beam-LoRa-APRS) - Use TTGO T-Beam as LoRa APRS Tracker
 - [lora-aprs/LoRa_APRS_Tracker](https://github.com/lora-aprs/LoRa_APRS_Tracker) - 
 - [tomschwarz/neix](https://github.com/tomschwarz/neix) - neix - a RSS/Atom feed reader for your terminal.
+- [JvanKatwijk/drm-receiver](https://github.com/JvanKatwijk/drm-receiver) - 
 - [JvanKatwijk/SDRunoPlugin_weatherfax](https://github.com/JvanKatwijk/SDRunoPlugin_weatherfax) - SDRuno_weatherfax plugin for SDRuno
 - [JvanKatwijk/duoreceiver](https://github.com/JvanKatwijk/duoreceiver) - combined decoder for DAB and FM
 - [Clortox/rss-cli](https://github.com/Clortox/rss-cli) - A unix-inspired cli application for interacting with rss feeds
@@ -2702,7 +2704,6 @@
 
 ## Makefile 
 
-- [JvanKatwijk/drm-receiver](https://github.com/JvanKatwijk/drm-receiver) - 
 - [dibdot/packages](https://github.com/dibdot/packages) - Community maintained packages for OpenWrt
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 - [jp-fosterson/pandoc-novel](https://github.com/jp-fosterson/pandoc-novel) - Markdown text to a novel in ePub and PDF.
@@ -2791,6 +2792,7 @@
 
 ## Others 
 
+- [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.
 - [qmacro-org/url-notes](https://github.com/qmacro-org/url-notes) - 
 - [victorlucachi/void9](https://github.com/victorlucachi/void9) - A 3x3 handwired macropad, running QMK firmware
 - [victorlucachi/void40](https://github.com/victorlucachi/void40) - A 40% handwired ortholinear keyboard, running QMK firmware
@@ -4713,7 +4715,7 @@
 - [JoshMcguigan/shell_completion](https://github.com/JoshMcguigan/shell_completion) - Write shell completion scripts in pure Rust
 - [samhh/bukubrow-host](https://github.com/samhh/bukubrow-host) - Host application for the Bukubrow WebExtension
 - [rabite0/hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated alternative to reddit in rust
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated link aggregator in rust
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [ajmwagar/ufo](https://github.com/ajmwagar/ufo) - :rocket: :space_invader: A Drone/UAV Programming Library for Rust.
 - [TatriX/wordpress-to-zola](https://github.com/TatriX/wordpress-to-zola) - Convert wordpress xml dump to zola static site generator markdown files
