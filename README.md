@@ -1666,9 +1666,10 @@
 - [gammu/gsm-docs](https://github.com/gammu/gsm-docs) - GSM related documentation
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [arendst/Tasmota-firmware](https://github.com/arendst/Tasmota-firmware) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-- [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - Did you know GitHub Wikis aren't indexed on search engines? Search Engine Enablement for GitHub Wikis service.
+- [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - Did you know GitHub Wikis weren't indexed on search engines before October 2021? Search Engine Enablement for GitHub Wikis service that is now decommissioned.
 - [chrisman/m4-blog](https://github.com/chrisman/m4-blog) - boilerplate for an m4 blog
 - [m8/refined.blog](https://github.com/m8/refined.blog) - curated list of personal blogs
+- [robhagemans/monobit](https://github.com/robhagemans/monobit) - Tools for working with monochrome bitmap fonts
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [clauswilke/dataviz](https://github.com/clauswilke/dataviz) - A book covering the fundamentals of data visualization
 - [amyjko/foundations-of-information](https://github.com/amyjko/foundations-of-information) - A book to support the INFO 200 Intellectual Foundations of Information course.
@@ -2032,7 +2033,6 @@
 - [CMU-CREATE-Lab/timemachine-viewer](https://github.com/CMU-CREATE-Lab/timemachine-viewer) - 
 - [null-dev/firefox-profile-switcher](https://github.com/null-dev/firefox-profile-switcher) - Create, manage and switch between browser profiles seamlessly.
 - [doersino/markdeep-thesis](https://github.com/doersino/markdeep-thesis) - Write your (under)graduate thesis with Markdeep and typeset it right in your browser.
-- [graham-walker/youtube-dl-react-viewer](https://github.com/graham-walker/youtube-dl-react-viewer) - Web app for downloading and viewing videos using youtube-dl, made with the MERN stack.
 - [Flowm/satvis](https://github.com/Flowm/satvis) - Satellite orbit visualization and pass prediction with Cesium.js
 - [susam/10kbclub](https://github.com/susam/10kbclub) - A curated collection of websites whose home pages do not exceed 10 KB compressed size
 - [thameera/harcleaner](https://github.com/thameera/harcleaner) - Clean up HAR files by removing noisy requests
@@ -3109,7 +3109,6 @@
 - [omar-polo/mlmpl](https://github.com/omar-polo/mlmpl) - simple mailing list (and newsletter) manager
 - [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) - a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)
 - [trizen/perl-scripts](https://github.com/trizen/perl-scripts) - A nice collection of day-to-day Perl scripts.
-- [crazycat69/media_build](https://github.com/crazycat69/media_build) - 
 - [trizen/pipe-viewer](https://github.com/trizen/pipe-viewer) - A lightweight YouTube client for Linux (fork of straw-viewer)
 - [skx/dhcp.io](https://github.com/skx/dhcp.io) - Dynamic DNS - Via Redis, Perl, and Amazon Route53.
 - [benbernard/RecordStream](https://github.com/benbernard/RecordStream) - commandline tools for slicing and dicing JSON records.
@@ -3229,7 +3228,6 @@
 - [intra2net/paperbackup](https://github.com/intra2net/paperbackup) - Create a pdf with barcodes to backup text files on paper. Designed to backup ASCII-armored GnuPG and SSH key files and ciphertext.
 - [za3k/qr-backup](https://github.com/za3k/qr-backup) - Paper backup of files using QR codes
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
-- [robhagemans/monobit](https://github.com/robhagemans/monobit) - Tools for working with monochrome bitmap fonts
 - [captn3m0/pystitcher](https://github.com/captn3m0/pystitcher) - pystitcher stitches your PDF files together, generating nice customizable bookmarks for you using a declarative markdown file as input
 - [arrase/Raspiducky](https://github.com/arrase/Raspiducky) - A Keystroke Injection Tool like Rubber Ducky build over Raspberry Pi Zero W
 - [SoongNoonien/mpdevil](https://github.com/SoongNoonien/mpdevil) - A simple music browser for MPD
@@ -4916,7 +4914,7 @@
 - [lgaggini/dotfiles](https://github.com/lgaggini/dotfiles) - Gnu/Linux toolbox configuration files
 - [LukeSmithxyz/emailwiz](https://github.com/LukeSmithxyz/emailwiz) - Script that installs/configures a Dovecot, Postfix, Spam Assassin, OpenDKIM Debian web server
 - [badaix/snapos](https://github.com/badaix/snapos) - Snapcast OS
-- [daplay/tmux_nvr](https://github.com/daplay/tmux_nvr) - One nvim instance per tmux window, requires nvr.
+- [daniel-baez/tmux_nvr](https://github.com/daniel-baez/tmux_nvr) - One nvim instance per tmux window, requires nvr.
 - [vparnas/static-site-toolkit](https://github.com/vparnas/static-site-toolkit) - A number of tools to ease the publishing of static web content
 - [vparnas/scripts](https://github.com/vparnas/scripts) - A number of helper utilities not yet worthy of a separate repository.
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
