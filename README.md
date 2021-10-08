@@ -163,6 +163,8 @@
 
 ## C 
 
+- [xdsopl/pcspkr](https://github.com/xdsopl/pcspkr) - listen to pcm sound over the internal pc speaker
+- [przemoc/pcspk](https://github.com/przemoc/pcspk) - Command line tools for playing simple sounds and melodies using the PC speaker.
 - [aligrudi/neatsmtp](https://github.com/aligrudi/neatsmtp) - A small SMTP client
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for ESP32.
 - [networkupstools/nut](https://github.com/networkupstools/nut) - The Network UPS Tools repository
@@ -3204,6 +3206,7 @@
 
 ## Python 
 
+- [deadc0de6/catcli](https://github.com/deadc0de6/catcli) - The command line catalog tool for your offline data
 - [opcode-eu-org-libs/asciicast2movie](https://github.com/opcode-eu-org-libs/asciicast2movie) - 
 - [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [FreeTAKTeam/FreeTakServer](https://github.com/FreeTAKTeam/FreeTakServer) - an open source, lightweight Server for connect TAK clients
@@ -4621,6 +4624,7 @@
 
 ## Rust 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests.
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 - [ItayGarin/ktrl](https://github.com/ItayGarin/ktrl) - A Supercharged Keyboard Programming Daemon ⌨️
