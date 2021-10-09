@@ -424,6 +424,7 @@
 - [linuxstb/pidvbip](https://github.com/linuxstb/pidvbip) - tvheadend client for the Raspberry Pi
 - [gkarsay/parlatype](https://github.com/gkarsay/parlatype) - GNOME audio player for transcription
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
+- [solokeys/solo](https://github.com/solokeys/solo) - Solo 1: open security key supporting FIDO2 & U2F over USB + NFC
 - [daveake/gps_udp](https://github.com/daveake/gps_udp) - Reads GPS on Pi serial port and broadcasts as UDP packets
 - [femtoduino/femto-beacon](https://github.com/femtoduino/femto-beacon) - FemtoBeacon - Atmel SAM R21 (ARM Cortex M0+, SAM D21 with built in AT86RF233)
 - [150balbes/Jetson-Nano](https://github.com/150balbes/Jetson-Nano) - Kernel Jetson Nano
@@ -778,7 +779,7 @@
 - [oe3cjb/TTGO-T-Beam-LoRa-APRS](https://github.com/oe3cjb/TTGO-T-Beam-LoRa-APRS) - Use TTGO T-Beam as LoRa APRS Tracker
 - [lora-aprs/LoRa_APRS_Tracker](https://github.com/lora-aprs/LoRa_APRS_Tracker) - 
 - [tomschwarz/neix](https://github.com/tomschwarz/neix) - neix - a RSS/Atom feed reader for your terminal.
-- [JvanKatwijk/drm-receiver](https://github.com/JvanKatwijk/drm-receiver) - 
+- [JvanKatwijk/drm-receiver](https://github.com/JvanKatwijk/drm-receiver) - The drm receiver is - as the name suggests - a sdr software package for use with SDRplay, hackrf and (some) dabsticks able to decode drm transmissions
 - [JvanKatwijk/SDRunoPlugin_weatherfax](https://github.com/JvanKatwijk/SDRunoPlugin_weatherfax) - SDRuno_weatherfax plugin for SDRuno
 - [JvanKatwijk/duoreceiver](https://github.com/JvanKatwijk/duoreceiver) - combined decoder for DAB and FM
 - [Clortox/rss-cli](https://github.com/Clortox/rss-cli) - A unix-inspired cli application for interacting with rss feeds
@@ -906,7 +907,6 @@
 - [ttnmapper/ttntrackernode](https://github.com/ttnmapper/ttntrackernode) - GPS Tracker device
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [Programmable-Air/Code](https://github.com/Programmable-Air/Code) - Arduino library for Programmable-Air
-- [solokeys/solo](https://github.com/solokeys/solo) - Solo 1: open security key supporting FIDO2 & U2F over USB + NFC
 - [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit) - Real-time audio streaming over the network.
 - [daveake/LoRaRepeater](https://github.com/daveake/LoRaRepeater) - LoRa HAB Repeater
 - [MayaPosch/BMaC](https://github.com/MayaPosch/BMaC) - Building Management and Control system
@@ -1668,7 +1668,7 @@
 - [gammu/gsm-docs](https://github.com/gammu/gsm-docs) - GSM related documentation
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [arendst/Tasmota-firmware](https://github.com/arendst/Tasmota-firmware) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-- [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - Did you know GitHub Wikis weren't indexed on search engines before October 2021? Search Engine Enablement for GitHub Wikis service that is now decommissioned.
+- [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - Did you know GitHub Wikis aren't indexed on search engines? Search Engine Enablement for GitHub Wikis service.
 - [chrisman/m4-blog](https://github.com/chrisman/m4-blog) - boilerplate for an m4 blog
 - [m8/refined.blog](https://github.com/m8/refined.blog) - curated list of personal blogs
 - [robhagemans/monobit](https://github.com/robhagemans/monobit) - Tools for working with monochrome bitmap fonts
@@ -4793,6 +4793,7 @@
 
 ## Shell 
 
+- [qq542vev/vim-style-newsboat](https://github.com/qq542vev/vim-style-newsboat) - Vim, Pentadactylのキーボード操作を、Newsboatで実現する試み。
 - [dmpop/otto](https://github.com/dmpop/otto) - Otto is a clever little 🐒 that imports and organizes photos on your Linux machine or NAS
 - [shinokada/tera](https://github.com/shinokada/tera) - Interactive music radio player. Play your favorite radio station, CRUD your favorite lists, and explore new radio stations from your terminal.
 - [eshrh/ames](https://github.com/eshrh/ames) - Anki Media Extractor Script: Update anki cards with desktop audio and image on gnu/linux
