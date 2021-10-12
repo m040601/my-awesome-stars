@@ -1692,7 +1692,6 @@
 - [evanwill/cb-sa-csv](https://github.com/evanwill/cb-sa-csv) - 
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [openclimatedata/kigali-amendment-entry-into-force](https://github.com/openclimatedata/kigali-amendment-entry-into-force) - Data Package of entry into force status of the Kigali Amendment to the Montreal Protocol
-- [uwcartlab/webmapping](https://github.com/uwcartlab/webmapping) - Workbook about making maps and visualizations for the web.
 - [anoved/Columnate](https://github.com/anoved/Columnate) - Bookmarklet for multicolumn reader mode.
 - [trovu/trovu.github.io](https://github.com/trovu/trovu.github.io) - Repo to have a general wiki for Trovu:
 - [tomahock/anti-nonio](https://github.com/tomahock/anti-nonio) - 
@@ -2070,6 +2069,7 @@
 - [NASAWorldWind/WebWorldWind](https://github.com/NASAWorldWind/WebWorldWind) - The NASA WorldWind Javascript SDK (WebWW) includes the library and examples for creating geo-browser web applications and for embedding a 3D globe in HTML5 web pages.
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [sw-yx/gh-action-data-scraping](https://github.com/sw-yx/gh-action-data-scraping) - this shows how to use github actions to do periodic data scraping
+- [uwcartlab/webmapping](https://github.com/uwcartlab/webmapping) - Workbook about making maps and visualizations for the web.
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript and ESM
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [vctfence/scrapbee](https://github.com/vctfence/scrapbee) - 
@@ -2830,7 +2830,7 @@
 - [samhh/bangin](https://github.com/samhh/bangin) - bangin is a primitive, portable shell script which enables DuckDuckGo-like bangs.
 - [profet23/atreus62](https://github.com/profet23/atreus62) - Design files for the atreus62 keyboard
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
-- [PolishFiltersTeam/KADhosts](https://github.com/PolishFiltersTeam/KADhosts) - Wersja hosts filtrów KAD
+- [FiltersHeroes/KADhosts](https://github.com/FiltersHeroes/KADhosts) - Wersja hosts filtrów KAD
 - [ScottHelme/revocation-endpoints](https://github.com/ScottHelme/revocation-endpoints) - A list of CRL and OCSP endpoints.
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [duyet/awesome-web-scraper](https://github.com/duyet/awesome-web-scraper) - A collection of awesome web scaper, crawler.
