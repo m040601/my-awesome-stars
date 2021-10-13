@@ -1418,7 +1418,6 @@
 - [skx/ephemeris](https://github.com/skx/ephemeris) - A static blog-compiler
 - [skx/overseer](https://github.com/skx/overseer) - A golang-based remote protocol tester for testing sites & service availability
 - [skx/tunneller](https://github.com/skx/tunneller) - Allow internal services, running on localhost, to be accessed over the internet..
-- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [schollz/chickencam](https://github.com/schollz/chickencam) - Build a Raspberry Pi ChickenCam in 10 easy steps
 - [ilius/stardict](https://github.com/ilius/stardict) - 
 - [ilius/crock32](https://github.com/ilius/crock32) - Douglas Crockford's Base32 encoding and decoding library in Go
@@ -2558,7 +2557,7 @@
 - [jeromegn/Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) - A localStorage adapter for Backbone.js
 - [guard/guard-livereload](https://github.com/guard/guard-livereload) - Guard::LiveReload automatically reload your browser when 'view' files are modified.
 - [shinypb/openkeyval](https://github.com/shinypb/openkeyval) - OpenKeyval.org is a completely open key-value data store, exposed as a drop-dead simple web service. The goal is to make this a very easy way to persist data in web applications.
-- [mozilla/chromeless](https://github.com/mozilla/chromeless) - Build desktop applications with web technologies.
+- [mozilla/chromeless](https://github.com/mozilla/chromeless) - DEPRECATED - Build desktop applications with web technologies.
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [Treesaver/treesaver](https://github.com/Treesaver/treesaver) - JavaScript library for creating column and page-based layouts
 - [lizconlan/deposits-demo](https://github.com/lizconlan/deposits-demo) - Sinatra front-end for CouchDB deposited papers store
@@ -2827,6 +2826,7 @@
 - [geerlingguy/pi-webcam](https://github.com/geerlingguy/pi-webcam) - Automation to configure a Raspberry Pi as a USB OTG webcam
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [MaloufSleep/ME-ESP8266](https://github.com/MaloufSleep/ME-ESP8266) - Malouf Electronics - ESP8266 Dev Board
+- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [samhh/bangin](https://github.com/samhh/bangin) - bangin is a primitive, portable shell script which enables DuckDuckGo-like bangs.
 - [profet23/atreus62](https://github.com/profet23/atreus62) - Design files for the atreus62 keyboard
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
@@ -5626,7 +5626,7 @@
 - [thinca/vim-quickrun](https://github.com/thinca/vim-quickrun) - Run commands quickly.
 - [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired) - unimpaired.vim: Pairs of handy bracket mappings
 - [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
-- [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: quoting/parenthesizing made simple
+- [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 
 ## VimL 
 
