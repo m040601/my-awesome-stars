@@ -249,6 +249,7 @@
 - [mcpcpc/xwm](https://github.com/mcpcpc/xwm) - A tiny XCB floating window manager.
 - [Manawyrm/pata-gpio](https://github.com/Manawyrm/pata-gpio) - Linux kernel driver for PATA bit-banging over GPIOs
 - [cyoung/stratux](https://github.com/cyoung/stratux) - Aviation weather and traffic receiver based on RTL-SDR.
+- [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter) - OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 - [morgangallant/cloudflaredd](https://github.com/morgangallant/cloudflaredd) - Dynamic DNS for Cloudflare using Google STUN Servers
 - [rauc/rauc](https://github.com/rauc/rauc) - Safe and secure software updates for embedded Linux
 - [skyjake/lagrange](https://github.com/skyjake/lagrange) - A Beautiful Gemini Client
@@ -3325,7 +3326,7 @@
 - [schollz/github-backup](https://github.com/schollz/github-backup) - Backup all the repos from Github using the official API
 - [lkiesow/python-feedgen](https://github.com/lkiesow/python-feedgen) - Python module to generate ATOM feeds, RSS feeds and Podcasts.
 - [MerlijnWajer/uinput-mapper](https://github.com/MerlijnWajer/uinput-mapper) - Maps input devices to (multiple) other (virtually, created) input devices. Supports cloning input devices and sharing them over the network. Very useful for applications and games that do not support certain input devices (like gamepads)
-- [adbar/courlan](https://github.com/adbar/courlan) - Clean, filter, normalize, and sample URLs to optimize crawls
+- [adbar/courlan](https://github.com/adbar/courlan) - Clean, filter and sample URLs to optimize data collection. Includes spam, content type and language filters.
 - [fhamborg/news-please](https://github.com/fhamborg/news-please) - news-please - an integrated web crawler and information extractor for news that just works
 - [pklaus/label_api](https://github.com/pklaus/label_api) - A web service offering an API to print labels on Brother's QL-series. You can write your own plugin to add a new label style.
 - [pklaus/brother_ql_web](https://github.com/pklaus/brother_ql_web) - A Python-based web service to print labels on Brother QL label printers. Based on brother_ql: https://github.com/pklaus/brother_ql
@@ -4376,7 +4377,6 @@
 
 ## Roff 
 
-- [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter) - OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 - [mkws-1/mkws](https://github.com/mkws-1/mkws) - A simple static site generator using `sh` as a templating language.
 - [rrthomas/pdfjam-extras](https://github.com/rrthomas/pdfjam-extras) - Some unsupported 'wrapper' scripts for pdfjam
 - [d630/etc-bash](https://github.com/d630/etc-bash) - 
