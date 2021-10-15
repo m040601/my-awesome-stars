@@ -323,6 +323,7 @@
 - [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas) - A portable fork of the OpenBSD `doas` command
 - [gromgit/ttyplot](https://github.com/gromgit/ttyplot) - a simple general purpose plotting utility for tty with data input from stdin
 - [salman-abedin/puri](https://github.com/salman-abedin/puri) - Minimal CLI URL launcher
+- [pikvm/packages](https://github.com/pikvm/packages) - Pi-KVM packages on https://pikvm.org/repos
 - [jacksonliam/mjpg-streamer](https://github.com/jacksonliam/mjpg-streamer) - Fork of http://sourceforge.net/projects/mjpg-streamer/
 - [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPG-HTTP streamer
 - [annacrombie/plot](https://github.com/annacrombie/plot) - plot on the command line
@@ -354,7 +355,7 @@
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
 - [hy987/T9-Predictive-Text](https://github.com/hy987/T9-Predictive-Text) - Texting predictive technology
 - [lefcha/imapfilter](https://github.com/lefcha/imapfilter) - IMAP mail filtering utility
-- [OpenHD/QOpenHD](https://github.com/OpenHD/QOpenHD) - QOpenHD app
+- [OpenHD/QOpenHD](https://github.com/OpenHD/QOpenHD) - QOpenHD App
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [eworm-de/mpd-notification](https://github.com/eworm-de/mpd-notification) - Notify about tracks played by mpd
 - [riyas-org/ir_translator](https://github.com/riyas-org/ir_translator) - Repurpose old IR remote with ATTINY13
@@ -4894,7 +4895,6 @@
 - [hackerb9/fonttable](https://github.com/hackerb9/fonttable) - Print out every unicode character; see all possible glyphs in your terminal
 - [wmutils/contrib](https://github.com/wmutils/contrib) - Useful bits and pieces
 - [lwilletts/fwm](https://github.com/lwilletts/fwm) - wmutils based shell scripts for window management
-- [pikvm/packages](https://github.com/pikvm/packages) - Pi-KVM packages on https://pikvm.org/repos
 - [greyltc/put-arch-onto-disk](https://github.com/greyltc/put-arch-onto-disk) - This puts the latest Arch Linux distro onto a target disk
 - [RyanGreenup/Note-Taking-Tools](https://github.com/RyanGreenup/Note-Taking-Tools) - Tools to Facilitate MD Note Taking, Intended to integrate with Notable.
 - [EnergizedProtection/Energized_Linux](https://github.com/EnergizedProtection/Energized_Linux) - Energized All-in-One Script for Linux Distros
