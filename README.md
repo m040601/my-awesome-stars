@@ -1827,7 +1827,7 @@
 - [mine-cetinkaya-rundel/sta101_sp15](https://github.com/mine-cetinkaya-rundel/sta101_sp15) - Course materials for Sta 101 - Spring 2015 semester at Duke University
 - [STAT545-UBC/STAT545-UBC-original-website](https://github.com/STAT545-UBC/STAT545-UBC-original-website) - ⚠️ Old repository for website of STAT 545 @ University of British Columbia
 - [sckott/cowsay](https://github.com/sckott/cowsay) - cowsay w/ more animals, in R
-- [ropensci/reproducibility-guide](https://github.com/ropensci/reproducibility-guide) - project page for creating a guide to reproducible research
+- [ropensci-archive/reproducibility-guide](https://github.com/ropensci-archive/reproducibility-guide) - project page for creating a guide to reproducible research
 - [madhur/PortableJekyll](https://github.com/madhur/PortableJekyll) - Portable Jekyll for Windows
 - [lgatto/TeachingMaterial](https://github.com/lgatto/TeachingMaterial) - Various teaching material
 - [kbroman/knitr_knutshell](https://github.com/kbroman/knitr_knutshell) - knitr in a nutshell: a brief guide to knitr
@@ -2071,7 +2071,7 @@
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [sw-yx/gh-action-data-scraping](https://github.com/sw-yx/gh-action-data-scraping) - this shows how to use github actions to do periodic data scraping
 - [uwcartlab/webmapping](https://github.com/uwcartlab/webmapping) - Workbook about making maps and visualizations for the web.
-- [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript and ESM
+- [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [vctfence/scrapbee](https://github.com/vctfence/scrapbee) - 
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
