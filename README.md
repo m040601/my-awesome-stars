@@ -4794,6 +4794,7 @@
 
 ## Shell 
 
+- [0xdanelia/cmenu](https://github.com/0xdanelia/cmenu) - Linux command line tool for selecting items from a list. Similar to dmenu, but remains on the command line and does not require a window manager.
 - [qq542vev/vim-style-newsboat](https://github.com/qq542vev/vim-style-newsboat) - Vim, Pentadactylのキーボード操作を、Newsboatで実現する試み。
 - [dmpop/otto](https://github.com/dmpop/otto) - Otto is a clever little 🐒 that imports and organizes photos on your Linux machine or NAS
 - [shinokada/tera](https://github.com/shinokada/tera) - Interactive music radio player. Play your favorite radio station, CRUD your favorite lists, and explore new radio stations from your terminal.
