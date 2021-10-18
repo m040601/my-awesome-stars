@@ -262,7 +262,6 @@
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [phenax/shotkey](https://github.com/phenax/shotkey) - A simple and lightweight hotkey daemon for X with configurable custom modes and key chords (in ~200 LOC)
 - [dudik/herbe](https://github.com/dudik/herbe) - Daemon-less notifications without D-Bus. Minimal and lightweight.
-- [Sweets/tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [phillbush/xnotify](https://github.com/phillbush/xnotify) - read notifications from stdin and pop them up on the screen
 - [mariusor/mpris-scrobbler](https://github.com/mariusor/mpris-scrobbler) - Minimalistic user daemon which submits the currently playing song to listenbrainz.org, libre.fm and last.fm services.
 - [mariusor/mpris-ctl](https://github.com/mariusor/mpris-ctl) - Basic mpris player control for linux command line
@@ -3273,7 +3272,7 @@
 - [RijulGulati/yt-audio](https://github.com/RijulGulati/yt-audio) - A simple, configurable youtube-dl wrapper to download and manage youtube audio
 - [JeffCarpenter/export-stars](https://github.com/JeffCarpenter/export-stars) - Export (your) GitHub stars to a CSV file
 - [The-Compiler/nasebohr](https://github.com/The-Compiler/nasebohr) - A command-line tool for DNS queries, with colors and beautiful output
-- [volzotan/CompressorCam](https://github.com/volzotan/CompressorCam) - A camera for digital solargraphy and multi-day long exposure photography.
+- [volzotan/CompressorCam](https://github.com/volzotan/CompressorCam) - A camera for digital solargraphy and multi-day long exposure photography
 - [volzotan/plotmap](https://github.com/volzotan/plotmap) - generate large-scale maps for pen plotters from OSM/shapefile/geotiff data
 - [daq-tools/kotori](https://github.com/daq-tools/kotori) - A flexible data historian based on InfluxDB, Grafana, MQTT and more. Free, open, simple.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
@@ -3890,7 +3889,7 @@
 - [tomduck/pandoc-eqnos](https://github.com/tomduck/pandoc-eqnos) - A pandoc filter for numbering equations and equation references.
 - [tomduck/pandoc-fignos](https://github.com/tomduck/pandoc-fignos) - A pandoc filter for numbering figures and figure references.
 - [1e0ng/simhash](https://github.com/1e0ng/simhash) - A Python Implementation of Simhash Algorithm
-- [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 语义依存分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+- [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 - [ncrocfer/clf](https://github.com/ncrocfer/clf) - Command line tool to search and view snippets in the terminal
 - [developmentseed/landsat-util](https://github.com/developmentseed/landsat-util) - A utility to search, download and process Landsat 8 satellite imagery
 - [cfedermann/Appraise](https://github.com/cfedermann/Appraise) - Appraise evaluation system for manual evaluation of machine translation output
@@ -5429,6 +5428,7 @@
 
 - [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
+- [Sweets/tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [pdfpc/pdfpc](https://github.com/pdfpc/pdfpc) - A presenter console with multi-monitor support for PDF files.
 - [radare/tiv](https://github.com/radare/tiv) - terminal image viewer
 - [birros/web-archives](https://github.com/birros/web-archives) - A web archives reader
