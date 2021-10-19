@@ -827,7 +827,7 @@
 - [slowmoVideo/slowmoVideo](https://github.com/slowmoVideo/slowmoVideo) - Official slowmoVideo repository
 - [breakfastquay/rubberband](https://github.com/breakfastquay/rubberband) - Official mirror of Rubber Band Library, an audio time-stretching and pitch-shifting library.
 - [antiprism/mpd_oled](https://github.com/antiprism/mpd_oled) - MPD, Volumio, RuneAudio and Moode OLED status and spectrum display for Raspberry Pi (and similar)
-- [PurritoBin/PurritoBin](https://github.com/PurritoBin/PurritoBin) - ultra fast, minimalistic, encrypted command line paste-bin
+- [PurritoBin/PurritoBin](https://github.com/PurritoBin/PurritoBin) - fast, minimalistic, encrypted command line paste-bin
 - [yoursunny/WifiEspNow](https://github.com/yoursunny/WifiEspNow) - ESP-NOW Arduino library for ESP8266 and ESP32
 - [e-tinkers/LiteESP8266Client](https://github.com/e-tinkers/LiteESP8266Client) - This is a fork of https://github.com/Syonyk/LiteESP8266Client with modification for working on stm32 blue pill
 - [e-tinkers/better-way-to-use-esp-01](https://github.com/e-tinkers/better-way-to-use-esp-01) - This repo is a proof-of-concept for a better way of using ESP-01 as a WiFi shield for IoT project.
@@ -4624,6 +4624,7 @@
 
 ## Rust 
 
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests.
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
@@ -4663,7 +4664,7 @@
 - [mbrubeck/agate](https://github.com/mbrubeck/agate) - Very simple server for the Gemini hypertext protocol
 - [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
 - [jiegec/tantivy-jieba](https://github.com/jiegec/tantivy-jieba) - An adapter that bridges between tantivy and jieba-rs.
-- [tantivy-search/tantivy](https://github.com/tantivy-search/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+- [quickwit-inc/tantivy](https://github.com/quickwit-inc/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs) - NOT FUNCTIONAL YET. Slowly porting magic-wormhole to Rust. See wiki for game plan.
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [cglindkamp/run-mailcap-rs](https://github.com/cglindkamp/run-mailcap-rs) - run-mailcap replacement written in Rust
@@ -4701,7 +4702,7 @@
 - [google/OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [koraa/huniq](https://github.com/koraa/huniq) - Filter out duplicates on the command line. Replacement for `sort | uniq` optimized for speed (10x faster) when sorting is not needed.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [tantivy-search/tantivy-cli](https://github.com/tantivy-search/tantivy-cli) - 
+- [quickwit-inc/tantivy-cli](https://github.com/quickwit-inc/tantivy-cli) - 
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [google/pix-image-viewer](https://github.com/google/pix-image-viewer) - Desktop image viewer. View thousands of images in a zoomable, pannable grid.
 - [yazgoo/youtube-subscriptions](https://github.com/yazgoo/youtube-subscriptions) - terminal client to browse youtube subscriptions
