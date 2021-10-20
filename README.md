@@ -1363,6 +1363,7 @@
 
 ## Go 
 
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [forlater-email/mdawh](https://github.com/forlater-email/mdawh) - an MDA that sends a webhook on recieval of mail
 - [forlater-email/navani](https://github.com/forlater-email/navani) - forlater's primary mail processing service
 - [cirocosta/asciinema-edit](https://github.com/cirocosta/asciinema-edit) - asciinema casts post-production tools
@@ -3207,6 +3208,7 @@
 
 ## Python 
 
+- [YoRyan/mailrise](https://github.com/YoRyan/mailrise) - An SMTP gateway for Apprise notifications.
 - [deadc0de6/catcli](https://github.com/deadc0de6/catcli) - The command line catalog tool for your offline data
 - [opcode-eu-org-libs/asciicast2movie](https://github.com/opcode-eu-org-libs/asciicast2movie) - 
 - [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
