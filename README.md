@@ -539,7 +539,6 @@
 - [flirc/sdk](https://github.com/flirc/sdk) - Flirc SDK and Example Applications
 - [Francklin2/RTKLIB_Touchscreen_GUI](https://github.com/Francklin2/RTKLIB_Touchscreen_GUI) - RTKLIB GUI for Raspberry Pi with  touchscreen made with Qt by the ENSG students
 - [rtklibexplorer/RTKLIB](https://github.com/rtklibexplorer/RTKLIB) - A version of RTKLIB optimized for single and dual frequency low cost GPS receivers, especially u-blox receivers.  It is based on RTKLIB 2.4.3 and is kept reasonably closely synced to that branch.  Documentation for RTKLIB is available at rtklib.com.   This software is provided “AS IS” without any warranties of any kind so please be careful, especially if using it in any kind of real-time application.  Binaries and tutorials for this code, and sample GPS data sets at :
-- [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB booting code, moved from tools repository
 - [ralph-irving/squeezelite](https://github.com/ralph-irving/squeezelite) - Lightweight headless squeezebox player for Logitech Media Server
 - [info-beamer/tools](https://github.com/info-beamer/tools) - Useful tools when working with info-beamer on the Pi
 - [catalinii/minisatip](https://github.com/catalinii/minisatip) - minisatip is an SATIP server for linux using local DVB-S2, DVB-C, DVB-T or ATSC cards
@@ -2223,7 +2222,6 @@
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
 - [intika/Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
 - [sigdeletras/Leaflet.Spain.WMS](https://github.com/sigdeletras/Leaflet.Spain.WMS) - Provides easy setup for several Web Map Services (WMS) layers for Spain (PNOA, IGN base, Catastro, etc), from Spanish mapping agencies.
-- [mapillary/OpenSfM](https://github.com/mapillary/OpenSfM) - Open source Structure-from-Motion pipeline
 - [tuxor1337/firedict](https://github.com/tuxor1337/firedict) - Read-only mirror of https://framagit.org/tuxor1337/firedict. Pull requests and issues on GitHub cannot be accepted and will be automatically closed.
 - [andrewharvey/osm-editor-layer-index-qgis](https://github.com/andrewharvey/osm-editor-layer-index-qgis) - Convert OSM Editor Layer Index to QGIS XYZ Tiles Connections
 - [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa) - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appliance".
@@ -3622,6 +3620,7 @@
 - [nurdtechie98/drive-cli](https://github.com/nurdtechie98/drive-cli) - A command line interface for accessing google drive
 - [AnaviTechnology/anavi-play-phat](https://github.com/AnaviTechnology/anavi-play-phat) - Simple open source hardware keyboard for playing games on Raspberry Pi
 - [mitshel/sopds](https://github.com/mitshel/sopds) - Simple opds catalog
+- [mapillary/OpenSfM](https://github.com/mapillary/OpenSfM) - Open source Structure-from-Motion pipeline
 - [inkcut/inkcut](https://github.com/inkcut/inkcut) - An application for controlling 2D plotters, cutters, engravers, and CNC machines.
 - [tuxor1337/springerdownload](https://github.com/tuxor1337/springerdownload) - Read-only mirror of https://framagit.org/tuxor1337/springerdownload. Pull requests and issues on GitHub cannot be accepted and will be automatically closed.
 - [tuxor1337/dictmaster](https://github.com/tuxor1337/dictmaster) - Read-only mirror of https://framagit.org/tuxor1337/dictmaster Pull requests and issues on GitHub cannot be accepted and will be automatically closed.
@@ -3711,6 +3710,7 @@
 - [reid-k/neb](https://github.com/reid-k/neb) - Wrapper for newsbeuter
 - [OpenGeoscience/geonotebook](https://github.com/OpenGeoscience/geonotebook) - A Jupyter notebook extension for geospatial visualization and analysis
 - [swkrueger/Thrifty](https://github.com/swkrueger/Thrifty) - Thrifty is proof-of-concept SDR software for TDOA positioning using inexpensive SDR hardware such as the RTL-SDR.
+- [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB booting code, moved from tools repository
 - [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
 - [alexa-pi/AlexaPi](https://github.com/alexa-pi/AlexaPi) - Alexa client for all your devices! # No active development. PRs welcome # consider https://github.com/respeaker/avs instead
