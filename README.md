@@ -1703,7 +1703,6 @@
 - [d33tah/inkstone](https://github.com/d33tah/inkstone) - Learn Chinese on the go - no Internet connection required!
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
 - [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
-- [lgaggini/ansible-arch](https://github.com/lgaggini/ansible-arch) - ansible-arch is an Ansible playbook to provision and recreate from scratch my archlinux workstation environment.
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [ubershmekel/cssbed](https://github.com/ubershmekel/cssbed) - Test bed for simple css resets that make your static page nice without classes.
 - [de-souza/hugo-flex](https://github.com/de-souza/hugo-flex) - A lightweight Hugo theme leveraging CSS Flexbox
@@ -2584,6 +2583,7 @@
 - [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 - [benibr/ansible-role-nspawn-container](https://github.com/benibr/ansible-role-nspawn-container) - An ansible role to manage systemd nspawn containers and to reach them via avahi/zeroconf
 - [pigmonkey/spark](https://github.com/pigmonkey/spark) - Arch Linux Provisioning with Ansible
+- [lgaggini/ansible-arch](https://github.com/lgaggini/ansible-arch) - ansible-arch is an Ansible playbook to provision and recreate from scratch my archlinux workstation environment.
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 
 ## Jupyter Notebook 
@@ -4626,6 +4626,7 @@
 
 ## Rust 
 
+- [juan-leon/lowcharts](https://github.com/juan-leon/lowcharts) - Tool to draw low-resolution graphs in terminal
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests.
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
@@ -4796,6 +4797,7 @@
 
 ## Shell 
 
+- [michaellihs/latex-pipeline](https://github.com/michaellihs/latex-pipeline) - 
 - [0xdanelia/cmenu](https://github.com/0xdanelia/cmenu) - Linux command line tool for selecting items from a list. Similar to dmenu, but remains on the command line and does not require a window manager.
 - [qq542vev/vim-style-newsboat](https://github.com/qq542vev/vim-style-newsboat) - Vim, Pentadactylのキーボード操作を、Newsboatで実現する試み。
 - [dmpop/otto](https://github.com/dmpop/otto) - Otto is a clever little 🐒 that imports and organizes photos on your Linux machine or NAS
