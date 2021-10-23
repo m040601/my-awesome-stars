@@ -322,7 +322,7 @@
 - [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas) - A portable fork of the OpenBSD `doas` command
 - [gromgit/ttyplot](https://github.com/gromgit/ttyplot) - a simple general purpose plotting utility for tty with data input from stdin
 - [salman-abedin/puri](https://github.com/salman-abedin/puri) - Minimal CLI URL launcher
-- [pikvm/packages](https://github.com/pikvm/packages) - Pi-KVM packages on https://pikvm.org/repos
+- [pikvm/packages](https://github.com/pikvm/packages) - Pi-KVM packages
 - [jacksonliam/mjpg-streamer](https://github.com/jacksonliam/mjpg-streamer) - Fork of http://sourceforge.net/projects/mjpg-streamer/
 - [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPG-HTTP streamer
 - [annacrombie/plot](https://github.com/annacrombie/plot) - plot on the command line
@@ -1709,6 +1709,7 @@
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [nickw1/hikar.org](https://github.com/nickw1/hikar.org) - The Hikar information website (only). Please see the README for the new repo for the AR.js-based Hikar webapp.
 - [spaghettiwews/hugonews](https://github.com/spaghettiwews/hugonews) - hugo theme (based on https://news.ycombinator.com) for https://bookmarks.wews.co.zw
+- [datamade/how-to](https://github.com/datamade/how-to) - 📚 Doing all sorts of things, the DataMade way
 - [blakadder/templates](https://github.com/blakadder/templates) - Tasmota Device Templates Repository. Your one stop shop to get templates for devices running Tasmota!
 - [gkovacs/smart-subtitles-system-chi2014](https://github.com/gkovacs/smart-subtitles-system-chi2014) - Tool to assist in understanding foreign-language videos
 - [ggerganov/dot-to-ascii](https://github.com/ggerganov/dot-to-ascii) - Graphviz to ASCII converter using Graph::Easy
@@ -2019,6 +2020,7 @@
 
 ## JavaScript 
 
+- [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [ShinobiCCTV/Shinobi](https://github.com/ShinobiCCTV/Shinobi) - :zap: Shinobi Pro - The Next Generation in Open-Source Video Management Software with support for over 6000 IP and USB Cameras
 - [edvardxyz/Tabs-in-title](https://github.com/edvardxyz/Tabs-in-title) - Firefox tabs in title, intended for firefox in kiosk/full-screen mode with dwm. With this extension you can see your tabs in the dwm bar.
@@ -3417,7 +3419,6 @@
 - [pvsr/qbpm](https://github.com/pvsr/qbpm) - qutebrowser profile manager
 - [Zverik/Nik4](https://github.com/Zverik/Nik4) - Mapnik to image export
 - [Wazzaps/jqed](https://github.com/Wazzaps/jqed) - json interactive stream editor (jq + up) - for Linux and MacOS
-- [datamade/how-to](https://github.com/datamade/how-to) - 📚 Doing all sorts of things, the DataMade way
 - [Bubblbu/zotnote](https://github.com/Bubblbu/zotnote) - Automatize and manage your reading notes with Zotero & Better Bibtex Plugin (BBT)
 - [josch/img2pdf](https://github.com/josch/img2pdf) - mirror of https://gitlab.mister-muffin.de/josch/img2pdf for Travis and appveyor CI
 - [aparcar/asu](https://github.com/aparcar/asu) - A image on demand server for OpenWrt based distributions
