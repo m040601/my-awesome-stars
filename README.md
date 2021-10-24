@@ -883,7 +883,7 @@
 - [opensolarproject/OSPController](https://github.com/opensolarproject/OSPController) - ESP32 Smart Solar Charger - the Open Solar Project
 - [gioblu/PJON](https://github.com/gioblu/PJON) - PJON® (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.
 - [jnogues/ESP32-Long-Range-WiFi](https://github.com/jnogues/ESP32-Long-Range-WiFi) - 
-- [easymodo/qimgv](https://github.com/easymodo/qimgv) - Qt5 image viewer with optional video support
+- [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
 - [Blub/netevent](https://github.com/Blub/netevent) - Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
 - [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [schwehr/libais](https://github.com/schwehr/libais) - C++ decoder for Automatic Identification System for tracking ships and decoding maritime information
@@ -2950,7 +2950,6 @@
 - [ch2i/iC880A-Raspberry-PI](https://github.com/ch2i/iC880A-Raspberry-PI) - Raspberry PI iC880A and LinkLab Lora Gateway Shield
 - [riceissa/causeprioritization](https://github.com/riceissa/causeprioritization) - Cause Prioritization Wiki
 - [OpenGarage/OpenGarage-Hardware](https://github.com/OpenGarage/OpenGarage-Hardware) - 
-- [gyuho/learn](https://github.com/gyuho/learn) - learn
 - [SuperHouse/D1MTERMINAL](https://github.com/SuperHouse/D1MTERMINAL) - Terminal Shield for the WeMos D1 Mini with ESP8266
 - [offensive-security/kali-arm-build-scripts](https://github.com/offensive-security/kali-arm-build-scripts) - Kali Linux ARM build scripts
 - [mcauser/Raspberry-Pi-ITead-Studio-GPS-NEO-6M](https://github.com/mcauser/Raspberry-Pi-ITead-Studio-GPS-NEO-6M) - Experiments with my ITead Studio RPI GPS Add On
@@ -3208,6 +3207,7 @@
 
 ## Python 
 
+- [quakkels/rssdiscoveryengine](https://github.com/quakkels/rssdiscoveryengine) - The RSS Discovery Engine exists to encourage people to use RSS for finding and consuming their news and current events.
 - [YoRyan/mailrise](https://github.com/YoRyan/mailrise) - An SMTP gateway for Apprise notifications.
 - [deadc0de6/catcli](https://github.com/deadc0de6/catcli) - The command line catalog tool for your offline data
 - [opcode-eu-org-libs/asciicast2movie](https://github.com/opcode-eu-org-libs/asciicast2movie) - 
@@ -4663,7 +4663,7 @@
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [mqudsi/syngesture](https://github.com/mqudsi/syngesture) - Swipes and gestures for Linux with the MT multitouch protocol
 - [kaegi/alass](https://github.com/kaegi/alass) - "Automatic Language-Agnostic Subtitle Synchronization"
-- [casey/intermodal](https://github.com/casey/intermodal) - 📦 Intermodal: A 40' foot shipping container for the internet
+- [casey/intermodal](https://github.com/casey/intermodal) - A command-line utility for BitTorrent torrent file creation, verification, and more
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [mbrubeck/agate](https://github.com/mbrubeck/agate) - Very simple server for the Gemini hypertext protocol
 - [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
@@ -5110,6 +5110,7 @@
 - [Docbroke/w3m-dmenu](https://github.com/Docbroke/w3m-dmenu) - simple boomarks manager using rofi or dmenu
 - [uriel1998/yolo-mpd](https://github.com/uriel1998/yolo-mpd) - Various music-related tweaks/tips/scripts. Includes fuzzy selection of artist/genre/album script and albumart in the console script
 - [wuyongzheng/wgetflv](https://github.com/wuyongzheng/wgetflv) - Scripts to Download Flash Videos
+- [gyuho/learn](https://github.com/gyuho/learn) - learn
 - [donm/stows](https://github.com/donm/stows) - `stows` stows stows with `stow`
 - [spwhitton/git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt) - PGP-encrypted git remotes
 - [alex-wellbelove/cli-media-viewer](https://github.com/alex-wellbelove/cli-media-viewer) - View media from elinks
