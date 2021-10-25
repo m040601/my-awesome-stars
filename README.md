@@ -163,6 +163,7 @@
 
 ## C 
 
+- [gnotclub/xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
 - [xdsopl/pcspkr](https://github.com/xdsopl/pcspkr) - listen to pcm sound over the internal pc speaker
 - [przemoc/pcspk](https://github.com/przemoc/pcspk) - Command line tools for playing simple sounds and melodies using the PC speaker.
 - [aligrudi/neatsmtp](https://github.com/aligrudi/neatsmtp) - A small SMTP client
@@ -1580,7 +1581,7 @@
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
-- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - a pure-Go userland for your Raspberry Pi 3 or 4 appliances
+- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - a native Go userland for your Raspberry Pi 3 or 4 appliances (or amd64 PCs!)
 - [sgreben/jp](https://github.com/sgreben/jp) - dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.
 - [desmondhume/newspaper](https://github.com/desmondhume/newspaper) - Read webpages in readability mode, inside your terminal.
 - [netlify/git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs
@@ -4645,7 +4646,7 @@
 - [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [fosskers/rs-kanji](https://github.com/fosskers/rs-kanji) - A library for the handling and analysis of Japanese text. 日本漢字分析
-- [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI email client
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [null-dev/firefox-profile-switcher-connector](https://github.com/null-dev/firefox-profile-switcher-connector) - Native connector software for the 'Profile Switcher for Firefox' extension.
@@ -4859,7 +4860,7 @@
 - [archdroid-org/alarm-image-generator](https://github.com/archdroid-org/alarm-image-generator) - ArchLinuxARM Disk Image Generator
 - [LibreSolar/learn.libre.solar](https://github.com/LibreSolar/learn.libre.solar) - Building DC Energy Systems (OER)
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
-- [hexdump0815/imagebuilder](https://github.com/hexdump0815/imagebuilder) - simple script framework to build ubuntu 20.04 lts (focal) and (soon) debian 11 (bullseye) bootable sd card images for some arm and intel devices
+- [hexdump0815/imagebuilder](https://github.com/hexdump0815/imagebuilder) - simple script framework to build ubuntu 20.04 lts (focal) and debian 11 (bullseye) bootable sd card images for some arm and intel devices
 - [krjdev/rock64_openbsd](https://github.com/krjdev/rock64_openbsd) - TUTORIAL: Install OpenBSD on a PINE64 ROCK64 media board.
 - [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
 - [netlify/actions](https://github.com/netlify/actions) - 
