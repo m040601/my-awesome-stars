@@ -769,6 +769,7 @@
 
 ## C++ 
 
+- [atc1441/NETSGPClient](https://github.com/atc1441/NETSGPClient) - Arduino Interface for cheap 2.4ghz RF enabled Solar Micro Inverters
 - [Edzelf/ESP32Radio-V2](https://github.com/Edzelf/ESP32Radio-V2) - New version of the well known ESP32 Radio.  Now optional I2S output!
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [An7ar35/blogator](https://github.com/An7ar35/blogator) - Mirror for the static site generator 'Blogator'
@@ -1376,7 +1377,7 @@
 - [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) - easymotion-style text copying for tmux.
 - [pgorman/gneto](https://github.com/pgorman/gneto) - Gneto is a personal HTTP proxy for the Gemini protocol
 - [Phantas0s/gocket](https://github.com/Phantas0s/gocket) - 💼 CLI / TUI for Pocket
-- [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon
+- [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon with vim inspired keys
 - [bacardi55/gtl](https://github.com/bacardi55/gtl) - gtl - Gemini Tiny Logs - A simple TUI for the tinylog format on gemini
 - [codesoap/mpq](https://github.com/codesoap/mpq) - music player queue - a minimalist viewer and manipulator for the mpd queue
 - [codesoap/songmem](https://github.com/codesoap/songmem) - Remember the songs you heard and analyse your listening patterns
