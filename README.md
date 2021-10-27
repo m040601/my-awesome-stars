@@ -163,6 +163,8 @@
 
 ## C 
 
+- [baldram/ESP_VS1053_Library](https://github.com/baldram/ESP_VS1053_Library) - A library for VS1053 MP3 Codec Breakout adapted for Espressif ESP8266 and ESP32 boards.
+- [nopnop2002/esp-idf-vs1053](https://github.com/nopnop2002/esp-idf-vs1053) - VS1053 Driver for esp-idf
 - [gnotclub/xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
 - [xdsopl/pcspkr](https://github.com/xdsopl/pcspkr) - listen to pcm sound over the internal pc speaker
 - [przemoc/pcspk](https://github.com/przemoc/pcspk) - Command line tools for playing simple sounds and melodies using the PC speaker.
@@ -1194,7 +1196,6 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [prose/starter](https://github.com/prose/starter) - A starter site for Jekyll + Prose
 - [kleinfreund/kleinfreund.de](https://github.com/kleinfreund/kleinfreund.de) - Source of my personal site
-- [minicomp/ed](https://github.com/minicomp/ed) - A Jekyll theme for minimal editions :book:
 - [joseflaviojr/nheengatu](https://github.com/joseflaviojr/nheengatu) - Produza e publique trabalhos com a linguagem popular Markdown. Escreva uma vez e crie livros digitais (e-book), artigos, trabalhos acadêmicos, relatórios, páginas web (site) --- PDF, EPUB, LaTeX, HTML, etc. --- Nheengatu é uma extensão da Pandoc.
 - [mak-alex/mopds](https://github.com/mak-alex/mopds) - Free program for Linux operating systems, designed to quickly create an electronic OPDS-catalog books. OPDS (Open Publication Distribution System) catalog allows you to access Your library via the Internet from most devices for reading electronic books, tablets, smartphones, etc.
 - [andrewheiss/ath-tufte-hugo](https://github.com/andrewheiss/ath-tufte-hugo) - Tufte CSS + Hugo
@@ -4642,7 +4643,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output
 - [MarioJim/fuzzy-pdf](https://github.com/MarioJim/fuzzy-pdf) - Fuzzy finder for a collection of pdf files
 - [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -4738,7 +4739,7 @@
 - [lise-henry/crowbook](https://github.com/lise-henry/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
 - [cobalt-org/cobalt-migrate-jekyll](https://github.com/cobalt-org/cobalt-migrate-jekyll) - Standalone utility to convert a jekyll site to cobalt
 - [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
-- [FuGangqiang/mdblog.rs](https://github.com/FuGangqiang/mdblog.rs) - static site generator from markdown files.
+- [FuGangqiang/mdblog.rs](https://github.com/FuGangqiang/mdblog.rs) - static site generator from markdown files(markdown 格式静态博客生成器)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [ivanceras/spongedown](https://github.com/ivanceras/spongedown) - Markdown with svg bob support
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
@@ -4771,6 +4772,7 @@
 - [chriskrycho/lightning-rs](https://github.com/chriskrycho/lightning-rs) - Yet another static site generator—but this one's written in Rust
 - [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
 - [vim-advent-calendar/vimways.org](https://github.com/vim-advent-calendar/vimways.org) - vimways.org
+- [minicomp/ed](https://github.com/minicomp/ed) - A Jekyll theme for minimal editions :book:
 - [jez/tufte-pandoc-jekyll](https://github.com/jez/tufte-pandoc-jekyll) - A Jekyll theme for using Tufte CSS with Jekyll + Pandoc
 - [npotts/httpmpc](https://github.com/npotts/httpmpc) - Simple HTTP Wrapper over MPD client connection
 - [yihui/blogdown-jekyll](https://github.com/yihui/blogdown-jekyll) - Automatically knit R Markdown documents, build them with Jekyll, and serve the website with servr locally
