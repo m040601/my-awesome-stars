@@ -1761,7 +1761,7 @@
 - [kaihendry/natalian](https://github.com/kaihendry/natalian) - Kai Hendry's blog
 - [ropensci-archive/roweb2](https://github.com/ropensci-archive/roweb2) - :no_entry: [DEPRECATED] Active at
 - [allo-/firefox-profilemaker](https://github.com/allo-/firefox-profilemaker) - Tool to create firefox profiles with good defaults.
-- [CollectionBuilder/collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh) - a Jekyll project to create a basic digital collection exhibit
+- [CollectionBuilder/collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh) - a Jekyll project to create a basic digital collection exhibit. See Readme below for instructions to get started!
 - [christian-fei/christian-fei.github.io-pandoc](https://github.com/christian-fei/christian-fei.github.io-pandoc) - 
 - [simon04/POImap](https://github.com/simon04/POImap) - Lightweight POI (point of interest) maps based on OpenStreetMap, Leaflet and Overpass API
 - [dumaurier/pwa_jekyll](https://github.com/dumaurier/pwa_jekyll) - Jekyll + PWA + IndieWeb. A starter for publishing your own content. Support for WebMentions, Service Workers and Netlify CMS is built in.
@@ -2798,6 +2798,7 @@
 
 ## Others 
 
+- [poolpOrg/OpenSMTPD-book](https://github.com/poolpOrg/OpenSMTPD-book) - 
 - [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.
 - [qmacro-org/url-notes](https://github.com/qmacro-org/url-notes) - 
 - [victorlucachi/void9](https://github.com/victorlucachi/void9) - A 3x3 handwired macropad, running QMK firmware
@@ -3424,7 +3425,7 @@
 - [Wazzaps/jqed](https://github.com/Wazzaps/jqed) - json interactive stream editor (jq + up) - for Linux and MacOS
 - [Bubblbu/zotnote](https://github.com/Bubblbu/zotnote) - Automatize and manage your reading notes with Zotero & Better Bibtex Plugin (BBT)
 - [josch/img2pdf](https://github.com/josch/img2pdf) - mirror of https://gitlab.mister-muffin.de/josch/img2pdf for Travis and appveyor CI
-- [aparcar/asu](https://github.com/aparcar/asu) - A image on demand server for OpenWrt based distributions
+- [aparcar/asu](https://github.com/aparcar/asu) - An image on demand server for OpenWrt based distributions
 - [The-Compiler/journalwatch](https://github.com/The-Compiler/journalwatch) - Simple log parsing utility for the systemd journal
 - [giggls/osmpoidb](https://github.com/giggls/osmpoidb) - 
 - [kizniche/Mycodo](https://github.com/kizniche/Mycodo) - An environmental monitoring and regulation system
@@ -4354,7 +4355,6 @@
 - [eddelbuettel/littler](https://github.com/eddelbuettel/littler) - A scripting and command-line front-end for GNU R
 - [EconometricsBySimulation/RConcerto](https://github.com/EconometricsBySimulation/RConcerto) - A package to supplement and simplify the base Concerto commands.
 - [jennybc/r-graph-catalog](https://github.com/jennybc/r-graph-catalog) - All graphs in “Creating More Effective Graphs”, made with R package ggplot2.
-- [QBRC/RODProt](https://github.com/QBRC/RODProt) - An R Client for Interacting with data encoded in one of the 'Open Data Protocols' standards.
 - [tidyverse/rvest](https://github.com/tidyverse/rvest) - Simple web scraping for R
 - [pmagwene/Bio313](https://github.com/pmagwene/Bio313) - OLD Course repository for Bio 313 -- See Bio 723
 - [KentonWhite/ProjectTemplate](https://github.com/KentonWhite/ProjectTemplate) - A template utility for R projects that provides a skeletal project.
@@ -4630,6 +4630,8 @@
 
 ## Rust 
 
+- [messense/jieba-rs](https://github.com/messense/jieba-rs) - The Jieba Chinese Word Segmentation Implemented in Rust
+- [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results
 - [juan-leon/lowcharts](https://github.com/juan-leon/lowcharts) - Tool to draw low-resolution graphs in terminal
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests.
