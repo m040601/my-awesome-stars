@@ -2859,7 +2859,7 @@
 - [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
 - [infrawiki/infrawiki](https://github.com/infrawiki/infrawiki) - an infrastructure wiki. POC
 - [eddelbuettel/minm](https://github.com/eddelbuettel/minm) - Minm Is Not Meta: One way to get several RMarkdown-using packages
-- [open-boat-projects-org/website](https://github.com/open-boat-projects-org/website) - 
+- [open-boat-projects-org/website](https://github.com/open-boat-projects-org/website) - https://open-boat-projects.org
 - [open-boat-projects-org/wiki](https://github.com/open-boat-projects-org/wiki) - 
 - [tmcw/awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 - [OpenSourceEBike/TSDZ2_wiki](https://github.com/OpenSourceEBike/TSDZ2_wiki) - 
