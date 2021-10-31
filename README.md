@@ -771,6 +771,7 @@
 
 ## C++ 
 
+- [peterkvt80/vbit2](https://github.com/peterkvt80/vbit2) - Teletext streaming. Generates a T42 teletext stream from teletext pages. This can be used with inserter hardware or a Raspberry Pi to generate a video signal that teletext TVs can decode and display. It can also be used with vbit-iv to generate in-vision teletext on a Linux PC or Raspberry Pi.
 - [atc1441/NETSGPClient](https://github.com/atc1441/NETSGPClient) - Arduino Interface for cheap 2.4ghz RF enabled Solar Micro Inverters
 - [Edzelf/ESP32Radio-V2](https://github.com/Edzelf/ESP32Radio-V2) - New version of the well known ESP32 Radio.  Now optional I2S output!
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -2843,7 +2844,6 @@
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [lukicdarkoo/rpi-wifi](https://github.com/lukicdarkoo/rpi-wifi) - Configures simultaneous AP and Managed Mode Wifi on Raspberry Pi
 - [dmadison/LED-Segment-ASCII](https://github.com/dmadison/LED-Segment-ASCII) - Library of ASCII character representations using 7 segment, 14 segment, and 16 segment LED displays
-- [cloudrac3r/bibliogram](https://github.com/cloudrac3r/bibliogram) - 
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and cheap DIY IP-KVM based on Raspberry Pi
 - [aliyevaa/cname_cloaking](https://github.com/aliyevaa/cname_cloaking) - the repo contains a list of subdomains that point to known trackers/advertisers
 - [nextdns/cname-cloaking-blocklist](https://github.com/nextdns/cname-cloaking-blocklist) - A list of domains used by tracking companies as CNAME destination when disguising third-party trackers as first-party trackers.
@@ -4048,7 +4048,7 @@
 - [jwcxz/vim-pandemic](https://github.com/jwcxz/vim-pandemic) - Manage remote pathogen bundles from multiple source types
 - [adblockplus/abpcrawler](https://github.com/adblockplus/abpcrawler) - Website crawler for Adblock Plus
 - [fireteam/curlish](https://github.com/fireteam/curlish) - A wrapper around curl to support OAuth 2.0
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [mihaip/readerisdead](https://github.com/mihaip/readerisdead) - A collection of tools to help with the Google Reader shutdown.
 - [nojhan/colout](https://github.com/nojhan/colout) - Color text streams with a polished command line interface
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
@@ -5376,6 +5376,7 @@
 
 ## TypeScript 
 
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [ethomson/send-tweet-action](https://github.com/ethomson/send-tweet-action) - Send a tweet from a GitHub Action
 - [krisek/audioloader](https://github.com/krisek/audioloader) - A responsive Music Player Daemon web client with special focus on listening full albums.
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
