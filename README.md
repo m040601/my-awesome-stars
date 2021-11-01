@@ -163,6 +163,7 @@
 
 ## C 
 
+- [VolosR/TTGOInternetStation](https://github.com/VolosR/TTGOInternetStation) - 
 - [baldram/ESP_VS1053_Library](https://github.com/baldram/ESP_VS1053_Library) - A library for VS1053 MP3 Codec Breakout adapted for Espressif ESP8266 and ESP32 boards.
 - [nopnop2002/esp-idf-vs1053](https://github.com/nopnop2002/esp-idf-vs1053) - VS1053 Driver for esp-idf
 - [gnotclub/xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
@@ -3211,6 +3212,7 @@
 
 ## Python 
 
+- [rrwen/google_streetview](https://github.com/rrwen/google_streetview) - A command line tool and module for Google Street View Image API
 - [quakkels/rssdiscoveryengine](https://github.com/quakkels/rssdiscoveryengine) - The RSS Discovery Engine exists to encourage people to use RSS for finding and consuming their news and current events.
 - [YoRyan/mailrise](https://github.com/YoRyan/mailrise) - An SMTP gateway for Apprise notifications.
 - [deadc0de6/catcli](https://github.com/deadc0de6/catcli) - The command line catalog tool for your offline data
@@ -4650,7 +4652,7 @@
 - [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [fosskers/rs-kanji](https://github.com/fosskers/rs-kanji) - A library for the handling and analysis of Japanese text. 日本漢字分析
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI email client
+- [soywod/himalaya](https://github.com/soywod/himalaya) - Himalaya is a suite of independent Personal Information Management command-line tools.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [null-dev/firefox-profile-switcher-connector](https://github.com/null-dev/firefox-profile-switcher-connector) - Native connector software for the 'Profile Switcher for Firefox' extension.
