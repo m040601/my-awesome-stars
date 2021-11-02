@@ -163,6 +163,7 @@
 
 ## C 
 
+- [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 - [VolosR/TTGOInternetStation](https://github.com/VolosR/TTGOInternetStation) - 
 - [baldram/ESP_VS1053_Library](https://github.com/baldram/ESP_VS1053_Library) - A library for VS1053 MP3 Codec Breakout adapted for Espressif ESP8266 and ESP32 boards.
 - [nopnop2002/esp-idf-vs1053](https://github.com/nopnop2002/esp-idf-vs1053) - VS1053 Driver for esp-idf
@@ -2800,6 +2801,7 @@
 
 ## Others 
 
+- [voltlog/Valve-Actuator](https://github.com/voltlog/Valve-Actuator) - 
 - [poolpOrg/OpenSMTPD-book](https://github.com/poolpOrg/OpenSMTPD-book) - 
 - [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.
 - [qmacro-org/url-notes](https://github.com/qmacro-org/url-notes) - 
@@ -2809,6 +2811,7 @@
 - [Rabios/awesome-raylib](https://github.com/Rabios/awesome-raylib) - Curated list of awesome stuff for raylib.
 - [RichardLitt/meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
 - [jazmichaelking/mastodon-near-me](https://github.com/jazmichaelking/mastodon-near-me) - Directory of Mastodon and related servers that operate primarily in or are targeted to a locality or region
+- [snonux/gemtexter](https://github.com/snonux/gemtexter) - Gemini Gemtext blog engine and to HTML + Markdown converter
 - [Xinyuan-LilyGO/LilyGO-T-Motion](https://github.com/Xinyuan-LilyGO/LilyGO-T-Motion) - LilyGO-T-Motion
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [robhagemans/hoard-of-bitfonts](https://github.com/robhagemans/hoard-of-bitfonts) - turns out I like bitmap fonts
@@ -2946,7 +2949,6 @@
 - [hillbrad/U2FReviews](https://github.com/hillbrad/U2FReviews) - Reviews of U2F devices
 - [nmota/caop_GeoJSON](https://github.com/nmota/caop_GeoJSON) - CAOPortugal em formato GeoJSON
 - [megous/megatools](https://github.com/megous/megatools) - Open-source command line tools for accessing Mega.co.nz cloud storage.
-- [benb0jangles/Companion-Pi](https://github.com/benb0jangles/Companion-Pi) - This is a collection of Linux .img files to allow drone/automated vehicle users to hook up to a Raspberry Pi 2/3/Zero V1.2/1.3 and further their drone/automated vehicle experiences in various ways. All software is provided as-is and you assume all risks by using it.
 - [maruos/maruos](https://github.com/maruos/maruos) - Your phone is your PC.
 - [jdesbonnet/RCWL-0516](https://github.com/jdesbonnet/RCWL-0516) - Information about RCWL-0516 microwave proximity switch module (ICStation.com SKU 10630)
 - [posm/OpenMapKit](https://github.com/posm/OpenMapKit) - Master Directory for OpenMapKit
@@ -4652,7 +4654,7 @@
 - [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [fosskers/rs-kanji](https://github.com/fosskers/rs-kanji) - A library for the handling and analysis of Japanese text. 日本漢字分析
-- [soywod/himalaya](https://github.com/soywod/himalaya) - Himalaya is a suite of independent Personal Information Management command-line tools.
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI email client
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [null-dev/firefox-profile-switcher-connector](https://github.com/null-dev/firefox-profile-switcher-connector) - Native connector software for the 'Profile Switcher for Firefox' extension.
@@ -4810,14 +4812,13 @@
 - [0xdanelia/cmenu](https://github.com/0xdanelia/cmenu) - Linux command line tool for selecting items from a list. Similar to dmenu, but remains on the command line and does not require a window manager.
 - [qq542vev/vim-style-newsboat](https://github.com/qq542vev/vim-style-newsboat) - Vim, Pentadactylのキーボード操作を、Newsboatで実現する試み。
 - [dmpop/otto](https://github.com/dmpop/otto) - Otto is a clever little 🐒 that imports and organizes photos on your Linux machine or NAS
-- [shinokada/tera](https://github.com/shinokada/tera) - Interactive music radio player. Play your favorite radio station, CRUD your favorite lists, and explore new radio stations from your terminal.
+- [shinokada/tera](https://github.com/shinokada/tera) - Interactive Bash script terminal music radio player. Play your favorite radio station, CRUD your favorite lists, and explore new radio stations from your terminal.
 - [eshrh/ames](https://github.com/eshrh/ames) - Anki Media Extractor Script: Update anki cards with desktop audio and image on gnu/linux
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - The modern packaging tool for Debian archives.
 - [mbhangui/pistop](https://github.com/mbhangui/pistop) - Start/Stop services on all clients on server shutdown
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [MunifTanjim/tmux-mode-indicator](https://github.com/MunifTanjim/tmux-mode-indicator) - Plugin that displays prompt indicating currently active Tmux mode.
 - [slavistan/lf-gadgets](https://github.com/slavistan/lf-gadgets) - A collection of useful and nifty use cases and configurations for lf.
-- [snonux/gemtexter](https://github.com/snonux/gemtexter) - Gemini Gemtext blog engine and to HTML + Markdown converter
 - [MyOS-ArchLinux/vids](https://github.com/MyOS-ArchLinux/vids) - 🔍 🔘 ⏯️ 🔁 - search for videos to play from youtube.com and other platforms...
 - [quarkscript/linux-armv7-xe303c12-only](https://github.com/quarkscript/linux-armv7-xe303c12-only) - Linux kernel for old google-snow chromebook
 - [bjesus/muxile](https://github.com/bjesus/muxile) - Putting tmux on your mobile - Muxile is a tmux plugin that lets you control a running tmux session with your phone, no app needed.
