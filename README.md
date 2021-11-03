@@ -1974,7 +1974,7 @@
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [videgro/Ships](https://github.com/videgro/Ships) - VIDEGROs Ships is an Android application which allows you to receive AIS information directly from ships in your neighbourhood using a cheap DVB-T-DAB-FM / RTL-SDR receiver.
 - [GIScience/oshdb](https://github.com/GIScience/oshdb) - OpenStreetMap History Data Analysis Framework
-- [geonetwork/core-geonetwork](https://github.com/geonetwork/core-geonetwork) - GeoNetwork repository
+- [geonetwork/core-geonetwork](https://github.com/geonetwork/core-geonetwork) - GeoNetwork is a catalog application to manage spatially referenced resources. It provides powerful metadata editing and search functions as well as an interactive web map viewer. It is currently used in numerous Spatial Data Infrastructure initiatives across the world.
 - [OpenPlaceReviews/opendb](https://github.com/OpenPlaceReviews/opendb) - This is a service that provides database communication
 - [simonpoole/mapsplit](https://github.com/simonpoole/mapsplit) - A fast way to split OSM data in to a portable tiled format
 - [andOTP/andOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android
@@ -2142,7 +2142,7 @@
 - [Juris-M/zotero-odf-scan-plugin](https://github.com/Juris-M/zotero-odf-scan-plugin) - RTF/ODF-Scan for Zotero add-on
 - [GChristensen/scrapyard](https://github.com/GChristensen/scrapyard) - Bookmark heavy lifting
 - [omgimanerd/getnews.tech](https://github.com/omgimanerd/getnews.tech) - A web server that fetches data from the News API and formats it for display in the terminal.
-- [i5ik/22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer. Works well with WorldBrain/Memex to give you full-text search.
+- [i5ik/22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile, SingleFileZ, and WebMemex, but gooderer. Full text search coming soon
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [cmdalbem/ciclomapa](https://github.com/cmdalbem/ciclomapa) - Beautiful bike maps of Brazilian cities, powered by OpenStreetMap.
@@ -2642,6 +2642,7 @@
 
 ## Lua 
 
+- [dfaker/VR-reversal](https://github.com/dfaker/VR-reversal) - VR-Reversal - Player for conversion of 3D video to 2D with optional saving of head tracking data and rendering out of 2D copies.
 - [jgreco/mpv-youtube-quality](https://github.com/jgreco/mpv-youtube-quality) - A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly
 - [wis/mpvSockets](https://github.com/wis/mpvSockets) - creates one IPC socket per mpv instance
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
@@ -4052,7 +4053,7 @@
 - [jwcxz/vim-pandemic](https://github.com/jwcxz/vim-pandemic) - Manage remote pathogen bundles from multiple source types
 - [adblockplus/abpcrawler](https://github.com/adblockplus/abpcrawler) - Website crawler for Adblock Plus
 - [fireteam/curlish](https://github.com/fireteam/curlish) - A wrapper around curl to support OAuth 2.0
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [mihaip/readerisdead](https://github.com/mihaip/readerisdead) - A collection of tools to help with the Google Reader shutdown.
 - [nojhan/colout](https://github.com/nojhan/colout) - Color text streams with a polished command line interface
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
@@ -4808,6 +4809,7 @@
 
 ## Shell 
 
+- [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [michaellihs/latex-pipeline](https://github.com/michaellihs/latex-pipeline) - 
 - [0xdanelia/cmenu](https://github.com/0xdanelia/cmenu) - Linux command line tool for selecting items from a list. Similar to dmenu, but remains on the command line and does not require a window manager.
 - [qq542vev/vim-style-newsboat](https://github.com/qq542vev/vim-style-newsboat) - Vim, Pentadactylのキーボード操作を、Newsboatで実現する試み。
