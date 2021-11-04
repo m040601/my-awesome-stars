@@ -1368,6 +1368,7 @@
 
 ## Go 
 
+- [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [forlater-email/mdawh](https://github.com/forlater-email/mdawh) - an MDA that sends a webhook on recieval of mail
 - [forlater-email/navani](https://github.com/forlater-email/navani) - forlater's primary mail processing service
@@ -1863,7 +1864,7 @@
 - [eiro/eiro.github.com](https://github.com/eiro/eiro.github.com) - my website
 - [DataScienceSpecialization/courses](https://github.com/DataScienceSpecialization/courses) - Course materials for the Data Science Specialization: https://www.coursera.org/specialization/jhudatascience/1
 - [filamentgroup/grunticon](https://github.com/filamentgroup/grunticon) - A mystical CSS icon solution.
-- [sindresorhus/screenfull.js](https://github.com/sindresorhus/screenfull.js) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
+- [sindresorhus/screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 - [tlozoot/experigen](https://github.com/tlozoot/experigen) - A framework for creating linguistic experiments
 - [readium/readium-js-viewer](https://github.com/readium/readium-js-viewer) - 👁 ReadiumJS viewer: default web app for Readium.js library
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
@@ -2149,7 +2150,6 @@
 - [heiseonline/embetty](https://github.com/heiseonline/embetty) - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
 - [JVital2013/RoadApplePi](https://github.com/JVital2013/RoadApplePi) - An elegent "Black Box" solution that can be retrofitted into any car with an OBD(II) port for minimal cost.
 - [inventaire/inventaire](https://github.com/inventaire/inventaire) - a libre collaborative resource mapper powered by open-knowledge, starting with books! :books:
-- [rharel/webext-private-bookmarks](https://github.com/rharel/webext-private-bookmarks) - WebExtension that enables a special password-protected bookmark folder.
 - [csaftoiu/yahoo-groups-backup](https://github.com/csaftoiu/yahoo-groups-backup) - A python script to backup the contents of private Yahoo! groups.
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
@@ -5414,6 +5414,7 @@
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
+- [rharel/webext-private-bookmarks](https://github.com/rharel/webext-private-bookmarks) - WebExtension that enables a special password-protected bookmark folder.
 - [andrewscwei/aristotl](https://github.com/andrewscwei/aristotl) - An experimental logical fallacy lookup tool
 - [tadeussenf/pocket-wiki](https://github.com/tadeussenf/pocket-wiki) - Alternative User Interface for getpocket.com
 - [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub) - A plugin that will automatically download PDFs of zotero items from sci-hub
