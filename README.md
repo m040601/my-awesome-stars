@@ -645,7 +645,6 @@
 - [kobolabs/Kobo-Reader](https://github.com/kobolabs/Kobo-Reader) - 
 - [dbeinder/kobo-nightmode](https://github.com/dbeinder/kobo-nightmode) - white-on-black mode for Kobo ebook readers. Not maintained, check out this fork:
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [Make-Magazine/PirateRadio](https://github.com/Make-Magazine/PirateRadio) - Raspberry Pi Automated FM Radio Script
 - [phoboslab/jsmpeg-vnc](https://github.com/phoboslab/jsmpeg-vnc) - A low latency, high framerate screen sharing server for Windows and client for browsers
 - [viking/r-yaml](https://github.com/viking/r-yaml) - R package for converting objects to and from YAML
@@ -1625,6 +1624,7 @@
 - [yanyiwu/gosimhash](https://github.com/yanyiwu/gosimhash) - 中文文档simhash值计算
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [FooSoft/md2vim](https://github.com/FooSoft/md2vim) - Tool for automatically converting markdown to vimdoc format
 - [rjeczalik/gh](https://github.com/rjeczalik/gh) - Scriptable server and net/http middleware for GitHub Webhooks.
 - [fhs/gompd](https://github.com/fhs/gompd) - Client side library for MPD (Music Player Daemon) for Go Programming Language.
@@ -1695,7 +1695,7 @@
 - [J-Siu/hugo-theme-sk1](https://github.com/J-Siu/hugo-theme-sk1) - Hugo Theme - SK1 (Skeleton 1)
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [bradleytaunt/1mb-club](https://github.com/bradleytaunt/1mb-club) - An exclusive members-only club for web pages weighing less than 1 megabyte
-- [CollectionBuilder/collectionbuilder-sa](https://github.com/CollectionBuilder/collectionbuilder-sa) - A stand-alone version of CollectionBuilder that iterates over user-provided media files and metadata to build a digital collection.
+- [CollectionBuilder/collectionbuilder-sa](https://github.com/CollectionBuilder/collectionbuilder-sa) - Depreciated stand-alone version of CollectionBuilder
 - [evanwill/cb-sa-csv](https://github.com/evanwill/cb-sa-csv) - 
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [openclimatedata/kigali-amendment-entry-into-force](https://github.com/openclimatedata/kigali-amendment-entry-into-force) - Data Package of entry into force status of the Kigali Amendment to the Montreal Protocol
@@ -3215,6 +3215,7 @@
 
 ## Python 
 
+- [LowPowerLab/WattMote](https://github.com/LowPowerLab/WattMote) - Source files for WattMote - a wireless KillAWatt mod similar to the TweetAWatt
 - [rrwen/google_streetview](https://github.com/rrwen/google_streetview) - A command line tool and module for Google Street View Image API
 - [quakkels/rssdiscoveryengine](https://github.com/quakkels/rssdiscoveryengine) - The RSS Discovery Engine exists to encourage people to use RSS for finding and consuming their news and current events.
 - [YoRyan/mailrise](https://github.com/YoRyan/mailrise) - An SMTP gateway for Apprise notifications.
