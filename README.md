@@ -2802,6 +2802,7 @@
 
 ## Others 
 
+- [maxvfischer/DIY-CNC-machine](https://github.com/maxvfischer/DIY-CNC-machine) - How to build your own CNC machine from scratch
 - [voltlog/Valve-Actuator](https://github.com/voltlog/Valve-Actuator) - 
 - [poolpOrg/OpenSMTPD-book](https://github.com/poolpOrg/OpenSMTPD-book) - 
 - [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.
@@ -4810,6 +4811,7 @@
 
 ## Shell 
 
+- [Nature40/pimod](https://github.com/Nature40/pimod) - Reconfigure Raspberry Pi images with an easy, Docker-like configuration file
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [michaellihs/latex-pipeline](https://github.com/michaellihs/latex-pipeline) - 
 - [0xdanelia/cmenu](https://github.com/0xdanelia/cmenu) - Linux command line tool for selecting items from a list. Similar to dmenu, but remains on the command line and does not require a window manager.
