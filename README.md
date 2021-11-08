@@ -47,6 +47,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [KiCad](#kicad)
   - [Kotlin](#kotlin)
+  - [Less](#less)
   - [Liquid](#liquid)
   - [LiveScript](#livescript)
   - [Lua](#lua)
@@ -1259,7 +1260,6 @@
 
 ## Clojure 
 
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
 - [abstracthat/dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
 - [sean-a-m/rss-clustering](https://github.com/sean-a-m/rss-clustering) - Extract features from news feeds and do clustering using CoreNLP library and graph clustering algorithms
 - [dakrone/clojure-opennlp](https://github.com/dakrone/clojure-opennlp) - Natural Language Processing in Clojure (opennlp)
@@ -2631,6 +2631,10 @@
 - [ligi/SurvivalManual](https://github.com/ligi/SurvivalManual) - Libre Survival Manual for Android with offline in mind
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [rsiebert/TVHClient](https://github.com/rsiebert/TVHClient) - An Android client for TVHeadend using the HTSP protocol
+
+## Less 
+
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
 
 ## Liquid 
 
