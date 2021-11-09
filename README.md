@@ -435,6 +435,7 @@
 - [daveake/gps_udp](https://github.com/daveake/gps_udp) - Reads GPS on Pi serial port and broadcasts as UDP packets
 - [femtoduino/femto-beacon](https://github.com/femtoduino/femto-beacon) - FemtoBeacon - Atmel SAM R21 (ARM Cortex M0+, SAM D21 with built in AT86RF233)
 - [150balbes/Jetson-Nano](https://github.com/150balbes/Jetson-Nano) - Kernel Jetson Nano
+- [ecdye/zram-config](https://github.com/ecdye/zram-config) - A complete zram-config utility for swap, directories, and logs to reduce SD, NAND and eMMC block wear.
 - [ssrg-vt/hermitux-kernel](https://github.com/ssrg-vt/hermitux-kernel) - 
 - [hermitcore/libhermit](https://github.com/hermitcore/libhermit) - HermitCore: A C-based, lightweight unikernel
 - [ssrg-vt/hermitux](https://github.com/ssrg-vt/hermitux) - A binary-compatible unikernel
@@ -1486,7 +1487,7 @@
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [saschagrunert/demo](https://github.com/saschagrunert/demo) - A framework for performing live pre-recorded command line demos in the wild 📼
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [Code-Hex/Neo-cowsay](https://github.com/Code-Hex/Neo-cowsay) - 🐮 cowsay is reborn. Neo Cowsay written in Go. This cowsay extended the original and added fun more options. And it can be used as a library.
+- [Code-Hex/Neo-cowsay](https://github.com/Code-Hex/Neo-cowsay) - 🐮 cowsay is reborn. Neo Cowsay has written in Go.
 - [ddo/fast](https://github.com/ddo/fast) - Minimal zero-dependency utility for testing your internet download speed from terminal
 - [simonfrey/unshort.link](https://github.com/simonfrey/unshort.link) - Prevent short link services from tracking you by unshortening the urls for your
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
@@ -5023,7 +5024,6 @@
 - [connor-brooks/play_stdin.sh](https://github.com/connor-brooks/play_stdin.sh) - A set of lightweight scripts to stream audio between two *nix machines. Perfect for use with a Raspberry Pi
 - [davideolgiati/PartyLoud](https://github.com/davideolgiati/PartyLoud) - A simple tool to generate fake web browsing and mitigate tracking
 - [adjutant/archlinuxarm-installer](https://github.com/adjutant/archlinuxarm-installer) - Universal, automatic, pain-free installer for ArchLinux ARM
-- [ecdye/zram-config](https://github.com/ecdye/zram-config) - A complete zram-config utility for swap, directories, and logs to reduce SD, NAND and eMMC block wear.
 - [cattlepi/cattlepi](https://github.com/cattlepi/cattlepi) - effortlessly boot, configure, update and monitor your raspberry pi :cloud:
 - [quarkscript/xe303c12_play_linux](https://github.com/quarkscript/xe303c12_play_linux) - 
 - [gromgit/bash_scripts](https://github.com/gromgit/bash_scripts) - My collection of bash scripts
