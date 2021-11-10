@@ -889,7 +889,7 @@
 - [Galapix/galapix](https://github.com/Galapix/galapix) - Galapix moved to https://gitlab.com/galapix/galapix
 - [keshavbhatt/olivia](https://github.com/keshavbhatt/olivia) - Elegant music player for LINUX
 - [opensolarproject/OSPController](https://github.com/opensolarproject/OSPController) - ESP32 Smart Solar Charger - the Open Solar Project
-- [gioblu/PJON](https://github.com/gioblu/PJON) - PJON® (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.
+- [gioblu/PJON](https://github.com/gioblu/PJON) - PJON (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.
 - [jnogues/ESP32-Long-Range-WiFi](https://github.com/jnogues/ESP32-Long-Range-WiFi) - 
 - [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
 - [Blub/netevent](https://github.com/Blub/netevent) - Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
@@ -4816,6 +4816,7 @@
 
 ## Shell 
 
+- [Yetangitu/books](https://github.com/Yetangitu/books) - Library Genesis (libgen) CLI/TUI/GUI client (mirror from private repo)
 - [Nature40/pimod](https://github.com/Nature40/pimod) - Reconfigure Raspberry Pi images with an easy, Docker-like configuration file
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [michaellihs/latex-pipeline](https://github.com/michaellihs/latex-pipeline) - 
