@@ -151,7 +151,6 @@
 
 ## Awk 
 
-- [phillbush/incipit](https://github.com/phillbush/incipit) - the incipit plain text markup language, and the mi(7) troff macro package
 - [huijunchen9260/bib.awk](https://github.com/huijunchen9260/bib.awk) - Bibliography manager written in awk
 - [LukeSmithxyz/vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate Bible on the Command Line
 - [phillbush/man2md](https://github.com/phillbush/man2md) - man page to markdown converter
@@ -4395,6 +4394,7 @@
 
 ## Roff 
 
+- [phillbush/incipit](https://github.com/phillbush/incipit) - the incipit plain text markup language, and some troff macro packages
 - [mkws-1/mkws](https://github.com/mkws-1/mkws) - A simple static site generator using `sh` as a templating language.
 - [rrthomas/pdfjam-extras](https://github.com/rrthomas/pdfjam-extras) - Some unsupported 'wrapper' scripts for pdfjam
 - [d630/etc-bash](https://github.com/d630/etc-bash) - 
@@ -4662,7 +4662,7 @@
 - [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [fosskers/rs-kanji](https://github.com/fosskers/rs-kanji) - A library for the handling and analysis of Japanese text. 日本漢字分析
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI email client
+- [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [null-dev/firefox-profile-switcher-connector](https://github.com/null-dev/firefox-profile-switcher-connector) - Native connector software for the 'Profile Switcher for Firefox' extension.
