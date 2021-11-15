@@ -2035,7 +2035,6 @@
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [segfall/static-wiki](https://github.com/segfall/static-wiki) - Wikipedia using only static assets & no backend
 - [iiab/maps](https://github.com/iiab/maps) - Internet-in-a-Box (IIAB) Maps are like Google Maps but better, for schools especially, as they work offline (including satellite photos!) and avoid all the advertising.  LATEST README: https://github.com/iiab/iiab/tree/master/roles/osm-vector-maps
-- [rern/rAudio-addons](https://github.com/rern/rAudio-addons) - 
 - [rern/rAudio-1](https://github.com/rern/rAudio-1) - Raspberry Pi audio player: AirPlay, Audio CD, Bluetooth, Multi-room, Spotify Connect, UPnP
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [Smile4ever/Neat-URL](https://github.com/Smile4ever/Neat-URL) - Neat URL cleans URLs, removing parameters such as Google Analytics' utm parameters.
@@ -2634,7 +2633,7 @@
 
 ## Less 
 
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 
 ## Liquid 
 
@@ -4848,6 +4847,7 @@
 - [MunifTanjim/tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) - Plugin that lets you suspend local tmux session, so that you can work with nested remote tmux session painlessly.
 - [Bugswriter/tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [bakkenbaeck/a-random-walk-through-git](https://github.com/bakkenbaeck/a-random-walk-through-git) - A weird tour through Git and some of its internals.
+- [rern/rAudio-addons](https://github.com/rern/rAudio-addons) - 
 - [robviauc/openwrtfw-ha](https://github.com/robviauc/openwrtfw-ha) - Integrates OpenWRT firewall with HomeAssistant via MQTT
 - [system76/launch](https://github.com/system76/launch) - System76 Launch Configurable Keyboard
 - [Roshan-R/termv](https://github.com/Roshan-R/termv) - A terminal iptv player written in bash
