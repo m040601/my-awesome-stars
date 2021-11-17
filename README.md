@@ -1374,7 +1374,7 @@
 - [cirocosta/asciinema-edit](https://github.com/cirocosta/asciinema-edit) - asciinema casts post-production tools
 - [jmattheis/website](https://github.com/jmattheis/website) - A server that abuses various protocols to transmit content of my website.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [jonamat/wikiloc-earth-layer](https://github.com/jonamat/wikiloc-earth-layer) - View Wikiloc.com trails in Google Earth
+- [jonamat/wikiloc-earth-layer](https://github.com/jonamat/wikiloc-earth-layer) - Find new trails in Google Earth from Wikiloc.com
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [CarlosDerSeher/plaincast](https://github.com/CarlosDerSeher/plaincast) - Server that acts like a lightweight/headless Chromecast that only includes YouTube (for the time being)
@@ -1391,7 +1391,7 @@
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [ciehanski/libgen-cli](https://github.com/ciehanski/libgen-cli) - A CLI tool to access the Library Genesis dataset; written in Go.
 - [jftuga/photo_id_resizer](https://github.com/jftuga/photo_id_resizer) - Resize photo ID images using face recognition technology
-- [noborus/ov](https://github.com/noborus/ov) - Feature rich terminal pager
+- [noborus/ov](https://github.com/noborus/ov) - A feature-rich device-based text viewer. This is called a terminal pager.
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [psanford/wormhole-william-mobile](https://github.com/psanford/wormhole-william-mobile) - End-to-end encrypted file transfer for Android. An Android Magic Wormhole client.
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
@@ -4422,7 +4422,7 @@
 - [softcover/softcover](https://github.com/softcover/softcover) - CLI for book generation, building, and publishing to softcover.io
 - [WebThingsIO/docs](https://github.com/WebThingsIO/docs) - WebThings Documentation
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
-- [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line utility
+- [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line utility (needs to be updated)
 - [antono/shelr](https://github.com/antono/shelr) - Console screencasting tool
 - [jgarber623/delicious-data-convertor](https://github.com/jgarber623/delicious-data-convertor) - A simple tool written in Ruby that converts exported Delicious bookmarks from HTML to JSON.
 - [mnyrop/pagemaster](https://github.com/mnyrop/pagemaster) - Jekyll plugin for generating Markdown collection pages from CSV/YAML/JSON records 🧙📖
