@@ -1391,7 +1391,7 @@
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [ciehanski/libgen-cli](https://github.com/ciehanski/libgen-cli) - A CLI tool to access the Library Genesis dataset; written in Go.
 - [jftuga/photo_id_resizer](https://github.com/jftuga/photo_id_resizer) - Resize photo ID images using face recognition technology
-- [noborus/ov](https://github.com/noborus/ov) - A feature-rich device-based text viewer. This is called a terminal pager.
+- [noborus/ov](https://github.com/noborus/ov) - A feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [psanford/wormhole-william-mobile](https://github.com/psanford/wormhole-william-mobile) - End-to-end encrypted file transfer for Android. An Android Magic Wormhole client.
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
@@ -5275,7 +5275,7 @@
 - [dominictarr/JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash
 - [petrkle/git-deploy](https://github.com/petrkle/git-deploy) - Very siple deployment script for developers with ftp only access to webserver.
 - [sjl/learnvimscriptthehardway](https://github.com/sjl/learnvimscriptthehardway) - 
-- [rbenv/rbenv](https://github.com/rbenv/rbenv) - Groom your app’s Ruby environment
+- [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [sickill/bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 - [jedi4ever/veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
