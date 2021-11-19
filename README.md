@@ -163,6 +163,7 @@
 
 ## C 
 
+- [akemnade/linux](https://github.com/akemnade/linux) - Linux kernel source tree
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 - [VolosR/TTGOInternetStation](https://github.com/VolosR/TTGOInternetStation) - 
 - [baldram/ESP_VS1053_Library](https://github.com/baldram/ESP_VS1053_Library) - A library for VS1053 MP3 Codec Breakout adapted for Espressif ESP8266 and ESP32 boards.
@@ -773,6 +774,7 @@
 
 ## C++ 
 
+- [marcogrecopriolo/guglielmo](https://github.com/marcogrecopriolo/guglielmo) - Qt based FM / Dab tuner
 - [peterkvt80/vbit2](https://github.com/peterkvt80/vbit2) - Teletext streaming. Generates a T42 teletext stream from teletext pages. This can be used with inserter hardware or a Raspberry Pi to generate a video signal that teletext TVs can decode and display. It can also be used with vbit-iv to generate in-vision teletext on a Linux PC or Raspberry Pi.
 - [atc1441/NETSGPClient](https://github.com/atc1441/NETSGPClient) - Arduino Interface for cheap 2.4ghz RF enabled Solar Micro Inverters
 - [Edzelf/ESP32Radio-V2](https://github.com/Edzelf/ESP32Radio-V2) - New version of the well known ESP32 Radio.  Now optional I2S output!
@@ -1367,6 +1369,7 @@
 
 ## Go 
 
+- [gregf/rufu](https://github.com/gregf/rufu) - A Rofi Modi For Buku
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [forlater-email/mdawh](https://github.com/forlater-email/mdawh) - an MDA that sends a webhook on recieval of mail
