@@ -3355,7 +3355,7 @@
 - [scrapedia/scrapy-pipelines](https://github.com/scrapedia/scrapy-pipelines) - A collection of pipelines for Scrapy
 - [wummel/patool](https://github.com/wummel/patool) - patool is a portable command line archive file manager
 - [pymupdf/PyMuPDF-Utilities](https://github.com/pymupdf/PyMuPDF-Utilities) - Demos, examples and utilities using PyMuPDF
-- [mozilla/OpenWPM](https://github.com/mozilla/OpenWPM) - A web privacy measurement framework
+- [openwpm/OpenWPM](https://github.com/openwpm/OpenWPM) - A web privacy measurement framework
 - [podhmo/dictknife](https://github.com/podhmo/dictknife) - armyknife of handling dict object
 - [ali1234/pydo](https://github.com/ali1234/pydo) - Just a weird thing.
 - [irfancharania/fb-feed-gen](https://github.com/irfancharania/fb-feed-gen) - Facebook RSS Feed Generator
