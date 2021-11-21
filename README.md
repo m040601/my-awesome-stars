@@ -163,6 +163,8 @@
 
 ## C 
 
+- [markqvist/OpenModem](https://github.com/markqvist/OpenModem) - Powerful AFSK modem platform
+- [markqvist/MicroAPRS](https://github.com/markqvist/MicroAPRS) - APRS fork of MicroModem
 - [akemnade/linux](https://github.com/akemnade/linux) - Linux kernel source tree
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 - [VolosR/TTGOInternetStation](https://github.com/VolosR/TTGOInternetStation) - 
@@ -215,7 +217,7 @@
 - [kasbert/epsolar-tracer](https://github.com/kasbert/epsolar-tracer) - Tools for EPsolar Tracer BN solar charge controller
 - [openenergymonitor/EmonESP](https://github.com/openenergymonitor/EmonESP) - ESP8266 WIFI serial to emoncms link
 - [skywind3000/czmod](https://github.com/skywind3000/czmod) - :rocket: Native Module Written in C to Boost z.lua !!
-- [kiedtl/hxd](https://github.com/kiedtl/hxd) - A better hexdump
+- [kiedtl/huxdemp](https://github.com/kiedtl/huxdemp) - A better hexdump
 - [landley/toybox](https://github.com/landley/toybox) - toybox
 - [cronie-crond/cronie](https://github.com/cronie-crond/cronie) - Cronie cron daemon project
 - [kristapsdz/sblg](https://github.com/kristapsdz/sblg) - static blog utility
@@ -774,6 +776,7 @@
 
 ## C++ 
 
+- [dalethomas81/HamMessenger](https://github.com/dalethomas81/HamMessenger) - HamMessenger is a portable device that uses a ham radio and the APRS protocol as a medium to send and receive text messages.
 - [marcogrecopriolo/guglielmo](https://github.com/marcogrecopriolo/guglielmo) - Qt based FM / Dab tuner
 - [peterkvt80/vbit2](https://github.com/peterkvt80/vbit2) - Teletext streaming. Generates a T42 teletext stream from teletext pages. This can be used with inserter hardware or a Raspberry Pi to generate a video signal that teletext TVs can decode and display. It can also be used with vbit-iv to generate in-vision teletext on a Linux PC or Raspberry Pi.
 - [atc1441/NETSGPClient](https://github.com/atc1441/NETSGPClient) - Arduino Interface for cheap 2.4ghz RF enabled Solar Micro Inverters
@@ -2654,7 +2657,7 @@
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - Better quickfix window in Neovim, polish old quickfix window.
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
-- [kristijanhusak/orgmode.nvim](https://github.com/kristijanhusak/orgmode.nvim) - Orgmode clone written in Lua for Neovim 0.5+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.5+.
 - [Sagnac/streamsave](https://github.com/Sagnac/streamsave) - mpv script aimed at saving live streams and clipping online videos without encoding.
 - [koreader/contrib](https://github.com/koreader/contrib) - Collection of non-official plugins designed for KOReader
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
