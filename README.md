@@ -47,7 +47,6 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [KiCad](#kicad)
   - [Kotlin](#kotlin)
-  - [Less](#less)
   - [Liquid](#liquid)
   - [LiveScript](#livescript)
   - [Lua](#lua)
@@ -776,6 +775,7 @@
 
 ## C++ 
 
+- [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
 - [dalethomas81/HamMessenger](https://github.com/dalethomas81/HamMessenger) - HamMessenger is a portable device that uses a ham radio and the APRS protocol as a medium to send and receive text messages.
 - [marcogrecopriolo/guglielmo](https://github.com/marcogrecopriolo/guglielmo) - Qt based FM / Dab tuner
 - [peterkvt80/vbit2](https://github.com/peterkvt80/vbit2) - Teletext streaming. Generates a T42 teletext stream from teletext pages. This can be used with inserter hardware or a Raspberry Pi to generate a video signal that teletext TVs can decode and display. It can also be used with vbit-iv to generate in-vision teletext on a Linux PC or Raspberry Pi.
@@ -2062,6 +2062,7 @@
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
 - [OpenScanEu/OpenScan](https://github.com/OpenScanEu/OpenScan) - All you need to build your 3D Scanner
 - [alexadam/save-as-ebook](https://github.com/alexadam/save-as-ebook) - Save a web page/selection as an eBook (.epub format) - a Chrome/Firefox/Opera Web Extension
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 - [k08045kk/CopyTabTitleUrl](https://github.com/k08045kk/CopyTabTitleUrl) - 
 - [damko/freedommarks-browser-webextension](https://github.com/damko/freedommarks-browser-webextension) - A cross-browser webextension for Nextcloud Bookmarks
 - [graphicore/librebarcode](https://github.com/graphicore/librebarcode) - Libre Barcode: barcode fonts for various barcode standards.
@@ -2637,10 +2638,6 @@
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [rsiebert/TVHClient](https://github.com/rsiebert/TVHClient) - An Android client for TVHeadend using the HTSP protocol
 
-## Less 
-
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
-
 ## Liquid 
 
 - [archdroid-org/archdroid-org.github.io](https://github.com/archdroid-org/archdroid-org.github.io) - Archdroid website
@@ -3147,7 +3144,7 @@
 - [tbsdtv/media_build](https://github.com/tbsdtv/media_build) - 
 - [aredn/aredn_ar71xx](https://github.com/aredn/aredn_ar71xx) - AREDN develop branch porting on top of OpenWRT 19.07.0
 - [ldidry/lstu](https://github.com/ldidry/lstu) - Lightweight URL shortener. Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lstu
-- [bagder/everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and everything related to this.
+- [bagder/everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.
 - [eserte/bbbike](https://github.com/eserte/bbbike) - BBBike
 - [sympa-community/sympa](https://github.com/sympa-community/sympa) - Sympa, Mailing List Management Software
 - [trapd00r/pimpd2](https://github.com/trapd00r/pimpd2) - Perl Interface for the Music Player Daemon 2  |  http://search.cpan.org/dist/App-Pimpd/
@@ -4722,6 +4719,7 @@
 - [quebin31/muso](https://github.com/quebin31/muso) - muso: music sorter
 - [juanibiapina/jaime](https://github.com/juanibiapina/jaime) - A command line launcher inspired by Alfred
 - [ilpianista/arch-audit](https://github.com/ilpianista/arch-audit) - A utility like pkg-audit for Arch Linux. Based on Arch Security Team data.
+- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
 - [baskerville/sdunpack](https://github.com/baskerville/sdunpack) - Unpack a StarDict dictionary as plain text
 - [termapps/enquirer](https://github.com/termapps/enquirer) - Command Line Utility for Stylish Interactive Prompts
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
@@ -4821,6 +4819,7 @@
 
 ## Shell 
 
+- [ploum/offlinetools](https://github.com/ploum/offlinetools) - Tools to spend more time offline
 - [Yetangitu/books](https://github.com/Yetangitu/books) - Library Genesis (libgen) CLI/TUI/GUI client (mirror from private repo)
 - [Nature40/pimod](https://github.com/Nature40/pimod) - Reconfigure Raspberry Pi images with an easy, Docker-like configuration file
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
@@ -5497,7 +5496,6 @@
 - [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
 - [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
 - [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist) - projectionist.vim: Granular project configuration
-- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
 - [chimay/configuration](https://github.com/chimay/configuration) - Config files
 - [eiro/slides.vim](https://github.com/eiro/slides.vim) - yet another WYSIWYG presentation editor
 - [rbong/vim-flog](https://github.com/rbong/vim-flog) - A lightweight and powerful git branch viewer for vim.
@@ -5533,7 +5531,7 @@
 - [will133/vim-dirdiff](https://github.com/will133/vim-dirdiff) - Vim plugin to diff two directories
 - [justinmk/nvim-repl](https://github.com/justinmk/nvim-repl) - 
 - [zenbro/mirror.vim](https://github.com/zenbro/mirror.vim) - Efficient way to edit remote files on multiple environments with Vim.
-- [romainl/vim-qf](https://github.com/romainl/vim-qf) - Tame the quickfix window
+- [romainl/vim-qf](https://github.com/romainl/vim-qf) - Tame the quickfix window.
 - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) - sensible.vim: Defaults everyone can agree on
 - [jalvesaq/Nvim-R](https://github.com/jalvesaq/Nvim-R) - Vim plugin to work with R
 - [epii1/fzf-mru.vim](https://github.com/epii1/fzf-mru.vim) - FZF MRU(Most Recently Used) File List Vim/NeoVim Plugin
