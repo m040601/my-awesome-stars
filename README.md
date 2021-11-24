@@ -2245,7 +2245,7 @@
 - [tyrasd/osmtogeojson](https://github.com/tyrasd/osmtogeojson) - convert osm to geojson
 - [tyrasd/overpass-turbo](https://github.com/tyrasd/overpass-turbo) - A web based data mining tool for OpenStreetMap using the Overpass API.
 - [osmlab/editor-layer-index](https://github.com/osmlab/editor-layer-index) - A unified layer index for OSM editors.
-- [rccavalcanti/pifi-radio](https://github.com/rccavalcanti/pifi-radio) - MPD web client to listen to radio, written in React and Sinatra.
+- [rc2dev/pifi-radio](https://github.com/rc2dev/pifi-radio) - MPD web client to listen to radio, written in React and Sinatra.
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [ProjectMirador/mirador](https://github.com/ProjectMirador/mirador) - An open-source, web-based 'multi-up' viewer that supports zoom-pan-rotate functionality, ability to display/compare simple images, and images with annotations.
 - [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
@@ -3359,7 +3359,7 @@
 - [podhmo/dictknife](https://github.com/podhmo/dictknife) - armyknife of handling dict object
 - [ali1234/pydo](https://github.com/ali1234/pydo) - Just a weird thing.
 - [irfancharania/fb-feed-gen](https://github.com/irfancharania/fb-feed-gen) - Facebook RSS Feed Generator
-- [mxjeff/python-musicpd](https://github.com/mxjeff/python-musicpd) - Python3 MPD client library (gitalb clone)
+- [mxjeff/python-musicpd](https://github.com/mxjeff/python-musicpd) - Python3 MPD client library (gitlab clone)
 - [hephaest0s/usbkill](https://github.com/hephaest0s/usbkill) - « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Web scraping library and command-line tool for text discovery and extraction (main content, metadata, comments)
 - [yunfan/pingshu8_crawler](https://github.com/yunfan/pingshu8_crawler) - 
