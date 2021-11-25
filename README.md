@@ -243,7 +243,7 @@
 - [pvvx/ATC_MiThermometer](https://github.com/pvvx/ATC_MiThermometer) - Custom firmware for the Xiaomi Thermometers and Telink Flasher via USB to Serial converter
 - [tmk/tmk_keyboard](https://github.com/tmk/tmk_keyboard) - Keyboard firmwares for Atmel AVR and Cortex-M
 - [wtarreau/bootterm](https://github.com/wtarreau/bootterm) - The terminal written for its users by its users
-- [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Query and change Linux monitor settings using DDC/CI and USB
+- [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
 - [OpenRC/openrc](https://github.com/OpenRC/openrc) - The OpenRC init system
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
 - [aligrudi/fbpdf](https://github.com/aligrudi/fbpdf) - A small framebuffer pdf, djvu, epub, xps, and cbz viewer
@@ -2232,7 +2232,7 @@
 - [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the viewport. Written in plain "vanilla" JavaScript, it leverages IntersectionObserver, supports responsive images and enables native lazy loading.
 - [CodeforKarlsruhe/direktvermarkter](https://github.com/CodeforKarlsruhe/direktvermarkter) - Karte von Hofläden, Milchautomaten und anderen Direktvermarktern
 - [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
-- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [intika/Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
 - [sigdeletras/Leaflet.Spain.WMS](https://github.com/sigdeletras/Leaflet.Spain.WMS) - Provides easy setup for several Web Map Services (WMS) layers for Spain (PNOA, IGN base, Catastro, etc), from Spanish mapping agencies.
 - [tuxor1337/firedict](https://github.com/tuxor1337/firedict) - Read-only mirror of https://framagit.org/tuxor1337/firedict. Pull requests and issues on GitHub cannot be accepted and will be automatically closed.
@@ -2668,7 +2668,7 @@
 - [zevv/lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [kr1sp1n/gemini-pandoc-lua-filter](https://github.com/kr1sp1n/gemini-pandoc-lua-filter) - Pandoc Lua filter to transform HTML to text/gemini.
 - [L1L1/cardpeek](https://github.com/L1L1/cardpeek) - Automatically exported from code.google.com/p/cardpeek
-- [axkibe/lsyncd](https://github.com/axkibe/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
+- [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [noctux/philote](https://github.com/noctux/philote) - Ansible management for your OpenWRT router - with lua
 - [PhilipRoman/tmux-filetree](https://github.com/PhilipRoman/tmux-filetree) - Simple, non-intrusive dynamic file tree which always tracks your active Tmux pane
 - [ISEMS/ISEMS-ESP32](https://github.com/ISEMS/ISEMS-ESP32) - ISEMS-Port for Solarnodes based on ESP32 Microcontrollers
@@ -3245,7 +3245,7 @@
 - [trehn/termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
 - [laggardkernel/ranger-fzf-marks](https://github.com/laggardkernel/ranger-fzf-marks) - Ranger plugin to manage bookmarks with fzf
 - [stefandtw/feedranger](https://github.com/stefandtw/feedranger) - A file-based RSS/Atom reader that uses Ranger as a UI
-- [andreztz/pyradios](https://github.com/andreztz/pyradios) - Python client for the https://www.radio-browser.info/
+- [andreztz/pyradios](https://github.com/andreztz/pyradios) - Python client for the Radio Browser API
 - [joalla/discogs_client](https://github.com/joalla/discogs_client) - Continuation of the "Official Python Client for the Discogs API"
 - [fscm/discogs2xlsx](https://github.com/fscm/discogs2xlsx) - Export your Discogs collection or wantlist into a xlsx file.
 - [intra2net/paperbackup](https://github.com/intra2net/paperbackup) - Create a pdf with barcodes to backup text files on paper. Designed to backup ASCII-armored GnuPG and SSH key files and ciphertext.
