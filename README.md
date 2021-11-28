@@ -2162,7 +2162,7 @@
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [nextcloud/twofactor_totp](https://github.com/nextcloud/twofactor_totp) - 🔑 Second factor TOTP (RFC 6238) provider for Nextcloud
 - [alct/export-tabs-urls](https://github.com/alct/export-tabs-urls) - https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
-- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or Google Drive
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers
 - [dc-js/dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 - [distillpub/template](https://github.com/distillpub/template) - This is the repository for the distill web framework
 - [jungyoun/html-article-extractor](https://github.com/jungyoun/html-article-extractor) - A web page content extractor
@@ -4416,7 +4416,7 @@
 - [MusicPlayerDaemon/website](https://github.com/MusicPlayerDaemon/website) - The MPD website
 - [gildesmarais/jekyll-blueprint](https://github.com/gildesmarais/jekyll-blueprint) - Blueprint / boilerplate for your new Jekyll site with Github's Actions and deployment on Pages.
 - [html2rss/html2rss-configs](https://github.com/html2rss/html2rss-configs) - 📇 A growing collection of html2rss feed configs. Generate configs with the handy generator.
-- [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 Builds and serves RSS feeds via HTTP. Generate your own feeds or start instantly with the included configs.
+- [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 Generates and delivers RSS feeds via HTTP. Create your own feeds or get started quickly with the included configs.
 - [html2rss/html2rss](https://github.com/html2rss/html2rss) - 📰 Build RSS 2.0 feeds from websites (and JSON APIs) with a few CSS selectors.
 - [ryanfb/academia-dl](https://github.com/ryanfb/academia-dl) - Download PDFs from academia dot edu without logging in
 - [jekyll/github-metadata](https://github.com/jekyll/github-metadata) - Jekyll plugin to propagate the `site.github` namespace and set default values for use with GitHub Pages.
@@ -5360,7 +5360,7 @@
 - [christophergandrud/Rep-Res-Book](https://github.com/christophergandrud/Rep-Res-Book) - Source code files for the book Reproducible Research with R/RStudio
 - [yihui/knitr-book](https://github.com/yihui/knitr-book) - Dynamic Documents with R and knitr
 - [yihui/knitr-examples](https://github.com/yihui/knitr-examples) - A collection of knitr examples
-- [gastonstat/stat133](https://github.com/gastonstat/stat133) - Concepts in Computing with Data, UC Berkeley
+- [gastonstat/stat133-relic](https://github.com/gastonstat/stat133-relic) - Concepts in Computing with Data, UC Berkeley
 - [divad12/resume](https://github.com/divad12/resume) - Yaml resume compiled into multiple formats (such as LaTeX, HTML (TODO), etc.)
 - [OpenIntroStat/openintro-statistics](https://github.com/OpenIntroStat/openintro-statistics) - 📚 An open-source textbook written at the college level. OpenIntro also offers a second college-level intro stat textbook and also a high school variant.
 - [rstudio/rticles](https://github.com/rstudio/rticles) - LaTeX Journal Article Templates for R Markdown
