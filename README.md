@@ -904,7 +904,7 @@
 - [OpenOrienteering/mapper](https://github.com/OpenOrienteering/mapper) - OpenOrienteering Mapper is a software for creating maps for the orienteering sport.
 - [lazarus-pkgs/panini](https://github.com/lazarus-pkgs/panini) - visual tool for creating perspective views from panoramic and wide angle photographs
 - [jbaumann/attiny_daemon](https://github.com/jbaumann/attiny_daemon) - Hardware and Software for a Raspberry UPS based on an ATTiny
-- [jgromes/RadioLib](https://github.com/jgromes/RadioLib) - Universal wireless communication library for Arduino
+- [jgromes/RadioLib](https://github.com/jgromes/RadioLib) - Universal wireless communication library for embedded devices
 - [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) - Command Line Interactive and Scriptable Application to access MEGA
 - [edwardearl/winprom](https://github.com/edwardearl/winprom) - winprom
 - [Yours3lf/rpi-vk-driver](https://github.com/Yours3lf/rpi-vk-driver) - VK driver for the Raspberry Pi (Broadcom Videocore IV)
@@ -1436,7 +1436,7 @@
 - [ilius/crock32](https://github.com/ilius/crock32) - Douglas Crockford's Base32 encoding and decoding library in Go
 - [ilius/chunk32](https://github.com/ilius/chunk32) - The best encoding to write down binary data manually on a physical surface (paper, metal, etc)
 - [crazy-max/firefox-history-merger](https://github.com/crazy-max/firefox-history-merger) - Merge Firefox history and repair missing favicons with ease
-- [askgitdev/askgit](https://github.com/askgitdev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
+- [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [a-h/min](https://github.com/a-h/min) - A Gemini browser (https://gemini.circumlunar.space)
@@ -2610,7 +2610,7 @@
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
 - [pytroll/pytroll-examples](https://github.com/pytroll/pytroll-examples) - Collection of examples for pytroll satellite data processing
 - [ickc/selected-hymns](https://github.com/ickc/selected-hymns) - Selected Hymns
-- [gastonstat/stat259](https://github.com/gastonstat/stat259) - Reproducible and Collaborative Statistical Data Science, UC Berkeley
+- [gastonstat/relic-stat259](https://github.com/gastonstat/relic-stat259) - Reproducible and Collaborative Statistical Data Science, UC Berkeley
 - [jadianes/data-science-your-way](https://github.com/jadianes/data-science-your-way) - Ways of doing Data Science Engineering and Machine Learning in R and Python
 - [ocropus/ocropy](https://github.com/ocropus/ocropy) - Python-based tools for document analysis and OCR
 - [aaren/notedown](https://github.com/aaren/notedown) - Markdown &lt;=&gt; IPython Notebook
@@ -2721,6 +2721,8 @@
 
 ## Makefile 
 
+- [colindean/plaintextaccounting_workshop](https://github.com/colindean/plaintextaccounting_workshop) - An Introduction and Then Some to Plain Text Accounting with Ledger
+- [colindean/talks](https://github.com/colindean/talks) - My talks
 - [dibdot/packages](https://github.com/dibdot/packages) - Community maintained packages for OpenWrt
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 - [jp-fosterson/pandoc-novel](https://github.com/jp-fosterson/pandoc-novel) - Markdown text to a novel in ePub and PDF.
@@ -3408,7 +3410,7 @@
 - [novoid/filetags](https://github.com/novoid/filetags) - Management of simple tags within file names
 - [novoid/Memacs](https://github.com/novoid/Memacs) - What did I do on February 14th 2007? Visualize your (digital) life in Org-mode
 - [karlicoss/orger](https://github.com/karlicoss/orger) - Tool to convert data into searchable and interactive org-mode views
-- [subdavis/kobo-book-downloader](https://github.com/subdavis/kobo-book-downloader) - A tool to download and remove DRM from your purchased Kobo ebooks and audiobooks.
+- [subdavis/kobo-book-downloader](https://github.com/subdavis/kobo-book-downloader) - A tool to download and remove DRM from your purchased Kobo.com ebooks and audiobooks.
 - [TnS-hun/kobo-book-downloader](https://github.com/TnS-hun/kobo-book-downloader) - A tool to download your purchased Kobo books and remove the DRM from them.
 - [felipos/newsboat-url-generator](https://github.com/felipos/newsboat-url-generator) - This script gets your Youtube subscriptions and generate a urls file for Newsboat
 - [simonw/conditional-get](https://github.com/simonw/conditional-get) - CLI tool for fetching data using HTTP conditional get
@@ -5105,7 +5107,7 @@
 - [samtap/fang-hacks](https://github.com/samtap/fang-hacks) - Collection of modifications for the XiaoFang WiFi Camera
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
 - [gohugoio/hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
-- [laktak/extrakto](https://github.com/laktak/extrakto) - tmux - quickly select, copy/insert/complete text without a mouse
+- [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
 - [LukeSmithxyz/shortcut-sync](https://github.com/LukeSmithxyz/shortcut-sync) - Luke's Scripts for bash, ranger and qutebrowser synchronization
 - [na--/ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
 - [arcmags/ramroot](https://github.com/arcmags/ramroot) - Load root file system to ram during boot.
@@ -5360,7 +5362,7 @@
 - [christophergandrud/Rep-Res-Book](https://github.com/christophergandrud/Rep-Res-Book) - Source code files for the book Reproducible Research with R/RStudio
 - [yihui/knitr-book](https://github.com/yihui/knitr-book) - Dynamic Documents with R and knitr
 - [yihui/knitr-examples](https://github.com/yihui/knitr-examples) - A collection of knitr examples
-- [gastonstat/stat133-relic](https://github.com/gastonstat/stat133-relic) - Concepts in Computing with Data, UC Berkeley
+- [gastonstat/relic-stat133](https://github.com/gastonstat/relic-stat133) - Concepts in Computing with Data, UC Berkeley
 - [divad12/resume](https://github.com/divad12/resume) - Yaml resume compiled into multiple formats (such as LaTeX, HTML (TODO), etc.)
 - [OpenIntroStat/openintro-statistics](https://github.com/OpenIntroStat/openintro-statistics) - 📚 An open-source textbook written at the college level. OpenIntro also offers a second college-level intro stat textbook and also a high school variant.
 - [rstudio/rticles](https://github.com/rstudio/rticles) - LaTeX Journal Article Templates for R Markdown
