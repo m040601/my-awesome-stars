@@ -2695,7 +2695,7 @@
 - [yazgoo/elinks-nolinks](https://github.com/yazgoo/elinks-nolinks) - remove header links in elinks
 - [yazgoo/elinks-plug](https://github.com/yazgoo/elinks-plug) - plugin manager for elinks
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
-- [odkr/pandoc-zotxt.lua](https://github.com/odkr/pandoc-zotxt.lua) - Pandoc filter that looks up sources of citations in Zotero.
+- [odkr/pandoc-zotxt.lua](https://github.com/odkr/pandoc-zotxt.lua) - Pandoc filter that looks up bibliographic data for citations in Zotero.
 - [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
 - [pandoc-scholar/pandoc-scholar](https://github.com/pandoc-scholar/pandoc-scholar) - Create beautiful and semantically meaningful articles with pandoc.
 - [ralph-irving/jivelite](https://github.com/ralph-irving/jivelite) - Community logitech media server control application
@@ -5051,7 +5051,6 @@
 - [charlyie/resmushit-cli](https://github.com/charlyie/resmushit-cli) - CLI client for reSmush.it : the Free Image Optimization API. Image optimizer shell script.
 - [ryanbr/fanboy-adblock](https://github.com/ryanbr/fanboy-adblock) - 
 - [yangxuan8282/phicomm-n1](https://github.com/yangxuan8282/phicomm-n1) - 
-- [archphile/recipe](https://github.com/archphile/recipe) - installation scripts and files needed for Archphile
 - [swirepe/alwaysontop](https://github.com/swirepe/alwaysontop) - Keep the input line at the top of the terminal
 - [tadfisher/pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
 - [jomo/tld_checker](https://github.com/jomo/tld_checker) - Check domain availability on all TLDs
@@ -5191,7 +5190,6 @@
 - [thcipriani/dotfiles](https://github.com/thcipriani/dotfiles) - Tyler Cipriani's dotfiles
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [SqueezeOnArch/soa-aur](https://github.com/SqueezeOnArch/soa-aur) - Squeeze on Arch (SOA) Arch User Repository
-- [archphile/packages](https://github.com/archphile/packages) - packages used in Archphile distribution
 - [pimusicbox/pimusicbox](https://github.com/pimusicbox/pimusicbox) - An image (SD-card) to turn the Raspberry Pi into an easy to use MusicBox with Spotify playback and AirTunes streaming
 - [ingydotnet/git-hub](https://github.com/ingydotnet/git-hub) - Do GitHub operations from the `git` command
 - [sri-arjuna/vhs](https://github.com/sri-arjuna/vhs) - Video Handler Script, using ffmpeg
