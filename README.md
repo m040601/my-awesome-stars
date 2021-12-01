@@ -162,6 +162,8 @@
 
 ## C 
 
+- [bitbank2/Thermal_Printer](https://github.com/bitbank2/Thermal_Printer) - Arduino library to draw text and graphics on BLE thermal printers
+- [cariboulabs/cariboulite](https://github.com/cariboulabs/cariboulite) - CaribouLite turns any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR
 - [markqvist/OpenModem](https://github.com/markqvist/OpenModem) - Powerful AFSK modem platform
 - [markqvist/MicroAPRS](https://github.com/markqvist/MicroAPRS) - APRS fork of MicroModem
 - [akemnade/linux](https://github.com/akemnade/linux) - Linux kernel source tree
@@ -775,6 +777,8 @@
 
 ## C++ 
 
+- [m5stack/ATOM-PRINTER](https://github.com/m5stack/ATOM-PRINTER) - Coming Soon
+- [BourgeoisLab/GPXLab](https://github.com/BourgeoisLab/GPXLab) - Program to show and manipulate GPS tracks
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
 - [dalethomas81/HamMessenger](https://github.com/dalethomas81/HamMessenger) - HamMessenger is a portable device that uses a ham radio and the APRS protocol as a medium to send and receive text messages.
 - [marcogrecopriolo/guglielmo](https://github.com/marcogrecopriolo/guglielmo) - Qt based FM / Dab tuner
@@ -1283,7 +1287,7 @@
 
 ## Common Lisp 
 
-- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the Internet on your terms.
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's power-browser.
 
 ## Crystal 
 
@@ -1397,7 +1401,7 @@
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [ciehanski/libgen-cli](https://github.com/ciehanski/libgen-cli) - A CLI tool to access the Library Genesis dataset; written in Go.
 - [jftuga/photo_id_resizer](https://github.com/jftuga/photo_id_resizer) - Resize photo ID images using face recognition technology
-- [noborus/ov](https://github.com/noborus/ov) - A feature-rich terminal-based text viewer.  It is a so-called terminal pager.
+- [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [psanford/wormhole-william-mobile](https://github.com/psanford/wormhole-william-mobile) - End-to-end encrypted file transfer for Android. An Android Magic Wormhole client.
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
@@ -4662,7 +4666,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [MarioJim/fuzzy-pdf](https://github.com/MarioJim/fuzzy-pdf) - Fuzzy finder for a collection of pdf files
 - [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
