@@ -1819,6 +1819,7 @@
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [cran/transcribeR](https://github.com/cran/transcribeR) - :exclamation: This is a read-only mirror of the CRAN R package repository.  transcribeR — Automated Transcription of Audio Files Through the HP IDOL API
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
+- [FOSSRIT/people](https://github.com/FOSSRIT/people) - Interactive directory of FOSS@RIT community members generated from YAML profiles and built with Jekyll
 - [interedition/collatex](https://github.com/interedition/collatex) - CollateX – Software for Collating Textual Sources
 - [HertieDataScience/Examples](https://github.com/HertieDataScience/Examples) - Simple code examples for MPP-E1180
 - [HertieDataScience/SyllabusAndLectures](https://github.com/HertieDataScience/SyllabusAndLectures) - Hertie School of Governance Introduction to Collaborative Social Science Data Analysis
@@ -3613,7 +3614,7 @@
 - [bwhelm/pandoc-reference-filter](https://github.com/bwhelm/pandoc-reference-filter) - internal referencing pandoc filter
 - [kiwi0fruit/knitty](https://github.com/kiwi0fruit/knitty) - Jupyter power in plain Python/Julia/R/any-kernel-lang. Jupyter kernels output as Pandoc filter. Atom/Hydrogen friendly Markdown literature programming. Stitch/Knotr fork.
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
-- [mia-0/0x0](https://github.com/mia-0/0x0) - No-bullshit file hosting and URL shortening service
+- [mia-0/0x0](https://github.com/mia-0/0x0) - No-bullshit file hosting and URL shortening service. Mirror of https://git.0x0.st/mia/0x0
 - [mozilla/pontoon](https://github.com/mozilla/pontoon) - Mozilla's Localization Platform
 - [k4m4/kickthemout](https://github.com/k4m4/kickthemout) - 💤 Kick devices off your network by performing an ARP Spoof attack.
 - [lahwaacz/arch-wiki-docs](https://github.com/lahwaacz/arch-wiki-docs) - A script to download pages from Arch Wiki for offline browsing
@@ -3701,6 +3702,7 @@
 - [sarahzrf/pyglossary-cc-cedict](https://github.com/sarahzrf/pyglossary-cc-cedict) - Convert CC-CEDICT into a pleasantly-formatted dictionary!
 - [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
 - [pettarin/export-kobo](https://github.com/pettarin/export-kobo) - A Python tool to export annotations and highlights from a Kobo SQLite file.
+- [ch2i/LoraGW-Setup](https://github.com/ch2i/LoraGW-Setup) - SX1301 Lora Concentrator Raspberry PI based gateway setup
 - [Mic92/python-mpd2](https://github.com/Mic92/python-mpd2) - Python library which provides a client interface for the Music Player Daemon.
 - [hoveeman/music-cards](https://github.com/hoveeman/music-cards) - Use RFID to call a curl command to homeassistant to play a Google Play playlist
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
@@ -4432,7 +4434,7 @@
 - [softcover/softcover](https://github.com/softcover/softcover) - CLI for book generation, building, and publishing to softcover.io
 - [WebThingsIO/docs](https://github.com/WebThingsIO/docs) - WebThings Documentation
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
-- [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line utility (needs to be updated)
+- [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line client (needs to be updated)
 - [antono/shelr](https://github.com/antono/shelr) - Console screencasting tool
 - [jgarber623/delicious-data-convertor](https://github.com/jgarber623/delicious-data-convertor) - A simple tool written in Ruby that converts exported Delicious bookmarks from HTML to JSON.
 - [mnyrop/pagemaster](https://github.com/mnyrop/pagemaster) - Jekyll plugin for generating Markdown collection pages from CSV/YAML/JSON records 🧙📖
@@ -4474,7 +4476,6 @@
 - [gjtorikian/html-pipeline](https://github.com/gjtorikian/html-pipeline) - HTML processing filters and utilities
 - [maxogden/refine-ruby](https://github.com/maxogden/refine-ruby) - Ruby client library for controlling Google Refine
 - [bblimke/webmock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests in Ruby.
-- [FOSSRIT/people](https://github.com/FOSSRIT/people) - Interactive directory of FOSS@RIT community members generated from YAML profiles and built with Jekyll
 - [matpalm/resemblance](https://github.com/matpalm/resemblance) - trying shingling / resemblance / simhash / sketching to do some data deduping
 - [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer) - Test your rendered HTML files to make sure they're accurate.
 - [hepplerj/rubyist-historian](https://github.com/hepplerj/rubyist-historian) - Code repository for the Rubyist Historian ebook project.
@@ -5105,7 +5106,6 @@
 - [seebye/fmui](https://github.com/seebye/fmui) - fzf mpd user interface
 - [mikepqr/stowsh](https://github.com/mikepqr/stowsh) - A shell script to install and uninstall dotfiles using symlinks with almost no dependencies
 - [rememberYou/dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration
-- [ch2i/LoraGW-Setup](https://github.com/ch2i/LoraGW-Setup) - SX1301 Lora Concentrator Raspberry PI based gateway setup
 - [seemoo-lab/mobisys2018_nexmon_software_defined_radio](https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio) - Proof of concept project for operating Broadcom Wi-Fi chips as arbitrary signal transmitters similar to software-defined radios (SDRs)
 - [samtap/fang-hacks](https://github.com/samtap/fang-hacks) - Collection of modifications for the XiaoFang WiFi Camera
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
