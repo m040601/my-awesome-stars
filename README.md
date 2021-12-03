@@ -1176,7 +1176,6 @@
 
 ## CSS 
 
-- [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
 - [davesteele/comitup](https://github.com/davesteele/comitup) - Bootstrap Wifi support over Wifi
 - [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
@@ -3277,6 +3276,7 @@
 - [doersino/aerialbot](https://github.com/doersino/aerialbot) - A simple yet highly configurable bot that tweets geotagged aerial imagery of a random location in the world.
 - [doersino/earthacrosstime](https://github.com/doersino/earthacrosstime) - Twitter bot that posts videos showcasing how random locations in the world have changed since 1984.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
+- [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [DNSCrypt/dnscrypt-resolvers](https://github.com/DNSCrypt/dnscrypt-resolvers) - Lists of public DNSCrypt / DoH DNS servers and DNS relays
 - [4m1g0/Tiny-Uploader](https://github.com/4m1g0/Tiny-Uploader) - Tiny Uploader, a tool to generate you project one click uploader
