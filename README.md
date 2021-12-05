@@ -154,7 +154,6 @@
 - [LukeSmithxyz/vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate Bible on the Command Line
 - [phillbush/man2md](https://github.com/phillbush/man2md) - man page to markdown converter
 - [step-/JSON.awk](https://github.com/step-/JSON.awk) - Practical JSON parser written in awk
-- [mohd-akram/jawk](https://github.com/mohd-akram/jawk) - Awk for JSON.
 - [manu-mannattil/vim-sdcv](https://github.com/manu-mannattil/vim-sdcv) - Plugin to integrate sdcv with Vim
 - [LukeSmithxyz/grb](https://github.com/LukeSmithxyz/grb) - A cli-accessible Greek Bible with the Septuagint, SBL and Apocrypha
 - [wernsey/d.awk](https://github.com/wernsey/d.awk) - An Awk script to generate documentation from Markdown comments in C/C++/Java/JavaScript/C# source code.
@@ -904,6 +903,7 @@
 - [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [schwehr/libais](https://github.com/schwehr/libais) - C++ decoder for Automatic Identification System for tracking ships and decoding maritime information
 - [Snapcast/snapcast](https://github.com/Snapcast/snapcast) - Synchronous multi-room audio player
+- [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
 - [pantadeusz/raspigcd2](https://github.com/pantadeusz/raspigcd2) - The second attempt to raspberry pi gcode interpreter
 - [OpenOrienteering/mapper](https://github.com/OpenOrienteering/mapper) - OpenOrienteering Mapper is a software for creating maps for the orienteering sport.
 - [lazarus-pkgs/panini](https://github.com/lazarus-pkgs/panini) - visual tool for creating perspective views from panoramic and wide angle photographs
@@ -1501,7 +1501,6 @@
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [tkrajina/gpxgo](https://github.com/tkrajina/gpxgo) - GPX library for golang
 - [doronbehar/pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
-- [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
 - [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
 - [orhun/pkgtop](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor designed for the GNU/Linux.
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
@@ -2488,7 +2487,7 @@
 - [rbonvall/snipmate-snippets-bib](https://github.com/rbonvall/snipmate-snippets-bib) - Snipmate.vim support for BibTeX files
 - [ryanackley/git-html5.js](https://github.com/ryanackley/git-html5.js) - pure Javascript git implementation for your browser
 - [ryanackley/tailor](https://github.com/ryanackley/tailor) - An open source code editor for the web, written in JavaScript, HTML and CSS.
-- [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - 
+- [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
 - [walmartlabs/static](https://github.com/walmartlabs/static) - 
 - [christophercliff/caisson](https://github.com/christophercliff/caisson) - Deploy your static website to AWS
 - [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best JavaScript and Node.js logging service and logging npm package
@@ -4916,6 +4915,7 @@
 - [karlb/karl.berlin](https://github.com/karlb/karl.berlin) - My blog and homepage at karl.berlin, as well as the minimal blog engine used to create the pages.
 - [filiparag/wikiman](https://github.com/filiparag/wikiman) - Wikiman is an offline search engine for manual pages, Arch Wiki, Gentoo Wiki and other documentation.
 - [tomeshnet/prototype-cjdns-pi](https://github.com/tomeshnet/prototype-cjdns-pi) - Prototype system for mesh networks on single board computers
+- [mohd-akram/jawk](https://github.com/mohd-akram/jawk) - Awk for JSON.
 - [huijunchen9260/dmenubib](https://github.com/huijunchen9260/dmenubib) - A simple bibliography manager using dmenu
 - [chin123/archlinux-4044C](https://github.com/chin123/archlinux-4044C) - A guide with accompanying scripts to get a working arch linux chroot on the Alcatel 4044C, a $40 flip phone.
 - [OliverLew/xdg-xmenu](https://github.com/OliverLew/xdg-xmenu) - A shell script to generate menu for xmenu
