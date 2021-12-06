@@ -2036,6 +2036,8 @@
 
 ## JavaScript 
 
+- [filips123/FirefoxPWA](https://github.com/filips123/FirefoxPWA) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
+- [andrioid/jamstack-example](https://github.com/andrioid/jamstack-example) - https://andri.dk/blog/2021/deploy-static-websites-anywhere
 - [joschi/toot-together](https://github.com/joschi/toot-together) - :elephant: A GitHub action to toot from a repository
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
@@ -3228,6 +3230,7 @@
 
 ## Python 
 
+- [kugland/neocities-sync](https://github.com/kugland/neocities-sync) - Sync local directories with neocities.org sites.
 - [LowPowerLab/WattMote](https://github.com/LowPowerLab/WattMote) - Source files for WattMote - a wireless KillAWatt mod similar to the TweetAWatt
 - [rrwen/google_streetview](https://github.com/rrwen/google_streetview) - A command line tool and module for Google Street View Image API
 - [quakkels/rssdiscoveryengine](https://github.com/quakkels/rssdiscoveryengine) - The RSS Discovery Engine exists to encourage people to use RSS for finding and consuming their news and current events.
@@ -4826,6 +4829,8 @@
 
 ## Shell 
 
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal.
+- [jabirali/tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
 - [ploum/offlinetools](https://github.com/ploum/offlinetools) - Tools to spend more time offline
 - [Yetangitu/books](https://github.com/Yetangitu/books) - Library Genesis (libgen) CLI/TUI/GUI client (mirror from private repo)
 - [Nature40/pimod](https://github.com/Nature40/pimod) - Reconfigure Raspberry Pi images with an easy, Docker-like configuration file
