@@ -776,6 +776,7 @@
 
 ## C++ 
 
+- [BCsabaEngine/RF24MeshSerial](https://github.com/BCsabaEngine/RF24MeshSerial) - Firmware for run RF24 Mesh network on ARM devices and access over TTY/serial (USB port)
 - [m5stack/ATOM-PRINTER](https://github.com/m5stack/ATOM-PRINTER) - Coming Soon
 - [BourgeoisLab/GPXLab](https://github.com/BourgeoisLab/GPXLab) - Program to show and manipulate GPS tracks
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
@@ -792,7 +793,7 @@
 - [muesli4/mpd-touch-screen-gui](https://github.com/muesli4/mpd-touch-screen-gui) - A small MPD client that let's you view covers and has controls suitable for small touchscreens. It allows to browse the queue, search for songs and run as standalone application.
 - [muesli4/mpd-automount](https://github.com/muesli4/mpd-automount) - udisks2-based automounter that adds mountpoints to the mpd library.
 - [oe3cjb/TTGO-T-Beam-LoRa-APRS](https://github.com/oe3cjb/TTGO-T-Beam-LoRa-APRS) - Use TTGO T-Beam as LoRa APRS Tracker
-- [lora-aprs/LoRa_APRS_Tracker](https://github.com/lora-aprs/LoRa_APRS_Tracker) - 
+- [lora-aprs/LoRa_APRS_Tracker](https://github.com/lora-aprs/LoRa_APRS_Tracker) - A LoRa based APRS tracker for ESP32 boards.
 - [tomschwarz/neix](https://github.com/tomschwarz/neix) - neix - a RSS/Atom feed reader for your terminal.
 - [JvanKatwijk/drm-receiver](https://github.com/JvanKatwijk/drm-receiver) - The drm receiver is - as the name suggests - a sdr software package for use with SDRplay, hackrf and (some) dabsticks able to decode drm transmissions
 - [JvanKatwijk/SDRunoPlugin_weatherfax](https://github.com/JvanKatwijk/SDRunoPlugin_weatherfax) - SDRuno_weatherfax plugin for SDRuno
@@ -3355,7 +3356,7 @@
 - [schollz/github-backup](https://github.com/schollz/github-backup) - Backup all the repos from Github using the official API
 - [lkiesow/python-feedgen](https://github.com/lkiesow/python-feedgen) - Python module to generate ATOM feeds, RSS feeds and Podcasts.
 - [MerlijnWajer/uinput-mapper](https://github.com/MerlijnWajer/uinput-mapper) - Maps input devices to (multiple) other (virtually, created) input devices. Supports cloning input devices and sharing them over the network. Very useful for applications and games that do not support certain input devices (like gamepads)
-- [adbar/courlan](https://github.com/adbar/courlan) - Clean, filter and sample URLs to optimize data collection. Includes spam, content type and language filters.
+- [adbar/courlan](https://github.com/adbar/courlan) - Clean, filter and sample URLs to optimize data collection – includes spam, content type and language filters
 - [fhamborg/news-please](https://github.com/fhamborg/news-please) - news-please - an integrated web crawler and information extractor for news that just works
 - [pklaus/label_api](https://github.com/pklaus/label_api) - A web service offering an API to print labels on Brother's QL-series. You can write your own plugin to add a new label style.
 - [pklaus/brother_ql_web](https://github.com/pklaus/brother_ql_web) - A Python-based web service to print labels on Brother QL label printers. Based on brother_ql: https://github.com/pklaus/brother_ql
@@ -5049,7 +5050,7 @@
 - [tmux-plugins/tmux-logging](https://github.com/tmux-plugins/tmux-logging) - Easy logging and screen capturing for Tmux.
 - [cdown/nota](https://github.com/cdown/nota) - Simple note taking using your $EDITOR and git
 - [bbugyi200/scripts](https://github.com/bbugyi200/scripts) - Scripts... Many of which are dependencies for my dotfiles repository
-- [bbugyi200/dotfiles](https://github.com/bbugyi200/dotfiles) - My Config Files
+- [bbugyi200/old_dotfiles](https://github.com/bbugyi200/old_dotfiles) - My Config Files
 - [hellricer/mpseek](https://github.com/hellricer/mpseek) - Conditional search queries for Music Player Daemon (MPD)
 - [mjturt/dotfiles](https://github.com/mjturt/dotfiles) - Yet another dotfiles repository
 - [lecler-i/dotfiles](https://github.com/lecler-i/dotfiles) - 
