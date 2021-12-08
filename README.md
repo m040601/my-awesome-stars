@@ -794,7 +794,7 @@
 - [muesli4/mpd-automount](https://github.com/muesli4/mpd-automount) - udisks2-based automounter that adds mountpoints to the mpd library.
 - [oe3cjb/TTGO-T-Beam-LoRa-APRS](https://github.com/oe3cjb/TTGO-T-Beam-LoRa-APRS) - Use TTGO T-Beam as LoRa APRS Tracker
 - [lora-aprs/LoRa_APRS_Tracker](https://github.com/lora-aprs/LoRa_APRS_Tracker) - A LoRa based APRS tracker for ESP32 boards.
-- [tomschwarz/neix](https://github.com/tomschwarz/neix) - neix - a RSS/Atom feed reader for your terminal.
+- [qw3rtty/neix](https://github.com/qw3rtty/neix) - neix - a RSS/Atom feed reader for your terminal.
 - [JvanKatwijk/drm-receiver](https://github.com/JvanKatwijk/drm-receiver) - The drm receiver is - as the name suggests - a sdr software package for use with SDRplay, hackrf and (some) dabsticks able to decode drm transmissions
 - [JvanKatwijk/SDRunoPlugin_weatherfax](https://github.com/JvanKatwijk/SDRunoPlugin_weatherfax) - SDRuno_weatherfax plugin for SDRuno
 - [JvanKatwijk/duoreceiver](https://github.com/JvanKatwijk/duoreceiver) - combined decoder for DAB and FM
@@ -1422,7 +1422,7 @@
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [boringproxy/boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [fasmide/schttp](https://github.com/fasmide/schttp) - An scp to http proxy / gateway thing...
 - [fasmide/remotemoe](https://github.com/fasmide/remotemoe) - tunnels to localhost and other ssh plumbing
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two laptops in close range. Linux, Mac, and Windows.
@@ -2037,7 +2037,7 @@
 
 ## JavaScript 
 
-- [filips123/FirefoxPWA](https://github.com/filips123/FirefoxPWA) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
+- [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
 - [andrioid/jamstack-example](https://github.com/andrioid/jamstack-example) - https://andri.dk/blog/2021/deploy-static-websites-anywhere
 - [joschi/toot-together](https://github.com/joschi/toot-together) - :elephant: A GitHub action to toot from a repository
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.
@@ -4055,7 +4055,7 @@
 - [ianmilligan1/Historian-WARC-1](https://github.com/ianmilligan1/Historian-WARC-1) - The Historian's WARC Toolkit
 - [cs109/content](https://github.com/cs109/content) - Official content for Harvard CS109
 - [midgetspy/Sick-Beard](https://github.com/midgetspy/Sick-Beard) - PVR & episode guide that downloads and manages all your TV shows
-- [Diaoul/subliminal](https://github.com/Diaoul/subliminal) - Subliminal - Subtitles, faster than your thoughts
+- [Diaoul/subliminal](https://github.com/Diaoul/subliminal) - Subtitles, faster than your thoughts
 - [trakt/script.trakt](https://github.com/trakt/script.trakt) - Trakt.tv movie and TV show scrobbler for Kodi
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on CSV or TSV files
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
