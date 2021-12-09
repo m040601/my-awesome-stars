@@ -3061,7 +3061,7 @@
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
-- [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
+- [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [archlinux/archbbs](https://github.com/archlinux/archbbs) - Arch customized FluxBB install (read-only mirror)
 - [lahwaacz/archlinux-mediawiki](https://github.com/lahwaacz/archlinux-mediawiki) - MediaWiki used on Arch Linux websites
@@ -3231,6 +3231,7 @@
 
 ## Python 
 
+- [simonw/git-history](https://github.com/simonw/git-history) - Tools for analyzing Git history using SQLite
 - [kugland/neocities-sync](https://github.com/kugland/neocities-sync) - Sync local directories with neocities.org sites.
 - [LowPowerLab/WattMote](https://github.com/LowPowerLab/WattMote) - Source files for WattMote - a wireless KillAWatt mod similar to the TweetAWatt
 - [rrwen/google_streetview](https://github.com/rrwen/google_streetview) - A command line tool and module for Google Street View Image API
