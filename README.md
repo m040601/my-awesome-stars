@@ -1376,6 +1376,7 @@
 
 ## Go 
 
+- [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager
 - [gregf/rufu](https://github.com/gregf/rufu) - A Rofi Modi For Buku
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
