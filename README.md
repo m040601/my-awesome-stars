@@ -3078,7 +3078,7 @@
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [zotero/dataserver](https://github.com/zotero/dataserver) - Zotero Data Server
 - [medieval-source-book/website](https://github.com/medieval-source-book/website) - 
-- [moode-player/moode](https://github.com/moode-player/moode) - Sources and configs
+- [moode-player/moode](https://github.com/moode-player/moode) - moOde sources and configs
 - [RuneAudio/RuneUI](https://github.com/RuneAudio/RuneUI) - RuneAudio Player User Interface
 - [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare) - :camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you can host yourself. :rice_scene:
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
@@ -5105,7 +5105,7 @@
 - [MToniotti/ARMchromebook](https://github.com/MToniotti/ARMchromebook) - 
 - [13pgeiser/debian_chromebook_XE303C12](https://github.com/13pgeiser/debian_chromebook_XE303C12) - Debian Buster on Samsung Chromebook Serie 3 (XE303C12, ARM Exynos)
 - [passff/passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
-- [moode-player/mosbuild](https://github.com/moode-player/mosbuild) - Sources and configs
+- [moode-player/mosbuild](https://github.com/moode-player/mosbuild) - moOde OS builder
 - [RuneAudio/RuneOS](https://github.com/RuneAudio/RuneOS) - ArchLinux optimized distribution for audio playback
 - [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [nickdaria/TzumiMagicTV-RTLSDR](https://github.com/nickdaria/TzumiMagicTV-RTLSDR) - Working with the 13 dollar Tzumi MagicTV.
