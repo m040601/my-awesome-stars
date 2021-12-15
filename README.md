@@ -174,7 +174,7 @@
 - [xdsopl/pcspkr](https://github.com/xdsopl/pcspkr) - listen to pcm sound over the internal pc speaker
 - [przemoc/pcspk](https://github.com/przemoc/pcspk) - Command line tools for playing simple sounds and melodies using the PC speaker.
 - [aligrudi/neatsmtp](https://github.com/aligrudi/neatsmtp) - A small SMTP client
-- [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for ESP32.
+- [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [networkupstools/nut](https://github.com/networkupstools/nut) - The Network UPS Tools repository
 - [gammu/gammu](https://github.com/gammu/gammu) - Gammu All Mobile Management Utilities
 - [phillbush/xfiles](https://github.com/phillbush/xfiles) - X11 file manager (work in progress)
@@ -1706,7 +1706,6 @@
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [bradleytaunt/1mb-club](https://github.com/bradleytaunt/1mb-club) - An exclusive members-only club for web pages weighing less than 1 megabyte
 - [CollectionBuilder/collectionbuilder-sa](https://github.com/CollectionBuilder/collectionbuilder-sa) - Depreciated stand-alone version of CollectionBuilder
-- [evanwill/cb-sa-csv](https://github.com/evanwill/cb-sa-csv) - 
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [openclimatedata/kigali-amendment-entry-into-force](https://github.com/openclimatedata/kigali-amendment-entry-into-force) - Data Package of entry into force status of the Kigali Amendment to the Montreal Protocol
 - [anoved/Columnate](https://github.com/anoved/Columnate) - Bookmarklet for multicolumn reader mode.
@@ -5407,6 +5406,7 @@
 
 ## TypeScript 
 
+- [iorate/uBlacklist](https://github.com/iorate/uBlacklist) - Blocks specific sites from appearing in Google search results
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [ethomson/send-tweet-action](https://github.com/ethomson/send-tweet-action) - Send a tweet from a GitHub Action
 - [krisek/audioloader](https://github.com/krisek/audioloader) - A responsive Music Player Daemon web client with special focus on listening full albums.
