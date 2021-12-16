@@ -200,7 +200,7 @@
 - [msharov/snownews](https://github.com/msharov/snownews) - :snowman: Snownews is a text-mode RSS feed reader.
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [pschatzmann/pico-arduino](https://github.com/pschatzmann/pico-arduino) - Arduino API Library for the Raspberry Pico
-- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (Music Player, Music Recorder supporting I2S, Microphones, DAC, ADC, A2DP, Url), MP3 Player, AAC Player
+- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (Music Player, Music Recorder supporting I2S, Microphones, DAC, ADC, A2DP, Url, MP3, AAC, AudioKit, ES8388)
 - [SartoxSoftware/audacium](https://github.com/SartoxSoftware/audacium) - Audacity fork without Telemetry and with new features
 - [omar-polo/gmid](https://github.com/omar-polo/gmid) - simple and secure Gemini server
 - [omar-polo/telescope](https://github.com/omar-polo/telescope) - A Gemini Browser
@@ -1711,7 +1711,6 @@
 - [anoved/Columnate](https://github.com/anoved/Columnate) - Bookmarklet for multicolumn reader mode.
 - [trovu/trovu.github.io](https://github.com/trovu/trovu.github.io) - Repo to have a general wiki for Trovu:
 - [tomahock/anti-nonio](https://github.com/tomahock/anti-nonio) - 
-- [ndaidong/article-parser](https://github.com/ndaidong/article-parser) - To extract main article from given URL with Node.js
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [RichiH/conference_proceedings](https://github.com/RichiH/conference_proceedings) - Proceedings of various conferences
 - [jcs/no_color](https://github.com/jcs/no_color) - Website data for no-color.org
@@ -2101,6 +2100,7 @@
 - [gorhill/uBO-Scope](https://github.com/gorhill/uBO-Scope) - A tool to measure over time your own exposure to third parties on the web
 - [yokoffing/Better-Fox](https://github.com/yokoffing/Better-Fox) - An up-to-date user.js to speed up and secure Firefox
 - [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
+- [ndaidong/article-parser](https://github.com/ndaidong/article-parser) - To extract main article from given URL with Node.js
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
 - [ArchiveBox/readability-extractor](https://github.com/ArchiveBox/readability-extractor) - Javascript/Node wrapper around Mozilla's Readability library so that ArchiveBox can call it as a oneshot CLI command to extract each page's article text.
 - [patrickhulce/third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
