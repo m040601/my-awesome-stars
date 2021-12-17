@@ -161,6 +161,7 @@
 
 ## C 
 
+- [t-8ch/pinentry-bemenu](https://github.com/t-8ch/pinentry-bemenu) - Pinentry based on bemenu
 - [bitbank2/Thermal_Printer](https://github.com/bitbank2/Thermal_Printer) - Arduino library to draw text and graphics on BLE thermal printers
 - [cariboulabs/cariboulite](https://github.com/cariboulabs/cariboulite) - CaribouLite turns any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR
 - [markqvist/OpenModem](https://github.com/markqvist/OpenModem) - Powerful AFSK modem platform
@@ -2036,6 +2037,7 @@
 
 ## JavaScript 
 
+- [tuzig/terminal7](https://github.com/tuzig/terminal7) - A Touchable Terminal Emulator & Multiplexer hybrid app
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
 - [andrioid/jamstack-example](https://github.com/andrioid/jamstack-example) - https://andri.dk/blog/2021/deploy-static-websites-anywhere
 - [joschi/toot-together](https://github.com/joschi/toot-together) - :elephant: A GitHub action to toot from a repository
@@ -3231,6 +3233,7 @@
 
 ## Python 
 
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [simonw/git-history](https://github.com/simonw/git-history) - Tools for analyzing Git history using SQLite
 - [kugland/neocities-sync](https://github.com/kugland/neocities-sync) - Sync local directories with neocities.org sites.
 - [LowPowerLab/WattMote](https://github.com/LowPowerLab/WattMote) - Source files for WattMote - a wireless KillAWatt mod similar to the TweetAWatt
