@@ -1043,7 +1043,7 @@
 - [skorokithakis/A6lib](https://github.com/skorokithakis/A6lib) - An ESP8266/Arduino library for communicating with the A6 GSM module. ⛺
 - [crankyoldgit/IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266) - Infrared remote library for ESP8266/ESP32: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/
 - [blynkkk/blynk-library](https://github.com/blynkkk/blynk-library) - Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc.
-- [SmingHub/Sming](https://github.com/SmingHub/Sming) - Sming - Open Source framework for high efficiency native ESP8266 development
+- [SmingHub/Sming](https://github.com/SmingHub/Sming) - Sming - powerful  open source framework simplifying the creation of embedded applications.
 - [rszimm/sprinklers_pi](https://github.com/rszimm/sprinklers_pi) - Sprinkling System Control Program for the Raspberry Pi
 - [nRF24/RF24Mesh](https://github.com/nRF24/RF24Mesh) - OSI Layer 7 Mesh Networking for RF24Network & nrf24L01+ devices
 - [nRF24/RF24Network](https://github.com/nRF24/RF24Network) - OSI Layer 3 Networking for nRF24L01(+) Radios on Arduino and Raspberry Pi
@@ -2819,6 +2819,7 @@
 
 ## Others 
 
+- [SvenKiljan/archlinuxarm-pbp](https://github.com/SvenKiljan/archlinuxarm-pbp) - Arch Linux ARM for Pinebook Pro
 - [maxvfischer/DIY-CNC-machine](https://github.com/maxvfischer/DIY-CNC-machine) - How to build your own CNC machine from scratch
 - [voltlog/Valve-Actuator](https://github.com/voltlog/Valve-Actuator) - 
 - [poolpOrg/OpenSMTPD-book](https://github.com/poolpOrg/OpenSMTPD-book) - 
@@ -4846,7 +4847,7 @@
 - [dmpop/otto](https://github.com/dmpop/otto) - Otto is a clever little 🐒 that imports and organizes photos on your Linux machine or NAS
 - [shinokada/tera](https://github.com/shinokada/tera) - Interactive Bash script terminal music radio player. Play your favorite radio station, CRUD your favorite lists, and explore new radio stations from your terminal.
 - [eshrh/ames](https://github.com/eshrh/ames) - Anki Media Extractor Script: Update anki cards with desktop audio and image on gnu/linux
-- [makedeb/makedeb](https://github.com/makedeb/makedeb) - The modern packaging tool for Debian archives.
+- [makedeb/makedeb](https://github.com/makedeb/makedeb) - A simplicity-focused packaging tool for Debian archives
 - [mbhangui/pistop](https://github.com/mbhangui/pistop) - Start/Stop services on all clients on server shutdown
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [MunifTanjim/tmux-mode-indicator](https://github.com/MunifTanjim/tmux-mode-indicator) - Plugin that displays prompt indicating currently active Tmux mode.
