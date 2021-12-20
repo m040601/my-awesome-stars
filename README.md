@@ -2287,7 +2287,7 @@
 - [Flood-UI/flood](https://github.com/Flood-UI/flood) - A web UI for rTorrent, qBittorrent and Transmission with a Node.js backend and React frontend. Migrate to v4: https://github.com/jesec/flood/wiki/Migrate-from-older-versions-of-Flood.
 - [georgjaehnig/webpages-to-ebook](https://github.com/georgjaehnig/webpages-to-ebook) - Create an EPUB from a list of URLs. Standing on the shoulders of Wget, Readability and Pandoc.
 - [passff/passff](https://github.com/passff/passff) - zx2c4 pass manager extension for Firefox, Chrome and Opera
-- [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - Generate a markdown TOC (table of contents) for a README or any markdown files, using remarkable. Used by NASA, Sass, assemble, verb, and lots of other projects on GitHub. API and CLI.
+- [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for generating a markdown TOC (table of contents) for a README or any markdown files. Uses Remarkable to parse markdown. Used by NASA/openmct, Prisma, Joi, Mocha, Sass, Prettier, Orbit DB, FormatJS, Raneto, hapijs/code, webpack-flow, docusaurus, release-it, ts-loader, json-server, reactfire, bunyan, husky, react-easy-state, react-snap, chakra-ui, carbon, alfresco, repolinter, Assemble, Verb, and thousands of other projects.
 - [kyle8998/Vynchronize](https://github.com/kyle8998/Vynchronize) - Watch videos with friends online with the new real time video synchronization platform
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 - [zaidka/cliget](https://github.com/zaidka/cliget) - A Firefox addon to download login-protected files from the command line
@@ -4414,6 +4414,7 @@
 ## Roff 
 
 - [phillbush/incipit](https://github.com/phillbush/incipit) - the incipit plain text markup language, and some troff macro packages
+- [slavistan/lf-gadgets](https://github.com/slavistan/lf-gadgets) - A collection of useful and nifty use cases and configurations for lf.
 - [mkws-1/mkws](https://github.com/mkws-1/mkws) - A simple static site generator using `sh` as a templating language.
 - [rrthomas/pdfjam-extras](https://github.com/rrthomas/pdfjam-extras) - Some unsupported 'wrapper' scripts for pdfjam
 - [d630/etc-bash](https://github.com/d630/etc-bash) - 
@@ -4851,7 +4852,6 @@
 - [mbhangui/pistop](https://github.com/mbhangui/pistop) - Start/Stop services on all clients on server shutdown
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [MunifTanjim/tmux-mode-indicator](https://github.com/MunifTanjim/tmux-mode-indicator) - Plugin that displays prompt indicating currently active Tmux mode.
-- [slavistan/lf-gadgets](https://github.com/slavistan/lf-gadgets) - A collection of useful and nifty use cases and configurations for lf.
 - [MyOS-ArchLinux/vids](https://github.com/MyOS-ArchLinux/vids) - 🔍 🔘 ⏯️ 🔁 - search for videos to play from youtube.com and other platforms...
 - [quarkscript/linux-armv7-xe303c12-only](https://github.com/quarkscript/linux-armv7-xe303c12-only) - Linux kernel for old google-snow chromebook
 - [bjesus/muxile](https://github.com/bjesus/muxile) - Putting tmux on your mobile - Muxile is a tmux plugin that lets you control a running tmux session with your phone, no app needed.
@@ -5410,7 +5410,7 @@
 
 ## TypeScript 
 
-- [iorate/uBlacklist](https://github.com/iorate/uBlacklist) - Blocks specific sites from appearing in Google search results
+- [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [ethomson/send-tweet-action](https://github.com/ethomson/send-tweet-action) - Send a tweet from a GitHub Action
 - [krisek/audioloader](https://github.com/krisek/audioloader) - A responsive Music Player Daemon web client with special focus on listening full albums.
