@@ -5197,7 +5197,7 @@
 - [gcarq/inox-patchset](https://github.com/gcarq/inox-patchset) - Inox patchset tries to provide a minimal Chromium based browser with focus on privacy by disabling data transmission to Google.
 - [Qeole/pangitive](https://github.com/Qeole/pangitive) - Static blog generator based on pandoc and on Git hooks − this is a fork of fugitive static blog generator
 - [dotphiles/dotsync](https://github.com/dotphiles/dotsync) - Sync dotfiles between multiple machines from a git repo or push using rsync
-- [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs upon any Linux distros without root access
+- [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, upon any Linux distro
 - [whiteinge/ok.sh](https://github.com/whiteinge/ok.sh) - A Bourne shell GitHub API client library focused on interfacing with shell scripts
 - [Othernet-Project/pkgbuilds](https://github.com/Othernet-Project/pkgbuilds) - Source files for Arch repos
 - [Othernet-Project/orx-rpi](https://github.com/Othernet-Project/orx-rpi) - ORx build for Raspberry Pi
