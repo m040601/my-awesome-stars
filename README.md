@@ -1377,6 +1377,8 @@
 
 ## Go 
 
+- [miguelmota/streamhut](https://github.com/miguelmota/streamhut) - Stream your terminal to web without installing anything 🌐
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager
 - [gregf/rufu](https://github.com/gregf/rufu) - A Rofi Modi For Buku
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
@@ -2819,6 +2821,7 @@
 
 ## Others 
 
+- [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
 - [SvenKiljan/archlinuxarm-pbp](https://github.com/SvenKiljan/archlinuxarm-pbp) - Arch Linux ARM for Pinebook Pro
 - [maxvfischer/DIY-CNC-machine](https://github.com/maxvfischer/DIY-CNC-machine) - How to build your own CNC machine from scratch
 - [voltlog/Valve-Actuator](https://github.com/voltlog/Valve-Actuator) - 
