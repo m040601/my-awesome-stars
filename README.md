@@ -4839,6 +4839,7 @@
 
 ## Shell 
 
+- [remileduc/sherver](https://github.com/remileduc/sherver) - Pure Bash lightweight web server.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal.
 - [jabirali/tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
 - [ploum/offlinetools](https://github.com/ploum/offlinetools) - Tools to spend more time offline
