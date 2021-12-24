@@ -161,6 +161,7 @@
 
 ## C 
 
+- [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
 - [t-8ch/pinentry-bemenu](https://github.com/t-8ch/pinentry-bemenu) - Pinentry based on bemenu
 - [bitbank2/Thermal_Printer](https://github.com/bitbank2/Thermal_Printer) - Arduino library to draw text and graphics on BLE thermal printers
 - [cariboulabs/cariboulite](https://github.com/cariboulabs/cariboulite) - CaribouLite turns any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR
@@ -1791,6 +1792,7 @@
 - [luin/readability](https://github.com/luin/readability) - 📚 Turn any web page into a clean view
 - [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
 - [novel/py-urbandict](https://github.com/novel/py-urbandict) - Python module and command line script client for http://urbandictionary.com
+- [netlify-templates/jekyll-netlify-cms](https://github.com/netlify-templates/jekyll-netlify-cms) - A starter template for Jekyll and netlify CMS
 - [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 150 lines of code in total, including HTML and CSS (with no dependencies)
 - [alanorth/hugo-theme-tufte-css](https://github.com/alanorth/hugo-theme-tufte-css) - A simple Hugo theme based on the Tufte CSS style.
 - [nstrayer/tuftesque](https://github.com/nstrayer/tuftesque) - A very similar style to the original tufte hugo theme but with a few modifications. Used in my blogdown blog.
@@ -4454,7 +4456,6 @@
 - [inukshuk/anystyle](https://github.com/inukshuk/anystyle) - Fast and smart citation reference parsing
 - [egh/zotero-lookup-engines](https://github.com/egh/zotero-lookup-engines) - Public (and university) library lookup engines for Zotero
 - [egh/zotxt](https://github.com/egh/zotxt) - zotxt: a Zotero extension for text
-- [netlify-templates/jekyll-netlify-cms](https://github.com/netlify-templates/jekyll-netlify-cms) - A starter template for Jekyll and netlify CMS
 - [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions and pingbacks on any web page
 - [tuanpmt/iot-for-beginners-book](https://github.com/tuanpmt/iot-for-beginners-book) - 
 - [18F/identity-idp](https://github.com/18F/identity-idp) - Login.gov Core App: Identity Provider (IdP)
