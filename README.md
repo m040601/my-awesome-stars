@@ -1044,7 +1044,7 @@
 - [skorokithakis/A6lib](https://github.com/skorokithakis/A6lib) - An ESP8266/Arduino library for communicating with the A6 GSM module. ⛺
 - [crankyoldgit/IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266) - Infrared remote library for ESP8266/ESP32: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/
 - [blynkkk/blynk-library](https://github.com/blynkkk/blynk-library) - Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc.
-- [SmingHub/Sming](https://github.com/SmingHub/Sming) - Sming - powerful  open source framework simplifying the creation of embedded applications.
+- [SmingHub/Sming](https://github.com/SmingHub/Sming) - Sming - powerful  open source framework simplifying the creation of embedded C++ applications.
 - [rszimm/sprinklers_pi](https://github.com/rszimm/sprinklers_pi) - Sprinkling System Control Program for the Raspberry Pi
 - [nRF24/RF24Mesh](https://github.com/nRF24/RF24Mesh) - OSI Layer 7 Mesh Networking for RF24Network & nrf24L01+ devices
 - [nRF24/RF24Network](https://github.com/nRF24/RF24Network) - OSI Layer 3 Networking for nRF24L01(+) Radios on Arduino and Raspberry Pi
