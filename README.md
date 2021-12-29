@@ -2451,7 +2451,7 @@
 - [wshanks/Zutilo](https://github.com/wshanks/Zutilo) - Zotero plugin providing some additional editing features
 - [wshanks/Zoterodactyl](https://github.com/wshanks/Zoterodactyl) - Pentadactyl key mappings for Zotero
 - [nokonoko/Pomf](https://github.com/nokonoko/Pomf) - Simple file uploading and sharing, source for the now shut down site Pomf.se
-- [datproject/dat](https://github.com/datproject/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
+- [dat-ecosystem-archive/dat](https://github.com/dat-ecosystem-archive/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
 - [medialab/artoo](https://github.com/medialab/artoo) - artoo.js - the client-side scraping companion.
 - [thybag/PJAX-Standalone](https://github.com/thybag/PJAX-Standalone) - A standalone implementation of Pushstate AJAX, for non-jquery webpages.
 - [tholman/intense-images](https://github.com/tholman/intense-images) - A simple library to view large images up close using simple mouse interaction, and the full screen.
