@@ -161,6 +161,7 @@
 
 ## C 
 
+- [Cloudef/bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
 - [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
 - [t-8ch/pinentry-bemenu](https://github.com/t-8ch/pinentry-bemenu) - Pinentry based on bemenu
 - [bitbank2/Thermal_Printer](https://github.com/bitbank2/Thermal_Printer) - Arduino library to draw text and graphics on BLE thermal printers
