@@ -2162,7 +2162,7 @@
 - [Juris-M/zotero-odf-scan-plugin](https://github.com/Juris-M/zotero-odf-scan-plugin) - RTF/ODF-Scan for Zotero add-on
 - [GChristensen/scrapyard](https://github.com/GChristensen/scrapyard) - Bookmark heavy lifting
 - [omgimanerd/getnews.tech](https://github.com/omgimanerd/getnews.tech) - A web server that fetches data from the News API and formats it for display in the terminal.
-- [i5ik/DiskerNet](https://github.com/i5ik/DiskerNet) - 💾 DiskerNet - welcome to the diskernet. An internet on your disk.
+- [i5ik/DiskerNet](https://github.com/i5ik/DiskerNet) - 💾 DiskerNet - welcome to the diskernet. An internet on your disk. Disconnect with DiskerNet. An internet for the apocalypse.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [cmdalbem/ciclomapa](https://github.com/cmdalbem/ciclomapa) - Beautiful bike maps of Brazilian cities, powered by OpenStreetMap.
@@ -3253,7 +3253,7 @@
 - [FreeTAKTeam/FreeTakServer](https://github.com/FreeTAKTeam/FreeTakServer) - an open source, lightweight Server for connect TAK clients
 - [moses-palmer/pynput](https://github.com/moses-palmer/pynput) - Sends virtual input commands
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
-- [sezanzeb/key-mapper](https://github.com/sezanzeb/key-mapper) - 🎮 An easy to use tool to change the mapping of your input device buttons.
+- [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 An easy to use tool to change the mapping of your input device buttons.
 - [flags/MacroPad](https://github.com/flags/MacroPad) - Run commands/shortcuts/macros from an extra keyboard or keypad. Linux only.
 - [CrispyConductor/tmux-copy-toolkit](https://github.com/CrispyConductor/tmux-copy-toolkit) - TMUX plugin with various copy-mode tools
 - [doersino/google-maps-at-88-mph](https://github.com/doersino/google-maps-at-88-mph) - Google Maps keeps old satellite imagery around for a while – this tool collects what's available for a user-specified region in the form of a GIF.
