@@ -1865,7 +1865,6 @@
 - [ageitgey/node-unfluff](https://github.com/ageitgey/node-unfluff) - Automatically extract body content (and other cool stuff) from an html document
 - [maybegeek/ur-magnum-opus-pandoc](https://github.com/maybegeek/ur-magnum-opus-pandoc) - Vorlage für schriftliche Arbeiten mit pandoc samt angepasster Stilvorgaben für den geisteswissenschaftlichen Kontext.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
-- [buriy/python-readability](https://github.com/buriy/python-readability) - fast python port of arc90's readability tool, updated to match latest readability.js!
 - [ftsrg-edu/thesis-template-markdown](https://github.com/ftsrg-edu/thesis-template-markdown) - Thesis template in Markdown
 - [programminghistorian/jekyll](https://github.com/programminghistorian/jekyll) - Jekyll-based static site for The Programming Historian
 - [Xeoncross/jr](https://github.com/Xeoncross/jr) - Jr. the static, static javascript site generator (you should see this)
@@ -4031,6 +4030,7 @@
 - [darkfeline/dantalian](https://github.com/darkfeline/dantalian) - File tagging with hard links
 - [davidlazar/jotmuch](https://github.com/davidlazar/jotmuch) - Jotmuch bookmark manager
 - [baumartig/paperboy](https://github.com/baumartig/paperboy) - Server for compiling and sending the calibre news.
+- [buriy/python-readability](https://github.com/buriy/python-readability) - fast python port of arc90's readability tool, updated to match latest readability.js!
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript
 - [chrippa/livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
