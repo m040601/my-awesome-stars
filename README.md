@@ -161,6 +161,9 @@
 
 ## C 
 
+- [wuhanstudio/u8g2-arm-linux](https://github.com/wuhanstudio/u8g2-arm-linux) - U8g2 for arm linux - a monochrome graphics library
+- [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
+- [rvaiya/warpd](https://github.com/rvaiya/warpd) - A small X program which provides novel methods for keyboard driven cursor manipulation.
 - [Cloudef/bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
 - [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
 - [t-8ch/pinentry-bemenu](https://github.com/t-8ch/pinentry-bemenu) - Pinentry based on bemenu
@@ -1379,6 +1382,8 @@
 
 ## Go 
 
+- [noborus/ovcs](https://github.com/noborus/ovcs) - The client/server of the terminal pager ov.
+- [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
 - [miguelmota/streamhut](https://github.com/miguelmota/streamhut) - Stream your terminal to web without installing anything 🌐
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager
@@ -2139,7 +2144,6 @@
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org) - JSCAD is an open source set of modular, browser and command line tools for creating parametric 2D and 3D designs with JavaScript code. It provides a quick, precise and reproducible method for generating 3D models, and is especially useful for 3D printing applications.
 - [davidferguson/pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
-- [circleci/circleci-docs](https://github.com/circleci/circleci-docs) - Documentation for CircleCI.
 - [inaturalist/inaturalist](https://github.com/inaturalist/inaturalist) - The Rails app behind iNaturalist.org
 - [anvaka/peak-map](https://github.com/anvaka/peak-map) - Make a ridge line chart from any region on Earth
 - [evilpie/add-custom-search-engine](https://github.com/evilpie/add-custom-search-engine) - Add a custom search engine to the list of available search engines in Firefox
@@ -2164,7 +2168,7 @@
 - [Juris-M/zotero-odf-scan-plugin](https://github.com/Juris-M/zotero-odf-scan-plugin) - RTF/ODF-Scan for Zotero add-on
 - [GChristensen/scrapyard](https://github.com/GChristensen/scrapyard) - Bookmark heavy lifting
 - [omgimanerd/getnews.tech](https://github.com/omgimanerd/getnews.tech) - A web server that fetches data from the News API and formats it for display in the terminal.
-- [i5ik/Diskernet](https://github.com/i5ik/Diskernet) - 💾 Diskernet - Your preferred backup solution. It's like you're still online! Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet: an internet on yer disk. Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo.
+- [i5ik/Diskernet](https://github.com/i5ik/Diskernet) - 💾 Diskernet - Your preferred backup solution. It's like you're still online! Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet: an internet on yer disk. Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo. Formerly 22120 (project codename) ;P ;) xx;p
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [cmdalbem/ciclomapa](https://github.com/cmdalbem/ciclomapa) - Beautiful bike maps of Brazilian cities, powered by OpenStreetMap.
@@ -3241,6 +3245,7 @@
 
 ## Python 
 
+- [feeby2494/chromebook_parts_tracker](https://github.com/feeby2494/chromebook_parts_tracker) - 
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [simonw/git-history](https://github.com/simonw/git-history) - Tools for analyzing Git history using SQLite
 - [kugland/neocities-sync](https://github.com/kugland/neocities-sync) - Sync local directories with neocities.org sites.
@@ -4845,6 +4850,7 @@
 
 ## Shell 
 
+- [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
 - [remileduc/sherver](https://github.com/remileduc/sherver) - Pure Bash lightweight web server.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal.
 - [jabirali/tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
