@@ -2279,7 +2279,6 @@
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
 - [palaniraja/blog2md](https://github.com/palaniraja/blog2md) - Convert Blogger & Wordpress backup blog posts to hugo compatible markdown documents
 - [akabekobeko/npm-wpxml2md](https://github.com/akabekobeko/npm-wpxml2md) - Convert the WordPress XML file to Markdown files.
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [audreyt/ethercalc](https://github.com/audreyt/ethercalc) - Node.js port of Multi-user SocialCalc
 - [perliedman/leaflet-realtime](https://github.com/perliedman/leaflet-realtime) - Put realtime data on a Leaflet map
 - [topojson/topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
@@ -4488,7 +4487,7 @@
 - [yaoweibin/chinese_text_filter](https://github.com/yaoweibin/chinese_text_filter) - Process the Chinese text stuff
 - [miguelpais/Publico-Newspaper-Crawler-for-Portuguese-Corpus-Creation](https://github.com/miguelpais/Publico-Newspaper-Crawler-for-Portuguese-Corpus-Creation) - A crawler that accesses the portuguese Publico newspaper (publico.pt), gets all the news links it can, and from those news pages it tries to reach even more news, grabbing all their text in the meantime creating a portuguese corpus
 - [danchoi/firelinks](https://github.com/danchoi/firelinks) - Sync elinks with Firefox
-- [hendotcat/ppl](https://github.com/hendotcat/ppl) - The command line address book
+- [henrycatalinismith/ppl](https://github.com/henrycatalinismith/ppl) - The command line address book
 - [jovandeginste/mediawiki_to_gollum](https://github.com/jovandeginste/mediawiki_to_gollum) - Scripts to convert a mediawiki xml export to a git repository usable with Gollum
 - [mfenner/jekyll-pandoc](https://github.com/mfenner/jekyll-pandoc) - Jekyll Pandoc markdown converter as Ruby gem
 - [chrisanthropic/Open-Publisher](https://github.com/chrisanthropic/Open-Publisher) - Using Jekyll to create outputs that can be used as Pandoc inputs. In short - input markdown, output mobi, epub, pdf, and print-ready pdf. With a focus on fiction.
@@ -5471,6 +5470,7 @@
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [hotwired/stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
+- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [davidar/pandiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc
 - [Ashish-Bansal/audio-only-youtube](https://github.com/Ashish-Bansal/audio-only-youtube) - Listen to only audio on youtube.
