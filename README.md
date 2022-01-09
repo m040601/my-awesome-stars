@@ -161,6 +161,7 @@
 
 ## C 
 
+- [aligrudi/neatlibc](https://github.com/aligrudi/neatlibc) - A small arm/x86(-64) libc
 - [wuhanstudio/u8g2-arm-linux](https://github.com/wuhanstudio/u8g2-arm-linux) - U8g2 for arm linux - a monochrome graphics library
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A small X program which provides novel methods for keyboard driven cursor manipulation.
@@ -2419,7 +2420,7 @@
 - [mafintosh/peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
 - [stephen304/bitcannon](https://github.com/stephen304/bitcannon) - A torrent index archiving, browsing, and backup tool
 - [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
-- [Zhouzi/TheaterJS](https://github.com/Zhouzi/TheaterJS) - Typing animation mimicking human behavior.
+- [zhouzi/TheaterJS](https://github.com/zhouzi/TheaterJS) - Typing animation mimicking human behavior.
 - [thlorenz/doctoc-web](https://github.com/thlorenz/doctoc-web) - This is the source of the DocToc web application.
 - [ywzhaiqi/userscript](https://github.com/ywzhaiqi/userscript) - 本人原创或修改的 GM 脚本，包括小说阅读脚本等。
 - [fasiha/fuzzy-anki](https://github.com/fasiha/fuzzy-anki) - An Anki browser: upload your APKG decks or ANKI2 collections and see what's inside!
@@ -2829,6 +2830,7 @@
 
 ## Others 
 
+- [brunompena/zsun-resources](https://github.com/brunompena/zsun-resources) - Zsun SD100 OpenWrt Resources
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
 - [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
 - [SvenKiljan/archlinuxarm-pbp](https://github.com/SvenKiljan/archlinuxarm-pbp) - Arch Linux ARM for Pinebook Pro
