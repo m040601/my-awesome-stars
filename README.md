@@ -1387,6 +1387,8 @@
 
 ## Go 
 
+- [mmarkdown/mmark](https://github.com/mmarkdown/mmark) - Mmark: a powerful markdown processor in Go geared towards the IETF
+- [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [noborus/ovcs](https://github.com/noborus/ovcs) - The client/server of the terminal pager ov.
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
 - [miguelmota/streamhut](https://github.com/miguelmota/streamhut) - Stream your terminal to web without installing anything 🌐
@@ -2744,6 +2746,7 @@
 
 ## Makefile 
 
+- [danyork/writing-internet-drafts-in-markdown](https://github.com/danyork/writing-internet-drafts-in-markdown) - A presentation (in Markdown) for the IETF Hub Boston on June 12, 2018.
 - [colindean/plaintextaccounting_workshop](https://github.com/colindean/plaintextaccounting_workshop) - An Introduction and Then Some to Plain Text Accounting with Ledger
 - [colindean/talks](https://github.com/colindean/talks) - My talks
 - [dibdot/packages](https://github.com/dibdot/packages) - Community maintained packages for OpenWrt
@@ -3293,7 +3296,6 @@
 - [mayureshw/feeds2mail](https://github.com/mayureshw/feeds2mail) - feeds2mail is a tool to email new articles appearing on web in the form of rss feeds, collections of rss feeds, youtube etc. Its basic idea is inspired by rss2email with a lot of flexibility in terms of specifying sources of articles
 - [thiswillbeyourgithub/IndexableAnki](https://github.com/thiswillbeyourgithub/IndexableAnki) - Turn each card of an anki collection into easily searchable txt files
 - [thiswillbeyourgithub/IndexableNewsboat](https://github.com/thiswillbeyourgithub/IndexableNewsboat) - Makes the db of newsboat (a great rss reader) indexable by desktop search engine like recoll or docfetcher
-- [rern/rOS](https://github.com/rern/rOS) - Raspberry Pi audio player
 - [opendatateam/udata](https://github.com/opendatateam/udata) - Customizable and skinnable social platform dedicated to open data.
 - [jp-fosterson/pandocblog](https://github.com/jp-fosterson/pandocblog) - Static site and blog template using pandoc, make, and some python.
 - [justdomains/ci](https://github.com/justdomains/ci) - Automated scripts to support converting filter lists (in various formats) to "domain-only" lists for use in DNS / domain-blocking tools like Pi-Hole. Used to create: justdomains/blocklists
@@ -4895,6 +4897,7 @@
 - [Bugswriter/tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [bakkenbaeck/a-random-walk-through-git](https://github.com/bakkenbaeck/a-random-walk-through-git) - A weird tour through Git and some of its internals.
 - [rern/rAudio-addons](https://github.com/rern/rAudio-addons) - 
+- [rern/rOS](https://github.com/rern/rOS) - Raspberry Pi audio player
 - [robviauc/openwrtfw-ha](https://github.com/robviauc/openwrtfw-ha) - Integrates OpenWRT firewall with HomeAssistant via MQTT
 - [system76/launch](https://github.com/system76/launch) - System76 Launch Configurable Keyboard
 - [Roshan-R/termv](https://github.com/Roshan-R/termv) - A terminal iptv player written in bash
