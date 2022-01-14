@@ -4689,7 +4689,7 @@
 - [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results
 - [juan-leon/lowcharts](https://github.com/juan-leon/lowcharts) - Tool to draw low-resolution graphs in terminal
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests.
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text and curl.
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 - [ItayGarin/ktrl](https://github.com/ItayGarin/ktrl) - A Supercharged Keyboard Programming Daemon ⌨️
