@@ -2730,6 +2730,7 @@
 - [hkupty/nvimux](https://github.com/hkupty/nvimux) - Neovim as a TMUX replacement
 - [hkupty/iron.nvim](https://github.com/hkupty/iron.nvim) - Interactive Repl Over Neovim
 - [jgm/lcmark](https://github.com/jgm/lcmark) - Flexible CommonMark converter
+- [jgm/pandoc-website](https://github.com/jgm/pandoc-website) - Source files for pandoc's website
 - [bwhelm/Pandoc-Comment-Filter](https://github.com/bwhelm/Pandoc-Comment-Filter) - Extension to pandoc flavored markdown to allow for comments
 - [lvml/mpv-plugin-excerpt](https://github.com/lvml/mpv-plugin-excerpt) - 
 - [koreader/koreader-sync-server](https://github.com/koreader/koreader-sync-server) - self hostable synchronization service for koreader devices
@@ -4442,7 +4443,6 @@
 - [d630/etc-bash](https://github.com/d630/etc-bash) - 
 - [Creality3DPrinting/Ender-3](https://github.com/Creality3DPrinting/Ender-3) - The Creality3D Ender-3, a fully Open Source 3D printer perfect for new users on a budget.
 - [xorhash/fh](https://github.com/xorhash/fh) - file history with ed(1), diff(1), awk(1), sed(1) and sh(1)
-- [jgm/pandoc-website](https://github.com/jgm/pandoc-website) - Source files for pandoc's website
 - [commonsense/conceptnet5](https://github.com/commonsense/conceptnet5) - Code for building ConceptNet from raw data.
 - [kisom/rawk](https://github.com/kisom/rawk) - rage against web frameworks - posix shell static site generator
 - [rupa/v](https://github.com/rupa/v) - z for vim
@@ -4688,7 +4688,7 @@
 - [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results
 - [juan-leon/lowcharts](https://github.com/juan-leon/lowcharts) - Tool to draw low-resolution graphs in terminal
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text and curl.
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 - [ItayGarin/ktrl](https://github.com/ItayGarin/ktrl) - A Supercharged Keyboard Programming Daemon ⌨️
