@@ -3717,6 +3717,7 @@
 - [RandyCupic/RuneAudioLCD](https://github.com/RandyCupic/RuneAudioLCD) - Program for RuneAudio for LCD, remote and buttons
 - [espressif/esptool](https://github.com/espressif/esptool) - Espressif SoC serial bootloader utility
 - [paltatech/VESC-controller](https://github.com/paltatech/VESC-controller) - 
+- [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 - [standardebooks/tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files.
@@ -5136,7 +5137,6 @@
 - [passff/passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
 - [moode-player/mosbuild](https://github.com/moode-player/mosbuild) - moOde OS builder
 - [RuneAudio/RuneOS](https://github.com/RuneAudio/RuneOS) - ArchLinux optimized distribution for audio playback
-- [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [nickdaria/TzumiMagicTV-RTLSDR](https://github.com/nickdaria/TzumiMagicTV-RTLSDR) - Working with the 13 dollar Tzumi MagicTV.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [openipcamera/openipc-firmware](https://github.com/openipcamera/openipc-firmware) - OpenIPC Firmware for Wyze Cameras
