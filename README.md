@@ -209,7 +209,7 @@
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [pschatzmann/pico-arduino](https://github.com/pschatzmann/pico-arduino) - Arduino API Library for the Raspberry Pico
 - [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (Music Player, Music Recorder supporting I2S, Microphones, DAC, ADC, A2DP, Url, MP3, AAC, AudioKit, ES8388)
-- [SartoxSoftware/audacium](https://github.com/SartoxSoftware/audacium) - Audacity fork without Telemetry and with new features
+- [SartoxSoftware/audacium](https://github.com/SartoxSoftware/audacium) - Free and open-source audio editor
 - [omar-polo/gmid](https://github.com/omar-polo/gmid) - simple and secure Gemini server
 - [omar-polo/telescope](https://github.com/omar-polo/telescope) - A Gemini Browser
 - [hexdump0815/linux-mainline-and-mali-generic-stable-kernel](https://github.com/hexdump0815/linux-mainline-and-mali-generic-stable-kernel) - my kind of generic armv7l 32bit linux mainline stable kernel build - used on bananapi m1, asus tinkerboard, tx1 allwinner h3 tv box, r39 allwinner h3 tv box, orbsmart s92 tv box (same as beelink r89, tronsmart orion r28, very similar to ubox tv box), raspberry pi 3b and 3b plus in 32bit mode
