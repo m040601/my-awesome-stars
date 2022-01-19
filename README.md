@@ -2869,7 +2869,6 @@
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [archdroid-org/repo](https://github.com/archdroid-org/repo) - Releases for the pkgbuilds repository.
-- [Twisted-Fields/acorn-robot-electronics](https://github.com/Twisted-Fields/acorn-robot-electronics) - PCB hardware designs in KICAD for Acorn, the precision farming rover from Twisted Fields.
 - [Twisted-Fields/acorn-mechanical-designs](https://github.com/Twisted-Fields/acorn-mechanical-designs) - Mechanical design information for Acorn, the precision farming rover from Twisted Fields
 - [ubc-library-rc/awesome-digital-scholarship](https://github.com/ubc-library-rc/awesome-digital-scholarship) - Awesome List for Digital Scholarship
 - [napsternxg/awesome-scholarly-data-analysis](https://github.com/napsternxg/awesome-scholarly-data-analysis) - A curated collection of resources on scholarly data analysis ranging from datasets, papers, and code about bibliometrics, citation analysis, and other scholarly commons resources.
@@ -3319,6 +3318,7 @@
 - [camelot-dev/camelot](https://github.com/camelot-dev/camelot) - A Python library to extract tabular data from PDFs
 - [artperrin/image2csv](https://github.com/artperrin/image2csv) - Convert tables stored as images to an usable .csv file
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
+- [Twisted-Fields/acorn-robot-electronics](https://github.com/Twisted-Fields/acorn-robot-electronics) - PCB hardware designs in KICAD for Acorn, the precision farming rover from Twisted Fields.
 - [Twisted-Fields/acorn-precision-farming-rover](https://github.com/Twisted-Fields/acorn-precision-farming-rover) - Source code for Acorn, the precision farming rover by Twisted Fields
 - [dewitt/opensearch](https://github.com/dewitt/opensearch) - OpenSearch is a collection of simple formats for the sharing of search results.
 - [afewmail/afew](https://github.com/afewmail/afew) - an initial tagging script for notmuch mail
