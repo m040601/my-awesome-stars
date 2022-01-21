@@ -161,6 +161,11 @@
 
 ## C 
 
+- [deeice/ziptuner](https://github.com/deeice/ziptuner) - Internet radio station tuner (playlist fetcher) for the console using C and dialog.
+- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (Music Player, Music Recorder supporting I2S, Microphones, DAC, ADC, A2DP, Url, MP3, AAC, AudioKit, ES8388)
+- [jscrane/TTS](https://github.com/jscrane/TTS) - Arduino Text-to-Speech Library
+- [pschatzmann/TTS](https://github.com/pschatzmann/TTS) - Arduino Text-to-Speech Library
+- [pschatzmann/rp2040-i2s](https://github.com/pschatzmann/rp2040-i2s) - I2S Arduino Library for Raspberry Pico
 - [wrp/smtx](https://github.com/wrp/smtx) - Simple modal terminal mulitplexer
 - [aligrudi/neatlibc](https://github.com/aligrudi/neatlibc) - A small arm/x86(-64) libc
 - [wuhanstudio/u8g2-arm-linux](https://github.com/wuhanstudio/u8g2-arm-linux) - U8g2 for arm linux - a monochrome graphics library
@@ -208,7 +213,6 @@
 - [msharov/snownews](https://github.com/msharov/snownews) - :snowman: Snownews is a text-mode RSS feed reader.
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [pschatzmann/pico-arduino](https://github.com/pschatzmann/pico-arduino) - Arduino API Library for the Raspberry Pico
-- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (Music Player, Music Recorder supporting I2S, Microphones, DAC, ADC, A2DP, Url, MP3, AAC, AudioKit, ES8388)
 - [SartoxSoftware/audacium](https://github.com/SartoxSoftware/audacium) - Free and open-source audio editor
 - [omar-polo/gmid](https://github.com/omar-polo/gmid) - simple and secure Gemini server
 - [omar-polo/telescope](https://github.com/omar-polo/telescope) - A Gemini Browser
@@ -784,6 +788,8 @@
 
 ## C++ 
 
+- [pschatzmann/esp32_vue_example](https://github.com/pschatzmann/esp32_vue_example) - 
+- [pschatzmann/ESP32-A2DP](https://github.com/pschatzmann/ESP32-A2DP) - A Simple ESP32 Bluetooth A2DP Library (to implement a Music Receiver or Sender) that supports Arduino, PlatformIO and Espressif IDF
 - [Martchus/arch-repo-manager](https://github.com/Martchus/arch-repo-manager) - Experimental project containing INOFFICIAL tools to manage custom Arch Linux repositories; built on top of tools provided by the pacman and devtools packages.
 - [Martchus/tagparser](https://github.com/Martchus/tagparser) - C++ library for reading and writing MP4/M4A/AAC (iTunes), ID3, Vorbis, Opus, FLAC and Matroska tags
 - [snyball/Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
@@ -3255,6 +3261,9 @@
 
 ## Python 
 
+- [milaq/YCast](https://github.com/milaq/YCast) - Self hosted vTuner internet radio service emulation
+- [deep5050/radio-active](https://github.com/deep5050/radio-active) - Play any radios around the globe right from the terminal :zap:
+- [P3qch/aioradios](https://github.com/P3qch/aioradios) - An asynchronous API wrapper for www.radio-browser.info
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [feeby2494/chromebook_parts_tracker](https://github.com/feeby2494/chromebook_parts_tracker) - 
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -5504,6 +5513,7 @@
 
 ## Vala 
 
+- [louis77/tuner](https://github.com/louis77/tuner) - GNU/Linux app to discover and play internet radio stations
 - [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 - [Sweets/tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
