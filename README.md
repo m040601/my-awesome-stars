@@ -161,6 +161,7 @@
 
 ## C 
 
+- [OliverLew/dwm](https://github.com/OliverLew/dwm) - My fork of the suckless window manager dwm
 - [deeice/ziptuner](https://github.com/deeice/ziptuner) - Internet radio station tuner (playlist fetcher) for the console using C and dialog.
 - [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (Music Player, Music Recorder supporting I2S, Microphones, DAC, ADC, A2DP, Url, MP3, AAC, AudioKit, ES8388)
 - [jscrane/TTS](https://github.com/jscrane/TTS) - Arduino Text-to-Speech Library
@@ -4510,7 +4511,7 @@
 - [jovandeginste/mediawiki_to_gollum](https://github.com/jovandeginste/mediawiki_to_gollum) - Scripts to convert a mediawiki xml export to a git repository usable with Gollum
 - [mfenner/jekyll-pandoc](https://github.com/mfenner/jekyll-pandoc) - Jekyll Pandoc markdown converter as Ruby gem
 - [chrisanthropic/Open-Publisher](https://github.com/chrisanthropic/Open-Publisher) - Using Jekyll to create outputs that can be used as Pandoc inputs. In short - input markdown, output mobi, epub, pdf, and print-ready pdf. With a focus on fiction.
-- [coreinfrastructure/best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - 🏆Core Infrastructure Initiative Best Practices Badge
+- [coreinfrastructure/best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - 🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge)
 - [pauly/pi-motion](https://github.com/pauly/pi-motion) - collection of pi based motion detection things
 - [openjournals/theoj](https://github.com/openjournals/theoj) - The Open Journal
 - [dwarfmaster/contact-manager](https://github.com/dwarfmaster/contact-manager) - A simple contact manager written in gawk compatible with abook adressbook files.
@@ -4870,6 +4871,7 @@
 
 ## Shell 
 
+- [andrewboring/alarm-images](https://github.com/andrewboring/alarm-images) - Arch Linux Arm Base Images for Raspberry Pi
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
 - [remileduc/sherver](https://github.com/remileduc/sherver) - Pure Bash lightweight web server.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal.
