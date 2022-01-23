@@ -1394,6 +1394,7 @@
 
 ## Go 
 
+- [skx/mpd-web](https://github.com/skx/mpd-web) - Simple HTTP view of an MPD server
 - [mmarkdown/mmark](https://github.com/mmarkdown/mmark) - Mmark: a powerful markdown processor in Go geared towards the IETF
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [noborus/ovcs](https://github.com/noborus/ovcs) - The client/server of the terminal pager ov.
@@ -2861,7 +2862,6 @@
 - [Rabios/awesome-raylib](https://github.com/Rabios/awesome-raylib) - Curated list of awesome stuff for raylib.
 - [RichardLitt/meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
 - [jazmichaelking/mastodon-near-me](https://github.com/jazmichaelking/mastodon-near-me) - Directory of Mastodon and related servers that operate primarily in or are targeted to a locality or region
-- [snonux/gemtexter](https://github.com/snonux/gemtexter) - Gemini Gemtext blog engine and to HTML + Markdown converter
 - [Xinyuan-LilyGO/LilyGO-T-Motion](https://github.com/Xinyuan-LilyGO/LilyGO-T-Motion) - LilyGO-T-Motion
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [robhagemans/hoard-of-bitfonts](https://github.com/robhagemans/hoard-of-bitfonts) - turns out I like bitmap fonts
@@ -3262,6 +3262,7 @@
 
 ## Python 
 
+- [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo and Google. Specific to dev websites like StackOverflow or GitHub.
 - [milaq/YCast](https://github.com/milaq/YCast) - Self hosted vTuner internet radio service emulation
 - [deep5050/radio-active](https://github.com/deep5050/radio-active) - Play any radios around the globe right from the terminal :zap:
 - [P3qch/aioradios](https://github.com/P3qch/aioradios) - An asynchronous API wrapper for www.radio-browser.info
