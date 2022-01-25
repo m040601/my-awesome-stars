@@ -664,7 +664,7 @@
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [Make-Magazine/PirateRadio](https://github.com/Make-Magazine/PirateRadio) - Raspberry Pi Automated FM Radio Script
 - [phoboslab/jsmpeg-vnc](https://github.com/phoboslab/jsmpeg-vnc) - A low latency, high framerate screen sharing server for Windows and client for browsers
-- [viking/r-yaml](https://github.com/viking/r-yaml) - R package for converting objects to and from YAML
+- [vubiostat/r-yaml](https://github.com/vubiostat/r-yaml) - R package for converting objects to and from YAML
 - [rednoah/VASH](https://github.com/rednoah/VASH) - Perceptual Hash project for Videos (MMAI Term Project)
 - [r-lib/commonmark](https://github.com/r-lib/commonmark) - High Performance CommonMark and Github Markdown Rendering in R
 - [jeroen/gpg](https://github.com/jeroen/gpg) - Bindings to gpgme for R
@@ -3262,7 +3262,7 @@
 
 ## Python 
 
-- [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo and Google. Specific to dev websites like StackOverflow or GitHub.
+- [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [milaq/YCast](https://github.com/milaq/YCast) - Self hosted vTuner internet radio service emulation
 - [deep5050/radio-active](https://github.com/deep5050/radio-active) - Play any radios around the globe right from the terminal :zap:
 - [P3qch/aioradios](https://github.com/P3qch/aioradios) - An asynchronous API wrapper for www.radio-browser.info
