@@ -4695,6 +4695,7 @@
 
 ## Rust 
 
+- [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
 - [samvel1024/kbct](https://github.com/samvel1024/kbct) - Keyboard keycode mapping utility for Linux supporting layered configuration
 - [cyphar/paperback](https://github.com/cyphar/paperback) - Paper backup generator suitable for long-term storage.
 - [messense/jieba-rs](https://github.com/messense/jieba-rs) - The Jieba Chinese Word Segmentation Implemented in Rust
