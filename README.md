@@ -161,6 +161,7 @@
 
 ## C 
 
+- [directfb2/DirectFB2](https://github.com/directfb2/DirectFB2) - Core DirectFB library
 - [OliverLew/dwm](https://github.com/OliverLew/dwm) - My fork of the suckless window manager dwm
 - [deeice/ziptuner](https://github.com/deeice/ziptuner) - Internet radio station tuner (playlist fetcher) for the console using C and dialog.
 - [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (Music Player, Music Recorder supporting I2S, Microphones, DAC, ADC, A2DP, Url, MP3, AAC, AudioKit, ES8388)
@@ -3100,7 +3101,7 @@
 - [farmOS/farmOS](https://github.com/farmOS/farmOS) - farmOS: A web-based farm record keeping application.
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [IzzySoft/miniCalOPe](https://github.com/IzzySoft/miniCalOPe) - basic OPDS (and HTML) catalog provider for eBooks. Moved to https://codeberg.org/izzy/miniCalOPe
-- [benbalter/wordpress-to-jekyll-exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter) - One-click WordPress plugin that converts all posts, pages, taxonomies, metadata, and settings to Markdown and YAML which can be dropped into Jekyll
+- [benbalter/wordpress-to-jekyll-exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter) - One-click WordPress plugin that converts all posts, pages, taxonomies, metadata, and settings to Markdown and YAML which can be dropped into Jekyll (or Hugo or any other Markdown and YAML based site engine).
 - [SchumacherFM/wordpress-to-hugo-exporter](https://github.com/SchumacherFM/wordpress-to-hugo-exporter) - Hugo is static site generator written in golang. Wordpress is a tool for remote access to your server ;-) ❗️Contributions welcome!
 - [martinberlin/php-gallery](https://github.com/martinberlin/php-gallery) - Simple PHP Bootstrap 4 gallery with thumbnail generator (Imagick but you can use any other)
 - [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.
