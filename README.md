@@ -790,6 +790,7 @@
 
 ## C++ 
 
+- [Kobo-InkBox/inkbox](https://github.com/Kobo-InkBox/inkbox) - (Mirror) An open-source, Qt-based eBook reader for Kobos.
 - [pschatzmann/esp32_vue_example](https://github.com/pschatzmann/esp32_vue_example) - 
 - [pschatzmann/ESP32-A2DP](https://github.com/pschatzmann/ESP32-A2DP) - A Simple ESP32 Bluetooth A2DP Library (to implement a Music Receiver or Sender) that supports Arduino, PlatformIO and Espressif IDF
 - [Martchus/arch-repo-manager](https://github.com/Martchus/arch-repo-manager) - Experimental project containing INOFFICIAL tools to manage custom Arch Linux repositories; built on top of tools provided by the pacman and devtools packages.
@@ -4742,7 +4743,7 @@
 - [mbrubeck/agate](https://github.com/mbrubeck/agate) - Very simple server for the Gemini hypertext protocol
 - [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
 - [jiegec/tantivy-jieba](https://github.com/jiegec/tantivy-jieba) - An adapter that bridges between tantivy and jieba-rs.
-- [quickwit-inc/tantivy](https://github.com/quickwit-inc/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs) - NOT FUNCTIONAL YET. Slowly porting magic-wormhole to Rust. See wiki for game plan.
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [cglindkamp/run-mailcap-rs](https://github.com/cglindkamp/run-mailcap-rs) - run-mailcap replacement written in Rust
@@ -4781,7 +4782,7 @@
 - [google/OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [koraa/huniq](https://github.com/koraa/huniq) - Filter out duplicates on the command line. Replacement for `sort | uniq` optimized for speed (10x faster) when sorting is not needed.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [quickwit-inc/tantivy-cli](https://github.com/quickwit-inc/tantivy-cli) - 
+- [quickwit-oss/tantivy-cli](https://github.com/quickwit-oss/tantivy-cli) - 
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [google/pix-image-viewer](https://github.com/google/pix-image-viewer) - Desktop image viewer. View thousands of images in a zoomable, pannable grid.
 - [yazgoo/youtube-subscriptions](https://github.com/yazgoo/youtube-subscriptions) - terminal client to browse youtube subscriptions
