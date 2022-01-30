@@ -1396,6 +1396,7 @@
 
 ## Go 
 
+- [MarcoLucidi01/ytcast](https://github.com/MarcoLucidi01/ytcast) - cast YouTube videos to your smart TV from command-line
 - [skx/mpd-web](https://github.com/skx/mpd-web) - Simple HTTP view of an MPD server
 - [mmarkdown/mmark](https://github.com/mmarkdown/mmark) - Mmark: a powerful markdown processor in Go geared towards the IETF
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
