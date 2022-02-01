@@ -1334,6 +1334,7 @@
 
 ## Dockerfile 
 
+- [heussd/newsboat-docker](https://github.com/heussd/newsboat-docker) - 
 - [zveronline/docker-radio](https://github.com/zveronline/docker-radio) - icecast, mpd, rompr
 - [GloDroid/glodroid_manifest](https://github.com/GloDroid/glodroid_manifest) - Android manifest for GloDroid (AOSP for the world's most accessible development platforms)
 - [pgaskin/NickelTC](https://github.com/pgaskin/NickelTC) - A dockerized, deterministic, automated, fixed, and fully-relocatable build of @NiLuJe's toolchain for Kobo eReaders.
@@ -2064,6 +2065,7 @@
 
 ## JavaScript 
 
+- [heussd/texttomail](https://github.com/heussd/texttomail) - Allows to e-mail pages that are viewed in reader mode.
 - [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment.
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [tuzig/terminal7](https://github.com/tuzig/terminal7) - A Touchable Terminal Emulator & Multiplexer hybrid app
@@ -4877,10 +4879,12 @@
 
 ## Shell 
 
+- [jcorporation/webradiodb](https://github.com/jcorporation/webradiodb) - Webradio database for myMPD
+- [heussd/dotfiles](https://github.com/heussd/dotfiles) - Various configuration files for Unix and Linux software
 - [andrewboring/alarm-images](https://github.com/andrewboring/alarm-images) - Arch Linux Arm Base Images for Raspberry Pi
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
 - [remileduc/sherver](https://github.com/remileduc/sherver) - Pure Bash lightweight web server.
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal.
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with.
 - [jabirali/tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
 - [ploum/offlinetools](https://github.com/ploum/offlinetools) - Tools to spend more time offline
 - [Yetangitu/books](https://github.com/Yetangitu/books) - Library Genesis (libgen) CLI/TUI/GUI client (mirror from private repo)
