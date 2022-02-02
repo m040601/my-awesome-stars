@@ -1623,7 +1623,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - a native Go userland for your Raspberry Pi 3 or 4 appliances (or amd64 PCs!)
 - [sgreben/jp](https://github.com/sgreben/jp) - dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.
@@ -2294,7 +2294,6 @@
 - [humitos/osm-pois](https://github.com/humitos/osm-pois) - Show POIs from OSM in a map using OverpassAPI
 - [github-tools/github](https://github.com/github-tools/github) - A higher-level wrapper around the Github API. Intended for the browser.
 - [prose/gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
-- [spcask/mdme](https://github.com/spcask/mdme) - Self-rendering Markdown content
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
 - [palaniraja/blog2md](https://github.com/palaniraja/blog2md) - Convert Blogger & Wordpress backup blog posts to hugo compatible markdown documents
 - [akabekobeko/npm-wpxml2md](https://github.com/akabekobeko/npm-wpxml2md) - Convert the WordPress XML file to Markdown files.
@@ -2699,7 +2698,7 @@
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
 - [Ajatt-Tools/autosubsync-mpv](https://github.com/Ajatt-Tools/autosubsync-mpv) - Automatic subtitle synchronization script for mpv media player.
 - [patrickschulz/docma](https://github.com/patrickschulz/docma) - A document manager written in lua
-- [aerobounce/trim.lua](https://github.com/aerobounce/trim.lua) - Trim mode for mpv — Turn mpv into Lossless Audio / Video Editor.
+- [aerobounce/trim.lua](https://github.com/aerobounce/trim.lua) - Trim mode for mpv — Turn mpv into Lossless Audio / Video Editor
 - [Ajatt-Tools/videoclip](https://github.com/Ajatt-Tools/videoclip) - Easily create videoclips with mpv.
 - [Ajatt-Tools/mpvacious](https://github.com/Ajatt-Tools/mpvacious) - Adds mpv keybindings to create Anki cards from movies and TV shows.
 - [jonniek/mpv-playlistmanager](https://github.com/jonniek/mpv-playlistmanager) - Mpv lua script to create and manage playlists
@@ -3267,6 +3266,7 @@
 
 ## Python 
 
+- [Krasjet/pdf.tocgen](https://github.com/Krasjet/pdf.tocgen) - A CLI toolset to generate table of contents for PDF files automatically.
 - [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Protect your privacy, see which processes make remote network connections
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [milaq/YCast](https://github.com/milaq/YCast) - Self hosted vTuner internet radio service emulation
