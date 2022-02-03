@@ -4968,7 +4968,6 @@
 - [mitchweaver/subs](https://github.com/mitchweaver/subs) - :tv: YouTube subscription manager via dmenu and mpv, no Google account needed.
 - [mitchweaver/dots](https://github.com/mitchweaver/dots) - ⚫ ⚫ ⚫
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
-- [maximbaz/dmenu-term](https://github.com/maximbaz/dmenu-term) - dmenu as a terminal with fuzzy filter
 - [Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist) - The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web sites and protect your devices and pc from being infected with Malware or Ransomware.
 - [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [bashup/gitea-cli](https://github.com/bashup/gitea-cli) - Extensible, configurable command-line API client for gitea and gogs
