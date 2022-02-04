@@ -790,6 +790,8 @@
 
 ## C++ 
 
+- [unsurv/unsurv-offline](https://github.com/unsurv/unsurv-offline) - Offline portable GPS device based on the ESP32
+- [blippy/neoleo](https://github.com/blippy/neoleo) - Lightweight curses spreadsheet based on GNU oleo
 - [Kobo-InkBox/inkbox](https://github.com/Kobo-InkBox/inkbox) - (Mirror) An open-source, Qt-based eBook reader for Kobos.
 - [pschatzmann/esp32_vue_example](https://github.com/pschatzmann/esp32_vue_example) - 
 - [pschatzmann/ESP32-A2DP](https://github.com/pschatzmann/ESP32-A2DP) - A Simple ESP32 Bluetooth A2DP Library (to implement a Music Receiver or Sender) that supports Arduino, PlatformIO and Espressif IDF
@@ -3267,7 +3269,7 @@
 ## Python 
 
 - [Krasjet/pdf.tocgen](https://github.com/Krasjet/pdf.tocgen) - A CLI toolset to generate table of contents for PDF files automatically.
-- [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Protect your privacy, see which processes make remote network connections
+- [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Protect your privacy, see which applications make remote network connections
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [milaq/YCast](https://github.com/milaq/YCast) - Self hosted vTuner internet radio service emulation
 - [deep5050/radio-active](https://github.com/deep5050/radio-active) - Play any radios around the globe right from the terminal :zap:
