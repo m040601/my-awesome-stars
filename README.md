@@ -445,6 +445,7 @@
 - [TrilbyWhite/Iocane](https://github.com/TrilbyWhite/Iocane) - "Colorless, tasteless, oderless poison that will rid your system of its rodent infestation" i.e. simulates mouse events from the keyboard
 - [coreboot/chrome-ec](https://github.com/coreboot/chrome-ec) - Mirror of https://chromium.googlesource.com/chromiumos/platform/ec
 - [linuxstb/pidvbip](https://github.com/linuxstb/pidvbip) - tvheadend client for the Raspberry Pi
+- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [gkarsay/parlatype](https://github.com/gkarsay/parlatype) - GNOME audio player for transcription
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [solokeys/solo](https://github.com/solokeys/solo) - Solo 1: open security key supporting FIDO2 & U2F over USB + NFC
@@ -944,7 +945,6 @@
 - [EspoTek/Labrador](https://github.com/EspoTek/Labrador) - EspoTek Labrador is a USB device that transforms your PC or smartphone into a fully-featured electronics lab.  This repo holds all of the source code!
 - [EnviroDIY/TinyGSM](https://github.com/EnviroDIY/TinyGSM) - A small Arduino library for GSM modules, that just works. Supported modules: SIMCom SIM800, SIM900, A6, A7, M590, ESP8266-AT (plus variants like A6C, SIM800A, SIM800C, SIM800L, SIM800H, SIM808, SIM868, SIM900A, SIM900D, SIM908, SIM968)
 - [ttnmapper/ttntrackernode](https://github.com/ttnmapper/ttntrackernode) - GPS Tracker device
-- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [Programmable-Air/Code](https://github.com/Programmable-Air/Code) - Arduino library for Programmable-Air
 - [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit) - Real-time audio streaming over the network.
 - [daveake/LoRaRepeater](https://github.com/daveake/LoRaRepeater) - LoRa HAB Repeater
@@ -5544,6 +5544,7 @@
 
 ## Vim script 
 
+- [Kobo-InkBox/rootfs](https://github.com/Kobo-InkBox/rootfs) - InkBox OS root filesystem
 - [ojroques/vim-oscyank](https://github.com/ojroques/vim-oscyank) - A Vim plugin to copy text through SSH with OSC52
 - [samoshkin/dotvim](https://github.com/samoshkin/dotvim) - Personal vim configuration: vimrc file and friends
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
