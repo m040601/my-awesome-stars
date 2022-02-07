@@ -304,7 +304,7 @@
 - [LuisRusso/PamUUID](https://github.com/LuisRusso/PamUUID) - A PAM authentication for Linux and FreeBSD using USB Flash Drives.
 - [jovoro/geminid](https://github.com/jovoro/geminid) - Gemini Server in C
 - [npat-efault/picocom](https://github.com/npat-efault/picocom) - Minimal dumb-terminal emulation program
-- [tio/tio](https://github.com/tio/tio) - tio - A simple TTY terminal I/O application
+- [tio/tio](https://github.com/tio/tio) - tio - a simple TTY terminal I/O tool
 - [davidgiven/wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
 - [cybernoid/archivemount](https://github.com/cybernoid/archivemount) - A fuse filesystem for mounting archives in formats supported by libarchive.
 - [phillbush/pmenu](https://github.com/phillbush/pmenu) - A pie-menu in xlib and imlib2.
@@ -2488,7 +2488,7 @@
 - [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - CMS/Wiki system using Javascript for 100% client side single page application using Markdown.
 - [1995eaton/chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
 - [superbrothers/capturejs](https://github.com/superbrothers/capturejs) - Full webpage capture command-line tool with PhantomJS and NodeJS
-- [jamesgpearce/confess](https://github.com/jamesgpearce/confess) - Uses PhantomJS to headlessly analyze web pages and generate manifests.
+- [jamesgpearce/confess](https://github.com/jamesgpearce/confess) - [ARCHIVED] Uses PhantomJS to headlessly analyze web pages and generate manifests. You may be able to use the puppeteer-har package instead.
 - [nrabinowitz/pjscrape](https://github.com/nrabinowitz/pjscrape) - A web-scraping framework written in Javascript, using PhantomJS and jQuery
 - [adlr/croshwindow](https://github.com/adlr/croshwindow) - Crosh Window opens a new Crosh window without any chrome so that Ctrl-N/T/etc work. Chrome OS only.
 - [mitcho/lingbuzzrss](https://github.com/mitcho/lingbuzzrss) - RSS feed for LingBuzz
@@ -4884,6 +4884,7 @@
 
 ## Shell 
 
+- [BawdyAnarchist/quBSD](https://github.com/BawdyAnarchist/quBSD) - A FreeBSD jails and bhyve wrapper; which emulates a Qubes-like containerization schema
 - [jcorporation/webradiodb](https://github.com/jcorporation/webradiodb) - Webradio database for myMPD
 - [heussd/dotfiles](https://github.com/heussd/dotfiles) - Various configuration files for Unix and Linux software
 - [andrewboring/alarm-images](https://github.com/andrewboring/alarm-images) - Arch Linux Arm Base Images for Raspberry Pi
