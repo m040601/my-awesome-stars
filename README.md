@@ -304,7 +304,7 @@
 - [LuisRusso/PamUUID](https://github.com/LuisRusso/PamUUID) - A PAM authentication for Linux and FreeBSD using USB Flash Drives.
 - [jovoro/geminid](https://github.com/jovoro/geminid) - Gemini Server in C
 - [npat-efault/picocom](https://github.com/npat-efault/picocom) - Minimal dumb-terminal emulation program
-- [tio/tio](https://github.com/tio/tio) - tio - a simple TTY terminal I/O tool
+- [tio/tio](https://github.com/tio/tio) - A simple TTY terminal I/O tool
 - [davidgiven/wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
 - [cybernoid/archivemount](https://github.com/cybernoid/archivemount) - A fuse filesystem for mounting archives in formats supported by libarchive.
 - [phillbush/pmenu](https://github.com/phillbush/pmenu) - A pie-menu in xlib and imlib2.
@@ -4884,6 +4884,7 @@
 
 ## Shell 
 
+- [marado/RNID](https://github.com/marado/RNID) - Lista de casos de incumprimento do RNID
 - [BawdyAnarchist/quBSD](https://github.com/BawdyAnarchist/quBSD) - A FreeBSD jails and bhyve wrapper; which emulates a Qubes-like containerization schema
 - [jcorporation/webradiodb](https://github.com/jcorporation/webradiodb) - Webradio database for myMPD
 - [heussd/dotfiles](https://github.com/heussd/dotfiles) - Various configuration files for Unix and Linux software
