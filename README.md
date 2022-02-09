@@ -800,7 +800,7 @@
 - [Martchus/tagparser](https://github.com/Martchus/tagparser) - C++ library for reading and writing MP4/M4A/AAC (iTunes), ID3, Vorbis, Opus, FLAC and Matroska tags
 - [snyball/Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [BCsabaEngine/RF24MeshSerial](https://github.com/BCsabaEngine/RF24MeshSerial) - Firmware for run RF24 Mesh network on ARM devices and access over TTY/serial (USB port)
-- [m5stack/ATOM-PRINTER](https://github.com/m5stack/ATOM-PRINTER) - Coming Soon
+- [m5stack/ATOM-PRINTER](https://github.com/m5stack/ATOM-PRINTER) - M5Stack ATOM PRINTER firmware and examples
 - [BourgeoisLab/GPXLab](https://github.com/BourgeoisLab/GPXLab) - Program to show and manipulate GPS tracks
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
 - [dalethomas81/HamMessenger](https://github.com/dalethomas81/HamMessenger) - HamMessenger is a portable device that uses a ham radio and the APRS protocol as a medium to send and receive text messages.
@@ -1714,6 +1714,7 @@
 
 ## HTML 
 
+- [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
 - [Evoniuk/terminal-markdown](https://github.com/Evoniuk/terminal-markdown) - A markdown language for the terminal
 - [gammu/gsm-docs](https://github.com/gammu/gsm-docs) - GSM related documentation
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
@@ -5464,6 +5465,7 @@
 
 ## TypeScript 
 
+- [esphome/esp-web-tools](https://github.com/esphome/esp-web-tools) - Open source tools to allow working with ESP devices in the browser
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [ethomson/send-tweet-action](https://github.com/ethomson/send-tweet-action) - Send a tweet from a GitHub Action
