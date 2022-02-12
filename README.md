@@ -792,6 +792,7 @@
 
 ## C++ 
 
+- [mattcuk/IRtranslator](https://github.com/mattcuk/IRtranslator) - Arduino IR Translator. Converts incoming IR codes from one manufacturer to another set of IR codes from a different manufacturer,
 - [unsurv/unsurv-offline](https://github.com/unsurv/unsurv-offline) - Offline portable GPS device based on the ESP32
 - [blippy/neoleo](https://github.com/blippy/neoleo) - Lightweight curses spreadsheet based on GNU oleo
 - [Kobo-InkBox/inkbox](https://github.com/Kobo-InkBox/inkbox) - (Mirror) An open-source, Qt-based eBook reader for Kobos.
@@ -1361,6 +1362,7 @@
 
 ## Elixir 
 
+- [benbusby/farside](https://github.com/benbusby/farside) - A smart redirecting gateway for various frontend services
 - [andersju/webbkoll](https://github.com/andersju/webbkoll) - An online tool that checks how a website is doing with regards to privacy
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
 
@@ -1715,12 +1717,13 @@
 
 ## HTML 
 
+- [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
 - [Evoniuk/terminal-markdown](https://github.com/Evoniuk/terminal-markdown) - A markdown language for the terminal
 - [gammu/gsm-docs](https://github.com/gammu/gsm-docs) - GSM related documentation
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [arendst/Tasmota-firmware](https://github.com/arendst/Tasmota-firmware) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-- [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - Did you know 99.7% of all GitHub Wikis aren't indexed on search engines? Search Engine Enablement for GitHub Wikis service.
+- [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - Did you know 99.3% of all GitHub Wikis aren't indexed on search engines? Search Engine Enablement for GitHub Wikis service.
 - [chrisman/m4-blog](https://github.com/chrisman/m4-blog) - boilerplate for an m4 blog
 - [m8/refined.blog](https://github.com/m8/refined.blog) - curated list of personal blogs
 - [robhagemans/monobit](https://github.com/robhagemans/monobit) - Tools for working with monochrome bitmap fonts
@@ -2764,6 +2767,7 @@
 
 ## Makefile 
 
+- [yichya/openwrt-cloudflared](https://github.com/yichya/openwrt-cloudflared) - Run argo tunnel client on your router
 - [unixsheikh/phpthewrongway](https://github.com/unixsheikh/phpthewrongway) - A pragmatic view on PHP programming.
 - [danyork/writing-internet-drafts-in-markdown](https://github.com/danyork/writing-internet-drafts-in-markdown) - A presentation (in Markdown) for the IETF Hub Boston on June 12, 2018.
 - [colindean/plaintextaccounting_workshop](https://github.com/colindean/plaintextaccounting_workshop) - An Introduction and Then Some to Plain Text Accounting with Ledger
@@ -2856,6 +2860,7 @@
 
 ## Others 
 
+- [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - Alternative privacy-respecting frontends for popular services 🔐🌐
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
 - [brunompena/zsun-resources](https://github.com/brunompena/zsun-resources) - Zsun SD100 OpenWrt Resources
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
@@ -3272,6 +3277,7 @@
 
 ## Python 
 
+- [wcerfgba/searx](https://github.com/wcerfgba/searx) - A modified version of searx (the privacy-respecting metasearch engine) to only search an allowlist of sites, to build functionality similar to Rollyo and Bing Custom Search.
 - [jayvdb/https-everywhere-py](https://github.com/jayvdb/https-everywhere-py) - Privacy for Pythons
 - [rpkak/local-aur](https://github.com/rpkak/local-aur) - Download the AUR packages you trust and use pacman to install them.
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
