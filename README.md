@@ -1498,7 +1498,7 @@
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [PuerkitoBio/gocrawl](https://github.com/PuerkitoBio/gocrawl) - Polite, slim and concurrent web crawler.
 - [PuerkitoBio/fetchbot](https://github.com/PuerkitoBio/fetchbot) - A simple and flexible web crawler that follows the robots.txt policies and crawl delays.
-- [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
+- [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [rdegges/ipify-api](https://github.com/rdegges/ipify-api) - A public IP API service.
 - [yktoo/ymuse](https://github.com/yktoo/ymuse) - GTK client for Music Player Daemon (MPD) written in Go
 - [esimov/pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go.
@@ -2097,7 +2097,7 @@
 - [Flowm/satvis](https://github.com/Flowm/satvis) - Satellite orbit visualization and pass prediction with Cesium.js
 - [susam/10kbclub](https://github.com/susam/10kbclub) - A curated collection of websites whose home pages do not exceed 10 KB compressed size
 - [thameera/harcleaner](https://github.com/thameera/harcleaner) - Clean up HAR files by removing noisy requests
-- [cezaraugusto/extension-create](https://github.com/cezaraugusto/extension-create) - Create modern cross-browser extensions with no build configuration.
+- [cezaraugusto/extension-create](https://github.com/cezaraugusto/extension-create) - (maintance) Create modern cross-browser extensions with no build configuration.
 - [charliegerard/whereami.js](https://github.com/charliegerard/whereami.js) - Node.js module to predict indoor location using machine learning and WiFi information 📶
 - [tmcw/geojson.net](https://github.com/tmcw/geojson.net) - fast, simple map creation (again)
 - [tmcw/togeojson-cli](https://github.com/tmcw/togeojson-cli) - toGeoJSON in the console
