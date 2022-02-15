@@ -394,6 +394,7 @@
 - [OLIMEX/dance_radio](https://github.com/OLIMEX/dance_radio) - esp32-adf internet radio with display and led stripe
 - [modtronix-com/esp32MX-E](https://github.com/modtronix-com/esp32MX-E) - 
 - [Sub-IoT/Sub-IoT-Stack](https://github.com/Sub-IoT/Sub-IoT-Stack) - Sub-IoT: Open Source Stack for Dash7 Alliance Protocol
+- [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - 
 - [xoseperez/ttgo-beam-tracker](https://github.com/xoseperez/ttgo-beam-tracker) - TTN tracker based on TTGO T-Beam hardware
 - [tkerby/ttgo-tbeam-ttn-tracker](https://github.com/tkerby/ttgo-tbeam-ttn-tracker) - TTGO T-Beam Tracker for TTN Mapper and TTN Tracker using US (915 MHz) and EU (868 MHz) frequencies
 - [mesa3d/mesa](https://github.com/mesa3d/mesa) - Mesa 3D graphics library (read-only mirror)
@@ -413,6 +414,7 @@
 - [dylanaraps/paleta](https://github.com/dylanaraps/paleta) - Change terminal colors on-the-fly independent of terminal emulator.
 - [Entware/Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
 - [AltraMayor/f3](https://github.com/AltraMayor/f3) - F3 - Fight Flash Fraud
+- [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [gsliepen/inputlirc](https://github.com/gsliepen/inputlirc) - Zeroconf LIRC daemon using input event devices
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
 - [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
@@ -892,7 +894,6 @@
 - [hydronics2/2019-easy-bee-counter](https://github.com/hydronics2/2019-easy-bee-counter) - Bee-counter-easy
 - [Staars/Tasmota_UBX_GPS](https://github.com/Staars/Tasmota_UBX_GPS) - Backup of all files for my Tasmota-GPS-Project
 - [rpp0/gr-lora](https://github.com/rpp0/gr-lora) - GNU Radio blocks for receiving LoRa modulated radio messages using SDR
-- [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - 
 - [flexpaper/pdf2json](https://github.com/flexpaper/pdf2json) - PDF2JSON is a conversion library based on XPDF (3.02) which can be used for high performance PDF page by page conversion to JSON and XML format. It also supports compressing data to minimize size. PDF2JSON is available for Windows, OSX and Linux. Please see https://flowpaper.com for more information
 - [MayaPosch/NymphRPC](https://github.com/MayaPosch/NymphRPC) - Versatile and fast remote procedure call library.
 - [MayaPosch/NymphCast](https://github.com/MayaPosch/NymphCast) - Audio and video casting system with support for custom applications.
@@ -916,7 +917,6 @@
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [luc-github/ESP3D](https://github.com/luc-github/ESP3D) - FW for ESP8266/ESP8285/ESP32 used with 3D printer
-- [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [jichu4n/jfbview](https://github.com/jichu4n/jfbview) - PDF and image viewer for the Linux framebuffer.
 - [SaralTayal123/Object-tracking-camera-slider](https://github.com/SaralTayal123/Object-tracking-camera-slider) - 
 - [Galapix/galapix](https://github.com/Galapix/galapix) - Galapix moved to https://gitlab.com/galapix/galapix
