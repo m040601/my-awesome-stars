@@ -150,6 +150,7 @@
 
 ## Awk 
 
+- [RTBHOUSE/tmux-picker](https://github.com/RTBHOUSE/tmux-picker) - Selecting and copy-pasting in terminal using Vimium-like hint mode.
 - [huijunchen9260/bib.awk](https://github.com/huijunchen9260/bib.awk) - Bibliography manager written in awk
 - [LukeSmithxyz/vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate Bible on the Command Line
 - [phillbush/man2md](https://github.com/phillbush/man2md) - man page to markdown converter
@@ -1176,6 +1177,7 @@
 - [mediastandardstrust/superfastmatch](https://github.com/mediastandardstrust/superfastmatch) - A tool for bulk text comparison and analysis
 - [Cightline/clipodder](https://github.com/Cightline/clipodder) - C++ implementation of clipodder
 - [falconindy/ponymix](https://github.com/falconindy/ponymix) - CLI volume control for PulseAudio
+- [libpinyin/ibus-libpinyin](https://github.com/libpinyin/ibus-libpinyin) - 
 - [FreeRDP/FreeRDP-WebConnect](https://github.com/FreeRDP/FreeRDP-WebConnect) - A gateway for seamless access to your RDP-Sessions in any HTML5-compliant browser
 - [avxsynth/avxsynth](https://github.com/avxsynth/avxsynth) - Linux Port of Avisynth
 - [zseder/webcorpus](https://github.com/zseder/webcorpus) - webcorpus pipeline
@@ -3278,6 +3280,7 @@
 
 ## Python 
 
+- [Ga68/benign-key-logger](https://github.com/Ga68/benign-key-logger) - A simple, transparent, open-source key logger, written in Python, for tracking your own key-usage statistics.
 - [wcerfgba/searx](https://github.com/wcerfgba/searx) - A modified version of searx (the privacy-respecting metasearch engine) to only search an allowlist of sites, to build functionality similar to Rollyo and Bing Custom Search.
 - [jayvdb/https-everywhere-py](https://github.com/jayvdb/https-everywhere-py) - Privacy for Pythons
 - [rpkak/local-aur](https://github.com/rpkak/local-aur) - Download the AUR packages you trust and use pacman to install them.
@@ -4168,7 +4171,6 @@
 - [okfn/gutenizer](https://github.com/okfn/gutenizer) - Get texts from Project Gutenberg, extract and format
 - [recski/HunTag](https://github.com/recski/HunTag) - a sequential tagger for NLP using Maximum Entropy Learning and Hidden Markov Models
 - [vdcrim/TrimSubs](https://github.com/vdcrim/TrimSubs) - Cut and resync text subtitle files according to Trims in an existing Avisynth script
-- [libpinyin/ibus-libpinyin](https://github.com/libpinyin/ibus-libpinyin) - 
 - [cburgmer/cjklib](https://github.com/cburgmer/cjklib) - Han character library for CJKV languages
 - [zseder/hundict](https://github.com/zseder/hundict) - bilingual dictionary extractor from parallel corpora
 - [joedicastro/ted-talks-download](https://github.com/joedicastro/ted-talks-download) - A pair of scripts to download videos and subtitles for the TED Talks (http://www.ted.com)
@@ -4484,6 +4486,7 @@
 
 ## Ruby 
 
+- [toddyamakawa/tmux](https://github.com/toddyamakawa/tmux) - 
 - [avik-das/tabletop-heads-up](https://github.com/avik-das/tabletop-heads-up) - A small Heads-Up Display (HUD) to show some useful information at a glance, like the current time and weather. Designed for a small LCD screen attached to a Raspberry Pi that I have running at home.
 - [YOURLS/awesome-yourls](https://github.com/YOURLS/awesome-yourls) - 🎉 A curated list of awesome things related to YOURLS
 - [iberianpig/fusuma](https://github.com/iberianpig/fusuma) - Multitouch gestures with libinput driver on Linux
@@ -4591,7 +4594,6 @@
 - [badboy/pinboard-cli](https://github.com/badboy/pinboard-cli) - Pinboard on your command line.
 - [bwl21/wortsammler](https://github.com/bwl21/wortsammler) - an environment to manage comprehensive audience specific documentation and requirements tracing (based on pandoc)
 - [plusjade/jekyll-bootstrap](https://github.com/plusjade/jekyll-bootstrap) - The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages.
-- [ilpianista/FeedPlus](https://github.com/ilpianista/FeedPlus) - Google+ posts RSS feed generator
 - [dasdad/corpus-processor](https://github.com/dasdad/corpus-processor) - Handle linguistic corpus and convert it to use NLP tools
 - [premailer/premailer](https://github.com/premailer/premailer) - Preflight for HTML email
 - [betten/ankipack](https://github.com/betten/ankipack) - 
@@ -4895,6 +4897,8 @@
 
 ## Shell 
 
+- [toddyamakawa/tmux-scratchpad](https://github.com/toddyamakawa/tmux-scratchpad) - 
+- [toddyamakawa/tmux-prefixless](https://github.com/toddyamakawa/tmux-prefixless) - 
 - [georgestagg/webR](https://github.com/georgestagg/webR) - This project aims to compile the statistical language R into WASM for use in a browser, via Emscripten.
 - [whame/tmux-modal](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable
 - [ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) - OpenWrt for Amlogic s9xxx tv box. Support s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc. including install to EMMC and update related functions.
@@ -5752,6 +5756,7 @@
 
 ## VimL 
 
+- [vim-scripts/AnsiEsc.vim](https://github.com/vim-scripts/AnsiEsc.vim) - ansi escape sequences concealed, but highlighted as specified (conceal)
 - [gu-fan/autotype.vim](https://github.com/gu-fan/autotype.vim) - Auto typing in vim
 - [changemewtf/no_plugins](https://github.com/changemewtf/no_plugins) - "Slides" and supplemental info from my August 3rd 2016 NYC Vim talk
 - [mattn/vdbi-vim](https://github.com/mattn/vdbi-vim) - Database client for Vim
