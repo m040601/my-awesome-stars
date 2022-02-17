@@ -1318,6 +1318,7 @@
 
 ## Crystal 
 
+- [mamantoha/cryMPD](https://github.com/mamantoha/cryMPD) - Web-based MPD client
 - [masukomi/oho](https://github.com/masukomi/oho) - oho: colorful terminal output to html converter
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
@@ -2199,7 +2200,7 @@
 - [Juris-M/zotero-odf-scan-plugin](https://github.com/Juris-M/zotero-odf-scan-plugin) - RTF/ODF-Scan for Zotero add-on
 - [GChristensen/scrapyard](https://github.com/GChristensen/scrapyard) - Bookmark heavy lifting
 - [omgimanerd/getnews.tech](https://github.com/omgimanerd/getnews.tech) - A web server that fetches data from the News API and formats it for display in the terminal.
-- [i5ik/Diskernet](https://github.com/i5ik/Diskernet) - 💾 Diskernet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo. Formerly 22120 (project codename)
+- [crisdosyago/Diskernet](https://github.com/crisdosyago/Diskernet) - 💾 Diskernet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo. Formerly 22120 (project codename)
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [cmdalbem/ciclomapa](https://github.com/cmdalbem/ciclomapa) - Beautiful bike maps of Brazilian cities, powered by OpenStreetMap.
@@ -4472,7 +4473,6 @@
 
 ## Roff 
 
-- [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Armbian for Amlogic s9xxx tv box. Support s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc.  including install to EMMC and update related functions.
 - [phillbush/incipit](https://github.com/phillbush/incipit) - the incipit plain text markup language, and some troff macro packages
 - [slavistan/lf-gadgets](https://github.com/slavistan/lf-gadgets) - A collection of useful and nifty use cases and configurations for lf.
 - [mkws-1/mkws](https://github.com/mkws-1/mkws) - A simple static site generator using `sh` as a templating language.
@@ -4897,11 +4897,13 @@
 
 ## Shell 
 
+- [andrewboring/alarmsync](https://github.com/andrewboring/alarmsync) - 
 - [toddyamakawa/tmux-scratchpad](https://github.com/toddyamakawa/tmux-scratchpad) - 
 - [toddyamakawa/tmux-prefixless](https://github.com/toddyamakawa/tmux-prefixless) - 
 - [georgestagg/webR](https://github.com/georgestagg/webR) - This project aims to compile the statistical language R into WASM for use in a browser, via Emscripten.
 - [whame/tmux-modal](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable
 - [ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) - OpenWrt for Amlogic s9xxx tv box. Support s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc. including install to EMMC and update related functions.
+- [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Armbian for Amlogic s9xxx tv box. Support s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc.  including install to EMMC and update related functions.
 - [marado/RNID](https://github.com/marado/RNID) - Lista de casos de incumprimento do RNID
 - [BawdyAnarchist/quBSD](https://github.com/BawdyAnarchist/quBSD) - A FreeBSD jails and bhyve wrapper; which emulates a Qubes-like containerization schema
 - [jcorporation/webradiodb](https://github.com/jcorporation/webradiodb) - Webradio database for myMPD
