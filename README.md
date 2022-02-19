@@ -346,7 +346,7 @@
 - [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas) - A portable fork of the OpenBSD `doas` command
 - [gromgit/ttyplot](https://github.com/gromgit/ttyplot) - a simple general purpose plotting utility for tty with data input from stdin
 - [salman-abedin/puri](https://github.com/salman-abedin/puri) - Minimal CLI URL launcher
-- [pikvm/packages](https://github.com/pikvm/packages) - Pi-KVM packages
+- [pikvm/packages](https://github.com/pikvm/packages) - Pi-KVM Packages
 - [jacksonliam/mjpg-streamer](https://github.com/jacksonliam/mjpg-streamer) - Fork of http://sourceforge.net/projects/mjpg-streamer/
 - [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPG-HTTP streamer
 - [annacrombie/plot](https://github.com/annacrombie/plot) - plot on the command line
@@ -796,7 +796,7 @@
 ## C++ 
 
 - [mattcuk/IRtranslator](https://github.com/mattcuk/IRtranslator) - Arduino IR Translator. Converts incoming IR codes from one manufacturer to another set of IR codes from a different manufacturer,
-- [unsurv/unsurv-offline](https://github.com/unsurv/unsurv-offline) - Offline portable GPS device based on the ESP32
+- [unsurv/unsurv-offline](https://github.com/unsurv/unsurv-offline) - Offline portable GNSS device based on the ESP32
 - [blippy/neoleo](https://github.com/blippy/neoleo) - Lightweight curses spreadsheet based on GNU oleo
 - [Kobo-InkBox/inkbox](https://github.com/Kobo-InkBox/inkbox) - (Mirror) An open-source, Qt-based eBook reader for Kobos.
 - [pschatzmann/esp32_vue_example](https://github.com/pschatzmann/esp32_vue_example) - 
@@ -1406,6 +1406,7 @@
 
 ## Go 
 
+- [xvello/letsblockit](https://github.com/xvello/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [MarcoLucidi01/ytcast](https://github.com/MarcoLucidi01/ytcast) - cast YouTube videos to your smart TV from command-line
 - [skx/mpd-web](https://github.com/skx/mpd-web) - Simple HTTP view of an MPD server
@@ -1721,6 +1722,7 @@
 
 ## HTML 
 
+- [rugk/offline-qr-code](https://github.com/rugk/offline-qr-code) - 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
 - [Evoniuk/terminal-markdown](https://github.com/Evoniuk/terminal-markdown) - A markdown language for the terminal
@@ -4904,7 +4906,7 @@
 - [toddyamakawa/tmux-prefixless](https://github.com/toddyamakawa/tmux-prefixless) - 
 - [georgestagg/webR](https://github.com/georgestagg/webR) - This project aims to compile the statistical language R into WASM for use in a browser, via Emscripten.
 - [whame/tmux-modal](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable
-- [ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) - OpenWrt for Amlogic s9xxx tv box. Support s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc. including install to EMMC and update related functions.
+- [ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) - OpenWrt for Amlogic s9xxx tv box. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc. including install to EMMC and update related functions.
 - [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Armbian for Amlogic s9xxx tv box. Support s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc.  including install to EMMC and update related functions.
 - [marado/RNID](https://github.com/marado/RNID) - Lista de casos de incumprimento do RNID
 - [BawdyAnarchist/quBSD](https://github.com/BawdyAnarchist/quBSD) - A FreeBSD jails and bhyve wrapper; which emulates a Qubes-like containerization schema
@@ -5525,7 +5527,7 @@
 - [andrewscwei/aristotl](https://github.com/andrewscwei/aristotl) - An experimental logical fallacy lookup tool
 - [tadeussenf/pocket-wiki](https://github.com/tadeussenf/pocket-wiki) - Alternative User Interface for getpocket.com
 - [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub) - A plugin that will automatically download PDFs of zotero items from sci-hub
-- [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox, Thunderbird and many other pieces of software.
+- [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox, Thunderbird & others.
 - [owid/owid-grapher](https://github.com/owid/owid-grapher) - A platform for creating interactive data visualizations
 - [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer) - Chinese character stroke order animations and practice quizzes
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
