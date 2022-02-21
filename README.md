@@ -645,7 +645,6 @@
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [OlivierMarty/SubtitlesPrinter](https://github.com/OlivierMarty/SubtitlesPrinter) - Print subtitles above a X-screen, independently of the video player.
 - [martanne/abduco](https://github.com/martanne/abduco) - abduco provides session management i.e. it allows programs to be run independently from its controlling terminal. That is programs can be detached - run in the background - and then later reattached. Together with dvtm it provides a simpler and cleaner alternative to tmux or screen.
-- [2ion/dwm](https://github.com/2ion/dwm) - DWM with built-in mpd and mpv clients & more
 - [hzeller/gmrender-resurrect](https://github.com/hzeller/gmrender-resurrect) - Resource efficient UPnP/DLNA renderer, optimal for Raspberry Pi, CuBox or a general MediaServer. Fork of GMediaRenderer to add some features to make it usable.
 - [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi
 - [MapServer/MapServer](https://github.com/MapServer/MapServer) - Source code of the MapServer project.  Please submit pull requests to the 'main' branch.
@@ -1406,6 +1405,8 @@
 
 ## Go 
 
+- [go-shiori/obelisk](https://github.com/go-shiori/obelisk) - Go package and CLI tool for saving web page as single HTML file
+- [takingnames/namedrop-go](https://github.com/takingnames/namedrop-go) - 
 - [xvello/letsblockit](https://github.com/xvello/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [MarcoLucidi01/ytcast](https://github.com/MarcoLucidi01/ytcast) - cast YouTube videos to your smart TV from command-line
@@ -2763,7 +2764,6 @@
 - [lvml/mpv-plugin-excerpt](https://github.com/lvml/mpv-plugin-excerpt) - 
 - [koreader/koreader-sync-server](https://github.com/koreader/koreader-sync-server) - self hostable synchronization service for koreader devices
 - [HeirOfNorton/pandoc-fimfic](https://github.com/HeirOfNorton/pandoc-fimfic) - Custom Writer for Pandoc that writes FimFiction.net compatible bbcode
-- [2ion/pandoc-bbcode](https://github.com/2ion/pandoc-bbcode) - BBCode writer for pandoc
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [mfenner/pandoc-jats](https://github.com/mfenner/pandoc-jats) - A Lua custom writer for Pandoc generating JATS XML
 
@@ -2867,6 +2867,8 @@
 
 ## Others 
 
+- [takingnames/awesome-loginless](https://github.com/takingnames/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
+- [takingnames/namedrop-protocol-spec](https://github.com/takingnames/namedrop-protocol-spec) - Specification for the NameDrop DNS delegation protocol
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - Alternative privacy-respecting frontends for popular services 🔐🌐
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
 - [brunompena/zsun-resources](https://github.com/brunompena/zsun-resources) - Zsun SD100 OpenWrt Resources
@@ -3920,7 +3922,7 @@
 - [FrancoisSchnell/GPicSync](https://github.com/FrancoisSchnell/GPicSync) - :earth_americas::globe_with_meridians: GPicSync: inserts location in your pictures metadata from a GPS tracklog.
 - [chfoo/warcat](https://github.com/chfoo/warcat) - Tool and library for handling Web ARChive (WARC) files.
 - [podoc/podoc](https://github.com/podoc/podoc) - [EXPERIMENTAL] pandoc-compatible, Jupyter-aware document conversion library in Python
-- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [nlplab/brat](https://github.com/nlplab/brat) - brat rapid annotation tool (brat) - for all your textual annotation needs
 - [onlyhavecans/ReadItLater-Calibre-Plugin](https://github.com/onlyhavecans/ReadItLater-Calibre-Plugin) - This is an updated & modified version of the official Calibre plugin for Pocket (Formerly ReadItLater)
 - [tcpj/pocket-on-term](https://github.com/tcpj/pocket-on-term) - Pocket client for terminals
