@@ -3286,6 +3286,7 @@
 
 ## Python 
 
+- [envs-net/bbj](https://github.com/envs-net/bbj) - Bulletin Butter & Jelly: An HTTP bulletin board server for small communities
 - [Ga68/benign-key-logger](https://github.com/Ga68/benign-key-logger) - A simple, transparent, open-source key logger, written in Python, for tracking your own key-usage statistics.
 - [wcerfgba/searx](https://github.com/wcerfgba/searx) - A modified version of searx (the privacy-respecting metasearch engine) to only search an allowlist of sites, to build functionality similar to Rollyo and Bing Custom Search.
 - [jayvdb/https-everywhere-py](https://github.com/jayvdb/https-everywhere-py) - Privacy for Pythons
@@ -4491,6 +4492,7 @@
 
 ## Ruby 
 
+- [Calamitous/iris](https://github.com/Calamitous/iris) - Serverless command-line forum software
 - [toddyamakawa/tmux](https://github.com/toddyamakawa/tmux) - 
 - [avik-das/tabletop-heads-up](https://github.com/avik-das/tabletop-heads-up) - A small Heads-Up Display (HUD) to show some useful information at a glance, like the current time and weather. Designed for a small LCD screen attached to a Raspberry Pi that I have running at home.
 - [YOURLS/awesome-yourls](https://github.com/YOURLS/awesome-yourls) - 🎉 A curated list of awesome things related to YOURLS
