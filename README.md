@@ -162,6 +162,9 @@
 
 ## C 
 
+- [pimoroni/keybow-firmware](https://github.com/pimoroni/keybow-firmware) - Keybow Firmware for the Raspberry Pi Zero
+- [kristapsdz/kcaldav](https://github.com/kristapsdz/kcaldav) - a simple, safe, and minimal CalDAV server
+- [begriffs/mimedown](https://github.com/begriffs/mimedown) - markdown to multipart mime
 - [Xinyuan-LilyGO/TTGO_TWatch_Library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library) - 
 - [directfb2/DirectFB2](https://github.com/directfb2/DirectFB2) - Core DirectFB library
 - [OliverLew/dwm](https://github.com/OliverLew/dwm) - My fork of the suckless window manager dwm
@@ -1364,6 +1367,7 @@
 
 ## Elixir 
 
+- [mrusme/kiwi](https://github.com/mrusme/kiwi) - Kiwi turns your Pimoroni Keybow into a fully customizable poor-man's Elgato Stream Deck!
 - [benbusby/farside](https://github.com/benbusby/farside) - A smart redirecting gateway for various frontend services
 - [andersju/webbkoll](https://github.com/andersju/webbkoll) - An online tool that checks how a website is doing with regards to privacy
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
@@ -1405,6 +1409,7 @@
 
 ## Go 
 
+- [mrusme/reader](https://github.com/mrusme/reader) - reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages on the CLI.
 - [go-shiori/obelisk](https://github.com/go-shiori/obelisk) - Go package and CLI tool for saving web page as single HTML file
 - [takingnames/namedrop-go](https://github.com/takingnames/namedrop-go) - 
 - [xvello/letsblockit](https://github.com/xvello/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
@@ -3110,7 +3115,7 @@
 
 - [DeBaschdi/docker.solaranzeige](https://github.com/DeBaschdi/docker.solaranzeige) - 
 - [webkul/hotelcommerce](https://github.com/webkul/hotelcommerce) - Hotel & Booking Reservation Ecommerce system on Prestashop
-- [epii1/tagbar-markdown](https://github.com/epii1/tagbar-markdown) - vim-tagbar extension for markdown
+- [taoso/tagbar-markdown](https://github.com/taoso/tagbar-markdown) - vim-tagbar extension for markdown
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
 - [SnaKKo/Fossdroid-Core](https://github.com/SnaKKo/Fossdroid-Core) - Fossdroid Core is a web frontend of F-Droid: an alternative software repository comprising only free, open source software for Android. This repo is the open source version of fossdroid.com.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
@@ -5640,7 +5645,7 @@
 - [romainl/vim-qf](https://github.com/romainl/vim-qf) - Tame the quickfix window.
 - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) - sensible.vim: Defaults everyone can agree on
 - [jalvesaq/Nvim-R](https://github.com/jalvesaq/Nvim-R) - Vim plugin to work with R
-- [epii1/fzf-mru.vim](https://github.com/epii1/fzf-mru.vim) - FZF MRU(Most Recently Used) File List Vim/NeoVim Plugin
+- [taoso/fzf-mru.vim](https://github.com/taoso/fzf-mru.vim) - FZF MRU(Most Recently Used) File List Vim/NeoVim Plugin
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
 - [yami-beta/ctrlp-explorer](https://github.com/yami-beta/ctrlp-explorer) - 
 - [ivalkeen/vim-ctrlp-tjump](https://github.com/ivalkeen/vim-ctrlp-tjump) - CtrlP extension for fuzzy-search in tag matches (:tjump replacement).
