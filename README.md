@@ -797,6 +797,7 @@
 
 ## C++ 
 
+- [amagovpt/autenticacao.gov](https://github.com/amagovpt/autenticacao.gov) - Middleware Oficial de Identificação Eletrónica em Portugal - Cartão de Cidadão, da Chave Móvel Digital e Sistema de Certificação de atributos profissionais
 - [mattcuk/IRtranslator](https://github.com/mattcuk/IRtranslator) - Arduino IR Translator. Converts incoming IR codes from one manufacturer to another set of IR codes from a different manufacturer,
 - [unsurv/unsurv-offline](https://github.com/unsurv/unsurv-offline) - Offline portable GNSS device based on the ESP32
 - [blippy/neoleo](https://github.com/blippy/neoleo) - Lightweight curses spreadsheet based on GNU oleo
@@ -1728,6 +1729,7 @@
 
 ## HTML 
 
+- [amagovpt/observatory](https://github.com/amagovpt/observatory) - PT Observatory of Web Accessibility - the main app
 - [rugk/offline-qr-code](https://github.com/rugk/offline-qr-code) - 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
@@ -3885,7 +3887,7 @@
 - [hltcoe/golden-horse](https://github.com/hltcoe/golden-horse) - Named Entity Recognition for Chinese social media (Weibo). From EMNLP 2015 paper.
 - [rreece/markdown2bib](https://github.com/rreece/markdown2bib) - Converts simple markdown-formatted APA bibliographies to bibtex
 - [tomduck/pandoc-tpp](https://github.com/tomduck/pandoc-tpp) - A pandoc template preprocessor.
-- [pinry/pinry](https://github.com/pinry/pinry) - The open-source core of Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
+- [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [drcursor/flickrup](https://github.com/drcursor/flickrup) - Raspberry PI (auto) Flickr uploader
