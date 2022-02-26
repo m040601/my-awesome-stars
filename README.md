@@ -2430,7 +2430,7 @@
 - [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
 - [evmar/pocket-mini](https://github.com/evmar/pocket-mini) - Save to Pocket (mini), a Chrome extension for https://getpocket.com
 - [jez500/chorus](https://github.com/jez500/chorus) - A Web UI for XBMC, focused on user experience and music. Get the latest version here: https://github.com/xbmc/chorus2
-- [f-secure-foundry/interlock](https://github.com/f-secure-foundry/interlock) - INTERLOCK - file encryption and HSM front-end
+- [usbarmory/interlock](https://github.com/usbarmory/interlock) - INTERLOCK - file encryption and HSM front-end
 - [karan173/Batch-Save-Pocket](https://github.com/karan173/Batch-Save-Pocket) - Chrome extension to add multiple links to Pocket at once through the selected text with custom tags.
 - [andrewrk/groovebasin](https://github.com/andrewrk/groovebasin) - Music player server with a web-based user interface.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -2873,6 +2873,8 @@
 
 ## Others 
 
+- [Antharia/awesome-lowtech](https://github.com/Antharia/awesome-lowtech) - Low tech software and hardware. Low resources. Recycling.
+- [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let's upgrade or replace it. (mirror)
 - [takingnames/awesome-loginless](https://github.com/takingnames/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
 - [takingnames/namedrop-protocol-spec](https://github.com/takingnames/namedrop-protocol-spec) - Specification for the NameDrop DNS delegation protocol
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - Alternative privacy-respecting frontends for popular services 🔐🌐
@@ -5538,7 +5540,7 @@
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
 - [rharel/webext-private-bookmarks](https://github.com/rharel/webext-private-bookmarks) - WebExtension that enables a special password-protected bookmark folder.
-- [andrewscwei/aristotl](https://github.com/andrewscwei/aristotl) - An experimental logical fallacy lookup tool
+- [andrewscwei/aristotl](https://github.com/andrewscwei/aristotl) - A logical fallacy lookup tool
 - [tadeussenf/pocket-wiki](https://github.com/tadeussenf/pocket-wiki) - Alternative User Interface for getpocket.com
 - [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub) - A plugin that will automatically download PDFs of zotero items from sci-hub
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox, Thunderbird & others.
