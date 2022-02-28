@@ -2731,6 +2731,7 @@
 - [kr1sp1n/gemini-pandoc-lua-filter](https://github.com/kr1sp1n/gemini-pandoc-lua-filter) - Pandoc Lua filter to transform HTML to text/gemini.
 - [L1L1/cardpeek](https://github.com/L1L1/cardpeek) - Automatically exported from code.google.com/p/cardpeek
 - [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
+- [evanpurkhiser/dots-personal](https://github.com/evanpurkhiser/dots-personal) - My personal dotfiles. Uses the dots utility to manage installation and organization.
 - [noctux/philote](https://github.com/noctux/philote) - Ansible management for your OpenWRT router - with lua
 - [PhilipRoman/tmux-filetree](https://github.com/PhilipRoman/tmux-filetree) - Simple, non-intrusive dynamic file tree which always tracks your active Tmux pane
 - [ISEMS/ISEMS-ESP32](https://github.com/ISEMS/ISEMS-ESP32) - ISEMS-Port for Solarnodes based on ESP32 Microcontrollers
@@ -5037,7 +5038,6 @@
 - [gitenberg-dev/documentation](https://github.com/gitenberg-dev/documentation) - Documentation for the GITenberg books project
 - [mbhangui/mpdev](https://github.com/mbhangui/mpdev) - music player daemon events daemon
 - [vparnas/jrnl2](https://github.com/vparnas/jrnl2) - A CLI journaling system inspired by jrnl.sh
-- [evanpurkhiser/dots-personal](https://github.com/evanpurkhiser/dots-personal) - My personal dotfiles. Uses the dots utility to manage installation and organization.
 - [evanpurkhiser/mkinitcpio-colors](https://github.com/evanpurkhiser/mkinitcpio-colors) - Provides a hook for Arch Linux's mkinitcpio utility to set VT colors during early userspace
 - [hackerb9/fonttable](https://github.com/hackerb9/fonttable) - Print out every unicode character; see all possible glyphs in your terminal
 - [wmutils/contrib](https://github.com/wmutils/contrib) - Useful bits and pieces
