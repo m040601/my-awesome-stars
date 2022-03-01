@@ -162,6 +162,7 @@
 
 ## C 
 
+- [EliasOenal/multimon-ng](https://github.com/EliasOenal/multimon-ng) - 
 - [taviso/ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash.
 - [pimoroni/keybow-firmware](https://github.com/pimoroni/keybow-firmware) - Keybow Firmware for the Raspberry Pi Zero
 - [kristapsdz/kcaldav](https://github.com/kristapsdz/kcaldav) - a simple, safe, and minimal CalDAV server
@@ -2735,6 +2736,7 @@
 - [noctux/philote](https://github.com/noctux/philote) - Ansible management for your OpenWRT router - with lua
 - [PhilipRoman/tmux-filetree](https://github.com/PhilipRoman/tmux-filetree) - Simple, non-intrusive dynamic file tree which always tracks your active Tmux pane
 - [ISEMS/ISEMS-ESP32](https://github.com/ISEMS/ISEMS-ESP32) - ISEMS-Port for Solarnodes based on ESP32 Microcontrollers
+- [OliverLew/dotfiles](https://github.com/OliverLew/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
 - [Kirill-Bugaev/noxkvm](https://github.com/Kirill-Bugaev/noxkvm) - low-level KVM for Linux
 - [jgm/select-meta](https://github.com/jgm/select-meta) - Pandoc lua filter for constructing metadata from YAML data sources using queries
 - [ColumPaget/pocketeer.lua](https://github.com/ColumPaget/pocketeer.lua) - Lua script to list/add/delete items to getpocket.com. Requires libUseful and libUseful-lua
@@ -3121,6 +3123,7 @@
 ## PHP 
 
 - [DeBaschdi/docker.solaranzeige](https://github.com/DeBaschdi/docker.solaranzeige) - 
+- [alexnathanson/solar-protocol](https://github.com/alexnathanson/solar-protocol) - A repository in development for a solar powered network of servers that host a distributed web platform. Project by Tega Brain, Alex Nathanson and Benedetta Piantella. Supported by Eyebeam Rapid Response for a Better Digital Future fellowship.
 - [webkul/hotelcommerce](https://github.com/webkul/hotelcommerce) - Hotel & Booking Reservation Ecommerce system on Prestashop
 - [taoso/tagbar-markdown](https://github.com/taoso/tagbar-markdown) - vim-tagbar extension for markdown
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
@@ -3371,7 +3374,6 @@
 - [ProfoundNetworks/gzipi](https://github.com/ProfoundNetworks/gzipi) - Tools for indexing gzip files to support random-like access.
 - [rushter/data-science-blogs](https://github.com/rushter/data-science-blogs) - A curated list of data science blogs
 - [riptideio/pymodbus](https://github.com/riptideio/pymodbus) - A full modbus protocol written in python
-- [alexnathanson/solar-protocol](https://github.com/alexnathanson/solar-protocol) - A repository in development for a solar powered network of servers that host a distributed web platform. Project by Tega Brain, Alex Nathanson and Benedetta Piantella. Supported by Eyebeam Rapid Response for a Better Digital Future fellowship.
 - [camelot-dev/camelot](https://github.com/camelot-dev/camelot) - A Python library to extract tabular data from PDFs
 - [artperrin/image2csv](https://github.com/artperrin/image2csv) - Convert tables stored as images to an usable .csv file
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
@@ -3533,7 +3535,7 @@
 - [Wazzaps/jqed](https://github.com/Wazzaps/jqed) - json interactive stream editor (jq + up) - for Linux and MacOS
 - [Bubblbu/zotnote](https://github.com/Bubblbu/zotnote) - Automatize and manage your reading notes with Zotero & Better Bibtex Plugin (BBT)
 - [josch/img2pdf](https://github.com/josch/img2pdf) - mirror of https://gitlab.mister-muffin.de/josch/img2pdf for Travis and appveyor CI
-- [aparcar/asu](https://github.com/aparcar/asu) - An image on demand server for OpenWrt based distributions
+- [openwrt/asu](https://github.com/openwrt/asu) - An image on demand server for OpenWrt based distributions
 - [The-Compiler/journalwatch](https://github.com/The-Compiler/journalwatch) - Simple log parsing utility for the systemd journal
 - [giggls/osmpoidb](https://github.com/giggls/osmpoidb) - 
 - [kizniche/Mycodo](https://github.com/kizniche/Mycodo) - An environmental monitoring and regulation system
@@ -5074,7 +5076,6 @@
 - [dmn001/youtube_channel_archiver](https://github.com/dmn001/youtube_channel_archiver) - Starting point for archiving entire Youtube Channels using youtube-dl
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [jwilk/github-toolbox](https://github.com/jwilk/github-toolbox) - random GitHub tools
-- [OliverLew/dotfiles](https://github.com/OliverLew/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
 - [chrisbra/wikipedia2text](https://github.com/chrisbra/wikipedia2text) - A commandline tool for querying the Wikipedia
 - [chrisbra/vpager](https://github.com/chrisbra/vpager) - Pipe input from Vims terminal directly back into Vim
 - [ericleasemorgan/reader](https://github.com/ericleasemorgan/reader) - Distant Reader, a tool for using & understanding a corpus
