@@ -1572,7 +1572,7 @@
 - [sgreben/yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
 - [pgaskin/epubtool](https://github.com/pgaskin/epubtool) - A tool to manipulate ePub files.
 - [shermp/Kobo-UNCaGED](https://github.com/shermp/Kobo-UNCaGED) - UNCaGED, for Kobo devices
-- [brutella/hkcam](https://github.com/brutella/hkcam) - Open-Source HomeKit Camera With a 3D-Printed Enclosure
+- [brutella/hkcam](https://github.com/brutella/hkcam) - Open-Source HomeKit Surveillance Camera
 - [fiatjaf/jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
 - [liamg/tml](https://github.com/liamg/tml) - :rainbow::computer::art: A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
@@ -2809,7 +2809,7 @@
 - [probonopd/lirc-audio_alsa-for-openwrt](https://github.com/probonopd/lirc-audio_alsa-for-openwrt) - Use a soundcard input to receive infrared remote control signals.
 - [dilshan/usb2-power-hub](https://github.com/dilshan/usb2-power-hub) - 4-Port High Power USB 2.0 Hub
 - [vedetta-com/caesonia](https://github.com/vedetta-com/caesonia) - OpenBSD Email Service
-- [pjungwir/manpj](https://github.com/pjungwir/manpj) - My collection of tech notes, mostly in man-file format.
+- [pjungwir/manpj](https://github.com/pjungwir/manpj) - Twenty years of tech notes, viewable as man pages
 - [cieplak/jz](https://github.com/cieplak/jz) - Tool for Configuring Jails, ZFS and pf on FreeBSD
 - [CoreELEC/CoreELEC](https://github.com/CoreELEC/CoreELEC) - A lightweight OS for KODI
 - [lf-araujo/mighty_make](https://github.com/lf-araujo/mighty_make) - This is a makefile that helps with automation of typographic work using pandoc
