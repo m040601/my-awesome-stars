@@ -4793,7 +4793,7 @@
 - [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
 - [jiegec/tantivy-jieba](https://github.com/jiegec/tantivy-jieba) - An adapter that bridges between tantivy and jieba-rs.
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-- [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs) - NOT FUNCTIONAL YET. Slowly porting magic-wormhole to Rust. See wiki for game plan.
+- [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs) - Rust port of Magic Wormhole
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [cglindkamp/run-mailcap-rs](https://github.com/cglindkamp/run-mailcap-rs) - run-mailcap replacement written in Rust
 - [oll3/bita](https://github.com/oll3/bita) - Differential file synchronization over http
