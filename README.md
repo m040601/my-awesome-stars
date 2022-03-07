@@ -801,6 +801,7 @@
 
 ## C++ 
 
+- [tsowell/kobo-btpt](https://github.com/tsowell/kobo-btpt) - Page turning via Bluetooth for Kobo eReaders
 - [jandrassy/ArduinoOTA](https://github.com/jandrassy/ArduinoOTA) - Arduino library to upload sketch over network to Arduino board with WiFi or Ethernet libraries
 - [amagovpt/autenticacao.gov](https://github.com/amagovpt/autenticacao.gov) - Middleware Oficial de Identificação Eletrónica em Portugal - Cartão de Cidadão, da Chave Móvel Digital e Sistema de Certificação de atributos profissionais
 - [mattcuk/IRtranslator](https://github.com/mattcuk/IRtranslator) - Arduino IR Translator. Converts incoming IR codes from one manufacturer to another set of IR codes from a different manufacturer,
@@ -4513,6 +4514,7 @@
 
 ## Ruby 
 
+- [thredded/thredded](https://github.com/thredded/thredded) - The best Rails forums engine ever.
 - [Calamitous/iris](https://github.com/Calamitous/iris) - Serverless command-line forum software
 - [toddyamakawa/tmux](https://github.com/toddyamakawa/tmux) - 
 - [avik-das/tabletop-heads-up](https://github.com/avik-das/tabletop-heads-up) - A small Heads-Up Display (HUD) to show some useful information at a glance, like the current time and weather. Designed for a small LCD screen attached to a Raspberry Pi that I have running at home.
