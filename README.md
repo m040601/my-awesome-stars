@@ -162,6 +162,7 @@
 
 ## C 
 
+- [rbaron/b-parasite](https://github.com/rbaron/b-parasite) - 🌱💧 A Bluetooth Low Energy (BLE) soil moisture sensor.
 - [aligrudi/fbpad_mkfn](https://github.com/aligrudi/fbpad_mkfn) - Generate Fbpad fonts from TrueType fonts
 - [slavaGanzin/await](https://github.com/slavaGanzin/await) - 32Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination
 - [EliasOenal/multimon-ng](https://github.com/EliasOenal/multimon-ng) - 
@@ -459,7 +460,7 @@
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [gkarsay/parlatype](https://github.com/gkarsay/parlatype) - GNOME audio player for transcription
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
-- [solokeys/solo](https://github.com/solokeys/solo) - Solo 1: open security key supporting FIDO2 & U2F over USB + NFC
+- [solokeys/solo1](https://github.com/solokeys/solo1) - Solo 1 firmware in C
 - [daveake/gps_udp](https://github.com/daveake/gps_udp) - Reads GPS on Pi serial port and broadcasts as UDP packets
 - [femtoduino/femto-beacon](https://github.com/femtoduino/femto-beacon) - FemtoBeacon - Atmel SAM R21 (ARM Cortex M0+, SAM D21 with built in AT86RF233)
 - [150balbes/Jetson-Nano](https://github.com/150balbes/Jetson-Nano) - Kernel Jetson Nano
@@ -2091,6 +2092,7 @@
 
 ## JavaScript 
 
+- [OpenScanEu/OpenScan2](https://github.com/OpenScanEu/OpenScan2) - an improved firmware for the OpenScan devices, featuring many more cameras and a greatly improved overall usability
 - [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative privacy-friendly frontends and backends
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [heussd/texttomail](https://github.com/heussd/texttomail) - Allows to e-mail pages that are viewed in reader mode.
@@ -2882,6 +2884,8 @@
 
 ## Others 
 
+- [OmnIoT/Omnikit-projects](https://github.com/OmnIoT/Omnikit-projects) - Projects we've made using OmniKit
+- [OpenScanEu/OpenScan-Mini](https://github.com/OpenScanEu/OpenScan-Mini) - 
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 - [Antharia/awesome-lowtech](https://github.com/Antharia/awesome-lowtech) - Low tech software and hardware. Low resources. Recycling.
 - [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let's upgrade or replace it. (mirror)
@@ -3310,6 +3314,7 @@
 
 ## Python 
 
+- [rbaron/omr](https://github.com/rbaron/omr) - Optical Mark Recognition in Python
 - [envs-net/bbj](https://github.com/envs-net/bbj) - Bulletin Butter & Jelly: An HTTP bulletin board server for small communities
 - [Ga68/benign-key-logger](https://github.com/Ga68/benign-key-logger) - A simple, transparent, open-source key logger, written in Python, for tracking your own key-usage statistics.
 - [wcerfgba/searx](https://github.com/wcerfgba/searx) - A modified version of searx (the privacy-respecting metasearch engine) to only search an allowlist of sites, to build functionality similar to Rollyo and Bing Custom Search.
@@ -3969,7 +3974,7 @@
 - [rbarrois/mpdlcd](https://github.com/rbarrois/mpdlcd) - A small tool to display MPD status on a lcdproc server
 - [rupeshk/web2epub](https://github.com/rupeshk/web2epub) - Command line tool to convert a set of web pages to epub
 - [setanta/ebookmaker](https://github.com/setanta/ebookmaker) - Python script that builds epub files from common HTML and a JSON book description.
-- [ccrisan/motioneye](https://github.com/ccrisan/motioneye) - A web frontend for the motion daemon.
+- [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) - A web frontend for the motion daemon.
 - [CodyJHeiser/PiStation](https://github.com/CodyJHeiser/PiStation) - Transmit audio files (.wav or .mp3) across the FM band, listen to your music across the room!
 - [piface/pifacecad-emulator](https://github.com/piface/pifacecad-emulator) - An emulator for PiFace Control and Display
 - [piface/pifacecad](https://github.com/piface/pifacecad) - PiFace Control and Display
@@ -4928,6 +4933,7 @@
 
 ## Shell 
 
+- [brocaar/chirpstack-gateway-os](https://github.com/brocaar/chirpstack-gateway-os) - Yocto based gateway images including ChirpStack components.
 - [alpinelinux/alpine-chroot-install](https://github.com/alpinelinux/alpine-chroot-install) - Install Alpine Linux in chroot with a breeze. Build ARM on Travis CI or any other x86_64 CI.
 - [alpinelinux/alpine-make-rootfs](https://github.com/alpinelinux/alpine-make-rootfs) - Make customized Alpine Linux rootfs (base image) for containers
 - [gliderlabs/docker-alpine](https://github.com/gliderlabs/docker-alpine) - Alpine Linux Docker image. Win at minimalism!
