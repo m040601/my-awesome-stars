@@ -1417,6 +1417,7 @@
 
 ## Go 
 
+- [gcla/tmux-wormhole](https://github.com/gcla/tmux-wormhole) - tmux-wormhole - download files and directories with tmux!
 - [mrusme/reader](https://github.com/mrusme/reader) - reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages on the CLI.
 - [go-shiori/obelisk](https://github.com/go-shiori/obelisk) - Go package and CLI tool for saving web page as single HTML file
 - [takingnames/namedrop-go](https://github.com/takingnames/namedrop-go) - 
@@ -1740,6 +1741,7 @@
 - [rugk/offline-qr-code](https://github.com/rugk/offline-qr-code) - 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
+- [feeby2494/chromebook_parts_tracker](https://github.com/feeby2494/chromebook_parts_tracker) - 
 - [Evoniuk/terminal-markdown](https://github.com/Evoniuk/terminal-markdown) - A markdown language for the terminal
 - [gammu/gsm-docs](https://github.com/gammu/gsm-docs) - GSM related documentation
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
@@ -3314,6 +3316,8 @@
 
 ## Python 
 
+- [SL-RU/ranger_udisk_menu](https://github.com/SL-RU/ranger_udisk_menu) - This script draws menu to choose, mount and unmount drives using udisksctl and ncurses for ranger file manager
+- [artemave/tmux_super_fingers](https://github.com/artemave/tmux_super_fingers) - A Tmux plugin to open file links from the terminal in vim
 - [rbaron/omr](https://github.com/rbaron/omr) - Optical Mark Recognition in Python
 - [envs-net/bbj](https://github.com/envs-net/bbj) - Bulletin Butter & Jelly: An HTTP bulletin board server for small communities
 - [Ga68/benign-key-logger](https://github.com/Ga68/benign-key-logger) - A simple, transparent, open-source key logger, written in Python, for tracking your own key-usage statistics.
@@ -3328,7 +3332,6 @@
 - [deep5050/radio-active](https://github.com/deep5050/radio-active) - Play any radios around the globe right from the terminal :zap:
 - [P3qch/aioradios](https://github.com/P3qch/aioradios) - An asynchronous API wrapper for www.radio-browser.info
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
-- [feeby2494/chromebook_parts_tracker](https://github.com/feeby2494/chromebook_parts_tracker) - 
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [simonw/git-history](https://github.com/simonw/git-history) - Tools for analyzing Git history using SQLite
 - [kugland/neocities-sync](https://github.com/kugland/neocities-sync) - Sync local directories with neocities.org sites.
@@ -4933,6 +4936,7 @@
 
 ## Shell 
 
+- [artemave/tmux_capture_last_command_output](https://github.com/artemave/tmux_capture_last_command_output) - Capture the output of the last terminal command and open it an editor in a separate tmux window.
 - [brocaar/chirpstack-gateway-os](https://github.com/brocaar/chirpstack-gateway-os) - Yocto based gateway images including ChirpStack components.
 - [alpinelinux/alpine-chroot-install](https://github.com/alpinelinux/alpine-chroot-install) - Install Alpine Linux in chroot with a breeze. Build ARM on Travis CI or any other x86_64 CI.
 - [alpinelinux/alpine-make-rootfs](https://github.com/alpinelinux/alpine-make-rootfs) - Make customized Alpine Linux rootfs (base image) for containers
