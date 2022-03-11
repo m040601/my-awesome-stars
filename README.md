@@ -162,6 +162,7 @@
 
 ## C 
 
+- [BertoldVdb/sdtool](https://github.com/BertoldVdb/sdtool) - A small tool for managing the write protection flag of SD cards.
 - [rbaron/b-parasite](https://github.com/rbaron/b-parasite) - 🌱💧 A Bluetooth Low Energy (BLE) soil moisture sensor.
 - [aligrudi/fbpad_mkfn](https://github.com/aligrudi/fbpad_mkfn) - Generate Fbpad fonts from TrueType fonts
 - [slavaGanzin/await](https://github.com/slavaGanzin/await) - 32Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination
@@ -1737,6 +1738,7 @@
 
 ## HTML 
 
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [amagovpt/observatory](https://github.com/amagovpt/observatory) - PT Observatory of Web Accessibility - the main app
 - [rugk/offline-qr-code](https://github.com/rugk/offline-qr-code) - 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
@@ -4936,6 +4938,7 @@
 
 ## Shell 
 
+- [ghollingworth/overlayfs](https://github.com/ghollingworth/overlayfs) - 
 - [artemave/tmux_capture_last_command_output](https://github.com/artemave/tmux_capture_last_command_output) - Capture the output of the last terminal command and open it an editor in a separate tmux window.
 - [brocaar/chirpstack-gateway-os](https://github.com/brocaar/chirpstack-gateway-os) - Yocto based gateway images including ChirpStack components.
 - [alpinelinux/alpine-chroot-install](https://github.com/alpinelinux/alpine-chroot-install) - Install Alpine Linux in chroot with a breeze. Build ARM on Travis CI or any other x86_64 CI.
