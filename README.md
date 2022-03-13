@@ -1418,6 +1418,7 @@
 
 ## Go 
 
+- [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
 - [gcla/tmux-wormhole](https://github.com/gcla/tmux-wormhole) - tmux-wormhole - download files and directories with tmux!
 - [mrusme/reader](https://github.com/mrusme/reader) - reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages on the CLI.
 - [go-shiori/obelisk](https://github.com/go-shiori/obelisk) - Go package and CLI tool for saving web page as single HTML file
@@ -2096,6 +2097,7 @@
 
 ## JavaScript 
 
+- [w3bdev1/alter](https://github.com/w3bdev1/alter) - A Firefox Add-on redirecting to privacy-friendly alternatives: https://addons.mozilla.org/addon/alter/
 - [OpenScanEu/OpenScan2](https://github.com/OpenScanEu/OpenScan2) - an improved firmware for the OpenScan devices, featuring many more cameras and a greatly improved overall usability
 - [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative privacy-friendly frontends and backends
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
@@ -2888,6 +2890,7 @@
 
 ## Others 
 
+- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [OmnIoT/Omnikit-projects](https://github.com/OmnIoT/Omnikit-projects) - Projects we've made using OmniKit
 - [OpenScanEu/OpenScan-Mini](https://github.com/OpenScanEu/OpenScan-Mini) - 
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
@@ -3318,6 +3321,12 @@
 
 ## Python 
 
+- [lekma/plugin.video.invidious](https://github.com/lekma/plugin.video.invidious) - Invidious Addon for Kodi
+- [iamtalhaasghar/yewtube](https://github.com/iamtalhaasghar/yewtube) - Terminal based YouTube player and downloader. No Youtube API key required. Forked from mps-youtube
+- [woefe/ytcc](https://github.com/woefe/ytcc) - Command line tool to keep track of your favorite playlists on YouTube and many other places.
+- [Wojnstup/PipeCat](https://github.com/Wojnstup/PipeCat) - A command line Youtube music player written in python. It's an app written for Linux. It also supports offline playlists that are stored in a playlists.db file. More documentation coming soon.
+- [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [SL-RU/ranger_udisk_menu](https://github.com/SL-RU/ranger_udisk_menu) - This script draws menu to choose, mount and unmount drives using udisksctl and ncurses for ranger file manager
 - [artemave/tmux_super_fingers](https://github.com/artemave/tmux_super_fingers) - A Tmux plugin to open file links from the terminal in vim
 - [rbaron/omr](https://github.com/rbaron/omr) - Optical Mark Recognition in Python
@@ -4759,6 +4768,7 @@
 
 ## Rust 
 
+- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
 - [samvel1024/kbct](https://github.com/samvel1024/kbct) - Keyboard keycode mapping utility for Linux supporting layered configuration
 - [cyphar/paperback](https://github.com/cyphar/paperback) - Paper backup generator suitable for long-term storage.
@@ -4938,6 +4948,8 @@
 
 ## Shell 
 
+- [jiploading/wt-sh](https://github.com/jiploading/wt-sh) - Simple script to play and download YouTube videos without connecting to YouTube and without any API.
+- [Wojnstup/PipeCatTurbo](https://github.com/Wojnstup/PipeCatTurbo) - PipeCat - but better. And written in bash!
 - [ghollingworth/overlayfs](https://github.com/ghollingworth/overlayfs) - 
 - [artemave/tmux_capture_last_command_output](https://github.com/artemave/tmux_capture_last_command_output) - Capture the output of the last terminal command and open it an editor in a separate tmux window.
 - [brocaar/chirpstack-gateway-os](https://github.com/brocaar/chirpstack-gateway-os) - Yocto based gateway images including ChirpStack components.
