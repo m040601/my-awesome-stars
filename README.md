@@ -4564,7 +4564,6 @@
 - [tuanpmt/iot-for-beginners-book](https://github.com/tuanpmt/iot-for-beginners-book) - 
 - [18F/identity-idp](https://github.com/18F/identity-idp) - Login.gov Core App: Identity Provider (IdP)
 - [mysociety/alaveteli](https://github.com/mysociety/alaveteli) - Provide a Freedom of Information request system for your jurisdiction
-- [themarshallproject/klaxon](https://github.com/themarshallproject/klaxon) - Klaxon enables reporters and editors to monitor scores of sites on the web for newsworthy changes.
 - [openfarmcc/OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. You can grow anything!
 - [Growstuff/growstuff](https://github.com/Growstuff/growstuff) - Open data project for small-scale food growers
 - [SciRuby/daru](https://github.com/SciRuby/daru) - Data Analysis in RUby
@@ -4919,6 +4918,7 @@
 - [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
 - [vim-advent-calendar/vimways.org](https://github.com/vim-advent-calendar/vimways.org) - vimways.org
 - [minicomp/ed](https://github.com/minicomp/ed) - A Jekyll theme for minimal editions :book:
+- [themarshallproject/klaxon](https://github.com/themarshallproject/klaxon) - Klaxon enables reporters and editors to monitor scores of sites on the web for newsworthy changes.
 - [jez/tufte-pandoc-jekyll](https://github.com/jez/tufte-pandoc-jekyll) - A Jekyll theme for using Tufte CSS with Jekyll + Pandoc
 - [npotts/httpmpc](https://github.com/npotts/httpmpc) - Simple HTTP Wrapper over MPD client connection
 - [yihui/blogdown-jekyll](https://github.com/yihui/blogdown-jekyll) - Automatically knit R Markdown documents, build them with Jekyll, and serve the website with servr locally
@@ -5241,7 +5241,6 @@
 - [MToniotti/ARMchromebook](https://github.com/MToniotti/ARMchromebook) - 
 - [13pgeiser/debian_chromebook_XE303C12](https://github.com/13pgeiser/debian_chromebook_XE303C12) - Debian Buster on Samsung Chromebook Serie 3 (XE303C12, ARM Exynos)
 - [passff/passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
-- [moode-player/mosbuild](https://github.com/moode-player/mosbuild) - moOde OS builder
 - [RuneAudio/RuneOS](https://github.com/RuneAudio/RuneOS) - ArchLinux optimized distribution for audio playback
 - [nickdaria/TzumiMagicTV-RTLSDR](https://github.com/nickdaria/TzumiMagicTV-RTLSDR) - Working with the 13 dollar Tzumi MagicTV.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
