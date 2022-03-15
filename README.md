@@ -1762,7 +1762,6 @@
 - [mcqn/my-babys-got-led](https://github.com/mcqn/my-babys-got-led) - Simple ESP8266 board to drive WS2812 LED strips
 - [orf/bare-hugo-theme](https://github.com/orf/bare-hugo-theme) - A Hugo theme based on Bulma.io
 - [tildeinstitute/site](https://github.com/tildeinstitute/site) - Web site for tilde.institute
-- [zeplia/minwiz](https://github.com/zeplia/minwiz) - Minimal starter kit for under 2 KB sites
 - [viktak/gps-tracker](https://github.com/viktak/gps-tracker) - 
 - [J-Siu/hugo-theme-sk1](https://github.com/J-Siu/hugo-theme-sk1) - Hugo Theme - SK1 (Skeleton 1)
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
@@ -2209,7 +2208,6 @@
 - [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 - [ankitects/anki-docs](https://github.com/ankitects/anki-docs) - Legacy documentation files
 - [FooSoft/yomichan](https://github.com/FooSoft/yomichan) - Japanese pop-up dictionary extension for Chrome and Firefox.
-- [placemark/togeojson](https://github.com/placemark/togeojson) - convert KML, TCX, and GPX to GeoJSON, without the fuss
 - [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - IMPORTANT: development of this project has been paused, see the README (fast, simple map creation)
 - [geoman-io/leaflet-geoman](https://github.com/geoman-io/leaflet-geoman) - 🍂🗺️ The most powerful leaflet plugin for drawing and editing geometry layers
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
@@ -5551,6 +5549,7 @@
 - [tmcw/gedcom](https://github.com/tmcw/gedcom) - A simple GEDCOM parser that focuses on translating GEDCOM structure into JSON.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+- [zeplia/minwiz](https://github.com/zeplia/minwiz) - Minimal starter kit for under 2 KB sites
 - [janci007/control-panel](https://github.com/janci007/control-panel) - 
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [tsani/apollo-extension](https://github.com/tsani/apollo-extension) - Browser extension for Apollo
@@ -5574,6 +5573,7 @@
 - [phiresky/pandoc-url2cite](https://github.com/phiresky/pandoc-url2cite) - Effortlessly and transparently add correctly styled citations to your markdown paper given only a URL
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
+- [placemark/togeojson](https://github.com/placemark/togeojson) - convert KML, TCX, and GPX to GeoJSON, without the fuss
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
 - [rharel/webext-private-bookmarks](https://github.com/rharel/webext-private-bookmarks) - WebExtension that enables a special password-protected bookmark folder.
