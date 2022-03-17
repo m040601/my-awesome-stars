@@ -2830,7 +2830,7 @@
 - [gamaral/rpi-buildroot](https://github.com/gamaral/rpi-buildroot) - Buildroot overlay with a few personal tweaks for the Raspberry Pi
 - [pfalcon/esp-open-sdk](https://github.com/pfalcon/esp-open-sdk) - Free and open (as much as possible) integrated SDK for ESP8266/ESP8285 chips
 - [maxnet/berryboot](https://github.com/maxnet/berryboot) - Berryboot -- Boot menu / OS installer
-- [ccrisan/motioneyeos](https://github.com/ccrisan/motioneyeos) - A Video Surveillance OS For Single-board Computers
+- [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [datasciencetoolbox/datasciencetoolbox](https://github.com/datasciencetoolbox/datasciencetoolbox) - Complete environments for busy polyglot data scientists
 - [mallochine/jarvis2](https://github.com/mallochine/jarvis2) - Expedient travel around the filesystem using user-created bookmarks
 - [jakobib/makespec](https://github.com/jakobib/makespec) - Makefile and templates to create specifications from Pandoc Markdown syntax
@@ -4593,7 +4593,7 @@
 - [matpalm/resemblance](https://github.com/matpalm/resemblance) - trying shingling / resemblance / simhash / sketching to do some data deduping
 - [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer) - Test your rendered HTML files to make sure they're accurate.
 - [hepplerj/rubyist-historian](https://github.com/hepplerj/rubyist-historian) - Code repository for the Rubyist Historian ebook project.
-- [f-secure-foundry/usbarmory](https://github.com/f-secure-foundry/usbarmory) - USB armory - open source flash-drive-sized computer
+- [usbarmory/usbarmory](https://github.com/usbarmory/usbarmory) - USB armory - open source flash-drive-sized computer
 - [htdebeer/scripts](https://github.com/htdebeer/scripts) - Some scripts I wrote to automate some tasks "around the house"
 - [htdebeer/pandocomatic](https://github.com/htdebeer/pandocomatic) - Automate the use of pandoc
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
