@@ -162,6 +162,7 @@
 
 ## C 
 
+- [milankragujevic/openwrt-wr840n-v620-old](https://github.com/milankragujevic/openwrt-wr840n-v620-old) - Patched OpenWrt for TP-Link WR840N(EU) v6.20
 - [BertoldVdb/sdtool](https://github.com/BertoldVdb/sdtool) - A small tool for managing the write protection flag of SD cards.
 - [rbaron/b-parasite](https://github.com/rbaron/b-parasite) - 🌱💧 A Bluetooth Low Energy (BLE) soil moisture sensor.
 - [aligrudi/fbpad_mkfn](https://github.com/aligrudi/fbpad_mkfn) - Generate Fbpad fonts from TrueType fonts
@@ -3028,7 +3029,7 @@
 - [sigdeletras/qgis_recursos](https://github.com/sigdeletras/qgis_recursos) - Recursos para QGIS
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Rizon network.
 - [mipimipi/smsync](https://github.com/mipimipi/smsync) - keeps huge music collections in sync and takes care of conversions between different formats. It's an easy-to-use command line application for Linux.
-- [osmlab/awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap) - 😎 Curated list of awesome OpenSteetMap projects
+- [osmlab/awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap) - 😎 Curated list of awesome OpenSteetMap-projects
 - [IgrikXD/Easy-SDR](https://github.com/IgrikXD/Easy-SDR) - This project is about creation of affordable and easy-to-manufacture prototypes of PCBs which are used to expand the capabilities of existing low-cost SDR receivers based on RTL2832U chip.
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 - [coherentgraphics/cpdf-binaries](https://github.com/coherentgraphics/cpdf-binaries) - PDF Command Line Tools binaries for Linux, Mac, Windows
