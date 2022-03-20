@@ -4950,7 +4950,6 @@
 
 ## Shell 
 
-- [jiploading/wt-sh](https://github.com/jiploading/wt-sh) - Simple script to play and download YouTube videos without connecting to YouTube and without any API.
 - [Wojnstup/PipeCatTurbo](https://github.com/Wojnstup/PipeCatTurbo) - PipeCat - but better. And written in bash!
 - [ghollingworth/overlayfs](https://github.com/ghollingworth/overlayfs) - 
 - [artemave/tmux_capture_last_command_output](https://github.com/artemave/tmux_capture_last_command_output) - Capture the output of the last terminal command and open it an editor in a separate tmux window.
