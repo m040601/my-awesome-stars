@@ -1419,6 +1419,7 @@
 
 ## Go 
 
+- [dakyskye/dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
 - [audstanley/libgen-tui](https://github.com/audstanley/libgen-tui) - A terminal based application for LibGen
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
 - [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
@@ -1656,7 +1657,7 @@
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
-- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - a native Go userland for your Raspberry Pi 3 or 4 appliances (or amd64 PCs!)
+- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3 or 4 (or on amd64 PCs!)
 - [sgreben/jp](https://github.com/sgreben/jp) - dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.
 - [desmondhume/newspaper](https://github.com/desmondhume/newspaper) - Read webpages in readability mode, inside your terminal.
 - [netlify/git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs
@@ -2026,6 +2027,7 @@
 
 ## Java 
 
+- [stream-pi/client](https://github.com/stream-pi/client) - Stream-Pi Client
 - [openremote/openremote](https://github.com/openremote/openremote) - 100% open-source IoT Platform - Integrate your devices, create rules, and analyse and visualise your data
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 - [airsonic/airsonic](https://github.com/airsonic/airsonic) - :satellite: :cloud: :notes:Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic)
