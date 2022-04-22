@@ -47,6 +47,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [KiCad](#kicad)
   - [Kotlin](#kotlin)
+  - [Latte](#latte)
   - [Liquid](#liquid)
   - [LiveScript](#livescript)
   - [Lua](#lua)
@@ -162,6 +163,13 @@
 
 ## C 
 
+- [geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) - Virtual cables between any audio source and any speaker in your home
+- [GoergPflug/AttinyStreamGfxApi](https://github.com/GoergPflug/AttinyStreamGfxApi) - Fast Graphics Library for Attiny85 and SSD1306 over I2c
+- [BelledonneCommunications/belle-sip](https://github.com/BelledonneCommunications/belle-sip) - Linphone.org mirror for belle-sip (git://git.linphone.org/belle-sip.git)
+- [nopnop2002/esp-idf-mpd-clinet](https://github.com/nopnop2002/esp-idf-mpd-clinet) - MPD client for ESP-IDF
+- [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
+- [raysan5/raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
+- [jbensmann/xmouseless](https://github.com/jbensmann/xmouseless) - A fast and simple way to control the mouse.
 - [milankragujevic/openwrt-wr840n-v620-old](https://github.com/milankragujevic/openwrt-wr840n-v620-old) - Patched OpenWrt for TP-Link WR840N(EU) v6.20
 - [BertoldVdb/sdtool](https://github.com/BertoldVdb/sdtool) - A small tool for managing the write protection flag of SD cards.
 - [rbaron/b-parasite](https://github.com/rbaron/b-parasite) - 🌱💧 A Bluetooth Low Energy (BLE) soil moisture sensor.
@@ -184,7 +192,7 @@
 - [aligrudi/neatlibc](https://github.com/aligrudi/neatlibc) - A small arm/x86(-64) libc
 - [wuhanstudio/u8g2-arm-linux](https://github.com/wuhanstudio/u8g2-arm-linux) - U8g2 for arm linux - a monochrome graphics library
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
-- [rvaiya/warpd](https://github.com/rvaiya/warpd) - A small X program which provides novel methods for keyboard driven cursor manipulation.
+- [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [Cloudef/bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
 - [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
 - [t-8ch/pinentry-bemenu](https://github.com/t-8ch/pinentry-bemenu) - Pinentry based on bemenu
@@ -228,7 +236,7 @@
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [pschatzmann/pico-arduino](https://github.com/pschatzmann/pico-arduino) - Arduino API Library for the Raspberry Pico
 - [SartoxSoftware/audacium](https://github.com/SartoxSoftware/audacium) - Free and open-source audio editor
-- [omar-polo/gmid](https://github.com/omar-polo/gmid) - simple and secure Gemini server
+- [omar-polo/gmid](https://github.com/omar-polo/gmid) - a Gemini server
 - [omar-polo/telescope](https://github.com/omar-polo/telescope) - A Gemini Browser
 - [hexdump0815/linux-mainline-and-mali-generic-stable-kernel](https://github.com/hexdump0815/linux-mainline-and-mali-generic-stable-kernel) - my kind of generic armv7l 32bit linux mainline stable kernel build - used on bananapi m1, asus tinkerboard, tx1 allwinner h3 tv box, r39 allwinner h3 tv box, orbsmart s92 tv box (same as beelink r89, tronsmart orion r28, very similar to ubox tv box), raspberry pi 3b and 3b plus in 32bit mode
 - [catid/loraftp](https://github.com/catid/loraftp) - File transfer between two Raspberry Pis using the LoRa Pi HAT from Waveshare
@@ -279,6 +287,7 @@
 - [DougieLawson/RaspberryPi](https://github.com/DougieLawson/RaspberryPi) - Stuff for my RPi
 - [atc1441/ATC_MiThermometer](https://github.com/atc1441/ATC_MiThermometer) - Custom firmware for the Xiaomi Thermometer LYWSD03MMC and Telink Flasher via USB to Serial converter
 - [jcorporation/myGPIOd](https://github.com/jcorporation/myGPIOd) - myGPIOd is a small daemon to call scripts on GPIO events.
+- [stewartsmith/libeatmydata](https://github.com/stewartsmith/libeatmydata) - libeatmydata - because fsync() should be a no-op
 - [fangfufu/httpdirfs](https://github.com/fangfufu/httpdirfs) - A filesystem which allows you to mount HTTP directory listings, with a permanent cache. Now with Airsonic / Subsonic support!
 - [mcpcpc/xwm](https://github.com/mcpcpc/xwm) - A tiny XCB floating window manager.
 - [Manawyrm/pata-gpio](https://github.com/Manawyrm/pata-gpio) - Linux kernel driver for PATA bit-banging over GPIOs
@@ -297,7 +306,7 @@
 - [phenax/shotkey](https://github.com/phenax/shotkey) - A simple and lightweight hotkey daemon for X with configurable custom modes and key chords (in ~200 LOC)
 - [dudik/herbe](https://github.com/dudik/herbe) - Daemon-less notifications without D-Bus. Minimal and lightweight.
 - [phillbush/xnotify](https://github.com/phillbush/xnotify) - read notifications from stdin and pop them up on the screen
-- [mariusor/mpris-scrobbler](https://github.com/mariusor/mpris-scrobbler) - Minimalistic user daemon which submits the currently playing song to listenbrainz.org, libre.fm and last.fm services.
+- [mariusor/mpris-scrobbler](https://github.com/mariusor/mpris-scrobbler) - A minimalistic user daemon to submit the songs you're playing to audioscrobbler services like listenbrainz.org, libre.fm and last.fm.
 - [mariusor/mpris-ctl](https://github.com/mariusor/mpris-ctl) - Basic mpris player control for linux command line
 - [NicoHood/HID](https://github.com/NicoHood/HID) - Bring enhanced HID functions to your Arduino!
 - [p-gen/ptylie](https://github.com/p-gen/ptylie) - Similar to *script* without replay but with a mechanism to inject keytrokes in the slave's keyboard queue
@@ -356,9 +365,9 @@
 - [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas) - A portable fork of the OpenBSD `doas` command
 - [gromgit/ttyplot](https://github.com/gromgit/ttyplot) - a simple general purpose plotting utility for tty with data input from stdin
 - [salman-abedin/puri](https://github.com/salman-abedin/puri) - Minimal CLI URL launcher
-- [pikvm/packages](https://github.com/pikvm/packages) - Pi-KVM Packages
+- [pikvm/packages](https://github.com/pikvm/packages) - PiKVM Packages
 - [jacksonliam/mjpg-streamer](https://github.com/jacksonliam/mjpg-streamer) - Fork of http://sourceforge.net/projects/mjpg-streamer/
-- [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPG-HTTP streamer
+- [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPEG-HTTP streamer
 - [annacrombie/plot](https://github.com/annacrombie/plot) - plot on the command line
 - [streamripper/streamripper](https://github.com/streamripper/streamripper) - 
 - [daschr/dnswatch](https://github.com/daschr/dnswatch) - watch for changes of A/AAAA records
@@ -488,7 +497,7 @@
 - [bontibon/kjv](https://github.com/bontibon/kjv) - Read the Word of God from your terminal
 - [mananapr/cfiles](https://github.com/mananapr/cfiles) - A ncurses file manager written in C with vim like keybindings
 - [drkhsh/slstatus](https://github.com/drkhsh/slstatus) - slstatus is a suckless status monitor for window managers that use WM_NAME (e.g. dwm) or stdin to fill the status bar - mirror from suckless
-- [jeroen/rsvg](https://github.com/jeroen/rsvg) - SVG renderer for R based on librsvg2
+- [ropensci/rsvg](https://github.com/ropensci/rsvg) - SVG renderer for R based on librsvg2
 - [r-rust/gifski](https://github.com/r-rust/gifski) - R wrapper for the 'gifski' Rust Cargo crate.
 - [nicm/fdm](https://github.com/nicm/fdm) - 
 - [waveshare/WM8960-Audio-HAT](https://github.com/waveshare/WM8960-Audio-HAT) - The drivers of [WM8960 Audio HAT] for Raspberry Pi
@@ -527,7 +536,7 @@
 - [kevinboone/epub2txt2](https://github.com/kevinboone/epub2txt2) - A simple command-line utility for Linux, for extracting text from EPUB documents.
 - [kevinboone/epub2txt](https://github.com/kevinboone/epub2txt) - A simple utility to extract text from EPUB documents and, optionally, format it
 - [karawin/Ka-Radio32](https://github.com/karawin/Ka-Radio32) - esp32 version of Ka-Radio (https://github.com/karawin/Ka-Radio) by jp Cocatrix
-- [lyusupov/SoftRF](https://github.com/lyusupov/SoftRF) - :airplane:  Multifunctional, compatible DIY general aviation proximity awareness system
+- [lyusupov/SoftRF](https://github.com/lyusupov/SoftRF) - :airplane:  Multi-functional, compatible DIY general aviation proximity awareness system
 - [Heltec-Aaron-Lee/WiFi_Kit_series](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series) - Arduino source codes and toolchain for WiFi_Kit_series made by HelTecAutomation.
 - [rene-dev/stmbl](https://github.com/rene-dev/stmbl) - AC Servo Driver for STM32F4
 - [project-owner/Peppy.doc](https://github.com/project-owner/Peppy.doc) - Peppy documentation
@@ -601,6 +610,7 @@
 - [vain/lariza](https://github.com/vain/lariza) - Simple WebKit2GTK+ Browser
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 - [piersfinlayson/otb-iot](https://github.com/piersfinlayson/otb-iot) - Out of The Box Internet Of Things
+- [souliss/souliss](https://github.com/souliss/souliss) - Arduino based Distributed Networking Framework for Smart Homes and IoT
 - [tuanpmt/esp-audio-player](https://github.com/tuanpmt/esp-audio-player) - ESP8266 Mp3 player and display spectrum on OLED
 - [lechiJb/myRadio](https://github.com/lechiJb/myRadio) - myRadio – ESP8266 WLAN radio
 - [martin-ger/esp_wifi_repeater](https://github.com/martin-ger/esp_wifi_repeater) - A full functional WiFi Repeater (correctly: a WiFi NAT Router)
@@ -611,6 +621,7 @@
 - [pettarin/espeak-ng](https://github.com/pettarin/espeak-ng) - eSpeak fork providing significant changes and improvements to the upstream eSpeak project
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [christinaa/rpi-open-firmware](https://github.com/christinaa/rpi-open-firmware) - Open source VPU side bootloader for Raspberry Pi.
+- [kitesurfer1404/WS2812FX](https://github.com/kitesurfer1404/WS2812FX) - WS2812 FX Library for Arduino and ESP8266
 - [zserge/jsmn](https://github.com/zserge/jsmn) - Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket
 - [hak5darren/USB-Rubber-Ducky](https://github.com/hak5darren/USB-Rubber-Ducky) - 
 - [ArduCAM/ArduCAM_ESP8266_UNO](https://github.com/ArduCAM/ArduCAM_ESP8266_UNO) - This Arduino IDE for ArduCAM ESP8266 UNO Board with Integrated ArduCAM Library and Examples
@@ -965,7 +976,7 @@
 - [daveake/LoRaRepeater](https://github.com/daveake/LoRaRepeater) - LoRa HAB Repeater
 - [MayaPosch/BMaC](https://github.com/MayaPosch/BMaC) - Building Management and Control system
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [fdivitto/FabGL](https://github.com/fdivitto/FabGL) - Display Controller (VGA, SSD1306, ST7789, ILI9341), PS/2 Mouse and Keyboard Controller, Graphics Library, Sound Engine, Game Engine and ANSI/VT Terminal for the ESP32
+- [fdivitto/FabGL](https://github.com/fdivitto/FabGL) - ESP32 Display Controller (VGA, PAL/NTSC Color Composite, SSD1306, ST7789, ILI9341), PS/2 Mouse and Keyboard Controller, Graphics Library, Sound Engine, Game Engine and ANSI/VT Terminal
 - [microsoft/BlingFire](https://github.com/microsoft/BlingFire) - A lightning fast Finite State machine and REgular expression manipulation library.
 - [gimesketvirtadieni/slimstreamer](https://github.com/gimesketvirtadieni/slimstreamer) - SlimStreamer is an audio streaming software for Linux with multi-room functionality. SlimStreamer captures audio playback from ALSA and broadcasts it to connected Squeezebox devices (real or ‘virtual’ like squeezelite).
 - [HarringayMakerSpace/sonoff-adhoc](https://github.com/HarringayMakerSpace/sonoff-adhoc) - Control a Sonoff switch with Wifi probe requests
@@ -1088,7 +1099,6 @@
 - [mgaman/A6General](https://github.com/mgaman/A6General) - A general purpose library for the Arduino A6GPRS user. First issue implements the MQTT protocol. More to come.
 - [goebish/nrf24_multipro](https://github.com/goebish/nrf24_multipro) - nRF24L01 multi-protocol RC transmitter
 - [EKMallon/UNO-Breadboard-Datalogger](https://github.com/EKMallon/UNO-Breadboard-Datalogger) - Code for the basic UNO & Breadboard data logger described on the project blog
-- [souliss/souliss](https://github.com/souliss/souliss) - Arduino based Distributed Networking Framework for Smart Homes and IoT
 - [hallard/RadioHead](https://github.com/hallard/RadioHead) - RadioHead Packet Radio library for embedded microprocessors
 - [marciolm/EspComLoRa](https://github.com/marciolm/EspComLoRa) - ESP8266 Arduino nodes and Gateway to Thingspeak
 - [winder/ESPTemplateProcessor](https://github.com/winder/ESPTemplateProcessor) - Library for the ESP8266 Arduino to process templates and stream them with the ESP8266WebServer.
@@ -1101,7 +1111,6 @@
 - [me-no-dev/ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async Web Server for ESP8266 and ESP32
 - [adafruit/RTClib](https://github.com/adafruit/RTClib) - A fork of Jeelab's fantastic RTC library
 - [jpmeijers/RN2483-Arduino-Library](https://github.com/jpmeijers/RN2483-Arduino-Library) - Arduino C++ code to communicate with a Microchip RN2483 module
-- [kitesurfer1404/WS2812FX](https://github.com/kitesurfer1404/WS2812FX) - WS2812 FX Library for Arduino and ESP8266
 - [kakopappa/arduino-esp8266-alexa-wemo-switch](https://github.com/kakopappa/arduino-esp8266-alexa-wemo-switch) - Amazon Alexa  + WeMos switch made with Arduino D1 Mini
 - [JoaoLopesF/SPFD5408](https://github.com/JoaoLopesF/SPFD5408) - Adafruit Libraries changed to works in TFT 2.4 shields with the SPFD5408 controller for Arduino Uno and Mega (Discontinued library)
 - [SlashDevin/NeoGPS](https://github.com/SlashDevin/NeoGPS) - NMEA and ublox GPS parser for Arduino, configurable to use as few as 10 bytes of RAM
@@ -1282,7 +1291,6 @@
 - [thcipriani/links](https://github.com/thcipriani/links) - Cool links I find that I'd like to follow up on
 - [HubSpot/offline](https://github.com/HubSpot/offline) - Automatically display online/offline indication to your users
 - [docopt/try.docopt.org](https://github.com/docopt/try.docopt.org) - Try out docopt in browser (Flask app running on Heroku)
-- [garybgenett/composer](https://github.com/garybgenett/composer) - Composer is a simple but powerful CMS based on Pandoc and Make
 - [tdsmith/aRrgh](https://github.com/tdsmith/aRrgh) - A newcomer's (angry) guide to data types in R
 - [poole/poole](https://github.com/poole/poole) - The Jekyll Butler. A no frills responsive Jekyll blog theme.
 - [popcorn-time/popcorn-app](https://github.com/popcorn-time/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs.
@@ -1356,7 +1364,6 @@
 
 - [heussd/newsboat-docker](https://github.com/heussd/newsboat-docker) - 
 - [zveronline/docker-radio](https://github.com/zveronline/docker-radio) - icecast, mpd, rompr
-- [GloDroid/glodroid_manifest](https://github.com/GloDroid/glodroid_manifest) - Android manifest for GloDroid (AOSP for the world's most accessible development platforms)
 - [pgaskin/NickelTC](https://github.com/pgaskin/NickelTC) - A dockerized, deterministic, automated, fixed, and fully-relocatable build of @NiLuJe's toolchain for Kobo eReaders.
 
 ## Eagle 
@@ -1419,6 +1426,17 @@
 
 ## Go 
 
+- [clisboa/KoboMail](https://github.com/clisboa/KoboMail) - Experimental email attachment downloader for Kobo devices
+- [eliukblau/pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
+- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
+- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
+- [ncarlier/readflow](https://github.com/ncarlier/readflow) - Read your Internet article flow in one place with complete peace of mind and freedom.
+- [odpf/meteor](https://github.com/odpf/meteor) - Meteor is an easy-to-use, plugin-driven metadata collection framework to extract data from different sources and sink to any data catalog.
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
+- [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks.
+- [bmaupin/go-epub](https://github.com/bmaupin/go-epub) - Go library for creating EPUB files
+- [LiboShen/webpage-to-ebook](https://github.com/LiboShen/webpage-to-ebook) - 
+- [xyproto/o](https://github.com/xyproto/o) - :cyclone: Configuration-free text editor and minimalistic IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming. Includes syntax highlighting, quick compilation and formatting, jump-to-error, rainbow parenthesis, tab completion, smart indentation, macros and cut/paste portals.
 - [dakyskye/dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
 - [audstanley/libgen-tui](https://github.com/audstanley/libgen-tui) - A terminal based application for LibGen
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -1538,10 +1556,11 @@
 - [altdesktop/playerbm](https://github.com/altdesktop/playerbm) - 📚 🎧 Bookmark CLI for media players to resume where you left off in audiobooks and podcasts
 - [Limero/offlinerss](https://github.com/Limero/offlinerss) - OfflineRSS is a tool written in Go for syncing RSS between a hosted feed aggregator and local RSS readers.
 - [zserge/zs](https://github.com/zserge/zs) - Absolutely minimal static site generator in Go (powers https://zserge.com)
-- [pgaskin/kfwproxy](https://github.com/pgaskin/kfwproxy) - API proxy for kobofirmware
+- [pgaskin/kfwproxy](https://github.com/pgaskin/kfwproxy) - API proxy for kobofirmware.
 - [elisescu/tty-server](https://github.com/elisescu/tty-server) - Server side for tty-share.com. Replaced now by https://github.com/elisescu/tty-proxy
 - [meterup/github-release](https://github.com/meterup/github-release) - Commandline app to create and edit releases on Github (and upload artifacts)
 - [pgaskin/dictutil](https://github.com/pgaskin/dictutil) - Tools, documentation, and libraries related to Kobo dictionaries.
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [SeungheonOh/pot](https://github.com/SeungheonOh/pot) - These are pixels, but on a terminal
@@ -1743,10 +1762,12 @@
 
 ## HTML 
 
+- [papis/papis-zotero](https://github.com/papis/papis-zotero) - Zotero compatiblity scripts for papis
+- [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [amagovpt/observatory](https://github.com/amagovpt/observatory) - PT Observatory of Web Accessibility - the main app
 - [rugk/offline-qr-code](https://github.com/rugk/offline-qr-code) - 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
-- [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
+- [georgestagg/webR](https://github.com/georgestagg/webR) - This project aims to compile the statistical language R into WASM for use in a browser, via Emscripten.
 - [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
 - [feeby2494/chromebook_parts_tracker](https://github.com/feeby2494/chromebook_parts_tracker) - 
 - [Evoniuk/terminal-markdown](https://github.com/Evoniuk/terminal-markdown) - A markdown language for the terminal
@@ -2043,7 +2064,6 @@
 - [badaix/snapdroid](https://github.com/badaix/snapdroid) - Snapcast client for Android
 - [mstoer/HomeWeather](https://github.com/mstoer/HomeWeather) - Android app to view/load ESP32 powered home weather station web page
 - [openpnp/openpnp](https://github.com/openpnp/openpnp) - Open Source SMT Pick and Place Hardware and Software
-- [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - [inaturalist/iNaturalistAndroid](https://github.com/inaturalist/iNaturalistAndroid) - Android app for iNaturalist.org
 - [bitextor/pdf-extract](https://github.com/bitextor/pdf-extract) - PDF parser and converter to HTML
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
@@ -2101,9 +2121,10 @@
 
 ## JavaScript 
 
+- [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files
 - [w3bdev1/alter](https://github.com/w3bdev1/alter) - A Firefox Add-on redirecting to privacy-friendly alternatives: https://addons.mozilla.org/addon/alter/
 - [OpenScanEu/OpenScan2](https://github.com/OpenScanEu/OpenScan2) - an improved firmware for the OpenScan devices, featuring many more cameras and a greatly improved overall usability
-- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative privacy-friendly frontends and backends
+- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [heussd/texttomail](https://github.com/heussd/texttomail) - Allows to e-mail pages that are viewed in reader mode.
 - [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment.
@@ -2120,7 +2141,7 @@
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [segfall/static-wiki](https://github.com/segfall/static-wiki) - Wikipedia using only static assets & no backend
 - [iiab/maps](https://github.com/iiab/maps) - Internet-in-a-Box (IIAB) Maps are like Google Maps but better, for schools especially, as they work offline (including satellite photos!) and avoid all the advertising.  LATEST README: https://github.com/iiab/iiab/tree/master/roles/osm-vector-maps
-- [rern/rAudio-1](https://github.com/rern/rAudio-1) - Raspberry Pi audio player: AirPlay, Audio CD, Bluetooth, Multi-room, Spotify Connect, UPnP
+- [rern/rAudio-1](https://github.com/rern/rAudio-1) - Raspberry Pi audio player: AirPlay, Audio CD, Bluetooth, Multi-room, Spotify Connect, UPnP, DSP
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [Smile4ever/Neat-URL](https://github.com/Smile4ever/Neat-URL) - Neat URL cleans URLs, removing parameters such as Google Analytics' utm parameters.
 - [CMU-CREATE-Lab/timemachine-viewer](https://github.com/CMU-CREATE-Lab/timemachine-viewer) - 
@@ -2196,7 +2217,6 @@
 - [nieldlr/decomposition-font-generator](https://github.com/nieldlr/decomposition-font-generator) - A font file generator for uncommon Chinese character glyphs usually derived from Chinese character decomposition.
 - [Mailtrain-org/mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter app
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [bekicot/scihub-firefox](https://github.com/bekicot/scihub-firefox) - Open scihub page in a new tab for current page's url.
 - [UB-Mannheim/zotero-ocr](https://github.com/UB-Mannheim/zotero-ocr) - Zotero Plugin for OCR
 - [Guillawme/zotero-doi-link-quickcopy](https://github.com/Guillawme/zotero-doi-link-quickcopy) - "Copy Selected Items' DOIs to Clipboard" shortcut for Zotero
@@ -2209,7 +2229,6 @@
 - [evilpie/add-custom-search-engine](https://github.com/evilpie/add-custom-search-engine) - Add a custom search engine to the list of available search engines in Firefox
 - [kizniche/ttn-tracker](https://github.com/kizniche/ttn-tracker) - Download GPS data transmitted to The Things Network for live display on a map
 - [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄‍♀️ A SurfingKeys configuration which adds 130+ key mappings for 20+ sites & OmniBar search suggestions for 50+ sites
-- [AssrtOSS/mpv-assrt](https://github.com/AssrtOSS/mpv-assrt) - mpv自动下载字幕脚本 Automatically download subtitles from assrt.net
 - [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 - [ankitects/anki-docs](https://github.com/ankitects/anki-docs) - Legacy documentation files
 - [FooSoft/yomichan](https://github.com/FooSoft/yomichan) - Japanese pop-up dictionary extension for Chrome and Firefox.
@@ -2230,7 +2249,7 @@
 - [crisdosyago/Diskernet](https://github.com/crisdosyago/Diskernet) - 💾 Diskernet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo. Formerly 22120 (project codename)
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
-- [cmdalbem/ciclomapa](https://github.com/cmdalbem/ciclomapa) - Beautiful bike maps of Brazilian cities, powered by OpenStreetMap.
+- [cmdalbem/ciclomapa](https://github.com/cmdalbem/ciclomapa) - Beautiful, interactive & open bike maps of Brazilian cities. Powered by OpenStreetMap.
 - [heiseonline/embetty](https://github.com/heiseonline/embetty) - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
 - [JVital2013/RoadApplePi](https://github.com/JVital2013/RoadApplePi) - An elegent "Black Box" solution that can be retrofitted into any car with an OBD(II) port for minimal cost.
 - [inventaire/inventaire](https://github.com/inventaire/inventaire) - a libre collaborative resource mapper powered by open-knowledge, starting with books! :books:
@@ -2254,7 +2273,7 @@
 - [realdennis/md2pdf](https://github.com/realdennis/md2pdf) - Offline markdown to pdf, choose -&gt; edit -&gt; transform 🥂
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - 🖭  Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [liberodark/ODrive](https://github.com/liberodark/ODrive) - Google Drive GUI for Windows / Mac / Linux
 - [heiseonline/shariff](https://github.com/heiseonline/shariff) - 👮 Shariff enables website users to share their favorite content without compromising their privacy.
@@ -2305,7 +2324,6 @@
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [diyhue/diyHue](https://github.com/diyhue/diyHue) - Main diyHue software repo
 - [browserpass/browserpass-legacy](https://github.com/browserpass/browserpass-legacy) - Legacy Browserpass repo, development is now happening at:
 - [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the viewport. Written in plain "vanilla" JavaScript, it leverages IntersectionObserver, supports responsive images and enables native lazy loading.
 - [CodeforKarlsruhe/direktvermarkter](https://github.com/CodeforKarlsruhe/direktvermarkter) - Karte von Hofläden, Milchautomaten und anderen Direktvermarktern
@@ -2707,6 +2725,7 @@
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support
 - [metrodroid/metrodroid](https://github.com/metrodroid/metrodroid) - Read data from public transit cards using your NFC Android phone! (iOS 13 and PC/SC support coming soon)
 - [39aldo39/libdecsync](https://github.com/39aldo39/libdecsync) - 
+- [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android companion application for the Meshtastic ski/hike/fly/Signal-chat GPS radio
 - [helloworld1/FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator
 - [syncthing/syncthing-lite](https://github.com/syncthing/syncthing-lite) - A Sync Browser: a browser app for Syncthing-compatible shares
@@ -2714,6 +2733,10 @@
 - [ligi/SurvivalManual](https://github.com/ligi/SurvivalManual) - Libre Survival Manual for Android with offline in mind
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [rsiebert/TVHClient](https://github.com/rsiebert/TVHClient) - An Android client for TVHeadend using the HTSP protocol
+
+## Latte 
+
+- [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok) - Open source alternative frontend for TikTok made using PHP
 
 ## Liquid 
 
@@ -2751,7 +2774,7 @@
 - [PhilipRoman/tmux-filetree](https://github.com/PhilipRoman/tmux-filetree) - Simple, non-intrusive dynamic file tree which always tracks your active Tmux pane
 - [ISEMS/ISEMS-ESP32](https://github.com/ISEMS/ISEMS-ESP32) - ISEMS-Port for Solarnodes based on ESP32 Microcontrollers
 - [OliverLew/dotfiles](https://github.com/OliverLew/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
-- [Kirill-Bugaev/noxkvm](https://github.com/Kirill-Bugaev/noxkvm) - low-level KVM for Linux
+- [AssrtOSS/mpv-assrt](https://github.com/AssrtOSS/mpv-assrt) - mpv自动下载字幕脚本 Automatically download subtitles from assrt.net
 - [jgm/select-meta](https://github.com/jgm/select-meta) - Pandoc lua filter for constructing metadata from YAML data sources using queries
 - [ColumPaget/pocketeer.lua](https://github.com/ColumPaget/pocketeer.lua) - Lua script to list/add/delete items to getpocket.com. Requires libUseful and libUseful-lua
 - [teoric/pandoc-filters](https://github.com/teoric/pandoc-filters) - Pandoc filters
@@ -2764,7 +2787,6 @@
 - [ehildenb/pandoc-tangle](https://github.com/ehildenb/pandoc-tangle) - Simple tangler for Pandoc
 - [Orange-OpenSource/pandoc-terminal-writer](https://github.com/Orange-OpenSource/pandoc-terminal-writer) - Pretty-print text documents on a terminal using pandoc
 - [tomncooper/pandoc-gls](https://github.com/tomncooper/pandoc-gls) - A pandoc filter allowing easier syntax for the Latex glossaries package with Markdown documents
-- [sile-typesetter/casile](https://github.com/sile-typesetter/casile) - The CaSILE toolkit, a book publishing workflow employing SILE and other wizardry.
 - [pandoc/lua-filters](https://github.com/pandoc/lua-filters) - A collection of lua filters for pandoc
 - [dsanson/pandoc-questions.lua](https://github.com/dsanson/pandoc-questions.lua) - pandoc lua filter for managing different versions of a quiz or exam in a single document
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
@@ -2794,7 +2816,6 @@
 
 ## M4 
 
-- [stewartsmith/libeatmydata](https://github.com/stewartsmith/libeatmydata) - libeatmydata - because fsync() should be a no-op
 - [raspberrypi/usbbootgui](https://github.com/raspberrypi/usbbootgui) - GUI for booting a Raspberry Pi device like Pi Zero or compute module as a device
 
 ## Makefile 
@@ -2815,10 +2836,12 @@
 - [dreemurrs-embedded/Jumpdrive](https://github.com/dreemurrs-embedded/Jumpdrive) - Flash/Rescue SD Card image for PinePhone and PineTab
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [raspberrypi/gpioexpander](https://github.com/raspberrypi/gpioexpander) - Buildroot based ethernet gadget which gives a host access to PIGPIO to control GPIO pins
+- [GloDroid/glodroid_manifest](https://github.com/GloDroid/glodroid_manifest) - Android manifest for GloDroid (AOSP for the world's most accessible development platforms)
 - [tmn505/openwrt-dvb](https://github.com/tmn505/openwrt-dvb) - OpenWrt feed focused on DVB applications
 - [RuralHunter/CoreELEC](https://github.com/RuralHunter/CoreELEC) - This is CoreELEC for Phicomm N1 device only. Run ./mkn1 to build.
 - [probonopd/lirc-audio_alsa-for-openwrt](https://github.com/probonopd/lirc-audio_alsa-for-openwrt) - Use a soundcard input to receive infrared remote control signals.
 - [dilshan/usb2-power-hub](https://github.com/dilshan/usb2-power-hub) - 4-Port High Power USB 2.0 Hub
+- [sile-typesetter/casile](https://github.com/sile-typesetter/casile) - The CaSILE toolkit, a book publishing workflow employing SILE and other wizardry.
 - [vedetta-com/caesonia](https://github.com/vedetta-com/caesonia) - OpenBSD Email Service
 - [pjungwir/manpj](https://github.com/pjungwir/manpj) - Twenty years of tech notes, viewable as man pages
 - [cieplak/jz](https://github.com/cieplak/jz) - Tool for Configuring Jails, ZFS and pf on FreeBSD
@@ -2837,12 +2860,14 @@
 - [maxnet/berryboot](https://github.com/maxnet/berryboot) - Berryboot -- Boot menu / OS installer
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [datasciencetoolbox/datasciencetoolbox](https://github.com/datasciencetoolbox/datasciencetoolbox) - Complete environments for busy polyglot data scientists
+- [garybgenett/composer](https://github.com/garybgenett/composer) - Composer is a simple but powerful CMS based on Pandoc and GNU Make
 - [mallochine/jarvis2](https://github.com/mallochine/jarvis2) - Expedient travel around the filesystem using user-created bookmarks
 - [jakobib/makespec](https://github.com/jakobib/makespec) - Makefile and templates to create specifications from Pandoc Markdown syntax
 - [datagrok/makebakery](https://github.com/datagrok/makebakery) - A static website generator built on GNU Make.
 
 ## Markdown 
 
+- [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## MoonScript 
@@ -2861,7 +2886,6 @@
 ## OCaml 
 
 - [savonet/liquidsoap](https://github.com/savonet/liquidsoap) - Audio and video streaming language
-- [moosotc/llpp](https://github.com/moosotc/llpp) - PDF pager
 - [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
 
 ## Objective-C 
@@ -2895,7 +2919,6 @@
 
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [OmnIoT/Omnikit-projects](https://github.com/OmnIoT/Omnikit-projects) - Projects we've made using OmniKit
-- [OpenScanEu/OpenScan-Mini](https://github.com/OpenScanEu/OpenScan-Mini) - 
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 - [Antharia/awesome-lowtech](https://github.com/Antharia/awesome-lowtech) - Low tech software and hardware. Low resources. Recycling.
 - [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let's upgrade or replace it. (mirror)
@@ -2932,7 +2955,7 @@
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [wemos/docs](https://github.com/wemos/docs) - 
 - [bsdhw/Trends](https://github.com/bsdhw/Trends) - Trends in Hardware
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [archdroid-org/repo](https://github.com/archdroid-org/repo) - Releases for the pkgbuilds repository.
 - [Twisted-Fields/acorn-mechanical-designs](https://github.com/Twisted-Fields/acorn-mechanical-designs) - Mechanical design information for Acorn, the precision farming rover from Twisted Fields
@@ -2995,6 +3018,7 @@
 - [migueldemoura/ublock-umatrix-rulesets](https://github.com/migueldemoura/ublock-umatrix-rulesets) - Hosts and uBlock Rulesets
 - [adafruit/awesome-feather](https://github.com/adafruit/awesome-feather) - A curated list of awesome Feather form factor boards, guides, videos, libraries, software and resources.
 - [hsgw/tartan](https://github.com/hsgw/tartan) - 60% keyboard made by through-hole parts only
+- [moosotc/llpp](https://github.com/moosotc/llpp) - PDF pager
 - [hsgw/plaid](https://github.com/hsgw/plaid) - 12x4 ortholinear usb keyboard made by Through Hole components ONLY.
 - [AdamKeher/Pico-Audio](https://github.com/AdamKeher/Pico-Audio) - TinyPICO I2S Audio, I2S Microphone & 3.7W Stereo Amplifier Module with Built-in MicroSD card reader
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -3142,7 +3166,6 @@
 ## PHP 
 
 - [anmaped/openfang](https://github.com/anmaped/openfang) - The openfang is a bootloader, kernel and toolchain for devices using Ingenic T10 and T20 SOC
-- [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok) - Open source alternative frontend for TikTok made using PHP
 - [eklausme/saaze](https://github.com/eklausme/saaze) - Simplified Saaze is a static site generator. It aims to be fast, easy to understand and easy to use.
 - [DeBaschdi/docker.solaranzeige](https://github.com/DeBaschdi/docker.solaranzeige) - 
 - [alexnathanson/solar-protocol](https://github.com/alexnathanson/solar-protocol) - A repository in development for a solar powered network of servers that host a distributed web platform. Project by Tega Brain, Alex Nathanson and Benedetta Piantella. Supported by Eyebeam Rapid Response for a Better Digital Future fellowship.
@@ -3324,13 +3347,16 @@
 
 ## Python 
 
+- [raspbeguy/osm-blame](https://github.com/raspbeguy/osm-blame) - CLI tool inspired by git blame to determine the last modification tag by tag for an OSM element
+- [scrapinghub/article-extraction-benchmark](https://github.com/scrapinghub/article-extraction-benchmark) - Article extraction benchmark: dataset and evaluation scripts
+- [mitxela/ddc-oled](https://github.com/mitxela/ddc-oled) - 
 - [pgdr/ph](https://github.com/pgdr/ph) - ph — the tabular data shell tool
 - [lekma/plugin.video.invidious](https://github.com/lekma/plugin.video.invidious) - Invidious Addon for Kodi
 - [iamtalhaasghar/yewtube](https://github.com/iamtalhaasghar/yewtube) - Terminal based YouTube player and downloader. No Youtube API key required. Forked from mps-youtube
 - [woefe/ytcc](https://github.com/woefe/ytcc) - Command line tool to keep track of your favorite playlists on YouTube and many other places.
 - [Wojnstup/PipeCat](https://github.com/Wojnstup/PipeCat) - A command line Youtube music player written in python. It's an app written for Linux. It also supports offline playlists that are stored in a playlists.db file. More documentation coming soon.
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A supercharged version of paperless: scan, index and archive all your physical documents
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [SL-RU/ranger_udisk_menu](https://github.com/SL-RU/ranger_udisk_menu) - This script draws menu to choose, mount and unmount drives using udisksctl and ncurses for ranger file manager
 - [artemave/tmux_super_fingers](https://github.com/artemave/tmux_super_fingers) - A Tmux plugin to open file links from the terminal in vim
 - [rbaron/omr](https://github.com/rbaron/omr) - Optical Mark Recognition in Python
@@ -3341,7 +3367,7 @@
 - [rpkak/local-aur](https://github.com/rpkak/local-aur) - Download the AUR packages you trust and use pacman to install them.
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
 - [Krasjet/pdf.tocgen](https://github.com/Krasjet/pdf.tocgen) - A CLI toolset to generate table of contents for PDF files automatically.
-- [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Protect your privacy, see which applications make network connections
+- [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - A reasonably reliable traffic per application monitor using BPF
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [milaq/YCast](https://github.com/milaq/YCast) - Self hosted vTuner internet radio service emulation
 - [deep5050/radio-active](https://github.com/deep5050/radio-active) - Play any radios around the globe right from the terminal :zap:
@@ -3743,6 +3769,7 @@
 - [LuminosoInsight/exquisite-corpus](https://github.com/LuminosoInsight/exquisite-corpus) - Put together a multilingual corpus from a variety of sources. Used for wordfreq and word embeddings.
 - [cihai/cihai-cli](https://github.com/cihai/cihai-cli) - CLI front-end for the cihai CJK library
 - [taubergm/news_readability](https://github.com/taubergm/news_readability) - 
+- [diyhue/diyHue](https://github.com/diyhue/diyHue) - Main diyHue software repo
 - [reynico/my-raspberry](https://github.com/reynico/my-raspberry) - My Archlinux Raspberry PI setup
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [syncloud/platform](https://github.com/syncloud/platform) - Run popular services on your device with one click
@@ -3850,7 +3877,7 @@
 - [parchd-1/qutebrowser-zotero](https://github.com/parchd-1/qutebrowser-zotero) - A userscript (in the future, maybe a plugin) to connecto qutebrowser to zotero standalone
 - [mmagnus/Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin) - 📚 Modified version of the Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more!
 - [platisd/cryptopuck](https://github.com/platisd/cryptopuck) - A handheld gadget that encrypts your drives on the fly
-- [cihai/cihai](https://github.com/cihai/cihai) - Python library for CJK (Chinese, Japanese, and Korean) language data
+- [cihai/cihai](https://github.com/cihai/cihai) - Python library for CJK (Chinese, Japanese, and Korean) language dictionary
 - [scokobro/pandoc-abbreviations](https://github.com/scokobro/pandoc-abbreviations) - Pandoc filter to replace listed abbreviations with their expansions.
 - [sergiocorreia/panflute](https://github.com/sergiocorreia/panflute) - An Pythonic alternative to John MacFarlane's pandocfilters, with extra helper functions
 - [svpcom/wifibroadcast](https://github.com/svpcom/wifibroadcast) - Transmitter and receiver of UDP packets using raw WiFi radio
@@ -4525,6 +4552,7 @@
 
 ## Roff 
 
+- [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Armbian for Amlogic s9xxx tv box. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc.  including install to EMMC and update related functions.
 - [phillbush/incipit](https://github.com/phillbush/incipit) - the incipit plain text markup language, and some troff macro packages
 - [slavistan/lf-gadgets](https://github.com/slavistan/lf-gadgets) - A collection of useful and nifty use cases and configurations for lf.
 - [mkws-1/mkws](https://github.com/mkws-1/mkws) - A simple static site generator using `sh` as a templating language.
@@ -4771,6 +4799,9 @@
 
 ## Rust 
 
+- [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
+- [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
 - [samvel1024/kbct](https://github.com/samvel1024/kbct) - Keyboard keycode mapping utility for Linux supporting layered configuration
@@ -4952,6 +4983,12 @@
 
 ## Shell 
 
+- [bewuethr/pandoc-bash-blog](https://github.com/bewuethr/pandoc-bash-blog) - A static blog generator based on Pandoc and Bash
+- [Maccraft123/Cadmium](https://github.com/Maccraft123/Cadmium) - 
+- [koreader/koxtoolchain](https://github.com/koreader/koxtoolchain) - Build script for various toolchains used by KOReader
+- [michaeljclark/busybear-linux](https://github.com/michaeljclark/busybear-linux) - busybear-linux is a tiny RISC-V Linux root filesystem image that targets the VirtIO board in riscv-qemu.
+- [kth5/archpower](https://github.com/kth5/archpower) - Unofficial Archlinux port to powerpc64le, powerpc, riscv64 and in parts powerpc64 (BE).
+- [amstan/alarm-ansible](https://github.com/amstan/alarm-ansible) - Arch Linux ARM Ansible Scripts
 - [Wojnstup/PipeCatTurbo](https://github.com/Wojnstup/PipeCatTurbo) - PipeCat - but better. And written in bash!
 - [ghollingworth/overlayfs](https://github.com/ghollingworth/overlayfs) - 
 - [artemave/tmux_capture_last_command_output](https://github.com/artemave/tmux_capture_last_command_output) - Capture the output of the last terminal command and open it an editor in a separate tmux window.
@@ -4963,10 +5000,8 @@
 - [andrewboring/alarmsync](https://github.com/andrewboring/alarmsync) - 
 - [toddyamakawa/tmux-scratchpad](https://github.com/toddyamakawa/tmux-scratchpad) - 
 - [toddyamakawa/tmux-prefixless](https://github.com/toddyamakawa/tmux-prefixless) - 
-- [georgestagg/webR](https://github.com/georgestagg/webR) - This project aims to compile the statistical language R into WASM for use in a browser, via Emscripten.
 - [whame/tmux-modal](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable
 - [ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) - OpenWrt for Amlogic s9xxx tv box. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc. including install to EMMC and update related functions.
-- [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Armbian for Amlogic s9xxx tv box. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc.  including install to EMMC and update related functions.
 - [marado/RNID](https://github.com/marado/RNID) - Lista de casos de incumprimento do RNID
 - [BawdyAnarchist/quBSD](https://github.com/BawdyAnarchist/quBSD) - A FreeBSD jails and bhyve wrapper; which emulates a Qubes-like containerization schema
 - [jcorporation/webradiodb](https://github.com/jcorporation/webradiodb) - Webradio database for myMPD
@@ -5357,7 +5392,7 @@
 - [craigcitro/r-travis](https://github.com/craigcitro/r-travis) - Tools for using R with Travis (http://travis-ci.org)   in lieu of a website:
 - [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 - [steveklabnik/automatically_update_github_pages_with_travis_example](https://github.com/steveklabnik/automatically_update_github_pages_with_travis_example) - An example of automatically updating GitHub Pages when you're using Travis CI.
-- [FooBarWidget/traveling-ruby](https://github.com/FooBarWidget/traveling-ruby) - Self-contained Ruby binaries that can run on any Linux distribution and any macOS machine.
+- [phusion/traveling-ruby](https://github.com/phusion/traveling-ruby) - Self-contained Ruby binaries that can run on any Linux distribution and any macOS machine.
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [NinoScript/watch](https://github.com/NinoScript/watch) - Run arbitrary scripts files when files change
 - [jukil/dmenu-scripts-collection](https://github.com/jukil/dmenu-scripts-collection) - Collection of optional dmenu hacking scripts:
@@ -5544,6 +5579,7 @@
 
 ## TypeScript 
 
+- [Jaeyo/personal-archive](https://github.com/Jaeyo/personal-archive) - keep track of things you learn / discover everyday!
 - [esphome/esp-web-tools](https://github.com/esphome/esp-web-tools) - Open source tools to allow working with ESP devices in the browser
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
@@ -5570,7 +5606,7 @@
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [balenalabs/balena-sound](https://github.com/balenalabs/balena-sound) - Build a single or multi-room streamer for an existing audio device using a Raspberry Pi! Supports Bluetooth, Airplay and Spotify Connect
 - [TiloHeidasch/snapui](https://github.com/TiloHeidasch/snapui) - A SnapCast UI made with Angular
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [tmcw/notfoundbot](https://github.com/tmcw/notfoundbot) - fix & archive outgoing links on your website
 - [badaix/snapweb](https://github.com/badaix/snapweb) - Web interface for Snapcast
 - [nicojs/html2commonmark](https://github.com/nicojs/html2commonmark) - Converts HTML to markdown using commonmark.js. Compliant with the commmonmark markdown specification.
@@ -5888,8 +5924,9 @@
 
 ## Vue 
 
+- [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [pschatzmann/esp32_radio](https://github.com/pschatzmann/esp32_radio) - Web Radio Player which is also working with a ESP32 Micro Controller
-- [radiantearth/stac-browser](https://github.com/radiantearth/stac-browser) - A Vue-based STAC browser for static catalogs and APIs
+- [radiantearth/stac-browser](https://github.com/radiantearth/stac-browser) - A full-fledged UI for browsing static STAC catalogs and STAC APIs
 - [anonaddy/browser-extension](https://github.com/anonaddy/browser-extension) - The source code for the browser extension
 - [perliedman/course-sketcher](https://github.com/perliedman/course-sketcher) - Web based course setting for orienteering
 
