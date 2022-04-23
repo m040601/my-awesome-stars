@@ -11,6 +11,7 @@
   - [Assembly](#assembly)
   - [AutoHotkey](#autohotkey)
   - [Awk](#awk)
+  - [BitBake](#bitbake)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -161,6 +162,10 @@
 - [wernsey/d.awk](https://github.com/wernsey/d.awk) - An Awk script to generate documentation from Markdown comments in C/C++/Java/JavaScript/C# source code.
 - [nuex/zodiac](https://github.com/nuex/zodiac) - A static website generator written in awk and sh.
 
+## BitBake 
+
+- [brocaar/chirpstack-gateway-os](https://github.com/brocaar/chirpstack-gateway-os) - Yocto based gateway images including ChirpStack components.
+
 ## C 
 
 - [geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) - Virtual cables between any audio source and any speaker in your home
@@ -180,6 +185,7 @@
 - [pimoroni/keybow-firmware](https://github.com/pimoroni/keybow-firmware) - Keybow Firmware for the Raspberry Pi Zero
 - [kristapsdz/kcaldav](https://github.com/kristapsdz/kcaldav) - a simple, safe, and minimal CalDAV server
 - [begriffs/mimedown](https://github.com/begriffs/mimedown) - markdown to multipart mime
+- [georgestagg/webR](https://github.com/georgestagg/webR) - This project aims to compile the statistical language R into WASM for use in a browser, via Emscripten.
 - [Xinyuan-LilyGO/TTGO_TWatch_Library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library) - 
 - [directfb2/DirectFB2](https://github.com/directfb2/DirectFB2) - Core DirectFB library
 - [OliverLew/dwm](https://github.com/OliverLew/dwm) - My fork of the suckless window manager dwm
@@ -816,7 +822,7 @@
 ## C++ 
 
 - [tsowell/kobo-btpt](https://github.com/tsowell/kobo-btpt) - Page turning via Bluetooth for Kobo eReaders
-- [jandrassy/ArduinoOTA](https://github.com/jandrassy/ArduinoOTA) - Arduino library to upload sketch over network to Arduino board with WiFi or Ethernet libraries
+- [JAndrassy/ArduinoOTA](https://github.com/JAndrassy/ArduinoOTA) - Arduino library to upload sketch over network to Arduino board with WiFi or Ethernet libraries
 - [amagovpt/autenticacao.gov](https://github.com/amagovpt/autenticacao.gov) - Middleware Oficial de Identificação Eletrónica em Portugal - Cartão de Cidadão, da Chave Móvel Digital e Sistema de Certificação de atributos profissionais
 - [mattcuk/IRtranslator](https://github.com/mattcuk/IRtranslator) - Arduino IR Translator. Converts incoming IR codes from one manufacturer to another set of IR codes from a different manufacturer,
 - [unsurv/unsurv-offline](https://github.com/unsurv/unsurv-offline) - Offline portable GNSS device based on the ESP32
@@ -1767,7 +1773,6 @@
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [amagovpt/observatory](https://github.com/amagovpt/observatory) - PT Observatory of Web Accessibility - the main app
 - [rugk/offline-qr-code](https://github.com/rugk/offline-qr-code) - 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
-- [georgestagg/webR](https://github.com/georgestagg/webR) - This project aims to compile the statistical language R into WASM for use in a browser, via Emscripten.
 - [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
 - [feeby2494/chromebook_parts_tracker](https://github.com/feeby2494/chromebook_parts_tracker) - 
 - [Evoniuk/terminal-markdown](https://github.com/Evoniuk/terminal-markdown) - A markdown language for the terminal
@@ -2152,7 +2157,7 @@
 - [thameera/harcleaner](https://github.com/thameera/harcleaner) - Clean up HAR files by removing noisy requests
 - [cezaraugusto/extension-create](https://github.com/cezaraugusto/extension-create) - (maintance) Create modern cross-browser extensions with no build configuration.
 - [charliegerard/whereami.js](https://github.com/charliegerard/whereami.js) - Node.js module to predict indoor location using machine learning and WiFi information 📶
-- [tmcw/geojson.net](https://github.com/tmcw/geojson.net) - fast, simple map creation (again)
+- [tmcw/geojson.net](https://github.com/tmcw/geojson.net) - 
 - [tmcw/togeojson-cli](https://github.com/tmcw/togeojson-cli) - toGeoJSON in the console
 - [geojson-xyz/geojson-xyz](https://github.com/geojson-xyz/geojson-xyz) - just get the geojson
 - [AdguardTeam/cname-trackers](https://github.com/AdguardTeam/cname-trackers) - This repository contains a list of popular CNAME trackers
@@ -4992,7 +4997,6 @@
 - [Wojnstup/PipeCatTurbo](https://github.com/Wojnstup/PipeCatTurbo) - PipeCat - but better. And written in bash!
 - [ghollingworth/overlayfs](https://github.com/ghollingworth/overlayfs) - 
 - [artemave/tmux_capture_last_command_output](https://github.com/artemave/tmux_capture_last_command_output) - Capture the output of the last terminal command and open it an editor in a separate tmux window.
-- [brocaar/chirpstack-gateway-os](https://github.com/brocaar/chirpstack-gateway-os) - Yocto based gateway images including ChirpStack components.
 - [alpinelinux/alpine-chroot-install](https://github.com/alpinelinux/alpine-chroot-install) - Install Alpine Linux in chroot with a breeze. Build ARM on Travis CI or any other x86_64 CI.
 - [alpinelinux/alpine-make-rootfs](https://github.com/alpinelinux/alpine-make-rootfs) - Make customized Alpine Linux rootfs (base image) for containers
 - [gliderlabs/docker-alpine](https://github.com/gliderlabs/docker-alpine) - Alpine Linux Docker image. Win at minimalism!
