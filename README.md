@@ -1442,7 +1442,7 @@
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks.
 - [bmaupin/go-epub](https://github.com/bmaupin/go-epub) - Go library for creating EPUB files
 - [LiboShen/webpage-to-ebook](https://github.com/LiboShen/webpage-to-ebook) - 
-- [xyproto/o](https://github.com/xyproto/o) - :cyclone: Configuration-free text editor and minimalistic IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming. Includes syntax highlighting, quick compilation and formatting, jump-to-error, rainbow parenthesis, tab completion, smart indentation, macros and cut/paste portals.
+- [xyproto/o](https://github.com/xyproto/o) - :cyclone: Configuration-free text editor and minimalistic IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming. Includes syntax highlighting, jump-to-error, rainbow parenthesis, macros, tab completion and cut/paste portals.
 - [dakyskye/dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
 - [audstanley/libgen-tui](https://github.com/audstanley/libgen-tui) - A terminal based application for LibGen
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -5080,7 +5080,7 @@
 - [archdroid-org/alarm-image-generator](https://github.com/archdroid-org/alarm-image-generator) - ArchLinuxARM Disk Image Generator
 - [LibreSolar/learn.libre.solar](https://github.com/LibreSolar/learn.libre.solar) - Building DC Energy Systems (OER)
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
-- [hexdump0815/imagebuilder](https://github.com/hexdump0815/imagebuilder) - simple script framework to build ubuntu 20.04 lts (focal) and debian 11 (bullseye) bootable sd card images for some arm and intel devices
+- [hexdump0815/imagebuilder](https://github.com/hexdump0815/imagebuilder) - simple script framework to build ubuntu 20.04 lts (focal), ubuntu 22.04 lts (jammy - wip) and debian 11 (bullseye) bootable sd card images for some arm and intel devices
 - [krjdev/rock64_openbsd](https://github.com/krjdev/rock64_openbsd) - TUTORIAL: Install OpenBSD on a PINE64 ROCK64 media board.
 - [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
 - [netlify/actions](https://github.com/netlify/actions) - 
