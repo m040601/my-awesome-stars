@@ -1768,6 +1768,7 @@
 
 ## HTML 
 
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [papis/papis-zotero](https://github.com/papis/papis-zotero) - Zotero compatiblity scripts for papis
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
@@ -2331,7 +2332,7 @@
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [browserpass/browserpass-legacy](https://github.com/browserpass/browserpass-legacy) - Legacy Browserpass repo, development is now happening at:
 - [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the viewport. Written in plain "vanilla" JavaScript, it leverages IntersectionObserver, supports responsive images and enables native lazy loading.
-- [CodeforKarlsruhe/direktvermarkter](https://github.com/CodeforKarlsruhe/direktvermarkter) - Karte von Hofläden, Milchautomaten und anderen Direktvermarktern
+- [CodeforKarlsruhe/farmshops.eu](https://github.com/CodeforKarlsruhe/farmshops.eu) - Karte von Hofläden, Milchautomaten und anderen Direktvermarktern
 - [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [intika/Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
@@ -3574,7 +3575,7 @@
 - [jwilk/dothost](https://github.com/jwilk/dothost) - DNS lookup with Graphviz output
 - [jwilk/ocrodjvu](https://github.com/jwilk/ocrodjvu) - OCR for DjVu
 - [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf) - A Python library for reading and writing PDF, powered by qpdf
-- [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface
+- [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
 - [CMB/cligh](https://github.com/CMB/cligh) - Command-line interface to GitHub
 - [lupus78/feedtransmission](https://github.com/lupus78/feedtransmission) - feedtransmission is a python script to read RSS/Atom feeds of torrents and add them to Transmission to download
 - [yuantailing/ctw-baseline](https://github.com/yuantailing/ctw-baseline) - Baseline methods for [CTW dataset](https://ctwdataset.github.io/)
@@ -4988,6 +4989,7 @@
 
 ## Shell 
 
+- [kusky3/bookmenu](https://github.com/kusky3/bookmenu) - Browse and download ebooks from your terminal.
 - [bewuethr/pandoc-bash-blog](https://github.com/bewuethr/pandoc-bash-blog) - A static blog generator based on Pandoc and Bash
 - [Maccraft123/Cadmium](https://github.com/Maccraft123/Cadmium) - 
 - [koreader/koxtoolchain](https://github.com/koreader/koxtoolchain) - Build script for various toolchains used by KOReader
