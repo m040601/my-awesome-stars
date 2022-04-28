@@ -1431,6 +1431,7 @@
 
 ## Go 
 
+- [neurosnap/lists.sh](https://github.com/neurosnap/lists.sh) - a microblog for lists
 - [clisboa/KoboMail](https://github.com/clisboa/KoboMail) - Experimental email attachment downloader for Kobo devices
 - [eliukblau/pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
@@ -1797,6 +1798,7 @@
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [bradleytaunt/1mb-club](https://github.com/bradleytaunt/1mb-club) - An exclusive members-only club for web pages weighing less than 1 megabyte
 - [CollectionBuilder/collectionbuilder-sa](https://github.com/CollectionBuilder/collectionbuilder-sa) - Depreciated stand-alone version of CollectionBuilder
+- [evanwill/cb-sa-csv](https://github.com/evanwill/cb-sa-csv) - 
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [openclimatedata/kigali-amendment-entry-into-force](https://github.com/openclimatedata/kigali-amendment-entry-into-force) - Data Package of entry into force status of the Kigali Amendment to the Montreal Protocol
 - [anoved/Columnate](https://github.com/anoved/Columnate) - Bookmarklet for multicolumn reader mode.
@@ -2203,7 +2205,7 @@
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
 - [ArchiveBox/readability-extractor](https://github.com/ArchiveBox/readability-extractor) - Javascript/Node wrapper around Mozilla's Readability library so that ArchiveBox can call it as a oneshot CLI command to extract each page's article text.
 - [patrickhulce/third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
-- [NightMachinary/readability-cli](https://github.com/NightMachinary/readability-cli) - A CLI for Mozilla Readability. Get clean, uncluttered, ready-to-read HTML from any webpage!
+- [NightMachinery/readability-cli](https://github.com/NightMachinery/readability-cli) - A CLI for Mozilla Readability. Get clean, uncluttered, ready-to-read HTML from any webpage!
 - [sidpalas/stupid-actions](https://github.com/sidpalas/stupid-actions) - 
 - [ciembor/4bit](https://github.com/ciembor/4bit) - Terminal Color Scheme Designer
 - [toolforge/fontcdn](https://github.com/toolforge/fontcdn) - Search and Proxy for Google web fonts
