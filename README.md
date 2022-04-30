@@ -168,6 +168,8 @@
 
 ## C 
 
+- [explosion-mental/mage](https://github.com/explosion-mental/mage) - iMAGE viewer
+- [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Neo Simple X Image Viewer
 - [geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) - Virtual cables between any audio source and any speaker in your home
 - [GoergPflug/AttinyStreamGfxApi](https://github.com/GoergPflug/AttinyStreamGfxApi) - Fast Graphics Library for Attiny85 and SSD1306 over I2c
 - [BelledonneCommunications/belle-sip](https://github.com/BelledonneCommunications/belle-sip) - Linphone.org mirror for belle-sip (git://git.linphone.org/belle-sip.git)
@@ -506,6 +508,7 @@
 - [ropensci/rsvg](https://github.com/ropensci/rsvg) - SVG renderer for R based on librsvg2
 - [r-rust/gifski](https://github.com/r-rust/gifski) - R wrapper for the 'gifski' Rust Cargo crate.
 - [nicm/fdm](https://github.com/nicm/fdm) - 
+- [waveshare/WM8960-Audio-HAT](https://github.com/waveshare/WM8960-Audio-HAT) - The drivers of [WM8960 Audio HAT] for Raspberry Pi
 - [OpenHD/Open.HD](https://github.com/OpenHD/Open.HD) - Open.HD
 - [mwarning/KadNode](https://github.com/mwarning/KadNode) - P2P DNS with content key, crypto key and PKI support. DynDNS alternative.
 - [8l/fbui](https://github.com/8l/fbui) - Framebuffer UI (fbui) in-kernel Linux windowing system.
@@ -1827,6 +1830,7 @@
 - [openenergymonitor/guide](https://github.com/openenergymonitor/guide) - OpenEnergyMonitor User Guide
 - [daviddarnes/alembic-netlifycms-kit](https://github.com/daviddarnes/alembic-netlifycms-kit) - ⚗️💠 Starter kit for Alembic with Netlify CMS, hosted on Netlify
 - [sudomesh/solar-nodes](https://github.com/sudomesh/solar-nodes) - Solar + battery powered 4G LTE mesh nodes
+- [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
 - [distributed-mind/pagesaver](https://github.com/distributed-mind/pagesaver) - 
 - [FOSSASystems/FOSSASAT-1](https://github.com/FOSSASystems/FOSSASAT-1) - 
 - [sudomesh/disaster-radio](https://github.com/sudomesh/disaster-radio) - A (paused) work-in-progress long-range, low-bandwidth wireless disaster recovery mesh network powered by the sun.
@@ -2755,6 +2759,8 @@
 
 ## Lua 
 
+- [occivink/mpv-gallery-view](https://github.com/occivink/mpv-gallery-view) - Gallery-view scripts for mpv
+- [occivink/mpv-image-viewer](https://github.com/occivink/mpv-image-viewer) - Configuration, scripts and tips for using mpv as an image viewer
 - [dfaker/VR-reversal](https://github.com/dfaker/VR-reversal) - VR-Reversal - Player for conversion of 3D video to 2D with optional saving of head tracking data and rendering out of 2D copies.
 - [jgreco/mpv-youtube-quality](https://github.com/jgreco/mpv-youtube-quality) - A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly
 - [wis/mpvSockets](https://github.com/wis/mpvSockets) - creates one IPC socket per mpv instance
@@ -3653,7 +3659,6 @@
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [hiddewie/map-it](https://github.com/hiddewie/map-it) - Generating beatiful cycling maps using Mapnik and OpenStreetMap data
 - [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
-- [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [karlicoss/pockexport](https://github.com/karlicoss/pockexport) - Export/access your Pocket data, including highlights!
 - [NadalVRoMa/PyLibGen](https://github.com/NadalVRoMa/PyLibGen) - A python script to download books from libgen.io
@@ -4990,6 +4995,9 @@
 
 ## Shell 
 
+- [nsxiv/nsxiv-extra](https://github.com/nsxiv/nsxiv-extra) - Community patches, scripts, tips and tricks for nsxiv.
+- [N-R-K/shellmarks](https://github.com/N-R-K/shellmarks) - Simple directory bookmark management via symlinks.
+- [N-R-K/sxbm](https://github.com/N-R-K/sxbm) - Simple Unix Bookmark Manager, a POSIX compliant shell script for managing bookmarks.
 - [kusky3/bookmenu](https://github.com/kusky3/bookmenu) - Browse and download ebooks from your terminal.
 - [bewuethr/pandoc-bash-blog](https://github.com/bewuethr/pandoc-bash-blog) - A static blog generator based on Pandoc and Bash
 - [Maccraft123/Cadmium](https://github.com/Maccraft123/Cadmium) - 
@@ -5250,7 +5258,6 @@
 - [jomo/tld_checker](https://github.com/jomo/tld_checker) - Check domain availability on all TLDs
 - [jomo/imgur-screenshot](https://github.com/jomo/imgur-screenshot) - Take screenshot selection, upload to imgur. + more cool things
 - [PacktPublishing/Bash-Quick-Start-Guide](https://github.com/PacktPublishing/Bash-Quick-Start-Guide) - Bash Quick Start Guide, published by Packt
-- [waveshare/WM8960-Audio-HAT](https://github.com/waveshare/WM8960-Audio-HAT) - The drivers of [WM8960 Audio HAT] for Raspberry Pi
 - [reynico/raspberry-noaa](https://github.com/reynico/raspberry-noaa) - Fully automated ISS SSTV, NOAA and Meteor satellite image downloader using Raspberry PI
 - [GMG-Special-Projects-Desk/GoodbyeBigFive](https://github.com/GMG-Special-Projects-Desk/GoodbyeBigFive) - Streamlined version of the tech in the Goodbye Big Five Series
 - [carnager/buku_run](https://github.com/carnager/buku_run) - rofi frontend for buku bookmarks manager
