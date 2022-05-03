@@ -2873,7 +2873,7 @@
 - [maxnet/berryboot](https://github.com/maxnet/berryboot) - Berryboot -- Boot menu / OS installer
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [datasciencetoolbox/datasciencetoolbox](https://github.com/datasciencetoolbox/datasciencetoolbox) - Complete environments for busy polyglot data scientists
-- [garybgenett/composer](https://github.com/garybgenett/composer) - Composer is a simple but powerful CMS based on Pandoc and GNU Make
+- [garybgenett/composer](https://github.com/garybgenett/composer) - Composer is a simple but powerful CMS based on Pandoc, Bootstrap and GNU Make
 - [mallochine/jarvis2](https://github.com/mallochine/jarvis2) - Expedient travel around the filesystem using user-created bookmarks
 - [jakobib/makespec](https://github.com/jakobib/makespec) - Makefile and templates to create specifications from Pandoc Markdown syntax
 - [datagrok/makebakery](https://github.com/datagrok/makebakery) - A static website generator built on GNU Make.
@@ -2993,7 +2993,7 @@
 - [aliyevaa/cname_cloaking](https://github.com/aliyevaa/cname_cloaking) - the repo contains a list of subdomains that point to known trackers/advertisers
 - [nextdns/cname-cloaking-blocklist](https://github.com/nextdns/cname-cloaking-blocklist) - A list of domains used by tracking companies as CNAME destination when disguising third-party trackers as first-party trackers.
 - [FreeYourStream/freedeck-hardware](https://github.com/FreeYourStream/freedeck-hardware) - all the stuff you need to build your own FreeDeck
-- [learnbyexample/Linux_command_line](https://github.com/learnbyexample/Linux_command_line) - :computer: Introduction to Linux commands and Shell scripting
+- [learnbyexample/cli-computing](https://github.com/learnbyexample/cli-computing) - :computer: Linux command line and Scripting guide for beginner to intermediate users
 - [simmel-project/frontpage](https://github.com/simmel-project/frontpage) - Simmel is a wearable platform that enables COVID-19 contact tracing while preserving user privacy.
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [mb720/nethogs](https://github.com/mb720/nethogs) - Linux 'net top' tool
@@ -4520,7 +4520,6 @@
 - [cloudyr/imguR](https://github.com/cloudyr/imguR) - R imgur API Client
 - [yihui/animation](https://github.com/yihui/animation) - A gallery of animations in statistics and utilities to create animations
 - [trulia/choroplethr](https://github.com/trulia/choroplethr) - choroplethr simplifies the creation of choropleths (thematic maps) in R
-- [hadley/r-pkgs](https://github.com/hadley/r-pkgs) - Building R packages
 - [ramnathv/htmlwidgets](https://github.com/ramnathv/htmlwidgets) - HTML Widgets for R
 - [briatte/ida](https://github.com/briatte/ida) - Introduction to Data Analysis, using R (2013)
 - [yihui/runr](https://github.com/yihui/runr) - Run external programs from R (experimental)
@@ -5568,6 +5567,7 @@
 - [davecap/markdown-latex-boilerplate](https://github.com/davecap/markdown-latex-boilerplate) - Boilerplate for writing a paper with Markdown/Latex and Pandoc
 - [zmjones/rfss](https://github.com/zmjones/rfss) - "Exploratory Data Analysis using Random Forests"
 - [sachsmc/pandoc-journal-templates](https://github.com/sachsmc/pandoc-journal-templates) - Pandoc templates and resources for the major (bio)statistics journals
+- [hadley/r-pkgs](https://github.com/hadley/r-pkgs) - Building R packages
 - [mmadsen/lnraw](https://github.com/mmadsen/lnraw) - Lab Notebook - Source Version
 - [wcaleb/civil-war-reader](https://github.com/wcaleb/civil-war-reader) - Open-source collection of handouts for Civil War history
 - [openeventdata/Dictionaries](https://github.com/openeventdata/Dictionaries) - PETRARCH actor, agent and verb dictionaries
