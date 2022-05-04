@@ -2993,7 +2993,7 @@
 - [aliyevaa/cname_cloaking](https://github.com/aliyevaa/cname_cloaking) - the repo contains a list of subdomains that point to known trackers/advertisers
 - [nextdns/cname-cloaking-blocklist](https://github.com/nextdns/cname-cloaking-blocklist) - A list of domains used by tracking companies as CNAME destination when disguising third-party trackers as first-party trackers.
 - [FreeYourStream/freedeck-hardware](https://github.com/FreeYourStream/freedeck-hardware) - all the stuff you need to build your own FreeDeck
-- [learnbyexample/cli-computing](https://github.com/learnbyexample/cli-computing) - :computer: Linux command line and Scripting guide for beginner to intermediate users
+- [learnbyexample/cli-computing](https://github.com/learnbyexample/cli-computing) - :penguin: Linux command line and Scripting guide for beginner to intermediate users
 - [simmel-project/frontpage](https://github.com/simmel-project/frontpage) - Simmel is a wearable platform that enables COVID-19 contact tracing while preserving user privacy.
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [mb720/nethogs](https://github.com/mb720/nethogs) - Linux 'net top' tool
@@ -5090,7 +5090,7 @@
 - [archdroid-org/alarm-image-generator](https://github.com/archdroid-org/alarm-image-generator) - ArchLinuxARM Disk Image Generator
 - [LibreSolar/learn.libre.solar](https://github.com/LibreSolar/learn.libre.solar) - Building DC Energy Systems (OER)
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
-- [hexdump0815/imagebuilder](https://github.com/hexdump0815/imagebuilder) - simple script framework to build ubuntu 20.04 lts (focal), ubuntu 22.04 lts (jammy - wip) and debian 11 (bullseye) bootable sd card images for some arm and intel devices
+- [hexdump0815/imagebuilder](https://github.com/hexdump0815/imagebuilder) - velvet os - simple script framework to build ubuntu 20.04 lts (focal), ubuntu 22.04 lts (jammy - wip) and debian 11 (bullseye) bootable sd card images for some arm and intel devices
 - [krjdev/rock64_openbsd](https://github.com/krjdev/rock64_openbsd) - TUTORIAL: Install OpenBSD on a PINE64 ROCK64 media board.
 - [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
 - [netlify/actions](https://github.com/netlify/actions) - 
