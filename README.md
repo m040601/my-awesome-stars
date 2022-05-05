@@ -1775,6 +1775,7 @@
 - [papis/papis-zotero](https://github.com/papis/papis-zotero) - Zotero compatiblity scripts for papis
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [amagovpt/observatory](https://github.com/amagovpt/observatory) - PT Observatory of Web Accessibility - the main app
 - [rugk/offline-qr-code](https://github.com/rugk/offline-qr-code) - 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
 - [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
@@ -1783,7 +1784,7 @@
 - [gammu/gsm-docs](https://github.com/gammu/gsm-docs) - GSM related documentation
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [arendst/Tasmota-firmware](https://github.com/arendst/Tasmota-firmware) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-- [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - Did you know many GitHub Wikis aren't indexed on search engines? Search Engine Enablement for GitHub Wikis service. 420,000+ GitHub Wikis, now indexable.
+- [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - Did you know most GitHub Wikis can't index on search engines? Search Engine Enablement for GitHub Wikis service. 420,000+ GitHub Wikis, now indexable.
 - [chrisman/m4-blog](https://github.com/chrisman/m4-blog) - boilerplate for an m4 blog
 - [m8/refined.blog](https://github.com/m8/refined.blog) - curated list of personal blogs
 - [robhagemans/monobit](https://github.com/robhagemans/monobit) - Tools for working with monochrome bitmap fonts
@@ -1801,7 +1802,6 @@
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [bradleytaunt/1mb-club](https://github.com/bradleytaunt/1mb-club) - An exclusive members-only club for web pages weighing less than 1 megabyte
 - [CollectionBuilder/collectionbuilder-sa](https://github.com/CollectionBuilder/collectionbuilder-sa) - Depreciated stand-alone version of CollectionBuilder
-- [evanwill/cb-sa-csv](https://github.com/evanwill/cb-sa-csv) - 
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [openclimatedata/kigali-amendment-entry-into-force](https://github.com/openclimatedata/kigali-amendment-entry-into-force) - Data Package of entry into force status of the Kigali Amendment to the Montreal Protocol
 - [anoved/Columnate](https://github.com/anoved/Columnate) - Bookmarklet for multicolumn reader mode.
@@ -1837,6 +1837,7 @@
 - [zwbetz-gh/minimal-hugo-blog-layout](https://github.com/zwbetz-gh/minimal-hugo-blog-layout) - A minimal hugo blog layout
 - [zwbetz-gh/vanilla-bootstrap-hugo-theme](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme) - A vanilla Bootstrap theme for Hugo
 - [openspending/openspending](https://github.com/openspending/openspending) - The project aims to build and use open source tools and datasets to gather and analyse the financial transactions of governments around the world.
+- [rstudio/distill](https://github.com/rstudio/distill) - Distill for R Markdown
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [babykarte/babykarte.github.io](https://github.com/babykarte/babykarte.github.io) - Old repository, will be a redirect soon
 - [Pseudomanifold/hugo-purus](https://github.com/Pseudomanifold/hugo-purus) - A pure, simple, and minimalistic Hugo theme
@@ -2135,7 +2136,6 @@
 - [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files
 - [w3bdev1/alter](https://github.com/w3bdev1/alter) - A Firefox Add-on redirecting to privacy-friendly alternatives: https://addons.mozilla.org/addon/alter/
 - [OpenScanEu/OpenScan2](https://github.com/OpenScanEu/OpenScan2) - an improved firmware for the OpenScan devices, featuring many more cameras and a greatly improved overall usability
-- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [heussd/texttomail](https://github.com/heussd/texttomail) - Allows to e-mail pages that are viewed in reader mode.
 - [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment.
@@ -4356,7 +4356,6 @@
 - [datascienceworkshops/rexpect](https://github.com/datascienceworkshops/rexpect) - Automate Interactive Applications in R
 - [datascienceworkshops/tmuxr](https://github.com/datascienceworkshops/tmuxr) - Manage tmux from R
 - [crsh/citr](https://github.com/crsh/citr) - RStudio Addin to Insert Markdown Citations
-- [rstudio/distill](https://github.com/rstudio/distill) - Distill for R Markdown
 - [thomasWeise/bookbuildeR](https://github.com/thomasWeise/bookbuildeR) - An R Package for Building Books or Documents using pandoc
 - [r-lib/usethis](https://github.com/r-lib/usethis) - Set up commonly used 📦 components
 - [ropensci/git2rdata](https://github.com/ropensci/git2rdata) - An R package for storing and retrieving data.frames in git repositories.
