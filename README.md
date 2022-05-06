@@ -1915,6 +1915,7 @@
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [cran/transcribeR](https://github.com/cran/transcribeR) - :exclamation: This is a read-only mirror of the CRAN R package repository.  transcribeR — Automated Transcription of Audio Files Through the HP IDOL API
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
+- [PolMine/polmineR](https://github.com/PolMine/polmineR) - R-package for text mining with the Corpus Workbench (CWB) as backend
 - [FOSSRIT/people](https://github.com/FOSSRIT/people) - Interactive directory of FOSS@RIT community members generated from YAML profiles and built with Jekyll
 - [interedition/collatex](https://github.com/interedition/collatex) - CollateX – Software for Collating Textual Sources
 - [HertieDataScience/Examples](https://github.com/HertieDataScience/Examples) - Simple code examples for MPP-E1180
@@ -4430,7 +4431,6 @@
 - [richierocks/pathological](https://github.com/richierocks/pathological) - R package of utilities for handling paths, files and directories
 - [richierocks/rebus](https://github.com/richierocks/rebus) - 
 - [gluc/data.tree](https://github.com/gluc/data.tree) - General Purpose Hierarchical Data Structure for R
-- [PolMine/polmineR](https://github.com/PolMine/polmineR) - R-package for text mining with the Corpus Workbench (CWB) as backend
 - [eddelbuettel/pkgkitten](https://github.com/eddelbuettel/pkgkitten) - Create simple packages which pass R CMD check
 - [quanteda/quanteda](https://github.com/quanteda/quanteda) - An R package for the Quantitative Analysis of Textual Data
 - [hrbrmstr/xslt](https://github.com/hrbrmstr/xslt) - lightweight XSLT processing package for R based on xmlwrapp
