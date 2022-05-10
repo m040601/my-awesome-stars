@@ -1633,7 +1633,7 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [philipjkim/goreadability](https://github.com/philipjkim/goreadability) - Webpage summary extractor using Facebook Open Graph and arc90's readability
 - [feeeper/newspaper](https://github.com/feeeper/newspaper) - Read webpages in readability mode, inside your terminal.
-- [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
+- [minio/minio](https://github.com/minio/minio) - Multi-Cloud Object Storage
 - [techknowlogick/shiori](https://github.com/techknowlogick/shiori) - Shiori is a simple bookmark manager
 - [Strubbl/wallabago](https://github.com/Strubbl/wallabago) - Go wrapper for the Wallabag API
 - [boramalper/magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite.
@@ -1783,7 +1783,7 @@
 - [gammu/gsm-docs](https://github.com/gammu/gsm-docs) - GSM related documentation
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [arendst/Tasmota-firmware](https://github.com/arendst/Tasmota-firmware) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum
-- [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - Did you know most GitHub Wikis can't index on search engines? Search Engine Enablement for GitHub Wikis service. 420,000+ GitHub Wikis, now indexable.
+- [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - 🔎 Did you know most GitHub Wikis can't index on search engines? Search Engine Enablement for GitHub Wikis service. 420,000+ GitHub Wikis, now indexable.
 - [chrisman/m4-blog](https://github.com/chrisman/m4-blog) - boilerplate for an m4 blog
 - [m8/refined.blog](https://github.com/m8/refined.blog) - curated list of personal blogs
 - [robhagemans/monobit](https://github.com/robhagemans/monobit) - Tools for working with monochrome bitmap fonts
@@ -2284,7 +2284,7 @@
 - [realdennis/md2pdf](https://github.com/realdennis/md2pdf) - Offline markdown to pdf, choose -&gt; edit -&gt; transform 🥂
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - 🖭  Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [liberodark/ODrive](https://github.com/liberodark/ODrive) - Google Drive GUI for Windows / Mac / Linux
 - [heiseonline/shariff](https://github.com/heiseonline/shariff) - 👮 Shariff enables website users to share their favorite content without compromising their privacy.
