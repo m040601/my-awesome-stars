@@ -1867,7 +1867,7 @@
 - [tomcritchlow/tomcritchlow.github.io](https://github.com/tomcritchlow/tomcritchlow.github.io) - Me. Learning to use Github and learning to live life.
 - [flukus/flukus.github.io](https://github.com/flukus/flukus.github.io) - 
 - [kaihendry/natalian](https://github.com/kaihendry/natalian) - Kai Hendry's blog
-- [ropensci-archive/roweb2](https://github.com/ropensci-archive/roweb2) - :no_entry: [DEPRECATED] Active at
+- [ropensci-archive/roweb2](https://github.com/ropensci-archive/roweb2) - :no_entry: ARCHIVED :no_entry:
 - [allo-/firefox-profilemaker](https://github.com/allo-/firefox-profilemaker) - Tool to create firefox profiles with good defaults.
 - [CollectionBuilder/collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh) - a Jekyll project to create a basic digital collection exhibit. See Readme below for instructions to get started!
 - [christian-fei/christian-fei.github.io-pandoc](https://github.com/christian-fei/christian-fei.github.io-pandoc) - 
@@ -1940,7 +1940,7 @@
 - [mine-cetinkaya-rundel/sta101_sp15](https://github.com/mine-cetinkaya-rundel/sta101_sp15) - Course materials for Sta 101 - Spring 2015 semester at Duke University
 - [STAT545-UBC/STAT545-UBC-original-website](https://github.com/STAT545-UBC/STAT545-UBC-original-website) - ⚠️ Old repository for website of STAT 545 @ University of British Columbia
 - [sckott/cowsay](https://github.com/sckott/cowsay) - cowsay w/ more animals, in R
-- [ropensci-archive/reproducibility-guide](https://github.com/ropensci-archive/reproducibility-guide) - project page for creating a guide to reproducible research
+- [ropensci-archive/reproducibility-guide](https://github.com/ropensci-archive/reproducibility-guide) - :no_entry: ARCHIVED :no_entry:
 - [madhur/PortableJekyll](https://github.com/madhur/PortableJekyll) - Portable Jekyll for Windows
 - [lgatto/TeachingMaterial](https://github.com/lgatto/TeachingMaterial) - Various teaching material
 - [kbroman/knitr_knutshell](https://github.com/kbroman/knitr_knutshell) - knitr in a nutshell: a brief guide to knitr
@@ -2512,7 +2512,7 @@
 - [fasiha/fuzzy-anki](https://github.com/fasiha/fuzzy-anki) - An Anki browser: upload your APKG decks or ANKI2 collections and see what's inside!
 - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 - [bower/bower](https://github.com/bower/bower) - A package manager for the web
-- [ropensci-archive/cartographer](https://github.com/ropensci-archive/cartographer) - ⛔️ [DEPRECATED] Interactive maps in R using d3-carto-map
+- [ropensci-archive/cartographer](https://github.com/ropensci-archive/cartographer) - :no_entry: ARCHIVED :no_entry: Interactive Maps for Data Exploration
 - [RedeMocambos/baobaxia](https://github.com/RedeMocambos/baobaxia) - Aplicação para publicar conteúdos na rede Baobaxia
 - [Marak/bpipe](https://github.com/Marak/bpipe) - Browser &lt;==&gt; Unix Pipes
 - [cpill0789/experigen](https://github.com/cpill0789/experigen) - A framework for creating linguistic experiments
@@ -4148,7 +4148,7 @@
 - [dzerbino/ascii_plots](https://github.com/dzerbino/ascii_plots) - Convenience function for quick and dirty data analysis
 - [pimutils/vdirsyncer](https://github.com/pimutils/vdirsyncer) - 📇 Synchronize calendars and contacts.
 - [centraldedados/scraper-instituicoes-financeiras](https://github.com/centraldedados/scraper-instituicoes-financeiras) - Scraper para o dataset das instituições financeiras registadas em Portugal.
-- [vcs-python/vcspull](https://github.com/vcs-python/vcspull) - :arrows_counterclockwise: synchronize projects via yaml/json manifest. built on libvcs
+- [vcs-python/vcspull](https://github.com/vcs-python/vcspull) - :arrows_counterclockwise: Synchronize projects via yaml/json manifest. Built using `libvcs`.
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
 - [okfn/dataconverters](https://github.com/okfn/dataconverters) - Python library and command line tool for converting data from one format to another
 - [okfn/pdftables](https://github.com/okfn/pdftables) - A library for extracting tables from PDF files
