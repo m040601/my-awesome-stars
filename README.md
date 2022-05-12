@@ -1669,7 +1669,7 @@
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
-- [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
+- [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go, with CSV support
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - [jdkato/prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
@@ -2037,6 +2037,7 @@
 - [dfaligertwood/pandoc-filters](https://github.com/dfaligertwood/pandoc-filters) - Various filters I have written for use with the fantastic jgm/pandoc. Once in python, now in haskell.
 - [Davorak/PandocFilters](https://github.com/Davorak/PandocFilters) - This is a small collection of useful Pandoc filters(in Haskell) and explanations.
 - [awgn/cgrep](https://github.com/awgn/cgrep) - Cgrep: a context-aware grep for source codes
+- [garybgenett/composer](https://github.com/garybgenett/composer) - Composer is a simple but powerful CMS based on Pandoc, Bootstrap and GNU Make
 - [valderman/dpress](https://github.com/valderman/dpress) - Generating random sequences using n-grams in Haskell
 - [byorgey/BlogLiterately](https://github.com/byorgey/BlogLiterately) - Command-line tool for formatting and publishing blog posts.
 - [jgm/pandoc-citeproc](https://github.com/jgm/pandoc-citeproc) - Library and executable for using citeproc with pandoc
@@ -2873,7 +2874,6 @@
 - [maxnet/berryboot](https://github.com/maxnet/berryboot) - Berryboot -- Boot menu / OS installer
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [datasciencetoolbox/datasciencetoolbox](https://github.com/datasciencetoolbox/datasciencetoolbox) - Complete environments for busy polyglot data scientists
-- [garybgenett/composer](https://github.com/garybgenett/composer) - Composer is a simple but powerful CMS based on Pandoc, Bootstrap and GNU Make
 - [mallochine/jarvis2](https://github.com/mallochine/jarvis2) - Expedient travel around the filesystem using user-created bookmarks
 - [jakobib/makespec](https://github.com/jakobib/makespec) - Makefile and templates to create specifications from Pandoc Markdown syntax
 
