@@ -188,6 +188,7 @@
 - [begriffs/mimedown](https://github.com/begriffs/mimedown) - markdown to multipart mime
 - [georgestagg/webR](https://github.com/georgestagg/webR) - This project aims to compile the statistical language R into WASM for use in a browser, via Emscripten.
 - [Xinyuan-LilyGO/TTGO_TWatch_Library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library) - 
+- [Kobo-InkBox/rootfs](https://github.com/Kobo-InkBox/rootfs) - InkBox OS root filesystem
 - [directfb2/DirectFB2](https://github.com/directfb2/DirectFB2) - Core DirectFB library
 - [OliverLew/dwm](https://github.com/OliverLew/dwm) - My fork of the suckless window manager dwm
 - [deeice/ziptuner](https://github.com/deeice/ziptuner) - Internet radio station tuner (playlist fetcher) for the console using C and dialog.
@@ -935,7 +936,7 @@
 - [AK-Homberger/NMEA2000WifiGateway-with-ESP32](https://github.com/AK-Homberger/NMEA2000WifiGateway-with-ESP32) - This repository shows how to build a NMEA2000 WiFi Gateway with voltage and temperature alarms.
 - [ttlappalainen/NMEA2000](https://github.com/ttlappalainen/NMEA2000) - NMEA2000 library for Arduino
 - [kizniche/ttgo-tbeam-ttn-tracker](https://github.com/kizniche/ttgo-tbeam-ttn-tracker) - TTGO T-Beam Tracker for TTN Mapper and TTN Tracker using US (915 MHz) and EU (868 MHz) frequencies
-- [meshtastic/Meshtastic-device](https://github.com/meshtastic/Meshtastic-device) - Device code for the Meshtastic ski/hike/fly/customizable open GPS radio
+- [meshtastic/Meshtastic-device](https://github.com/meshtastic/Meshtastic-device) - Meshtastic device firmware
 - [wing-eu-ops/andon](https://github.com/wing-eu-ops/andon) - IoT Light Notification System
 - [pcb2gcode/pcb2gcode](https://github.com/pcb2gcode/pcb2gcode) - Command-line tool for isolation, routing and drilling of PCBs
 - [witnessmenow/arduino-switcheroonie](https://github.com/witnessmenow/arduino-switcheroonie) - A really simple macro keyboard project using an arduino
@@ -1135,7 +1136,7 @@
 - [Verwegener-Vogel/bfc3000](https://github.com/Verwegener-Vogel/bfc3000) - embedded partly sophisticated bird feeding measurement
 - [Links2004/arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets) - arduinoWebSockets
 - [hidnseek/hidnseek](https://github.com/hidnseek/hidnseek) - This is arduino and eagle files for the HidnSeek GPS tracker that use SIGFOX network
-- [tardate/LittleArduinoProjects](https://github.com/tardate/LittleArduinoProjects) - a collection of little projects, most involving electronics or an Arduino in one way or another!
+- [tardate/LittleArduinoProjects](https://github.com/tardate/LittleArduinoProjects) - a collection of "Little Electronic Art Projects", most involving electronics or an Arduino in one way or another!
 - [me-no-dev/ESPAsyncUDP](https://github.com/me-no-dev/ESPAsyncUDP) - Async UDP library for ESP8266
 - [SensorsIot/ESPDailyTaskNTP](https://github.com/SensorsIot/ESPDailyTaskNTP) - Schedule one task every day at the same time. Deepsleep inbetween
 - [chaeplin/esp8266_and_arduino](https://github.com/chaeplin/esp8266_and_arduino) - esp8266 mqtt node / esp8266
@@ -1433,6 +1434,7 @@
 
 ## Go 
 
+- [ivantsepp/ssh-slides](https://github.com/ivantsepp/ssh-slides) - Terminal-based Presentations Over SSH
 - [neurosnap/lists.sh](https://github.com/neurosnap/lists.sh) - a microblog for lists
 - [clisboa/KoboMail](https://github.com/clisboa/KoboMail) - Experimental email attachment downloader for Kobo devices
 - [eliukblau/pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
@@ -1636,6 +1638,7 @@
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud Object Storage
 - [techknowlogick/shiori](https://github.com/techknowlogick/shiori) - Shiori is a simple bookmark manager
 - [Strubbl/wallabago](https://github.com/Strubbl/wallabago) - Go wrapper for the Wallabag API
+- [syncloud/platform](https://github.com/syncloud/platform) - Run popular services on your device with one click
 - [boramalper/magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite.
 - [cornelk/goscrape](https://github.com/cornelk/goscrape) - Web scraper that can create an offline readable version of a website
 - [kaihendry/blog](https://github.com/kaihendry/blog) - 
@@ -1824,7 +1827,6 @@
 - [gkovacs/smart-subtitles-system-chi2014](https://github.com/gkovacs/smart-subtitles-system-chi2014) - Tool to assist in understanding foreign-language videos
 - [ggerganov/dot-to-ascii](https://github.com/ggerganov/dot-to-ascii) - Graphviz to ASCII converter using Graph::Easy
 - [towercity/anki-adaptive-vobabulary-flashcards](https://github.com/towercity/anki-adaptive-vobabulary-flashcards) - A vocabulary flashcard template for Anki that can be used for a variety of study methods
-- [maehr/typademic](https://github.com/maehr/typademic) - Typademic turns distraction freely written markdown files into beautiful PDFs.
 - [alexherbo2/krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [openenergymonitor/guide](https://github.com/openenergymonitor/guide) - OpenEnergyMonitor User Guide
 - [daviddarnes/alembic-netlifycms-kit](https://github.com/daviddarnes/alembic-netlifycms-kit) - ⚗️💠 Starter kit for Alembic with Netlify CMS, hosted on Netlify
@@ -2285,7 +2287,7 @@
 - [realdennis/md2pdf](https://github.com/realdennis/md2pdf) - Offline markdown to pdf, choose -&gt; edit -&gt; transform 🥂
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - 📷 Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [liberodark/ODrive](https://github.com/liberodark/ODrive) - Google Drive GUI for Windows / Mac / Linux
 - [heiseonline/shariff](https://github.com/heiseonline/shariff) - 👮 Shariff enables website users to share their favorite content without compromising their privacy.
@@ -2417,7 +2419,6 @@
 - [yujiosaka/headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome
 - [chriszarate/bookmarkleter](https://github.com/chriszarate/bookmarkleter) - You have JavaScript. You need a bookmarklet. This does that.
 - [mems/bookmarklets-context-menu](https://github.com/mems/bookmarklets-context-menu) - WebExtension allow to execute bookmarklets as privileged scripts
-- [BunsenLabs/website](https://github.com/BunsenLabs/website) - Sources of www.bunsenlabs.org
 - [splitbrain/imagelabeler](https://github.com/splitbrain/imagelabeler) - Add labels to an image
 - [maxpert/raspchat](https://github.com/maxpert/raspchat) - A chat server that can run on Raspberry Pi
 - [lusakasa/saka-key](https://github.com/lusakasa/saka-key) - A keyboard interface to the web
@@ -2738,7 +2739,7 @@
 - [metrodroid/metrodroid](https://github.com/metrodroid/metrodroid) - Read data from public transit cards using your NFC Android phone! (iOS 13 and PC/SC support coming soon)
 - [39aldo39/libdecsync](https://github.com/39aldo39/libdecsync) - 
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
-- [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android companion application for the Meshtastic ski/hike/fly/Signal-chat GPS radio
+- [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android application for Meshtastic
 - [helloworld1/FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator
 - [syncthing/syncthing-lite](https://github.com/syncthing/syncthing-lite) - A Sync Browser: a browser app for Syncthing-compatible shares
 - [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
@@ -3781,7 +3782,6 @@
 - [diyhue/diyHue](https://github.com/diyhue/diyHue) - Main diyHue software repo
 - [reynico/my-raspberry](https://github.com/reynico/my-raspberry) - My Archlinux Raspberry PI setup
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
-- [syncloud/platform](https://github.com/syncloud/platform) - Run popular services on your device with one click
 - [skorokithakis/pastebinit](https://github.com/skorokithakis/pastebinit) - pastebinit is a command-line tool to send data to a "pastebin", a web site which allows its users to upload snippets of text for public viewing. ⛺
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
@@ -5519,6 +5519,7 @@
 
 ## TeX 
 
+- [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Pandoc.
 - [statsthinking21/statsthinking21-core](https://github.com/statsthinking21/statsthinking21-core) - Core statistical text for Statistical Thinking in the 21st Century
 - [statsthinking21/statsthinking21-R](https://github.com/statsthinking21/statsthinking21-R) - R companion for Statistical Thinking in the 21st Century
 - [ntd/tccv](https://github.com/ntd/tccv) - Two columns curriculum vitae
@@ -5676,7 +5677,6 @@
 ## Vim script 
 
 - [vim-scripts/AnsiEsc.vim](https://github.com/vim-scripts/AnsiEsc.vim) - ansi escape sequences concealed, but highlighted as specified (conceal)
-- [Kobo-InkBox/rootfs](https://github.com/Kobo-InkBox/rootfs) - InkBox OS root filesystem
 - [ojroques/vim-oscyank](https://github.com/ojroques/vim-oscyank) - A Vim plugin to copy text through SSH with OSC52
 - [samoshkin/dotvim](https://github.com/samoshkin/dotvim) - Personal vim configuration: vimrc file and friends
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
