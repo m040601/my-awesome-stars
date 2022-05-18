@@ -612,7 +612,7 @@
 - [seemoo-lab/nexmon](https://github.com/seemoo-lab/nexmon) - The C-based Firmware Patching Framework for Broadcom/Cypress WiFi Chips that enables Monitor Mode, Frame Injection and much more
 - [wemos/D1_mini_Examples](https://github.com/wemos/D1_mini_Examples) - WeMos D1 & D1 mini Arduino Examples
 - [Brawn1/Humidor_monitoring](https://github.com/Brawn1/Humidor_monitoring) - Ueberwachung der Luftfeuchte und Temperatur im Humidor mit einem ATtiny85, und Übertragung der Messdaten mit einem 433MHz Sender.
-- [vedderb/bldc](https://github.com/vedderb/bldc) - The code for my custom BLDC controller.
+- [vedderb/bldc](https://github.com/vedderb/bldc) - The VESC motor control firmware
 - [espressif/ESP8266_RTOS_SDK](https://github.com/espressif/ESP8266_RTOS_SDK) - Latest ESP8266 SDK based on FreeRTOS, esp-idf style.
 - [jeelabs/esp-link](https://github.com/jeelabs/esp-link) - esp8266 wifi-serial bridge, outbound TCP, and arduino/AVR/LPC/NXP programmer
 - [vain/datenstrahler](https://github.com/vain/datenstrahler) - Display a web site (WebKit2GTK+)
@@ -1466,7 +1466,6 @@
 - [miguelmota/streamhut](https://github.com/miguelmota/streamhut) - Stream your terminal to web without installing anything 🌐
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager
-- [gregf/rufu](https://github.com/gregf/rufu) - A Rofi Modi For Buku
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [forlater-email/mdawh](https://github.com/forlater-email/mdawh) - an MDA that sends a webhook on recieval of mail
@@ -1777,7 +1776,6 @@
 - [papis/papis-zotero](https://github.com/papis/papis-zotero) - Zotero compatiblity scripts for papis
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
-- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [amagovpt/observatory](https://github.com/amagovpt/observatory) - PT Observatory of Web Accessibility - the main app
 - [rugk/offline-qr-code](https://github.com/rugk/offline-qr-code) - 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
 - [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
@@ -2139,6 +2137,7 @@
 - [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files
 - [w3bdev1/alter](https://github.com/w3bdev1/alter) - A Firefox Add-on redirecting to privacy-friendly alternatives: https://addons.mozilla.org/addon/alter/
 - [OpenScanEu/OpenScan2](https://github.com/OpenScanEu/OpenScan2) - an improved firmware for the OpenScan devices, featuring many more cameras and a greatly improved overall usability
+- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [heussd/texttomail](https://github.com/heussd/texttomail) - Allows to e-mail pages that are viewed in reader mode.
 - [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadc
@@ -5610,7 +5609,7 @@
 - [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - :octocat: GitHub Action to deploy to GitHub Pages
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
-- [akshaykmr/TeleType](https://github.com/akshaykmr/TeleType) - Share terminals over the web. Show off mad cli-fu, help a colleague, teach, or troubleshoot. end-to-end encrypted 🛡
+- [akshaykmr/teletype](https://github.com/akshaykmr/teletype) - Share terminals over the web. Show off mad cli-fu, help a colleague, teach, or troubleshoot. end-to-end encrypted 🛡
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [GJKrupa/rusty-radio](https://github.com/GJKrupa/rusty-radio) - Raspberry Pi touchscreen clock radio using Rust, Angular and mpd
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
