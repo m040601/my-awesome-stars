@@ -4988,6 +4988,7 @@
 
 ## Shell 
 
+- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [nsxiv/nsxiv-extra](https://github.com/nsxiv/nsxiv-extra) - Community patches, scripts, tips and tricks for nsxiv.
 - [N-R-K/shellmarks](https://github.com/N-R-K/shellmarks) - Simple directory bookmark management via symlinks.
 - [N-R-K/sxbm](https://github.com/N-R-K/sxbm) - Simple Unix Bookmark Manager, a POSIX compliant shell script for managing bookmarks.
