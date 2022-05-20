@@ -2274,7 +2274,7 @@
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [dc-js/dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 - [distillpub/template](https://github.com/distillpub/template) - This is the repository for the distill web framework
-- [jungyoun/html-article-extractor](https://github.com/jungyoun/html-article-extractor) - A web page content extractor
+- [woojubb/html-article-extractor](https://github.com/woojubb/html-article-extractor) - A web page content extractor
 - [perliedman/ocad2geojson](https://github.com/perliedman/ocad2geojson) - JavaScript OCAD file reader and exporter for GeoJSON, SVG and Mapbox Style Spec
 - [mapbox/togeojson](https://github.com/mapbox/togeojson) - convert KML and GPX to GeoJSON, without the fuss
 - [perliedman/node-hgt](https://github.com/perliedman/node-hgt) - Query hgt files (typically SRTM elevation data) with performance
@@ -4988,6 +4988,7 @@
 
 ## Shell 
 
+- [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [nsxiv/nsxiv-extra](https://github.com/nsxiv/nsxiv-extra) - Community patches, scripts, tips and tricks for nsxiv.
 - [N-R-K/shellmarks](https://github.com/N-R-K/shellmarks) - Simple directory bookmark management via symlinks.
