@@ -3358,6 +3358,7 @@
 
 ## Python 
 
+- [FiXato/tui_launcher](https://github.com/FiXato/tui_launcher) - A proof of concept for a TUI-based launcher written in Python using urwid
 - [raspbeguy/osm-blame](https://github.com/raspbeguy/osm-blame) - CLI tool inspired by git blame to determine the last modification tag by tag for an OSM element
 - [scrapinghub/article-extraction-benchmark](https://github.com/scrapinghub/article-extraction-benchmark) - Article extraction benchmark: dataset and evaluation scripts
 - [mitxela/ddc-oled](https://github.com/mitxela/ddc-oled) - 
