@@ -1433,6 +1433,7 @@
 
 ## Go 
 
+- [cmitsakis/tmpfox](https://github.com/cmitsakis/tmpfox) - create temporary Firefox profile, install user.js and extensions, launch Firefox
 - [ivantsepp/ssh-slides](https://github.com/ivantsepp/ssh-slides) - Terminal-based Presentations Over SSH
 - [neurosnap/lists.sh](https://github.com/neurosnap/lists.sh) - a microblog for lists
 - [clisboa/KoboMail](https://github.com/clisboa/KoboMail) - Experimental email attachment downloader for Kobo devices
@@ -3354,6 +3355,7 @@
 
 ## Python 
 
+- [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2) - Ansible role that installs and upgrades OpenWISP.
 - [MartinBarker/vinyl2digital](https://github.com/MartinBarker/vinyl2digital) - Batch render an Audacity audio track into an entire album of mp3 files using a Discogs URL for metadata tagging.
 - [FiXato/tui_launcher](https://github.com/FiXato/tui_launcher) - A proof of concept for a TUI-based launcher written in Python using urwid
 - [raspbeguy/osm-blame](https://github.com/raspbeguy/osm-blame) - CLI tool inspired by git blame to determine the last modification tag by tag for an OSM element
@@ -4100,7 +4102,7 @@
 - [edavis/pandoc-opml](https://github.com/edavis/pandoc-opml) - Generate OPML files from Markdown
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [takluyver/pynsist](https://github.com/takluyver/pynsist) - Build Windows installers for Python applications
-- [scheibler/khard](https://github.com/scheibler/khard) - Console carddav client
+- [lucc/khard](https://github.com/lucc/khard) - Console vcard client
 - [ywzhaiqi/DownloadHelpers](https://github.com/ywzhaiqi/DownloadHelpers) - 各个不同网站辅助下载脚本合集
 - [pyannote/DEPRECATED-pyannote-features](https://github.com/pyannote/DEPRECATED-pyannote-features) - [deprecated] Audio and textual features extraction.
 - [tvd-dataset/tvd-plugin](https://github.com/tvd-dataset/tvd-plugin) - TVD plugin template
