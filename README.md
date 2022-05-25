@@ -823,6 +823,7 @@
 
 ## C++ 
 
+- [Kansattica/msync](https://github.com/Kansattica/msync) - A store and forward commnd line Mastodon and Pleroma client that fits on a floppy disk.
 - [tsowell/kobo-btpt](https://github.com/tsowell/kobo-btpt) - Page turning via Bluetooth for Kobo eReaders
 - [JAndrassy/ArduinoOTA](https://github.com/JAndrassy/ArduinoOTA) - Arduino library to upload sketch over network to Arduino board with WiFi or Ethernet libraries
 - [amagovpt/autenticacao.gov](https://github.com/amagovpt/autenticacao.gov) - Middleware Oficial de Identificação Eletrónica em Portugal - Cartão de Cidadão, da Chave Móvel Digital e Sistema de Certificação de atributos profissionais
@@ -1433,6 +1434,7 @@
 
 ## Go 
 
+- [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
 - [cmitsakis/tmpfox](https://github.com/cmitsakis/tmpfox) - create temporary Firefox profile, install user.js and extensions, launch Firefox
 - [ivantsepp/ssh-slides](https://github.com/ivantsepp/ssh-slides) - Terminal-based Presentations Over SSH
 - [neurosnap/lists.sh](https://github.com/neurosnap/lists.sh) - a microblog for lists
@@ -3378,7 +3380,7 @@
 - [rpkak/local-aur](https://github.com/rpkak/local-aur) - Download the AUR packages you trust and use pacman to install them.
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
 - [Krasjet/pdf.tocgen](https://github.com/Krasjet/pdf.tocgen) - A CLI toolset to generate table of contents for PDF files automatically.
-- [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - A reasonably reliable security/privacy monitoring tool using BPF
+- [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - A reasonably reliable per application network traffic monitor using BPF
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [milaq/YCast](https://github.com/milaq/YCast) - Self hosted vTuner internet radio service emulation
 - [deep5050/radio-active](https://github.com/deep5050/radio-active) - Play any radios around the globe right from the terminal :zap:
@@ -4988,6 +4990,7 @@
 
 ## Shell 
 
+- [richin13/tmux-plugin-playerctl](https://github.com/richin13/tmux-plugin-playerctl) - Display MPRIS metadata in Tmux (Spotify, Clementine, VLC, etc)
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [nsxiv/nsxiv-extra](https://github.com/nsxiv/nsxiv-extra) - Community patches, scripts, tips and tricks for nsxiv.
