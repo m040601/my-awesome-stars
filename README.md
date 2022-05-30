@@ -822,6 +822,7 @@
 
 ## C++ 
 
+- [thewtex/tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux
 - [Kansattica/msync](https://github.com/Kansattica/msync) - A store and forward commnd line Mastodon and Pleroma client that fits on a floppy disk.
 - [tsowell/kobo-btpt](https://github.com/tsowell/kobo-btpt) - Page turning via Bluetooth for Kobo eReaders
 - [JAndrassy/ArduinoOTA](https://github.com/JAndrassy/ArduinoOTA) - Arduino library to upload sketch over network to Arduino board with WiFi or Ethernet libraries
@@ -945,7 +946,7 @@
 - [cyberman54/ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter) - Wifi & BLE driven passenger flow metering with cheap ESP32 boards
 - [osleg/gebaar-libinput-fork](https://github.com/osleg/gebaar-libinput-fork) - Gebaar, A Super Simple WM Independent Touchpad Gesture Daemon for libinput. Forked version with additional features.
 - [Coffee2CodeNL/gebaar-libinput](https://github.com/Coffee2CodeNL/gebaar-libinput) - Gebaar, A Super Simple WM Independent Touchpad Gesture Daemon for libinput
-- [happytm/BatteryNode](https://github.com/happytm/BatteryNode) - ESP8266 battery powered nodes and ESP32 gateway for DIY low power, low cost, standalone or web connected  IOT sensors network (no third party service required).
+- [happytm/BatteryNode](https://github.com/happytm/BatteryNode) - Simplest DIY low power, low cost, standalone or web connected  IOT sensors network using ESP32 or ESP8266 (no third party service required).
 - [sieren/QSyncthingTray](https://github.com/sieren/QSyncthingTray) - ATT: NO LONGER ACTIVELY MAINTAINED, NEEDS NEW OWNER || A OS X / Windows / Linux Tray App for Syncthing written in C++
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
@@ -1405,7 +1406,7 @@
 - [sanel/declutter](https://github.com/sanel/declutter) - Read html content without clutter from Emacs
 - [skx/dotfiles](https://github.com/skx/dotfiles) - Yet another dotfile-repository
 - [jkitchin/org-ref](https://github.com/jkitchin/org-ref) - org-mode modules for citations, cross-references, bibliographies in org-mode and useful bibtex tools to go with it.
-- [bamos/dotfiles](https://github.com/bamos/dotfiles) - ♥ Linux, mutt, xmonad, i3, vim, emacs, zsh
+- [bamos/dotfiles](https://github.com/bamos/dotfiles) - ♥ Linux, xmonad, emacs, vim, zsh, tmux
 - [xiaohanyu/oh-my-emacs](https://github.com/xiaohanyu/oh-my-emacs) - [Stopped] Provide an awesome, out-of-box, literate dotemacs for both newbies and nerds.
 - [technomancy/atreus-firmware](https://github.com/technomancy/atreus-firmware) - Firmware for the Atreus keyboard
 - [vikasrawal/orgpaper](https://github.com/vikasrawal/orgpaper) - Reproducible Research Papers using Org-mode and R: A Guide
@@ -1433,6 +1434,8 @@
 
 ## Go 
 
+- [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
+- [arl/gitmux](https://github.com/arl/gitmux) - :computer: Git in your tmux status bar
 - [suntong/html2md](https://github.com/suntong/html2md) - HTML to Markdown converter
 - [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
 - [cmitsakis/tmpfox](https://github.com/cmitsakis/tmpfox) - create temporary Firefox profile, install user.js and extensions, launch Firefox
@@ -1457,7 +1460,6 @@
 - [mrusme/reader](https://github.com/mrusme/reader) - reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages on the CLI.
 - [go-shiori/obelisk](https://github.com/go-shiori/obelisk) - Go package and CLI tool for saving web page as single HTML file
 - [takingnames/namedrop-go](https://github.com/takingnames/namedrop-go) - 
-- [xvello/letsblockit](https://github.com/xvello/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [MarcoLucidi01/ytcast](https://github.com/MarcoLucidi01/ytcast) - cast YouTube videos to your smart TV from command-line
 - [skx/mpd-web](https://github.com/skx/mpd-web) - Simple HTTP view of an MPD server
@@ -2732,7 +2734,7 @@
 - [mysensors/SensebenderGW](https://github.com/mysensors/SensebenderGW) - Gateway for MySensors
 - [vedderb/bldc-hardware](https://github.com/vedderb/bldc-hardware) - Brushless DC Motor controller from Benjamin Vedder
 - [al177/esp_hat](https://github.com/al177/esp_hat) - ESP8266 based Raspberry Pi WiFi module
-- [facelessloser/raspberry_pi_pullup_button](https://github.com/facelessloser/raspberry_pi_pullup_button) - Shutdown button for raspberry pi
+- [facelesstech/raspberry_pi_pullup_button](https://github.com/facelesstech/raspberry_pi_pullup_button) - Shutdown button for raspberry pi
 
 ## Kotlin 
 
@@ -3918,7 +3920,7 @@
 - [fxaguessy/gplayweb](https://github.com/fxaguessy/gplayweb) - GPlayWeb: A Web interface for GPlayCli
 - [okfde/froide](https://github.com/okfde/froide) - Freedom Of Information Portal
 - [okfde/fragdenstaat_de](https://github.com/okfde/fragdenstaat_de) - Froide Theme for fragdenstaat.de
-- [facelessloser/rpi_shutdown_button](https://github.com/facelessloser/rpi_shutdown_button) - Shutdown button for all the Raspberry Pi's
+- [facelesstech/rpi_shutdown_button](https://github.com/facelesstech/rpi_shutdown_button) - Shutdown button for all the Raspberry Pi's
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [haifengkao/nfasd](https://github.com/haifengkao/nfasd) - fasd for neovim
 - [scrapy/scrapyd](https://github.com/scrapy/scrapyd) - A service daemon to run Scrapy spiders
@@ -4806,6 +4808,7 @@
 
 ## Rust 
 
+- [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
