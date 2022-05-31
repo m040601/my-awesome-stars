@@ -3359,6 +3359,7 @@
 
 ## Python 
 
+- [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display and browse images in the terminal
 - [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2) - Ansible role that installs and upgrades OpenWISP.
 - [MartinBarker/vinyl2digital](https://github.com/MartinBarker/vinyl2digital) - Batch render an Audacity audio track into an entire album of mp3 files using a Discogs URL for metadata tagging.
 - [FiXato/tui_launcher](https://github.com/FiXato/tui_launcher) - A proof of concept for a TUI-based launcher written in Python using urwid
@@ -5621,7 +5622,7 @@
 - [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - :octocat: GitHub Action to deploy to GitHub Pages
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
-- [akshaykmr/teletype](https://github.com/akshaykmr/teletype) - Share terminals over the web. Show off mad cli-fu, help a colleague, teach, or troubleshoot. end-to-end encrypted 🛡
+- [akshaykmr/teletype](https://github.com/akshaykmr/teletype) - Stream or share terminals over the web. Show off mad cli-fu, help a colleague, teach, or troubleshoot. end-to-end encrypted 🛡
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [GJKrupa/rusty-radio](https://github.com/GJKrupa/rusty-radio) - Raspberry Pi touchscreen clock radio using Rust, Angular and mpd
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
