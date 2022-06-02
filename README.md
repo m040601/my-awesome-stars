@@ -241,7 +241,7 @@
 - [msharov/snownews](https://github.com/msharov/snownews) - :snowman: Snownews is a text-mode RSS feed reader.
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [pschatzmann/pico-arduino](https://github.com/pschatzmann/pico-arduino) - Arduino API Library for the Raspberry Pico
-- [SartoxSoftware/audacium](https://github.com/SartoxSoftware/audacium) - Free and open-source audio editor
+- [Audacium/audacium](https://github.com/Audacium/audacium) - Free and open-source audio editor
 - [omar-polo/gmid](https://github.com/omar-polo/gmid) - a Gemini server
 - [omar-polo/telescope](https://github.com/omar-polo/telescope) - A Gemini Browser
 - [hexdump0815/linux-mainline-and-mali-generic-stable-kernel](https://github.com/hexdump0815/linux-mainline-and-mali-generic-stable-kernel) - my kind of generic armv7l 32bit linux mainline stable kernel build - used on bananapi m1, asus tinkerboard, tx1 allwinner h3 tv box, r39 allwinner h3 tv box, orbsmart s92 tv box (same as beelink r89, 
@@ -505,7 +505,7 @@
 - [drkhsh/slstatus](https://github.com/drkhsh/slstatus) - slstatus is a suckless status monitor for window managers that use WM_NAME (e.g. dwm) or stdin to fill the status bar - mirror from suckless
 - [ropensci/rsvg](https://github.com/ropensci/rsvg) - SVG renderer for R based on librsvg2
 - [r-rust/gifski](https://github.com/r-rust/gifski) - R wrapper for the 'gifski' Rust Cargo crate.
-- [nicm/fdm](https://github.com/nicm/fdm) - 
+- [nicm/fdm](https://github.com/nicm/fdm) - fdm source code
 - [waveshare/WM8960-Audio-HAT](https://github.com/waveshare/WM8960-Audio-HAT) - The drivers of [WM8960 Audio HAT] for Raspberry Pi
 - [OpenHD/Open.HD](https://github.com/OpenHD/Open.HD) - Open.HD
 - [mwarning/KadNode](https://github.com/mwarning/KadNode) - P2P DNS with content key, crypto key and PKI support. DynDNS alternative.
@@ -772,7 +772,6 @@
 - [kevinbirch/kanabo](https://github.com/kevinbirch/kanabo) - Query JSON/YAML data with JSONPath
 - [oblique/subsync](https://github.com/oblique/subsync) - subsync is a simple CLI tool that synchronizes SubRip (srt) subtitles automatically.
 - [wangxunyu/sego](https://github.com/wangxunyu/sego) - A Chinese word segment system, based on maximum matching algorithm.
-- [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, 
 - [vain/slinp](https://github.com/vain/slinp) - PDF presentation tool chest
 - [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
@@ -802,6 +801,7 @@
 
 ## C# # 
 
+- [NicolasConstant/BirdsiteLive](https://github.com/NicolasConstant/BirdsiteLive) - An ethical bridge from Twitter
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [LukeEmmet/GemiNaut](https://github.com/LukeEmmet/GemiNaut) - GemiNaut - A friendly Gemini client for Windows
 - [nullpainter/sanchez](https://github.com/nullpainter/sanchez) - False-colour geostationary satellite image compositor
@@ -1207,6 +1207,7 @@
 - [mediastandardstrust/superfastmatch](https://github.com/mediastandardstrust/superfastmatch) - A tool for bulk text comparison and analysis
 - [Cightline/clipodder](https://github.com/Cightline/clipodder) - C++ implementation of clipodder
 - [falconindy/ponymix](https://github.com/falconindy/ponymix) - CLI volume control for PulseAudio
+- [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, 
 - [libpinyin/ibus-libpinyin](https://github.com/libpinyin/ibus-libpinyin) - 
 - [FreeRDP/FreeRDP-WebConnect](https://github.com/FreeRDP/FreeRDP-WebConnect) - A gateway for seamless access to your RDP-Sessions in any HTML5-compliant browser
 - [avxsynth/avxsynth](https://github.com/avxsynth/avxsynth) - Linux Port of Avisynth
@@ -2801,6 +2802,7 @@
 - [ehildenb/pandoc-tangle](https://github.com/ehildenb/pandoc-tangle) - Simple tangler for Pandoc
 - [Orange-OpenSource/pandoc-terminal-writer](https://github.com/Orange-OpenSource/pandoc-terminal-writer) - Pretty-print text documents on a terminal using pandoc
 - [tomncooper/pandoc-gls](https://github.com/tomncooper/pandoc-gls) - A pandoc filter allowing easier syntax for the Latex glossaries package with Markdown documents
+- [sile-typesetter/casile](https://github.com/sile-typesetter/casile) - The CaSILE toolkit, a book publishing workflow employing SILE and other wizardry.
 - [pandoc/lua-filters](https://github.com/pandoc/lua-filters) - A collection of lua filters for pandoc
 - [dsanson/pandoc-questions.lua](https://github.com/dsanson/pandoc-questions.lua) - pandoc lua filter for managing different versions of a quiz or exam in a single document
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
@@ -2855,7 +2857,6 @@
 - [RuralHunter/CoreELEC](https://github.com/RuralHunter/CoreELEC) - This is CoreELEC for Phicomm N1 device only. Run ./mkn1 to build.
 - [probonopd/lirc-audio_alsa-for-openwrt](https://github.com/probonopd/lirc-audio_alsa-for-openwrt) - Use a soundcard input to receive infrared remote control signals.
 - [dilshan/usb2-power-hub](https://github.com/dilshan/usb2-power-hub) - 4-Port High Power USB 2.0 Hub
-- [sile-typesetter/casile](https://github.com/sile-typesetter/casile) - The CaSILE toolkit, a book publishing workflow employing SILE and other wizardry.
 - [vedetta-com/caesonia](https://github.com/vedetta-com/caesonia) - OpenBSD Email Service
 - [pjungwir/manpj](https://github.com/pjungwir/manpj) - Twenty years of tech notes, viewable as man pages
 - [cieplak/jz](https://github.com/cieplak/jz) - Tool for Configuring Jails, ZFS and pf on FreeBSD
@@ -3948,7 +3949,7 @@
 - [gaubert/gmvault](https://github.com/gaubert/gmvault) - gmail backup software
 - [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
 - [maralla/completor.vim](https://github.com/maralla/completor.vim) - Async completion framework made ease.
-- [seveas/git-spindle](https://github.com/seveas/git-spindle) - Command-line interface to GitHub and other central git services
+- [seveas/git-spindle](https://github.com/seveas/git-spindle) - Abandoned command-line interface to GitHub and other central git services
 - [pystitch/stitch](https://github.com/pystitch/stitch) - Write reproducible reports in Markdown
 - [jankatins/knitpy](https://github.com/jankatins/knitpy) - knitpy: Elegant, flexible and fast dynamic report generation with python
 - [tweekmonster/tmux2html](https://github.com/tweekmonster/tmux2html) - :cat2: Render full tmux windows or individual panes as HTML
@@ -5028,7 +5029,7 @@
 - [andrewboring/alarm-images](https://github.com/andrewboring/alarm-images) - Arch Linux Arm Base Images for Raspberry Pi
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
 - [remileduc/sherver](https://github.com/remileduc/sherver) - Pure Bash lightweight web server.
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with.
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [jabirali/tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
 - [ploum/offlinetools](https://github.com/ploum/offlinetools) - Tools to spend more time offline
 - [Yetangitu/books](https://github.com/Yetangitu/books) - Library Genesis (libgen) CLI/TUI/GUI client (mirror from private repo)
