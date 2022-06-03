@@ -3598,7 +3598,7 @@
 - [mfa/bundesbank-to-sqlite](https://github.com/mfa/bundesbank-to-sqlite) - Convert Bundesbank banking export to a SQLite database
 - [Addono/worldcat-scraper](https://github.com/Addono/worldcat-scraper) - Spider for book titles from Worldcat.
 - [ssciolla/ebook-ident](https://github.com/ssciolla/ebook-ident) - Tool for finding ISBNs of e-books by querying the WorldCat Search API
-- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scri
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automati
 - [cadnza/Chinese-Getter](https://github.com/cadnza/Chinese-Getter) - Anki add-on to retrieve and fill metadata on Chinese vocabulary
 - [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 - [hamsolo474/VideoSubFinder_ocr_path](https://github.com/hamsolo474/VideoSubFinder_ocr_path) - 
