@@ -1234,6 +1234,7 @@
 
 ## CSS 
 
+- [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 - [davesteele/comitup](https://github.com/davesteele/comitup) - Bootstrap Wifi support over Wifi
 - [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
@@ -2833,6 +2834,7 @@
 
 ## M4 
 
+- [matejak/argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator
 - [raspberrypi/usbbootgui](https://github.com/raspberrypi/usbbootgui) - GUI for booting a Raspberry Pi device like Pi Zero or compute module as a device
 
 ## Makefile 
