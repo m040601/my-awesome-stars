@@ -166,6 +166,7 @@
 
 ## C 
 
+- [ansilove/ansilove](https://github.com/ansilove/ansilove) - ANSI and ASCII art to PNG converter in C
 - [explosion-mental/mage](https://github.com/explosion-mental/mage) - iMAGE viewer
 - [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Neo Simple X Image Viewer
 - [geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) - Virtual cables between any audio source and any speaker in your home
@@ -331,7 +332,7 @@
 - [LuisRusso/PamUUID](https://github.com/LuisRusso/PamUUID) - A PAM authentication for Linux and FreeBSD using USB Flash Drives.
 - [jovoro/geminid](https://github.com/jovoro/geminid) - Gemini Server in C
 - [npat-efault/picocom](https://github.com/npat-efault/picocom) - Minimal dumb-terminal emulation program
-- [tio/tio](https://github.com/tio/tio) - A simple serial terminal I/O tool
+- [tio/tio](https://github.com/tio/tio) - A simple serial device I/O tool
 - [davidgiven/wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
 - [cybernoid/archivemount](https://github.com/cybernoid/archivemount) - A fuse filesystem for mounting archives in formats supported by libarchive.
 - [phillbush/pmenu](https://github.com/phillbush/pmenu) - A pie-menu in xlib and imlib2.
@@ -2850,7 +2851,6 @@
 - [jp-fosterson/pandoc-novel](https://github.com/jp-fosterson/pandoc-novel) - Markdown text to a novel in ePub and PDF.
 - [ivanstojic/pandoc-ssg](https://github.com/ivanstojic/pandoc-ssg) - Pandoc-SSG is a Make driven Pandoc static site generator. It features basic functionality in a trivial implementation.
 - [patrickbr/hagel](https://github.com/patrickbr/hagel) - Single Makefile static page generator. Mostly meant as a joke.
-- [plerup/makeEspArduino](https://github.com/plerup/makeEspArduino) - A makefile for ESP8266 and ESP32 Arduino projects
 - [m01/rock64-arch-linux-build](https://github.com/m01/rock64-arch-linux-build) - Build Arch Linux ARM images for Rock64 single board computer
 - [dreemurrs-embedded/Jumpdrive](https://github.com/dreemurrs-embedded/Jumpdrive) - Flash/Rescue SD Card image for PinePhone and PineTab
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
@@ -3069,7 +3069,6 @@
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 - [sigdeletras/qgis_recursos](https://github.com/sigdeletras/qgis_recursos) - Recursos para QGIS
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
-- [mipimipi/smsync](https://github.com/mipimipi/smsync) - keeps huge music collections in sync and takes care of conversions between different formats. It's an easy-to-use command line application for Linux.
 - [osmlab/awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap) - 😎 Curated list of awesome OpenSteetMap-projects
 - [IgrikXD/Easy-SDR](https://github.com/IgrikXD/Easy-SDR) - This project is about creation of affordable and easy-to-manufacture prototypes of PCBs which are used to expand the capabilities of existing low-cost SDR receivers based on RTL2832U chip.
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
@@ -3271,6 +3270,7 @@
 - [omar-polo/mlmpl](https://github.com/omar-polo/mlmpl) - simple mailing list (and newsletter) manager
 - [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) - a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)
 - [trizen/perl-scripts](https://github.com/trizen/perl-scripts) - A nice collection of day-to-day Perl scripts.
+- [plerup/makeEspArduino](https://github.com/plerup/makeEspArduino) - A makefile for ESP8266 and ESP32 Arduino projects
 - [trizen/pipe-viewer](https://github.com/trizen/pipe-viewer) - A lightweight YouTube client for Linux (fork of straw-viewer)
 - [skx/dhcp.io](https://github.com/skx/dhcp.io) - Dynamic DNS - Via Redis, Perl, and Amazon Route53.
 - [benbernard/RecordStream](https://github.com/benbernard/RecordStream) - commandline tools for slicing and dicing JSON records.
@@ -4248,7 +4248,6 @@
 - [mediastandardstrust/publicity_machine](https://github.com/mediastandardstrust/publicity_machine) - Project to grab press releases and feed them up to a churnalism engine
 - [tarix/mcdsupport](https://github.com/tarix/mcdsupport) - MCD  Support Plugin for Anki
 - [repolho/anki_tool](https://github.com/repolho/anki_tool) - Low level manipulation of anki collections
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
 - [shantanugoel/subdl](https://github.com/shantanugoel/subdl) - Python based command-line tool to download subtitles from opensubtitles.org
 - [misja/python-boilerpipe](https://github.com/misja/python-boilerpipe) - Python interface to Boilerpipe, Boilerplate Removal and Fulltext Extraction from HTML pages
@@ -4956,6 +4955,7 @@
 - [dflemstr/rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 
 ## SCSS 
 
