@@ -1454,7 +1454,7 @@
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks.
 - [bmaupin/go-epub](https://github.com/bmaupin/go-epub) - Go library for creating EPUB files
 - [LiboShen/webpage-to-ebook](https://github.com/LiboShen/webpage-to-ebook) - 
-- [xyproto/o](https://github.com/xyproto/o) - :cyclone: Configuration-free text editor and minimalistic IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick e
+- [xyproto/o](https://github.com/xyproto/o) - :cyclone: Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles w
 - [dakyskye/dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
 - [audstanley/libgen-tui](https://github.com/audstanley/libgen-tui) - A terminal based application for LibGen
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -1779,6 +1779,7 @@
 
 ## HTML 
 
+- [radman1/sauce](https://github.com/radman1/sauce) - Standard Architecture for Universal Comment Extensions
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [papis/papis-zotero](https://github.com/papis/papis-zotero) - Zotero compatiblity scripts for papis
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
@@ -2933,6 +2934,7 @@
 
 ## Others 
 
+- [sjehuda/syndication4humans](https://github.com/sjehuda/syndication4humans) - Render syndication feeds (Atom and RSS) using CSS and XSLT
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [OmnIoT/Omnikit-projects](https://github.com/OmnIoT/Omnikit-projects) - Projects we've made using OmniKit
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
@@ -2940,7 +2942,7 @@
 - [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let's upgrade or replace it. (mirror)
 - [takingnames/awesome-loginless](https://github.com/takingnames/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
 - [takingnames/namedrop-protocol-spec](https://github.com/takingnames/namedrop-protocol-spec) - Specification for the NameDrop DNS delegation protocol
-- [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - Privacy-respecting web frontends for popular services 🔐🌐
+- [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
 - [brunompena/zsun-resources](https://github.com/brunompena/zsun-resources) - Zsun SD100 OpenWrt Resources
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
@@ -3363,6 +3365,7 @@
 
 ## Python 
 
+- [tmbdev-archive/tarproc](https://github.com/tmbdev-archive/tarproc) - Utilities for sequential processing of tar files.
 - [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display and browse images in the terminal
 - [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2) - Ansible role that installs and upgrades OpenWISP.
 - [MartinBarker/vinyl2digital](https://github.com/MartinBarker/vinyl2digital) - Batch render an Audacity audio track into an entire album of mp3 files using a Discogs URL for metadata tagging.
@@ -4997,6 +5000,7 @@
 
 ## Shell 
 
+- [nils-werner/raspi-dashboard](https://github.com/nils-werner/raspi-dashboard) - Arch Linux based fullscreen web display
 - [tatsumoto-ren/bashcities](https://github.com/tatsumoto-ren/bashcities) - A Neocities client written in Bash.
 - [richin13/tmux-plugin-playerctl](https://github.com/richin13/tmux-plugin-playerctl) - Display MPRIS metadata in Tmux (Spotify, Clementine, VLC, etc)
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
