@@ -1763,6 +1763,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+- [evanpurkhiser/dots](https://github.com/evanpurkhiser/dots) - A portable tool for managing a single set of dotfiles in an organized fashion
 - [chineselevel/api](https://github.com/chineselevel/api) - ChineseLevel API code
 - [jeroenjanssens/json2csv](https://github.com/jeroenjanssens/json2csv) - command line tool to convert json to csv
 - [skyjia/repogen](https://github.com/skyjia/repogen) - A toy to generate a Markdown index document for my starred GitHub repositories.
@@ -4207,7 +4208,6 @@
 - [andrewheiss/pandoc-citekeys](https://github.com/andrewheiss/pandoc-citekeys) - Simple Python scripts to make it easier to use BibTeX citations in pandoc Markdown.
 - [chetan51/linguist](https://github.com/chetan51/linguist) - A language-learning AI based on NuPIC
 - [prosodylab/Prosodylab-Aligner](https://github.com/prosodylab/Prosodylab-Aligner) - Python interface for forced audio alignment using HTK and SoX
-- [evanpurkhiser/dots](https://github.com/evanpurkhiser/dots) - A portable tool for managing a single set of dotfiles in an organized fashion
 - [fcicq/vdisk_lib](https://github.com/fcicq/vdisk_lib) - vdisk.me (vdisk.weibo.com) api & client implementation in Python
 - [markuman/mygithub](https://github.com/markuman/mygithub) - clone & pull my github (own repos + stars)
 - [chineselevel/worker](https://github.com/chineselevel/worker) - 
@@ -5006,7 +5006,7 @@
 - [richin13/tmux-plugin-playerctl](https://github.com/richin13/tmux-plugin-playerctl) - Display MPRIS metadata in Tmux (Spotify, Clementine, VLC, etc)
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
-- [nsxiv/nsxiv-extra](https://github.com/nsxiv/nsxiv-extra) - Community patches, scripts, tips and tricks for nsxiv.
+- [nsxiv/nsxiv-extra](https://github.com/nsxiv/nsxiv-extra) - Read-only mirror of nsxiv-extra
 - [kusky3/bookmenu](https://github.com/kusky3/bookmenu) - Browse and download ebooks from your terminal.
 - [bewuethr/pandoc-bash-blog](https://github.com/bewuethr/pandoc-bash-blog) - A static blog generator based on Pandoc and Bash
 - [Maccraft123/Cadmium](https://github.com/Maccraft123/Cadmium) - 
