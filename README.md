@@ -824,6 +824,7 @@
 
 ## C++ 
 
+- [Xinyuan-LilyGO/LilyGo-T-Relay](https://github.com/Xinyuan-LilyGO/LilyGo-T-Relay) - 
 - [thewtex/tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux
 - [Kansattica/msync](https://github.com/Kansattica/msync) - A store and forward commnd line Mastodon and Pleroma client that fits on a floppy disk.
 - [tsowell/kobo-btpt](https://github.com/tsowell/kobo-btpt) - Page turning via Bluetooth for Kobo eReaders
@@ -2096,7 +2097,7 @@
 - [geonetwork/core-geonetwork](https://github.com/geonetwork/core-geonetwork) - GeoNetwork is a catalog application to manage spatially referenced resources. It provides powerful metadata editing and search functions as well as an interactive web map viewer. It is currently used 
 - [OpenPlaceReviews/opendb](https://github.com/OpenPlaceReviews/opendb) - This is a service that provides database communication
 - [simonpoole/mapsplit](https://github.com/simonpoole/mapsplit) - A fast way to split OSM data in to a portable tiled format
-- [andOTP/andOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android
+- [andOTP/andOTP](https://github.com/andOTP/andOTP) - [Unmaintained] Open source two-factor authentication for Android
 - [google/google-authenticator](https://github.com/google/google-authenticator) - Open source version of Google Authenticator (except the Android app)
 - [Strubbl/wallabag-android-app](https://github.com/Strubbl/wallabag-android-app) - Android application to add post to wallabag
 - [deltachat/deltachat-android](https://github.com/deltachat/deltachat-android) - Email-based instant messaging for Android.
@@ -2145,6 +2146,7 @@
 
 ## JavaScript 
 
+- [dmstern/html2biblatex](https://github.com/dmstern/html2biblatex) - A tiny bookmarklet for exporting web pages to BibLaTeX (all browsers / no installation).
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files
 - [w3bdev1/alter](https://github.com/w3bdev1/alter) - A Firefox Add-on redirecting to privacy-friendly alternatives: https://addons.mozilla.org/addon/alter/
@@ -2937,6 +2939,7 @@
 
 ## Others 
 
+- [Xinyuan-LilyGO/T-U2T](https://github.com/Xinyuan-LilyGO/T-U2T) - 
 - [sjehuda/syndication4humans](https://github.com/sjehuda/syndication4humans) - Render syndication feeds (Atom and RSS) using CSS and XSLT
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [OmnIoT/Omnikit-projects](https://github.com/OmnIoT/Omnikit-projects) - Projects we've made using OmniKit
@@ -3392,7 +3395,7 @@
 - [rpkak/local-aur](https://github.com/rpkak/local-aur) - Download the AUR packages you trust and use pacman to install them.
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
 - [Krasjet/pdf.tocgen](https://github.com/Krasjet/pdf.tocgen) - A CLI toolset to generate table of contents for PDF files automatically.
-- [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - A reasonably reliable per application network traffic monitor using BPF
+- [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor network traffic per executable using BPF
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [milaq/YCast](https://github.com/milaq/YCast) - Self hosted vTuner internet radio service emulation
 - [deep5050/radio-active](https://github.com/deep5050/radio-active) - Play any radios around the globe right from the terminal :zap:
@@ -3959,6 +3962,7 @@
 - [seveas/git-spindle](https://github.com/seveas/git-spindle) - Abandoned command-line interface to GitHub and other central git services
 - [pystitch/stitch](https://github.com/pystitch/stitch) - Write reproducible reports in Markdown
 - [jankatins/knitpy](https://github.com/jankatins/knitpy) - knitpy: Elegant, flexible and fast dynamic report generation with python
+- [DanielDent/git-annex-remote-rclone](https://github.com/DanielDent/git-annex-remote-rclone) - Use rclone supported cloud storage providers with git-annex
 - [tweekmonster/tmux2html](https://github.com/tweekmonster/tmux2html) - :cat2: Render full tmux windows or individual panes as HTML
 - [guyzmo/git-repo](https://github.com/guyzmo/git-repo) - Git-Repo: CLI utility to manage git services from your workspace
 - [mzucker/page_dewarp](https://github.com/mzucker/page_dewarp) - Text page dewarping using a "cubic sheet" model
@@ -5102,7 +5106,7 @@
 - [archdroid-org/alarm-image-generator](https://github.com/archdroid-org/alarm-image-generator) - ArchLinuxARM Disk Image Generator
 - [LibreSolar/learn.libre.solar](https://github.com/LibreSolar/learn.libre.solar) - Building DC Energy Systems (OER)
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
-- [hexdump0815/imagebuilder](https://github.com/hexdump0815/imagebuilder) - velvet os - simple script framework to build ubuntu 20.04 lts (focal), ubuntu 22.04 lts (jammy - wip) and debian 11 (bullseye) bootable sd card images for some arm and intel devices
+- [hexdump0815/imagebuilder](https://github.com/hexdump0815/imagebuilder) - velvet os - simple script framework to build ubuntu 20.04 lts (focal), ubuntu 22.04 lts (jammy) and debian 11 (bullseye) bootable sd card images for some arm and intel devices
 - [krjdev/rock64_openbsd](https://github.com/krjdev/rock64_openbsd) - TUTORIAL: Install OpenBSD on a PINE64 ROCK64 media board.
 - [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
 - [netlify/actions](https://github.com/netlify/actions) - 
@@ -5361,7 +5365,6 @@
 - [fadado/jqt](https://github.com/fadado/jqt) - jqt · The jq template engine
 - [NicoHood/guestwlan](https://github.com/NicoHood/guestwlan) - Easy & Secure Guest WLAN setup with QR code GUI and photodiashow.
 - [AndreiUlmeyda/oil](https://github.com/AndreiUlmeyda/oil) - Search-as-you-type cli frontend for the buku bookmarks manager using peco.
-- [DanielDent/git-annex-remote-rclone](https://github.com/DanielDent/git-annex-remote-rclone) - Use rclone supported cloud storage providers with git-annex
 - [Morantron/tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints.
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [GordStephen/pdsite](https://github.com/GordStephen/pdsite) - Pandoc-backed static site generator shell script with precompiled binary dependencies
@@ -5607,6 +5610,7 @@
 
 ## TypeScript 
 
+- [DigitalHERMES/hermes-gui](https://github.com/DigitalHERMES/hermes-gui) - HERMES Web interface code.
 - [adriancooney/puppeteer-heap-snapshot](https://github.com/adriancooney/puppeteer-heap-snapshot) - API and CLI tool to fetch and query Chome DevTools heap snapshots.
 - [Jaeyo/personal-archive](https://github.com/Jaeyo/personal-archive) - keep track of things you learn / discover everyday!
 - [georgestagg/webR](https://github.com/georgestagg/webR) - This project aims to compile the statistical language R into WASM for use in a browser, via Emscripten.
