@@ -2146,6 +2146,9 @@
 
 ## JavaScript 
 
+- [ushitora-anqou/share-on-mastodon](https://github.com/ushitora-anqou/share-on-mastodon) - 
+- [rugk/mastodon-simplified-federation](https://github.com/rugk/mastodon-simplified-federation) - Simplifies following and interacting with remote users on other Mastodon instances.
+- [zaguragit/mastodon_redirector](https://github.com/zaguragit/mastodon_redirector) - Replaces the follow button on other instances with a button, that redirects you to your instance, so you can follow, or interact with a user's content
 - [dmstern/html2biblatex](https://github.com/dmstern/html2biblatex) - A tiny bookmarklet for exporting web pages to BibLaTeX (all browsers / no installation).
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files
