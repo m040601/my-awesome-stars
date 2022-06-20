@@ -166,6 +166,7 @@
 
 ## C 
 
+- [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
 - [aaronamk/hkd](https://github.com/aaronamk/hkd) - Hotkey Daemon
 - [ansilove/ansilove](https://github.com/ansilove/ansilove) - ANSI and ASCII art to PNG converter in C
 - [explosion-mental/mage](https://github.com/explosion-mental/mage) - iMAGE viewer
@@ -3007,7 +3008,6 @@
 - [aliyevaa/cname_cloaking](https://github.com/aliyevaa/cname_cloaking) - the repo contains a list of subdomains that point to known trackers/advertisers
 - [nextdns/cname-cloaking-blocklist](https://github.com/nextdns/cname-cloaking-blocklist) - A list of domains used by tracking companies as CNAME destination when disguising third-party trackers as first-party trackers.
 - [FreeYourStream/freedeck-hardware](https://github.com/FreeYourStream/freedeck-hardware) - all the stuff you need to build your own FreeDeck
-- [learnbyexample/cli-computing](https://github.com/learnbyexample/cli-computing) - :penguin: Linux command line and Scripting guide for beginner to intermediate users
 - [simmel-project/frontpage](https://github.com/simmel-project/frontpage) - Simmel is a wearable platform that enables COVID-19 contact tracing while preserving user privacy.
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [simonw/coronavirus-data-gov-archive](https://github.com/simonw/coronavirus-data-gov-archive) - Backing up https://coronavirus.data.gov.uk/ to a git repository
@@ -4259,6 +4259,7 @@
 - [mediastandardstrust/publicity_machine](https://github.com/mediastandardstrust/publicity_machine) - Project to grab press releases and feed them up to a churnalism engine
 - [tarix/mcdsupport](https://github.com/tarix/mcdsupport) - MCD  Support Plugin for Anki
 - [repolho/anki_tool](https://github.com/repolho/anki_tool) - Low level manipulation of anki collections
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
 - [shantanugoel/subdl](https://github.com/shantanugoel/subdl) - Python based command-line tool to download subtitles from opensubtitles.org
 - [misja/python-boilerpipe](https://github.com/misja/python-boilerpipe) - Python interface to Boilerpipe, Boilerplate Removal and Fulltext Extraction from HTML pages
@@ -4967,7 +4968,6 @@
 - [dflemstr/rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 
 ## SCSS 
 
@@ -5009,6 +5009,9 @@
 
 ## Shell 
 
+- [dougy147/scitopdf](https://github.com/dougy147/scitopdf) - bash script to quickly fetch, download and open scientific papers from Sci-Hub's database.
+- [muesli4/archlinux-packages](https://github.com/muesli4/archlinux-packages) - PKGBUILD files to build some archlinux packages.
+- [muesli4/tiny-hifi](https://github.com/muesli4/tiny-hifi) - Presents my DIY HiFi system and gives information on how to build it.
 - [aaronamk/scripts](https://github.com/aaronamk/scripts) - Aaron's Linux shell scripts
 - [Thinstation/thinstation](https://github.com/Thinstation/thinstation) - A framework for making thin and light Linux based images for x86 based machines and thinclients.
 - [nils-werner/raspi-dashboard](https://github.com/nils-werner/raspi-dashboard) - Arch Linux based fullscreen web display
@@ -5017,6 +5020,8 @@
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [nsxiv/nsxiv-extra](https://github.com/nsxiv/nsxiv-extra) - Read-only mirror of nsxiv-extra
+- [N-R-K/shellmarks](https://github.com/N-R-K/shellmarks) - Simple directory bookmark management via symlinks.
+- [N-R-K/sxbm](https://github.com/N-R-K/sxbm) - Simple Unix Bookmark Manager, a POSIX compliant shell script for managing bookmarks.
 - [kusky3/bookmenu](https://github.com/kusky3/bookmenu) - Browse and download ebooks from your terminal.
 - [bewuethr/pandoc-bash-blog](https://github.com/bewuethr/pandoc-bash-blog) - A static blog generator based on Pandoc and Bash
 - [Maccraft123/Cadmium](https://github.com/Maccraft123/Cadmium) - 
@@ -5103,6 +5108,7 @@
 - [adsr/rw.rs](https://github.com/adsr/rw.rs) - Free shell account and web 1.0 hosting @ http://rw.rs/~you
 - [RaymiiOrg/bash-http-monitoring](https://github.com/RaymiiOrg/bash-http-monitoring) - HTTP(s) monitoring webpage via shell script
 - [e-zk/shlog](https://github.com/e-zk/shlog) - a static blog generator in /bin/sh: rewrite pending
+- [ropery/FFcast](https://github.com/ropery/FFcast) - Run command on rectangular screen regions
 - [matyas1995/linux-aarch64-rockpro64](https://github.com/matyas1995/linux-aarch64-rockpro64) - 
 - [tenllado/dotfiles](https://github.com/tenllado/dotfiles) - My dot files
 - [uriel1998/agaetr](https://github.com/uriel1998/agaetr) - Modular scripts to take text, images, and links from RSS feeds and push to social media
@@ -5161,6 +5167,7 @@
 - [garrym/raspberry-pi-alpine](https://github.com/garrym/raspberry-pi-alpine) - Instructions and scripts for setting up Alpine Linux on the Raspberry Pi
 - [slakkenhuis/scripts](https://github.com/slakkenhuis/scripts) - A collection of useful bash scripts: dmenu interfaces to mpv and pass, keyboard configurations, etcetera.
 - [learnbyexample/learn_gnugrep_ripgrep](https://github.com/learnbyexample/learn_gnugrep_ripgrep) - Example based guide to mastering GNU grep and ripgrep
+- [learnbyexample/cli-computing](https://github.com/learnbyexample/cli-computing) - :penguin: Linux command line and Scripting guide for beginner to intermediate users
 - [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - :earth_africa: `/usr/bin/qemu-*-static`
 - [dhruvvyas90/qemu-rpi-kernel](https://github.com/dhruvvyas90/qemu-rpi-kernel) - Qemu kernel for emulating Rpi on QEMU
 - [ioquatix/github-actions-bin](https://github.com/ioquatix/github-actions-bin) - Arch Linux package for GitHub Actions remote runner.
