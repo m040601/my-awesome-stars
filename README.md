@@ -87,7 +87,6 @@
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Standard ML](#standard-ml)
-- [Swift](#swift)
 - [TSQL](#tsql)
 - [Tcl](#tcl)
 - [TeX](#tex)
@@ -426,7 +425,7 @@
 - [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - 
 - [xoseperez/ttgo-beam-tracker](https://github.com/xoseperez/ttgo-beam-tracker) - TTN tracker based on TTGO T-Beam hardware
 - [tkerby/ttgo-tbeam-ttn-tracker](https://github.com/tkerby/ttgo-tbeam-ttn-tracker) - TTGO T-Beam Tracker for TTN Mapper and TTN Tracker using US (915 MHz) and EU (868 MHz) frequencies
-- [mesa3d/mesa](https://github.com/mesa3d/mesa) - Mesa 3D graphics library (read-only mirror)
+- [mesa3d/mesa](https://github.com/mesa3d/mesa) - Mesa 3D graphics library (read-only mirror of https://gitlab.freedesktop.org/mesa/mesa/)
 - [NathanReeves/BlueCubeMod](https://github.com/NathanReeves/BlueCubeMod) - ESP32 GameCube Controller Bluetooth conversion for Nintendo Switch
 - [OpenSMTPD/OpenSMTPD](https://github.com/OpenSMTPD/OpenSMTPD) - This is official OpenSMTPD Portable repository. Forks, pull requests and other contributions are welcome!
 - [aligrudi/fbpad](https://github.com/aligrudi/fbpad) - A small Linux framebuffer virtual terminal
@@ -827,7 +826,7 @@
 
 - [Xinyuan-LilyGO/LilyGo-T-Relay](https://github.com/Xinyuan-LilyGO/LilyGo-T-Relay) - 
 - [thewtex/tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux
-- [Kansattica/msync](https://github.com/Kansattica/msync) - A store and forward commnd line Mastodon and Pleroma client that fits on a floppy disk.
+- [Kansattica/msync](https://github.com/Kansattica/msync) - A store and forward command line Mastodon and Pleroma client that fits on a floppy disk.
 - [tsowell/kobo-btpt](https://github.com/tsowell/kobo-btpt) - Page turning via Bluetooth for Kobo eReaders
 - [JAndrassy/ArduinoOTA](https://github.com/JAndrassy/ArduinoOTA) - Arduino library to upload sketch over network to Arduino board with WiFi or Ethernet libraries
 - [amagovpt/autenticacao.gov](https://github.com/amagovpt/autenticacao.gov) - Middleware Oficial de Identificação Eletrónica em Portugal - Cartão de Cidadão, da Chave Móvel Digital e Sistema de Certificação de atributos profissionais
@@ -2754,6 +2753,7 @@
 
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support
 - [metrodroid/metrodroid](https://github.com/metrodroid/metrodroid) - Read data from public transit cards using your NFC Android phone! (iOS 13 and PC/SC support coming soon)
+- [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada for Android and iOS.
 - [39aldo39/libdecsync](https://github.com/39aldo39/libdecsync) - 
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android application for Meshtastic
@@ -3575,6 +3575,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [krdarrah/ESP32_GUI_Programmer](https://github.com/krdarrah/ESP32_GUI_Programmer) - Processing Based GUI for Programming ESP32 modules based on espota.py
 - [formatc1702/WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses
+- [notpike/Hambone](https://github.com/notpike/Hambone) - Raspberry Pi Bot for Ham Radio
 - [pimoroni/pirate-audio](https://github.com/pimoroni/pirate-audio) - Examples and documentation for the Pirate Audio range of Raspberry Pi add-ons
 - [yunsim/T9-predictive-text](https://github.com/yunsim/T9-predictive-text) - Implementation of T9 predictive text with C
 - [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
@@ -4259,7 +4260,6 @@
 - [mediastandardstrust/publicity_machine](https://github.com/mediastandardstrust/publicity_machine) - Project to grab press releases and feed them up to a churnalism engine
 - [tarix/mcdsupport](https://github.com/tarix/mcdsupport) - MCD  Support Plugin for Anki
 - [repolho/anki_tool](https://github.com/repolho/anki_tool) - Low level manipulation of anki collections
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
 - [shantanugoel/subdl](https://github.com/shantanugoel/subdl) - Python based command-line tool to download subtitles from opensubtitles.org
 - [misja/python-boilerpipe](https://github.com/misja/python-boilerpipe) - Python interface to Boilerpipe, Boilerplate Removal and Fulltext Extraction from HTML pages
@@ -4925,7 +4925,7 @@
 - [golemparts/rppal](https://github.com/golemparts/rppal) - A Rust library that provides access to the Raspberry Pi's GPIO, I2C, PWM, SPI and UART peripherals.
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
-- [dmerejkowsky/ruplacer](https://github.com/dmerejkowsky/ruplacer) - Find and replace text in source files
+- [your-tools/ruplacer](https://github.com/your-tools/ruplacer) - Find and replace text in source files
 - [whitfin/runiq](https://github.com/whitfin/runiq) - An efficient way to filter duplicate lines from input, à la uniq.
 - [JoshMcguigan/shell_completion](https://github.com/JoshMcguigan/shell_completion) - Write shell completion scripts in pure Rust
 - [samhh/bukubrow-host](https://github.com/samhh/bukubrow-host) - Host application for the Bukubrow WebExtension
@@ -4968,9 +4968,11 @@
 - [dflemstr/rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 
 ## SCSS 
 
+- [zyachel/libremdb](https://github.com/zyachel/libremdb) - A FOSS alternative front-end to IMDb.
 - [karan/nojs.club](https://github.com/karan/nojs.club) - You don't need Javascript to make a beautiful, usable web. How it works: https://goel.io/nojs-club
 - [minicomp/wax](https://github.com/minicomp/wax) - Jekyll based framework for minimal exhibitions with IIIF 🐝
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
@@ -5009,6 +5011,7 @@
 
 ## Shell 
 
+- [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
 - [dougy147/scitopdf](https://github.com/dougy147/scitopdf) - bash script to quickly fetch, download and open scientific papers from Sci-Hub's database.
 - [muesli4/archlinux-packages](https://github.com/muesli4/archlinux-packages) - PKGBUILD files to build some archlinux packages.
 - [muesli4/tiny-hifi](https://github.com/muesli4/tiny-hifi) - Presents my DIY HiFi system and gives information on how to build it.
@@ -5533,10 +5536,6 @@
 
 - [GoldenCheetah/GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah) - Performance Software for Cyclists, Runners, Triathletes and Coaches
 - [dbohdan/initool](https://github.com/dbohdan/initool) - Manipulate INI files from the command line
-
-## Swift 
-
-- [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada for Android and iOS.
 
 ## TSQL 
 
