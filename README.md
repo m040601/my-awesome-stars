@@ -75,7 +75,6 @@
 - [Python](#python)
 - [QML](#qml)
 - [R](#r)
-- [Racket](#racket)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -165,6 +164,10 @@
 
 ## C 
 
+- [dimkr/nss-tls](https://github.com/dimkr/nss-tls) - A DNS over HTTPS resolver for glibc
+- [dimkr/gplaces](https://github.com/dimkr/gplaces) - A simple terminal based Gemini client
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
+- [jart/bestline](https://github.com/jart/bestline) - ANSI Standard X3.64 Teletypewriter Command Session Library
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
 - [aaronamk/hkd](https://github.com/aaronamk/hkd) - Hotkey Daemon
 - [ansilove/ansilove](https://github.com/ansilove/ansilove) - ANSI and ASCII art to PNG converter in C
@@ -1439,6 +1442,7 @@
 
 ## Go 
 
+- [dimkr/dohli](https://github.com/dimkr/dohli) - Set up your own ad-blocking DoH server
 - [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 - [arl/gitmux](https://github.com/arl/gitmux) - :computer: Git in your tmux status bar
 - [suntong/html2md](https://github.com/suntong/html2md) - HTML to Markdown converter
@@ -1852,7 +1856,6 @@
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [babykarte/babykarte.github.io](https://github.com/babykarte/babykarte.github.io) - Old repository, will be a redirect soon
 - [Pseudomanifold/hugo-purus](https://github.com/Pseudomanifold/hugo-purus) - A pure, simple, and minimalistic Hugo theme
-- [technomancy/technomancy.us](https://github.com/technomancy/technomancy.us) - Blog
 - [tajmone/gh-themes-magick](https://github.com/tajmone/gh-themes-magick) - GitHub Pages Themes Magick: https://tajmone.github.io/gh-themes-magick/
 - [tajmone/pandoc-goodies](https://github.com/tajmone/pandoc-goodies) - A tresure-box of resources for pandoc, pp and Texts word processor.
 - [MaxLaumeister/PageCrypt](https://github.com/MaxLaumeister/PageCrypt) - Client-side password-protection for HTML
@@ -4569,10 +4572,6 @@
 - [Rapporter/pander](https://github.com/Rapporter/pander) - An R Pandoc Writer: Convert arbitrary R objects into markdown
 - [Rapporter/rapport](https://github.com/Rapporter/rapport) - rapport is an R package that facilitates the creation of reproducible statistical report templates
 
-## Racket 
-
-- [technomancy/atreus](https://github.com/technomancy/atreus) - column-staggered travel keyboard design
-
 ## Roff 
 
 - [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Armbian for Amlogic s9xxx tv box. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc.  including install to EMMC and update related functions.
@@ -5023,8 +5022,8 @@
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [nsxiv/nsxiv-extra](https://github.com/nsxiv/nsxiv-extra) - Read-only mirror of nsxiv-extra
-- [N-R-K/shellmarks](https://github.com/N-R-K/shellmarks) - Simple directory bookmark management via symlinks.
-- [N-R-K/sxbm](https://github.com/N-R-K/sxbm) - Simple Unix Bookmark Manager, a POSIX compliant shell script for managing bookmarks.
+- [N-R-K/shellmarks](https://github.com/N-R-K/shellmarks) - Simple directory bookmark management via symlinks. [MIRROR OF https://codeberg.org/NRK/shellmarks]
+- [N-R-K/sxbm](https://github.com/N-R-K/sxbm) - Simple Unix Bookmark Manager, a POSIX compliant shell script for managing bookmarks. [MIRROR OF https://codeberg.org/NRK/sxbm]
 - [kusky3/bookmenu](https://github.com/kusky3/bookmenu) - Browse and download ebooks from your terminal.
 - [bewuethr/pandoc-bash-blog](https://github.com/bewuethr/pandoc-bash-blog) - A static blog generator based on Pandoc and Bash
 - [Maccraft123/Cadmium](https://github.com/Maccraft123/Cadmium) - 
