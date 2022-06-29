@@ -164,6 +164,7 @@
 
 ## C 
 
+- [lindes/ttyload](https://github.com/lindes/ttyload) - ttyload -- "graphical" tracking of UNIX load average in a terminal ("tty")
 - [dimkr/nss-tls](https://github.com/dimkr/nss-tls) - A DNS over HTTPS resolver for glibc
 - [dimkr/gplaces](https://github.com/dimkr/gplaces) - A simple terminal based Gemini client
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
@@ -827,6 +828,8 @@
 
 ## C++ 
 
+- [xaizek/cursetag](https://github.com/xaizek/cursetag) - NCurses based audio file tag (metadata) editor
+- [Sound-Linux-More/cursetag](https://github.com/Sound-Linux-More/cursetag) - NCurses based audio file tag (metadata) editor
 - [Xinyuan-LilyGO/LilyGo-T-Relay](https://github.com/Xinyuan-LilyGO/LilyGo-T-Relay) - 
 - [thewtex/tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux
 - [Kansattica/msync](https://github.com/Kansattica/msync) - A store and forward command line Mastodon and Pleroma client that fits on a floppy disk.
@@ -1805,6 +1808,7 @@
 - [robhagemans/monobit](https://github.com/robhagemans/monobit) - Tools for working with monochrome bitmap fonts
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [clauswilke/dataviz](https://github.com/clauswilke/dataviz) - A book covering the fundamentals of data visualization
+- [statsthinking21/statsthinking21-core](https://github.com/statsthinking21/statsthinking21-core) - Core statistical text for Statistical Thinking in the 21st Century
 - [amyjko/foundations-of-information](https://github.com/amyjko/foundations-of-information) - A book to support the INFO 200 Intellectual Foundations of Information course.
 - [doersino/nyum](https://github.com/doersino/nyum) - A simple Pandoc-powered static site generator for your recipe collection – it effortlessly turns a set of Markdown-formatted recipes into a lightweight, responsive, searchable website.
 - [manubot/manubot.org](https://github.com/manubot/manubot.org) - Source code for https://manubot.org
@@ -2013,6 +2017,7 @@
 
 ## Haskell 
 
+- [pdobsan/mailctl](https://github.com/pdobsan/mailctl) - Provide IMAP/SMTP clients with the capabilities of renewal and authorization of OAuth2 credentials.
 - [fosskers/aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
 - [LaurentRDC/pandoc-plot](https://github.com/LaurentRDC/pandoc-plot) - Render and include figures in Pandoc documents using your plotting toolkit of choice
 - [tsani/apollo](https://github.com/tsani/apollo) - HTTP MPD integration for Labcoders Radio
@@ -3195,6 +3200,7 @@
 
 ## PHP 
 
+- [xaizek/vim-like-pile](https://github.com/xaizek/vim-like-pile) - Sources of Big Pile of Vim-like
 - [anmaped/openfang](https://github.com/anmaped/openfang) - The openfang is a bootloader, kernel and toolchain for devices using Ingenic T10 and T20 SOC
 - [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok) - Open source alternative frontend for TikTok made using PHP
 - [eklausme/saaze](https://github.com/eklausme/saaze) - Simplified Saaze is a static site generator. It aims to be fast, easy to understand and easy to use.
@@ -3376,6 +3382,7 @@
 
 ## Python 
 
+- [saulpw/unzip-http](https://github.com/saulpw/unzip-http) - Extract individual files from .zip files over http without downloading the entire archive.
 - [tmbdev-archive/tarproc](https://github.com/tmbdev-archive/tarproc) - Utilities for sequential processing of tar files.
 - [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display and browse images in the terminal
 - [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2) - Ansible role that installs and upgrades OpenWISP.
@@ -4823,6 +4830,8 @@
 
 ## Rust 
 
+- [riquito/tuc](https://github.com/riquito/tuc) - When cut doesn't cut it
+- [KarsMulder/evsieve](https://github.com/KarsMulder/evsieve) - A utility for mapping events from Linux event devices.
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
@@ -5010,6 +5019,7 @@
 
 ## Shell 
 
+- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 - [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
 - [dougy147/scitopdf](https://github.com/dougy147/scitopdf) - bash script to quickly fetch, download and open scientific papers from Sci-Hub's database.
 - [muesli4/archlinux-packages](https://github.com/muesli4/archlinux-packages) - PKGBUILD files to build some archlinux packages.
@@ -5549,7 +5559,6 @@
 ## TeX 
 
 - [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Pandoc.
-- [statsthinking21/statsthinking21-core](https://github.com/statsthinking21/statsthinking21-core) - Core statistical text for Statistical Thinking in the 21st Century
 - [statsthinking21/statsthinking21-R](https://github.com/statsthinking21/statsthinking21-R) - R companion for Statistical Thinking in the 21st Century
 - [ntd/tccv](https://github.com/ntd/tccv) - Two columns curriculum vitae
 - [maehr/zotero-bib-to-gh](https://github.com/maehr/zotero-bib-to-gh) - GitHub action to retrieve Zotero collection in BibLaTeX format and save it as GitHub repository.
