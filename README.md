@@ -164,6 +164,7 @@
 
 ## C 
 
+- [nereusx/md2roff](https://github.com/nereusx/md2roff) - md2roff - convert markdown to groff / troff (man, mdoc, mm, mom) documents
 - [lindes/ttyload](https://github.com/lindes/ttyload) - ttyload -- "graphical" tracking of UNIX load average in a terminal ("tty")
 - [dimkr/nss-tls](https://github.com/dimkr/nss-tls) - A DNS over HTTPS resolver for glibc
 - [dimkr/gplaces](https://github.com/dimkr/gplaces) - A simple terminal based Gemini client
@@ -807,6 +808,8 @@
 
 ## C# # 
 
+- [acidus99/NewsWaffle](https://github.com/acidus99/NewsWaffle) - Gemini frontend to any news site
+- [acidus99/Gemipedia](https://github.com/acidus99/Gemipedia) - Gemini frontend to Wikipedia
 - [NicolasConstant/BirdsiteLive](https://github.com/NicolasConstant/BirdsiteLive) - An ethical bridge from Twitter
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [LukeEmmet/GemiNaut](https://github.com/LukeEmmet/GemiNaut) - GemiNaut - A friendly Gemini client for Windows
@@ -1187,7 +1190,7 @@
 - [Ironholds/urltools](https://github.com/Ironholds/urltools) - Elegant URL handling in R
 - [tidyverse/readxl](https://github.com/tidyverse/readxl) - Read excel files (.xls and .xlsx) into R 🖇
 - [eroux/transcriber-ag](https://github.com/eroux/transcriber-ag) - TranscriberAG open development
-- [gagolews/stringi](https://github.com/gagolews/stringi) - THE String Processing Package for R (with ICU)
+- [gagolews/stringi](https://github.com/gagolews/stringi) - Fast and portable character string processing in R (with the Unicode ICU)
 - [zbackup/zbackup](https://github.com/zbackup/zbackup) - ZBackup, a versatile deduplicating backup tool
 - [milkcat/MilkCat](https://github.com/milkcat/MilkCat) - 中文自然语言处理工具包
 - [jannson/wordmaker](https://github.com/jannson/wordmaker) - auto generate chinese words in huge text.
@@ -3556,7 +3559,7 @@
 - [irfancharania/fb-feed-gen](https://github.com/irfancharania/fb-feed-gen) - Facebook RSS Feed Generator
 - [mxjeff/python-musicpd](https://github.com/mxjeff/python-musicpd) - Python3 MPD client library (gitlab clone)
 - [hephaest0s/usbkill](https://github.com/hephaest0s/usbkill) - « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.
-- [adbar/trafilatura](https://github.com/adbar/trafilatura) - Web scraping library and command-line tool for text discovery and extraction (main content, metadata, comments)
+- [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & command-line tool to gather text on the Web: web crawling/scraping, extraction of text, metadata, comments
 - [yunfan/pingshu8_crawler](https://github.com/yunfan/pingshu8_crawler) - 
 - [hackerb9/ugrep](https://github.com/hackerb9/ugrep) - find unicode characters based on their names
 - [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.
@@ -4830,6 +4833,8 @@
 
 ## Rust 
 
+- [yaky-dev/cosmodrome](https://github.com/yaky-dev/cosmodrome) - Cosmodrome - build a static website and a Gemini capsule in parallel
+- [gemrest/september](https://github.com/gemrest/september) - ♻ A simple and efficient Gemini-to-HTTP proxy written in Rust.
 - [riquito/tuc](https://github.com/riquito/tuc) - When cut doesn't cut it
 - [KarsMulder/evsieve](https://github.com/KarsMulder/evsieve) - A utility for mapping events from Linux event devices.
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
