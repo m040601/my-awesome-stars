@@ -86,6 +86,7 @@
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Standard ML](#standard-ml)
+- [Svelte](#svelte)
 - [TSQL](#tsql)
 - [Tcl](#tcl)
 - [TeX](#tex)
@@ -164,6 +165,7 @@
 
 ## C 
 
+- [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [nereusx/md2roff](https://github.com/nereusx/md2roff) - md2roff - convert markdown to groff / troff (man, mdoc, mm, mom) documents
 - [lindes/ttyload](https://github.com/lindes/ttyload) - ttyload -- "graphical" tracking of UNIX load average in a terminal ("tty")
 - [dimkr/nss-tls](https://github.com/dimkr/nss-tls) - A DNS over HTTPS resolver for glibc
@@ -645,7 +647,7 @@
 - [Nixes/wifibroadcast](https://github.com/Nixes/wifibroadcast) - An unofficial github fork of the project of the same name. Forked from https://bitbucket.org/befi/wifibroadcast on 01/06/2016
 - [DeviationTX/deviation](https://github.com/DeviationTX/deviation) - Custom firmware for RC Transmitters
 - [cleanflight/cleanflight](https://github.com/cleanflight/cleanflight) - Clean-code version of the baseflight flight controller firmware
-- [neomutt/neomutt](https://github.com/neomutt/neomutt) - :envelope: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
+- [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 - [masneyb/weather-station](https://github.com/masneyb/weather-station) - A lightweight, self contained, solar-powered weather station for the Raspberry Pi.
 - [SuperHouse/esp-open-rtos](https://github.com/SuperHouse/esp-open-rtos) - Open source FreeRTOS-based ESP8266 software framework
 - [rodizio1/EZ-WifiBroadcast](https://github.com/rodizio1/EZ-WifiBroadcast) - Affordable Digital HD Video Transmission made easy!
@@ -2185,7 +2187,6 @@
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [Smile4ever/Neat-URL](https://github.com/Smile4ever/Neat-URL) - Neat URL cleans URLs, removing parameters such as Google Analytics' utm parameters.
 - [CMU-CREATE-Lab/timemachine-viewer](https://github.com/CMU-CREATE-Lab/timemachine-viewer) - 
-- [null-dev/firefox-profile-switcher](https://github.com/null-dev/firefox-profile-switcher) - Create, manage and switch between browser profiles seamlessly.
 - [doersino/markdeep-thesis](https://github.com/doersino/markdeep-thesis) - Write your (under)graduate thesis with Markdeep and typeset it right in your browser.
 - [Flowm/satvis](https://github.com/Flowm/satvis) - Satellite orbit visualization and pass prediction with Cesium.js
 - [susam/10kbclub](https://github.com/susam/10kbclub) - A curated collection of websites whose home pages do not exceed 10 KB compressed size
@@ -2610,7 +2611,7 @@
 - [rhiokim/haroopad](https://github.com/rhiokim/haroopad) - Haroopad - The Next Document processor based on Markdown
 - [jiffyclub/open-in-nbviewer](https://github.com/jiffyclub/open-in-nbviewer) - Easily open your current page in nbviewer
 - [lbarchive/jquery.link.classifier.js](https://github.com/lbarchive/jquery.link.classifier.js) - jQuery Link Classifier adds classes to links based on their URLs.
-- [uku/Unblock-Youku](https://github.com/uku/Unblock-Youku) - A Chrome extension helping users access their web services while travelling outside mainland China.
+- [uku/Unblock-Youku](https://github.com/uku/Unblock-Youku) - A Chrome extension helping users access their web services while traveling outside mainland China
 - [payload/ethersync](https://github.com/payload/ethersync) - ⚠️ DEPRECATED Ethersync syncs files with etherpads.
 - [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
 - [sindresorhus/grunt-shell](https://github.com/sindresorhus/grunt-shell) - Run shell commands
@@ -3054,7 +3055,6 @@
 - [migueldemoura/ublock-umatrix-rulesets](https://github.com/migueldemoura/ublock-umatrix-rulesets) - Hosts and uBlock Rulesets
 - [adafruit/awesome-feather](https://github.com/adafruit/awesome-feather) - A curated list of awesome Feather form factor boards, guides, videos, libraries, software and resources.
 - [hsgw/tartan](https://github.com/hsgw/tartan) - 60% keyboard made by through-hole parts only
-- [moosotc/llpp](https://github.com/moosotc/llpp) - PDF pager
 - [hsgw/plaid](https://github.com/hsgw/plaid) - 12x4 ortholinear usb keyboard made by Through Hole components ONLY.
 - [AdamKeher/Pico-Audio](https://github.com/AdamKeher/Pico-Audio) - TinyPICO I2S Audio, I2S Microphone & 3.7W Stereo Amplifier Module with Built-in MicroSD card reader
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -3751,7 +3751,7 @@
 - [akkana/scripts](https://github.com/akkana/scripts) - A collection of hopefully useful scripts.
 - [baskerville/diana](https://github.com/baskerville/diana) - A command line interface to the aria2 daemon
 - [xoolive/pocket_curses](https://github.com/xoolive/pocket_curses) - An ncurses interface to Pocket API
-- [shanedabes/poku](https://github.com/shanedabes/poku) - Sync pocket bookmarks to buku
+- [surskitt/poku](https://github.com/surskitt/poku) - Sync pocket bookmarks to buku
 - [JohanLink/FilmThePast](https://github.com/JohanLink/FilmThePast) - Experimental project
 - [michaelstepner/pandoc-mustache](https://github.com/michaelstepner/pandoc-mustache) - Pandoc filter for variable substitution using Mustache syntax
 - [alpianon/pandoc-inline-headers](https://github.com/alpianon/pandoc-inline-headers) - Pandoc filter to render headers as inline headers in html, docx and odt conversion
@@ -3921,7 +3921,7 @@
 - [cihai/cihai](https://github.com/cihai/cihai) - Python library for CJK (Chinese, Japanese, and Korean) language dictionary
 - [scokobro/pandoc-abbreviations](https://github.com/scokobro/pandoc-abbreviations) - Pandoc filter to replace listed abbreviations with their expansions.
 - [sergiocorreia/panflute](https://github.com/sergiocorreia/panflute) - An Pythonic alternative to John MacFarlane's pandocfilters, with extra helper functions
-- [svpcom/wifibroadcast](https://github.com/svpcom/wifibroadcast) - Transmitter and receiver of UDP packets using raw WiFi radio
+- [svpcom/wifibroadcast](https://github.com/svpcom/wifibroadcast) - WFB-NG - the next generation of long-range packet radio link based on raw WiFi radio
 - [rsteube/qutebrowser-readability](https://github.com/rsteube/qutebrowser-readability) - Userscript that executes python-readability on current page and opens the summary as new tab
 - [reid-k/neb](https://github.com/reid-k/neb) - Wrapper for newsbeuter
 - [OpenGeoscience/geonotebook](https://github.com/OpenGeoscience/geonotebook) - A Jupyter notebook extension for geospatial visualization and analysis
@@ -4545,6 +4545,7 @@
 - [cloudyr/imguR](https://github.com/cloudyr/imguR) - R imgur API Client
 - [yihui/animation](https://github.com/yihui/animation) - A gallery of animations in statistics and utilities to create animations
 - [trulia/choroplethr](https://github.com/trulia/choroplethr) - choroplethr simplifies the creation of choropleths (thematic maps) in R
+- [hadley/r-pkgs](https://github.com/hadley/r-pkgs) - Building R packages
 - [ramnathv/htmlwidgets](https://github.com/ramnathv/htmlwidgets) - HTML Widgets for R
 - [briatte/ida](https://github.com/briatte/ida) - Introduction to Data Analysis, using R (2013)
 - [yihui/runr](https://github.com/yihui/runr) - Run external programs from R (experimental)
@@ -4832,6 +4833,7 @@
 
 ## Rust 
 
+- [alexwennerberg/crabmail](https://github.com/alexwennerberg/crabmail) - a static html and gemini mail archive for the 21st century, written in Rust
 - [yaky-dev/cosmodrome](https://github.com/yaky-dev/cosmodrome) - Cosmodrome - build a static website and a Gemini capsule in parallel
 - [gemrest/september](https://github.com/gemrest/september) - ♻ A simple and efficient Gemini-to-HTTP proxy written in Rust.
 - [riquito/tuc](https://github.com/riquito/tuc) - When cut doesn't cut it
@@ -5192,7 +5194,7 @@
 - [sakaki-/raspbian-nspawn-64](https://github.com/sakaki-/raspbian-nspawn-64) - Bootable RPi4 / RPi3 image with 64-bit kernel, 32-bit Raspbian Buster host OS, 64-bit Debian Buster guest OS in nspawn container
 - [jtyers/qutebrowser-profile](https://github.com/jtyers/qutebrowser-profile) - Ability to run qutebrowser with different profiles, choose a profile via dmenu/rofi interactively for new links
 - [BastilleBSD/bastille](https://github.com/BastilleBSD/bastille) - Bastille is an open-source system for automating deployment and management of containerized applications on FreeBSD.
-- [neomutt/samples](https://github.com/neomutt/samples) - :books: Sample config
+- [neomutt/samples](https://github.com/neomutt/samples) - 📚 Sample config
 - [dreemurrs-embedded/Pine64-Arch](https://github.com/dreemurrs-embedded/Pine64-Arch) - PKGBUILD for running Arch Linux on PinePhone/PineTab.
 - [pigmonkey/hostsctl](https://github.com/pigmonkey/hostsctl) - 🙈 Control your /etc/hosts file easily, block ads, soical networks, etc...
 - [lgaggini/dotfiles](https://github.com/lgaggini/dotfiles) - Gnu/Linux toolbox configuration files
@@ -5551,6 +5553,10 @@
 - [GoldenCheetah/GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah) - Performance Software for Cyclists, Runners, Triathletes and Coaches
 - [dbohdan/initool](https://github.com/dbohdan/initool) - Manipulate INI files from the command line
 
+## Svelte 
+
+- [null-dev/firefox-profile-switcher](https://github.com/null-dev/firefox-profile-switcher) - Create, manage and switch between browser profiles seamlessly.
+
 ## TSQL 
 
 - [propublica/ilcampaigncash](https://github.com/propublica/ilcampaigncash) - Load Illinois political contribute and spending data efficiently
@@ -5605,7 +5611,6 @@
 - [davecap/markdown-latex-boilerplate](https://github.com/davecap/markdown-latex-boilerplate) - Boilerplate for writing a paper with Markdown/Latex and Pandoc
 - [zmjones/rfss](https://github.com/zmjones/rfss) - "Exploratory Data Analysis using Random Forests"
 - [sachsmc/pandoc-journal-templates](https://github.com/sachsmc/pandoc-journal-templates) - Pandoc templates and resources for the major (bio)statistics journals
-- [hadley/r-pkgs](https://github.com/hadley/r-pkgs) - Building R packages
 - [mmadsen/lnraw](https://github.com/mmadsen/lnraw) - Lab Notebook - Source Version
 - [wcaleb/civil-war-reader](https://github.com/wcaleb/civil-war-reader) - Open-source collection of handouts for Civil War history
 - [openeventdata/Dictionaries](https://github.com/openeventdata/Dictionaries) - PETRARCH actor, agent and verb dictionaries
