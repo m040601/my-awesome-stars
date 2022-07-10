@@ -1166,7 +1166,6 @@
 - [jpmens/pico](https://github.com/jpmens/pico) - 
 - [jart/hiptext](https://github.com/jart/hiptext) - Turn images into text better than caca/aalib
 - [tangrams/tangram-es](https://github.com/tangrams/tangram-es) - 2D and 3D map renderer using OpenGL ES
-- [ccoffing/OcherBook](https://github.com/ccoffing/OcherBook) - Open-source replacement Kobo firmware
 - [frcchang/zpar](https://github.com/frcchang/zpar) - ZPar statistical parser. Universal language support (depending on the availability of training data), with language-specific features for Chinese and English. Currently support word segmentation, POS 
 - [yanyiwu/sqljieba](https://github.com/yanyiwu/sqljieba) - Jieba Mysql Full-Text Parser Plugin
 - [ha7ilm/qtcsdr](https://github.com/ha7ilm/qtcsdr) - It turns your Raspberry Pi 2 and RTL-SDR into an amateur radio transceiver! (Released under BSD license.)
@@ -1242,6 +1241,7 @@
 
 ## CMake 
 
+- [technyon/Arduino-CMake-Toolchain](https://github.com/technyon/Arduino-CMake-Toolchain) - CMake toolchain for all Arduino compatible boards
 - [arduino-cmake/Arduino-CMake-NG](https://github.com/arduino-cmake/Arduino-CMake-NG) - CMake-Based framework for Arduino platforms
 - [a9183756-gh/Arduino-CMake-Toolchain](https://github.com/a9183756-gh/Arduino-CMake-Toolchain) - CMake toolchain for all Arduino compatible boards
 - [ptrkrysik/multi-rtl](https://github.com/ptrkrysik/multi-rtl) - Multi-channel receiver with use of RTL-SDR dongles
@@ -1468,7 +1468,7 @@
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks.
 - [bmaupin/go-epub](https://github.com/bmaupin/go-epub) - Go library for creating EPUB files
 - [LiboShen/webpage-to-ebook](https://github.com/LiboShen/webpage-to-ebook) - 
-- [xyproto/o](https://github.com/xyproto/o) - :cyclone: Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles w
+- [xyproto/o](https://github.com/xyproto/o) - :cyclone: Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile c
 - [dakyskye/dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
 - [audstanley/libgen-tui](https://github.com/audstanley/libgen-tui) - A terminal based application for LibGen
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -1837,7 +1837,6 @@
 - [yakivmospan/github-wikito-converter](https://github.com/yakivmospan/github-wikito-converter) - Generate HTML & PDF documentation from Github wiki or any other markdown-based wiki.
 - [d33tah/inkstone](https://github.com/d33tah/inkstone) - Learn Chinese on the go - no Internet connection required!
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
-- [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [ubershmekel/cssbed](https://github.com/ubershmekel/cssbed) - Test bed for simple css resets that make your static page nice without classes.
 - [de-souza/hugo-flex](https://github.com/de-souza/hugo-flex) - A lightweight Hugo theme leveraging CSS Flexbox
@@ -3193,6 +3192,7 @@
 - [kmlawson/table-review](https://github.com/kmlawson/table-review) - This script helps you review a table of information. It is useful for studying grammar rules when learning a new language or reviewing other reference tables of information that contain closely relate
 - [davber/pandocgen](https://github.com/davber/pandocgen) - A framework for generating various outputs - such as PDF - from Pandoc-compatible MD documents
 - [seth-brown/drbunsen-beamer](https://github.com/seth-brown/drbunsen-beamer) - A XeTeX Beamer template
+- [bkidwell/mdepub](https://github.com/bkidwell/mdepub) - Use Pandoc and Calibre to compile Markdown text to Epub, with source included in the Epub.
 - [salomaojunior/Stemmer---PT](https://github.com/salomaojunior/Stemmer---PT) - Stemming is the process for reducing inflected (or sometimes derived) words to their stem, base or root form – generally a written word form. The stem need not be identical to the morphological root o
 - [travis-ci/travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 - [zhenchaoli/py-ICTCLAS](https://github.com/zhenchaoli/py-ICTCLAS) - simple python wrapper for ICTCLAS chinese character segmentation system using swig
@@ -3776,7 +3776,7 @@
 - [weskerfoot/DeleteFB](https://github.com/weskerfoot/DeleteFB) - Automate Scrubbing your Facebook Presence
 - [flyingrub/scdl](https://github.com/flyingrub/scdl) - Soundcloud Music Downloader
 - [tuanpmt/pytube](https://github.com/tuanpmt/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
-- [sciunto-org/python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser) - Bibtex parser for Python 3.3+
+- [sciunto-org/python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser) - Bibtex parser for Python 3
 - [foxmask/django-th](https://github.com/foxmask/django-th) - :snake: Trigger Happy - The bus :bus: for your internet services
 - [hholzgra/maposmatic](https://github.com/hholzgra/maposmatic) - Mirror of maposmatic repository at savannah.nongnu.org
 - [eth0izzle/Needl](https://github.com/eth0izzle/Needl) - Take back your privacy. Lose yourself in the haystack.
@@ -4306,7 +4306,6 @@
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [Scifabric/pybossa](https://github.com/Scifabric/pybossa) - PYBOSSA is the ultimate crowdsourcing framework (aka microtasking) to analyze or enrich data that can't be processed by machines alone.
 - [tlvince/sniffy](https://github.com/tlvince/sniffy) - Sniff media hosting websites for Flash-free consumption
-- [bkidwell/mdepub](https://github.com/bkidwell/mdepub) - Use Pandoc and Calibre to compile Markdown text to Epub, with source included in the Epub.
 - [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.hu
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [binux/lixian.xunlei](https://github.com/binux/lixian.xunlei) - xunlei lixian api & a website project base on it & a plugin for flexget
@@ -5669,6 +5668,7 @@
 - [TiloHeidasch/snapui](https://github.com/TiloHeidasch/snapui) - A SnapCast UI made with Angular
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [tmcw/notfoundbot](https://github.com/tmcw/notfoundbot) - fix & archive outgoing links on your website
+- [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - [badaix/snapweb](https://github.com/badaix/snapweb) - Web interface for Snapcast
 - [nicojs/html2commonmark](https://github.com/nicojs/html2commonmark) - Converts HTML to markdown using commonmark.js. Compliant with the commmonmark markdown specification.
 - [gera2ld/markmap](https://github.com/gera2ld/markmap) - Visualize your Markdown as mindmaps with Markmap.
