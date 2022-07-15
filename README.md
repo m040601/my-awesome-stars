@@ -3385,6 +3385,7 @@
 
 ## Python 
 
+- [ynikitenko/yarsync](https://github.com/ynikitenko/yarsync) - Yet Another Rsync: a file synchronization and backup tool
 - [saulpw/unzip-http](https://github.com/saulpw/unzip-http) - Extract individual files from .zip files over http without downloading the entire archive.
 - [tmbdev-archive/tarproc](https://github.com/tmbdev-archive/tarproc) - Utilities for sequential processing of tar files.
 - [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display and browse images in the terminal
