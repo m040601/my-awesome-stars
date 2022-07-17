@@ -165,6 +165,8 @@
 
 ## C 
 
+- [NikitaIvanovV/ctpv](https://github.com/NikitaIvanovV/ctpv) - Terminal previewer
+- [NikitaIvanovV/ictree](https://github.com/NikitaIvanovV/ictree) - Like tree but interactive
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [nereusx/md2roff](https://github.com/nereusx/md2roff) - md2roff - convert markdown to groff / troff (man, mdoc, mm, mom) documents
 - [lindes/ttyload](https://github.com/lindes/ttyload) - ttyload -- "graphical" tracking of UNIX load average in a terminal ("tty")
@@ -1252,7 +1254,6 @@
 - [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 - [davesteele/comitup](https://github.com/davesteele/comitup) - Bootstrap Wifi support over Wifi
 - [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
-- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
 - [SasaKaranovic/esp32_wifi_remote](https://github.com/SasaKaranovic/esp32_wifi_remote) - 
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [schollz/markdown2tufte](https://github.com/schollz/markdown2tufte) - Process markdown into a nice Tufte-like website :book:
@@ -1821,6 +1822,7 @@
 - [mcqn/my-babys-got-led](https://github.com/mcqn/my-babys-got-led) - Simple ESP8266 board to drive WS2812 LED strips
 - [orf/bare-hugo-theme](https://github.com/orf/bare-hugo-theme) - A Hugo theme based on Bulma.io
 - [tildeinstitute/site](https://github.com/tildeinstitute/site) - Web site for tilde.institute
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
 - [viktak/gps-tracker](https://github.com/viktak/gps-tracker) - 
 - [J-Siu/hugo-theme-sk1](https://github.com/J-Siu/hugo-theme-sk1) - Hugo Theme - SK1 (Skeleton 1)
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
@@ -2157,6 +2159,7 @@
 
 ## JavaScript 
 
+- [dwmkerr/effective-shell](https://github.com/dwmkerr/effective-shell) - Text, samples and website for my 'Effective Shell' series.
 - [ushitora-anqou/share-on-mastodon](https://github.com/ushitora-anqou/share-on-mastodon) - 
 - [rugk/mastodon-simplified-federation](https://github.com/rugk/mastodon-simplified-federation) - Simplifies following and interacting with remote users on other Mastodon instances.
 - [zaguragit/mastodon_redirector](https://github.com/zaguragit/mastodon_redirector) - Replaces the follow button on other instances with a button, that redirects you to your instance, so you can follow, or interact with a user's content
@@ -2761,6 +2764,7 @@
 
 ## Kotlin 
 
+- [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 1M+ downloads Linux reference app with basics, tips and formatted man pages
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support
 - [metrodroid/metrodroid](https://github.com/metrodroid/metrodroid) - Read data from public transit cards using your NFC Android phone! (iOS 13 and PC/SC support coming soon)
 - [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada for Android and iOS.
@@ -5024,6 +5028,7 @@
 
 ## Shell 
 
+- [jwmullally/openwrt-iscsi-target-ramdisk](https://github.com/jwmullally/openwrt-iscsi-target-ramdisk) - Remote boot your Linux OS with PXE + iSCSI on another computer
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 - [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
 - [dougy147/scitopdf](https://github.com/dougy147/scitopdf) - bash script to quickly fetch, download and open scientific papers from Sci-Hub's database.
