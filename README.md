@@ -2167,7 +2167,7 @@
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files
 - [w3bdev1/alter](https://github.com/w3bdev1/alter) - A Firefox Add-on redirecting to privacy-friendly alternatives: https://addons.mozilla.org/addon/alter/
-- [OpenScanEu/OpenScan2](https://github.com/OpenScanEu/OpenScan2) - an improved firmware for the OpenScan devices, featuring many more cameras and a greatly improved overall usability
+- [OpenScan-org/OpenScan2](https://github.com/OpenScan-org/OpenScan2) - an improved firmware for the OpenScan devices, featuring many more cameras and a greatly improved overall usability
 - [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [heussd/texttomail](https://github.com/heussd/texttomail) - Allows to e-mail pages that are viewed in reader mode.
@@ -4610,7 +4610,7 @@
 - [MusicPlayerDaemon/website](https://github.com/MusicPlayerDaemon/website) - The MPD website
 - [gildesmarais/jekyll-blueprint](https://github.com/gildesmarais/jekyll-blueprint) - Blueprint / boilerplate for your new Jekyll site with Github's Actions and deployment on Pages.
 - [html2rss/html2rss-configs](https://github.com/html2rss/html2rss-configs) - 📇 A growing collection of html2rss feed configs. Generate configs with the handy generator.
-- [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 Generates and delivers RSS feeds via HTTP. Create your own feeds or get started quickly with the included configs.
+- [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 Generates and delivers RSS feeds via HTTP. Docker image available! Create your own feeds or get started quickly with the included configs.
 - [html2rss/html2rss](https://github.com/html2rss/html2rss) - 📰 Build RSS 2.0 feeds from websites (and JSON APIs) with a few CSS selectors.
 - [ryanfb/academia-dl](https://github.com/ryanfb/academia-dl) - Download PDFs from academia dot edu without logging in
 - [jekyll/github-metadata](https://github.com/jekyll/github-metadata) - Jekyll plugin to propagate the `site.github` namespace and set default values for use with GitHub Pages.
