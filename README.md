@@ -639,7 +639,6 @@
 - [pettarin/espeak-ng](https://github.com/pettarin/espeak-ng) - eSpeak fork providing significant changes and improvements to the upstream eSpeak project
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [christinaa/rpi-open-firmware](https://github.com/christinaa/rpi-open-firmware) - Open source VPU side bootloader for Raspberry Pi.
-- [kitesurfer1404/WS2812FX](https://github.com/kitesurfer1404/WS2812FX) - WS2812 FX Library for Arduino and ESP8266
 - [zserge/jsmn](https://github.com/zserge/jsmn) - Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket
 - [hak5darren/USB-Rubber-Ducky](https://github.com/hak5darren/USB-Rubber-Ducky) - 
 - [ArduCAM/ArduCAM_ESP8266_UNO](https://github.com/ArduCAM/ArduCAM_ESP8266_UNO) - This Arduino IDE for ArduCAM ESP8266 UNO Board with Integrated ArduCAM Library and Examples
@@ -1136,6 +1135,7 @@
 - [me-no-dev/ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async Web Server for ESP8266 and ESP32
 - [adafruit/RTClib](https://github.com/adafruit/RTClib) - A fork of Jeelab's fantastic RTC library
 - [jpmeijers/RN2483-Arduino-Library](https://github.com/jpmeijers/RN2483-Arduino-Library) - Arduino C++ code to communicate with a Microchip RN2483 module
+- [kitesurfer1404/WS2812FX](https://github.com/kitesurfer1404/WS2812FX) - WS2812 FX Library for Arduino and ESP8266
 - [kakopappa/arduino-esp8266-alexa-wemo-switch](https://github.com/kakopappa/arduino-esp8266-alexa-wemo-switch) - Amazon Alexa  + WeMos switch made with Arduino D1 Mini
 - [JoaoLopesF/SPFD5408](https://github.com/JoaoLopesF/SPFD5408) - Adafruit Libraries changed to works in TFT 2.4 shields with the SPFD5408 controller for Arduino Uno and Mega (Discontinued library)
 - [SlashDevin/NeoGPS](https://github.com/SlashDevin/NeoGPS) - NMEA and ublox GPS parser for Arduino, configurable to use as few as 10 bytes of RAM
@@ -2958,7 +2958,7 @@
 ## Others 
 
 - [Xinyuan-LilyGO/T-U2T](https://github.com/Xinyuan-LilyGO/T-U2T) - 
-- [sjehuda/syndication4humans](https://github.com/sjehuda/syndication4humans) - Render syndication feeds (Atom and RSS) using CSS and XSLT
+- [sjehuda/syndication4humans](https://github.com/sjehuda/syndication4humans) - Render syndication feeds (Atom, RDF and RSS) using CSS and XSLT
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [OmnIoT/Omnikit-projects](https://github.com/OmnIoT/Omnikit-projects) - Projects we've made using OmniKit
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
