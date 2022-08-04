@@ -435,7 +435,7 @@
 - [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - 
 - [xoseperez/ttgo-beam-tracker](https://github.com/xoseperez/ttgo-beam-tracker) - TTN tracker based on TTGO T-Beam hardware
 - [tkerby/ttgo-tbeam-ttn-tracker](https://github.com/tkerby/ttgo-tbeam-ttn-tracker) - TTGO T-Beam Tracker for TTN Mapper and TTN Tracker using US (915 MHz) and EU (868 MHz) frequencies
-- [mesa3d/mesa](https://github.com/mesa3d/mesa) - Mesa 3D graphics library (read-only mirror of https://gitlab.freedesktop.org/mesa/mesa/)
+- [Mesa3D/mesa](https://github.com/Mesa3D/mesa) - Mesa 3D graphics library (read-only mirror of https://gitlab.freedesktop.org/mesa/mesa/)
 - [NathanReeves/BlueCubeMod](https://github.com/NathanReeves/BlueCubeMod) - ESP32 GameCube Controller Bluetooth conversion for Nintendo Switch
 - [OpenSMTPD/OpenSMTPD](https://github.com/OpenSMTPD/OpenSMTPD) - This is official OpenSMTPD Portable repository. Forks, pull requests and other contributions are welcome!
 - [aligrudi/fbpad](https://github.com/aligrudi/fbpad) - A small Linux framebuffer virtual terminal
@@ -1309,7 +1309,7 @@
 - [cs109/2014](https://github.com/cs109/2014) - Official content for the Fall 2014 Harvard CS109 Data Science course
 - [dmasad/GDELT_Intro](https://github.com/dmasad/GDELT_Intro) - Quick tutorial on getting started with GDELT
 - [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
-- [pudo/storyweb](https://github.com/pudo/storyweb) - A contextual news development environment.
+- [pudo-attic/storyweb](https://github.com/pudo-attic/storyweb) - A contextual news development environment.
 - [Canvas-Hackathon-Teams/Newsclipse](https://github.com/Canvas-Hackathon-Teams/Newsclipse) - Newsclipse: The IDE for news production.
 - [DataScienceSpecialization/DataScienceSpecialization.github.io](https://github.com/DataScienceSpecialization/DataScienceSpecialization.github.io) - http://DataScienceSpecialization.github.io
 - [defjosiah/csv-merge](https://github.com/defjosiah/csv-merge) - Using markdown and a csv file, merge a markdown template with data from a spreadsheet
@@ -1707,7 +1707,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3 or 4 (or on amd64 PCs!)
 - [sgreben/jp](https://github.com/sgreben/jp) - dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.
@@ -2160,6 +2160,7 @@
 
 ## JavaScript 
 
+- [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io
 - [dwmkerr/effective-shell](https://github.com/dwmkerr/effective-shell) - Text, samples and website for my 'Effective Shell' series.
 - [ushitora-anqou/share-on-mastodon](https://github.com/ushitora-anqou/share-on-mastodon) - 
 - [rugk/mastodon-simplified-federation](https://github.com/rugk/mastodon-simplified-federation) - Simplifies following and interacting with remote users on other Mastodon instances.
@@ -2958,6 +2959,7 @@
 
 ## Others 
 
+- [penk/penkesu](https://github.com/penk/penkesu) - Penkesu Computer - A Homebrew Retro-style Handheld PC
 - [Xinyuan-LilyGO/T-U2T](https://github.com/Xinyuan-LilyGO/T-U2T) - 
 - [sjehuda/syndication4humans](https://github.com/sjehuda/syndication4humans) - Render syndication feeds (Atom, RDF and RSS) using CSS and XSLT
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -3631,7 +3633,7 @@
 - [mfa/bundesbank-to-sqlite](https://github.com/mfa/bundesbank-to-sqlite) - Convert Bundesbank banking export to a SQLite database
 - [Addono/worldcat-scraper](https://github.com/Addono/worldcat-scraper) - Spider for book titles from Worldcat.
 - [ssciolla/ebook-ident](https://github.com/ssciolla/ebook-ident) - Tool for finding ISBNs of e-books by querying the WorldCat Search API
-- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automati
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [cadnza/Chinese-Getter](https://github.com/cadnza/Chinese-Getter) - Anki add-on to retrieve and fill metadata on Chinese vocabulary
 - [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 - [hamsolo474/VideoSubFinder_ocr_path](https://github.com/hamsolo474/VideoSubFinder_ocr_path) - 
