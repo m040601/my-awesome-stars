@@ -162,7 +162,7 @@
 
 ## BitBake 
 
-- [brocaar/chirpstack-gateway-os](https://github.com/brocaar/chirpstack-gateway-os) - Yocto based gateway images including ChirpStack components.
+- [chirpstack/chirpstack-gateway-os](https://github.com/chirpstack/chirpstack-gateway-os) - Yocto based gateway images including ChirpStack components.
 
 ## C 
 
@@ -4645,7 +4645,6 @@
 - [suderman/symlink](https://github.com/suderman/symlink) - Feed it yaml; it spits symbolic links
 - [frnsys/rzza](https://github.com/frnsys/rzza) - an rss corpus builder
 - [houshuang/linkify](https://github.com/houshuang/linkify) - Link-helper for MarkDown which looks at Chrome history, blog posts, etc. In Ruby.
-- [swoker/mpd2html-ruby](https://github.com/swoker/mpd2html-ruby) - 
 - [bytesource/chinese_vocab](https://github.com/bytesource/chinese_vocab) - 
 - [ralph/document_mapper](https://github.com/ralph/document_mapper) - Simple model layer that let's you query text documents as if they were a database.
 - [t-p/catch-url](https://github.com/t-p/catch-url) - ruby script that combines newsbeuter with rtorrent
