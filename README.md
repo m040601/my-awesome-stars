@@ -166,6 +166,7 @@
 
 ## C 
 
+- [jirutka/tty-copy](https://github.com/jirutka/tty-copy) - Copy content to system clipboard via TTY and terminal using ANSI OSC52 sequence
 - [NikitaIvanovV/ctpv](https://github.com/NikitaIvanovV/ctpv) - Terminal previewer
 - [NikitaIvanovV/ictree](https://github.com/NikitaIvanovV/ictree) - Like tree but interactive
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
@@ -893,7 +894,7 @@
 - [justinmklam/iot-sourdough-starter-monitor](https://github.com/justinmklam/iot-sourdough-starter-monitor) - Tracking the fermentation of sourdough starter over the cloud.
 - [Edzelf/ESP32-Radio](https://github.com/Edzelf/ESP32-Radio) - Internet radio based on ESP32, VS1053 and a TFT screen.
 - [NicoHood/IRLremote](https://github.com/NicoHood/IRLremote) - Lightweight Infrared library for Arduino
-- [ukw100/IRMP](https://github.com/ukw100/IRMP) - Infrared Multi Protocol Decoder
+- [IRMP-org/IRMP](https://github.com/IRMP-org/IRMP) - Infrared Multi Protocol Decoder
 - [sidoh/esp8266_milight_hub](https://github.com/sidoh/esp8266_milight_hub) - Replacement for a Milight/LimitlessLED hub hosted on an ESP8266
 - [JvanKatwijk/terminal-DAB-xxx](https://github.com/JvanKatwijk/terminal-DAB-xxx) - Terminal based DAB decoder,  showing slides and with up/down service selectors
 - [lvandeve/lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
@@ -1537,7 +1538,7 @@
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [fasmide/schttp](https://github.com/fasmide/schttp) - An scp to http proxy / gateway thing...
 - [fasmide/remotemoe](https://github.com/fasmide/remotemoe) - tunnels to localhost and other ssh plumbing
-- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two laptops in close range. Linux, Mac, and Windows.
+- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two laptops in close range. Linux, Mac, and Windows. iOS version available!
 - [schollz/find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
 - [schollz/syncdir](https://github.com/schollz/syncdir) - Automatically discover peers and synchronize a folder
 - [schollz/websitechanges](https://github.com/schollz/websitechanges) - Alerts you via email about a website change.
@@ -3021,7 +3022,7 @@
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [lukicdarkoo/rpi-wifi](https://github.com/lukicdarkoo/rpi-wifi) - Configures simultaneous AP and Managed Mode Wifi on Raspberry Pi
 - [dmadison/LED-Segment-ASCII](https://github.com/dmadison/LED-Segment-ASCII) - Library of ASCII character representations using 7 segment, 14 segment, and 16 segment LED displays
-- [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and cheap DIY IP-KVM based on Raspberry Pi
+- [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
 - [aliyevaa/cname_cloaking](https://github.com/aliyevaa/cname_cloaking) - the repo contains a list of subdomains that point to known trackers/advertisers
 - [nextdns/cname-cloaking-blocklist](https://github.com/nextdns/cname-cloaking-blocklist) - A list of domains used by tracking companies as CNAME destination when disguising third-party trackers as first-party trackers.
 - [FreeYourStream/freedeck-hardware](https://github.com/FreeYourStream/freedeck-hardware) - all the stuff you need to build your own FreeDeck
@@ -4091,7 +4092,7 @@
 - [c-w/ghp-import](https://github.com/c-w/ghp-import) - Easily import docs to your gh-pages branch.
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [bfredl/nvim-ipy](https://github.com/bfredl/nvim-ipy) - IPython/Jupyter plugin for Neovim
-- [NicklasTegner/pypandoc](https://github.com/NicklasTegner/pypandoc) - Thin wrapper for "pandoc" (MIT)
+- [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) - Thin wrapper for "pandoc" (MIT)
 - [aaren/pandoc-reference-filter](https://github.com/aaren/pandoc-reference-filter) - internal referencing pandoc filter
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which fi
 - [Othernet-Project/artexin](https://github.com/Othernet-Project/artexin) - Article Extraction and Indexing for Outernet
@@ -5030,6 +5031,7 @@
 
 ## Shell 
 
+- [Edenhofer/fakepkg](https://github.com/Edenhofer/fakepkg) - reassemble Arch Linux packages
 - [NikitaIvanovV/stpv](https://github.com/NikitaIvanovV/stpv) - Simple Terminal PreViewer
 - [jwmullally/openwrt-iscsi-target-ramdisk](https://github.com/jwmullally/openwrt-iscsi-target-ramdisk) - Remote boot your Linux OS with PXE + iSCSI on another computer
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
