@@ -201,7 +201,7 @@
 - [Xinyuan-LilyGO/TTGO_TWatch_Library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library) - 
 - [Kobo-InkBox/rootfs](https://github.com/Kobo-InkBox/rootfs) - InkBox OS root filesystem
 - [directfb2/DirectFB2](https://github.com/directfb2/DirectFB2) - Core DirectFB library
-- [OliverLew/dwm](https://github.com/OliverLew/dwm) - My fork of the suckless window manager dwm
+- [oliverlew/dwm](https://github.com/oliverlew/dwm) - My fork of the suckless window manager dwm
 - [deeice/ziptuner](https://github.com/deeice/ziptuner) - Internet radio station tuner (playlist fetcher) for the console using C and dialog.
 - [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (Music Player, Music Recorder supporting I2S, Microphones, DAC, ADC, A2DP, Url, MP3, AAC, AudioKit, ES8388)
 - [jscrane/TTS](https://github.com/jscrane/TTS) - Arduino Text-to-Speech Library
@@ -836,6 +836,7 @@
 
 ## C++ 
 
+- [MaartenBaert/ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
 - [xaizek/cursetag](https://github.com/xaizek/cursetag) - NCurses based audio file tag (metadata) editor
 - [Sound-Linux-More/cursetag](https://github.com/Sound-Linux-More/cursetag) - NCurses based audio file tag (metadata) editor
 - [Xinyuan-LilyGO/LilyGo-T-Relay](https://github.com/Xinyuan-LilyGO/LilyGo-T-Relay) - 
@@ -1399,10 +1400,10 @@
 - [Yveaux/Ikea_Molgan_Hack](https://github.com/Yveaux/Ikea_Molgan_Hack) - Ikea Molgan PIR LED light hack to add wireless Arduino functionality
 - [mysensors/SensebenderMicro](https://github.com/mysensors/SensebenderMicro) - Micro sensor board for MySensor project
 - [hallard/LoraCHIP](https://github.com/hallard/LoraCHIP) - C.H.I.P. Computer RN2483 or RFM95 Lora Shield
-- [8n1/ESP8266-Tiny-Door-and-Window-Sensor](https://github.com/8n1/ESP8266-Tiny-Door-and-Window-Sensor) - Battery powered door and window sensor with ultra low standby power. Arduino, ESP-12, Reed switch, ATtiny, LDO
+- [JohSka/ESP8266-Tiny-Door-and-Window-Sensor](https://github.com/JohSka/ESP8266-Tiny-Door-and-Window-Sensor) - Battery powered door and window sensor with ultra low standby power. Arduino, ESP-12, Reed switch, ATtiny, LDO
 - [hallard/WeMos-RN2483](https://github.com/hallard/WeMos-RN2483) - ESP8266 WeMos Shield for Microchip LORAWAN RN2483 or RN2903
 - [rayshobby/opensprinkler](https://github.com/rayshobby/opensprinkler) - Open-source Arduino-based Sprinkler Valve Controller
-- [8n1/ESP8266-Breakout-Adapter](https://github.com/8n1/ESP8266-Breakout-Adapter) - ESP-07 & ESP-12(E) Breakout Adapters with different voltage regulators and features
+- [JohSka/ESP8266-Breakout-Adapter](https://github.com/JohSka/ESP8266-Breakout-Adapter) - ESP-07 & ESP-12(E) Breakout Adapters with different voltage regulators and features
 - [thk4711/raspiradio](https://github.com/thk4711/raspiradio) - raspberry pi streaming client and internet radio with spi display, i2s audio chip, and remote control
 - [hallard/RPI-Lora-Gateway](https://github.com/hallard/RPI-Lora-Gateway) - Raspberry PI Lora Gateway/Node for RFM92/95/96/98/69HCW Modules
 - [kinasmith/CompostSensor](https://github.com/kinasmith/CompostSensor) - Wireless Temperature Sensor network for logging and automating medium scale composting operations
@@ -2161,6 +2162,7 @@
 
 ## JavaScript 
 
+- [erik/derive](https://github.com/erik/derive) - Generate personal heatmap from GPX/TCX/FIT/IGC data
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io
 - [dwmkerr/effective-shell](https://github.com/dwmkerr/effective-shell) - Text, samples and website for my 'Effective Shell' series.
 - [ushitora-anqou/share-on-mastodon](https://github.com/ushitora-anqou/share-on-mastodon) - 
@@ -2818,7 +2820,7 @@
 - [noctux/philote](https://github.com/noctux/philote) - Ansible management for your OpenWRT router - with lua
 - [PhilipRoman/tmux-filetree](https://github.com/PhilipRoman/tmux-filetree) - Simple, non-intrusive dynamic file tree which always tracks your active Tmux pane
 - [ISEMS/ISEMS-ESP32](https://github.com/ISEMS/ISEMS-ESP32) - ISEMS-Port for Solarnodes based on ESP32 Microcontrollers
-- [OliverLew/dotfiles](https://github.com/OliverLew/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
+- [oliverlew/dotfiles](https://github.com/oliverlew/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
 - [AssrtOSS/mpv-assrt](https://github.com/AssrtOSS/mpv-assrt) - mpv自动下载字幕脚本 Automatically download subtitles from assrt.net
 - [jgm/select-meta](https://github.com/jgm/select-meta) - Pandoc lua filter for constructing metadata from YAML data sources using queries
 - [ColumPaget/pocketeer.lua](https://github.com/ColumPaget/pocketeer.lua) - Lua script to list/add/delete items to getpocket.com. Requires libUseful and libUseful-lua
@@ -2846,7 +2848,7 @@
 - [pandoc-scholar/pandoc-scholar](https://github.com/pandoc-scholar/pandoc-scholar) - Create beautiful and semantically meaningful articles with pandoc.
 - [ralph-irving/jivelite](https://github.com/ralph-irving/jivelite) - Community logitech media server control application
 - [JaapBraam/LoRaWanGateway](https://github.com/JaapBraam/LoRaWanGateway) - A LoRaWan Gateway in LUA
-- [8n1/briefkastenwaechter-mit-temp-sensor-uhrzeit-und-ipcam-event](https://github.com/8n1/briefkastenwaechter-mit-temp-sensor-uhrzeit-und-ipcam-event) - Aktiviert ein Pushingbox Szenario und übergibt dabei Datum, Uhrzeit und Temperatur. Zusätzlich wird ein bestimmtes Event auf einer Axis IP Kamera ausgelöst.
+- [JohSka/briefkastenwaechter-mit-temp-sensor-uhrzeit-und-ipcam-event](https://github.com/JohSka/briefkastenwaechter-mit-temp-sensor-uhrzeit-und-ipcam-event) - Aktiviert ein Pushingbox Szenario und übergibt dabei Datum, Uhrzeit und Temperatur. Zusätzlich wird ein bestimmtes Event auf einer Axis IP Kamera ausgelöst.
 - [atomicules/pinboard-elinks](https://github.com/atomicules/pinboard-elinks) - MOVED TO: http://fossil.atomicules.co.uk
 - [kumanna/Elinks-configuration](https://github.com/kumanna/Elinks-configuration) - My elinks configuration and hooks.
 - [hkupty/nvimux](https://github.com/hkupty/nvimux) - Neovim as a TMUX replacement
@@ -5169,7 +5171,7 @@
 - [mohd-akram/jawk](https://github.com/mohd-akram/jawk) - Awk for JSON.
 - [huijunchen9260/dmenubib](https://github.com/huijunchen9260/dmenubib) - A simple bibliography manager using dmenu
 - [chin123/archlinux-4044C](https://github.com/chin123/archlinux-4044C) - A guide with accompanying scripts to get a working arch linux chroot on the Alcatel 4044C, a $40 flip phone.
-- [OliverLew/xdg-xmenu](https://github.com/OliverLew/xdg-xmenu) - A shell script to generate menu for xmenu
+- [oliverlew/xdg-xmenu](https://github.com/oliverlew/xdg-xmenu) - A shell script to generate menu for xmenu
 - [brunomiguel/userrepository](https://github.com/brunomiguel/userrepository) - 
 - [dylanaraps/shfm](https://github.com/dylanaraps/shfm) - file manager written in posix shell
 - [jcorporation/myMPDos](https://github.com/jcorporation/myMPDos) - A music player image for Raspberry Pi based on Alpine Linux, MPD and myMPD.
