@@ -166,6 +166,8 @@
 
 ## C 
 
+- [asg017/sqlite-lines](https://github.com/asg017/sqlite-lines) - A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)
+- [rbaron/elink](https://github.com/rbaron/elink) - A daisy chain of electronic shelf labels
 - [jirutka/tty-copy](https://github.com/jirutka/tty-copy) - Copy content to system clipboard via TTY and terminal using ANSI OSC52 sequence
 - [NikitaIvanovV/ctpv](https://github.com/NikitaIvanovV/ctpv) - Terminal previewer
 - [NikitaIvanovV/ictree](https://github.com/NikitaIvanovV/ictree) - Like tree but interactive
@@ -199,7 +201,6 @@
 - [kristapsdz/kcaldav](https://github.com/kristapsdz/kcaldav) - a simple, safe, and minimal CalDAV server
 - [begriffs/mimedown](https://github.com/begriffs/mimedown) - markdown to multipart mime
 - [Xinyuan-LilyGO/TTGO_TWatch_Library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library) - 
-- [Kobo-InkBox/rootfs](https://github.com/Kobo-InkBox/rootfs) - InkBox OS root filesystem
 - [directfb2/DirectFB2](https://github.com/directfb2/DirectFB2) - Core DirectFB library
 - [oliverlew/dwm](https://github.com/oliverlew/dwm) - My fork of the suckless window manager dwm
 - [deeice/ziptuner](https://github.com/deeice/ziptuner) - Internet radio station tuner (playlist fetcher) for the console using C and dialog.
@@ -642,7 +643,6 @@
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [christinaa/rpi-open-firmware](https://github.com/christinaa/rpi-open-firmware) - Open source VPU side bootloader for Raspberry Pi.
 - [zserge/jsmn](https://github.com/zserge/jsmn) - Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket
-- [hak5darren/USB-Rubber-Ducky](https://github.com/hak5darren/USB-Rubber-Ducky) - 
 - [ArduCAM/ArduCAM_ESP8266_UNO](https://github.com/ArduCAM/ArduCAM_ESP8266_UNO) - This Arduino IDE for ArduCAM ESP8266 UNO Board with Integrated ArduCAM Library and Examples
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
@@ -813,6 +813,7 @@
 
 ## C# # 
 
+- [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your readi
 - [acidus99/NewsWaffle](https://github.com/acidus99/NewsWaffle) - Gemini frontend to any news site
 - [acidus99/Gemipedia](https://github.com/acidus99/Gemipedia) - Gemini frontend to Wikipedia
 - [NicolasConstant/BirdsiteLive](https://github.com/NicolasConstant/BirdsiteLive) - An ethical bridge from Twitter
@@ -1400,10 +1401,10 @@
 - [Yveaux/Ikea_Molgan_Hack](https://github.com/Yveaux/Ikea_Molgan_Hack) - Ikea Molgan PIR LED light hack to add wireless Arduino functionality
 - [mysensors/SensebenderMicro](https://github.com/mysensors/SensebenderMicro) - Micro sensor board for MySensor project
 - [hallard/LoraCHIP](https://github.com/hallard/LoraCHIP) - C.H.I.P. Computer RN2483 or RFM95 Lora Shield
-- [JohSka/ESP8266-Tiny-Door-and-Window-Sensor](https://github.com/JohSka/ESP8266-Tiny-Door-and-Window-Sensor) - Battery powered door and window sensor with ultra low standby power. Arduino, ESP-12, Reed switch, ATtiny, LDO
+- [8n1/ESP8266-Tiny-Door-and-Window-Sensor](https://github.com/8n1/ESP8266-Tiny-Door-and-Window-Sensor) - Battery powered door and window sensor with ultra low standby power. Arduino, ESP-12, Reed switch, ATtiny, LDO
 - [hallard/WeMos-RN2483](https://github.com/hallard/WeMos-RN2483) - ESP8266 WeMos Shield for Microchip LORAWAN RN2483 or RN2903
 - [rayshobby/opensprinkler](https://github.com/rayshobby/opensprinkler) - Open-source Arduino-based Sprinkler Valve Controller
-- [JohSka/ESP8266-Breakout-Adapter](https://github.com/JohSka/ESP8266-Breakout-Adapter) - ESP-07 & ESP-12(E) Breakout Adapters with different voltage regulators and features
+- [8n1/ESP8266-Breakout-Adapter](https://github.com/8n1/ESP8266-Breakout-Adapter) - ESP-07 & ESP-12(E) Breakout Adapters with different voltage regulators and features
 - [thk4711/raspiradio](https://github.com/thk4711/raspiradio) - raspberry pi streaming client and internet radio with spi display, i2s audio chip, and remote control
 - [hallard/RPI-Lora-Gateway](https://github.com/hallard/RPI-Lora-Gateway) - Raspberry PI Lora Gateway/Node for RFM92/95/96/98/69HCW Modules
 - [kinasmith/CompostSensor](https://github.com/kinasmith/CompostSensor) - Wireless Temperature Sensor network for logging and automating medium scale composting operations
@@ -1454,6 +1455,12 @@
 
 ## Go 
 
+- [asg017/sqlite-html](https://github.com/asg017/sqlite-html) - A SQLite extension for querying, manipulating, and creating HTML elements.
+- [asg017/sqlite-http](https://github.com/asg017/sqlite-http) - A SQLite extension for making HTTP requests purely in SQL
+- [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+- [jbensmann/mouseless](https://github.com/jbensmann/mouseless) - A replacement for the mouse in Linux
+- [mrusme/addrb](https://github.com/mrusme/addrb) - addrb: A lightweight CLI / TUI address book that supports CardDAV
+- [xyproto/preview](https://github.com/xyproto/preview) - Approximate image viewer for the terminal that uses content aware image resizing
 - [dimkr/dohli](https://github.com/dimkr/dohli) - Set up your own ad-blocking DoH server
 - [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 - [arl/gitmux](https://github.com/arl/gitmux) - :computer: Git in your tmux status bar
@@ -1803,6 +1810,7 @@
 - [papis/papis-zotero](https://github.com/papis/papis-zotero) - Zotero compatiblity scripts for papis
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [amagovpt/observatory](https://github.com/amagovpt/observatory) - PT Observatory of Web Accessibility - the main app
 - [rugk/offline-qr-code](https://github.com/rugk/offline-qr-code) - 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
 - [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
@@ -1811,7 +1819,7 @@
 - [gammu/gsm-docs](https://github.com/gammu/gsm-docs) - GSM related documentation
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [arendst/Tasmota-firmware](https://github.com/arendst/Tasmota-firmware) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum
-- [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - 🔎 Did you know most GitHub Wikis can't index on search engines? Search Engine Enablement for GitHub Wikis service. 420,000+ GitHub Wikis, now indexable by your favorite search engine.
+- [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - 🔎 Did you know most GitHub Wikis can't index on search engines? Search Engine Enablement for GitHub Wikis service. 400,000+ GitHub Wikis, now indexable by your favorite search engine.
 - [chrisman/m4-blog](https://github.com/chrisman/m4-blog) - boilerplate for an m4 blog
 - [m8/refined.blog](https://github.com/m8/refined.blog) - curated list of personal blogs
 - [robhagemans/monobit](https://github.com/robhagemans/monobit) - Tools for working with monochrome bitmap fonts
@@ -1822,7 +1830,6 @@
 - [doersino/nyum](https://github.com/doersino/nyum) - A simple Pandoc-powered static site generator for your recipe collection – it effortlessly turns a set of Markdown-formatted recipes into a lightweight, responsive, searchable website.
 - [manubot/manubot.org](https://github.com/manubot/manubot.org) - Source code for https://manubot.org
 - [openenergymonitor/learn](https://github.com/openenergymonitor/learn) - OpenEnergyMonitor learning resources (previously building blocks)
-- [alexnathanson/solar-protocol](https://github.com/alexnathanson/solar-protocol) - A repository in development for a solar powered network of servers that host a distributed web platform. Project by Tega Brain, Alex Nathanson and Benedetta Piantella. Supported by Eyebeam Rapid Respo
 - [mcqn/my-babys-got-led](https://github.com/mcqn/my-babys-got-led) - Simple ESP8266 board to drive WS2812 LED strips
 - [orf/bare-hugo-theme](https://github.com/orf/bare-hugo-theme) - A Hugo theme based on Bulma.io
 - [tildeinstitute/site](https://github.com/tildeinstitute/site) - Web site for tilde.institute
@@ -2174,7 +2181,6 @@
 - [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files
 - [w3bdev1/alter](https://github.com/w3bdev1/alter) - A Firefox Add-on redirecting to privacy-friendly alternatives: https://addons.mozilla.org/addon/alter/
 - [OpenScan-org/OpenScan2](https://github.com/OpenScan-org/OpenScan2) - an improved firmware for the OpenScan devices, featuring many more cameras and a greatly improved overall usability
-- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [heussd/texttomail](https://github.com/heussd/texttomail) - Allows to e-mail pages that are viewed in reader mode.
 - [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadc
@@ -2849,7 +2855,7 @@
 - [pandoc-scholar/pandoc-scholar](https://github.com/pandoc-scholar/pandoc-scholar) - Create beautiful and semantically meaningful articles with pandoc.
 - [ralph-irving/jivelite](https://github.com/ralph-irving/jivelite) - Community logitech media server control application
 - [JaapBraam/LoRaWanGateway](https://github.com/JaapBraam/LoRaWanGateway) - A LoRaWan Gateway in LUA
-- [JohSka/briefkastenwaechter-mit-temp-sensor-uhrzeit-und-ipcam-event](https://github.com/JohSka/briefkastenwaechter-mit-temp-sensor-uhrzeit-und-ipcam-event) - Aktiviert ein Pushingbox Szenario und übergibt dabei Datum, Uhrzeit und Temperatur. Zusätzlich wird ein bestimmtes Event auf einer Axis IP Kamera ausgelöst.
+- [8n1/briefkastenwaechter-mit-temp-sensor-uhrzeit-und-ipcam-event](https://github.com/8n1/briefkastenwaechter-mit-temp-sensor-uhrzeit-und-ipcam-event) - Aktiviert ein Pushingbox Szenario und übergibt dabei Datum, Uhrzeit und Temperatur. Zusätzlich wird ein bestimmtes Event auf einer Axis IP Kamera ausgelöst.
 - [atomicules/pinboard-elinks](https://github.com/atomicules/pinboard-elinks) - MOVED TO: http://fossil.atomicules.co.uk
 - [kumanna/Elinks-configuration](https://github.com/kumanna/Elinks-configuration) - My elinks configuration and hooks.
 - [hkupty/nvimux](https://github.com/hkupty/nvimux) - Neovim as a TMUX replacement
@@ -2963,6 +2969,7 @@
 
 ## Others 
 
+- [RadicalEd360/ArchUSB](https://github.com/RadicalEd360/ArchUSB) - 
 - [penk/penkesu](https://github.com/penk/penkesu) - Penkesu Computer - A Homebrew Retro-style Handheld PC
 - [Xinyuan-LilyGO/T-U2T](https://github.com/Xinyuan-LilyGO/T-U2T) - 
 - [sjehuda/syndication4humans](https://github.com/sjehuda/syndication4humans) - Render syndication feeds (Atom, RDF and RSS) using CSS and XSLT
@@ -3133,6 +3140,7 @@
 - [OpenGarage/OpenGarage-Hardware](https://github.com/OpenGarage/OpenGarage-Hardware) - 
 - [SuperHouse/D1MTERMINAL](https://github.com/SuperHouse/D1MTERMINAL) - Terminal Shield for the WeMos D1 Mini with ESP8266
 - [offensive-security/kali-arm-build-scripts](https://github.com/offensive-security/kali-arm-build-scripts) - Kali Linux ARM build scripts
+- [hak5darren/USB-Rubber-Ducky](https://github.com/hak5darren/USB-Rubber-Ducky) - 
 - [mcauser/Raspberry-Pi-ITead-Studio-GPS-NEO-6M](https://github.com/mcauser/Raspberry-Pi-ITead-Studio-GPS-NEO-6M) - Experiments with my ITead Studio RPI GPS Add On
 - [openLRSng/openLRSngWiki](https://github.com/openLRSng/openLRSngWiki) - openLRSng wiki
 - [CongducPham/tutorials](https://github.com/CongducPham/tutorials) - Tutorial slides for the low-cost LoRa IoT platform
@@ -3219,6 +3227,7 @@
 - [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok) - Open source alternative frontend for TikTok made using PHP
 - [eklausme/saaze](https://github.com/eklausme/saaze) - Simplified Saaze is a static site generator. It aims to be fast, easy to understand and easy to use.
 - [DeBaschdi/docker.solaranzeige](https://github.com/DeBaschdi/docker.solaranzeige) - 
+- [alexnathanson/solar-protocol](https://github.com/alexnathanson/solar-protocol) - A repository in development for a solar powered network of servers that host a distributed web platform. Project by Tega Brain, Alex Nathanson and Benedetta Piantella. Supported by Eyebeam Rapid Respo
 - [webkul/hotelcommerce](https://github.com/webkul/hotelcommerce) - Hotel & Booking Reservation Ecommerce system on Prestashop
 - [taoso/tagbar-markdown](https://github.com/taoso/tagbar-markdown) - vim-tagbar extension for markdown
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
@@ -3395,6 +3404,9 @@
 
 ## Python 
 
+- [KMKfw/kmk_firmware](https://github.com/KMKfw/kmk_firmware) - Clackety Keyboards Powered by Python
+- [rbaron/catprinter](https://github.com/rbaron/catprinter) - 🐱🖨
+- [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
 - [ynikitenko/yarsync](https://github.com/ynikitenko/yarsync) - Yet Another Rsync: a file synchronization and backup tool
 - [saulpw/unzip-http](https://github.com/saulpw/unzip-http) - Extract individual files from .zip files over http without downloading the entire archive.
 - [tmbdev-archive/tarproc](https://github.com/tmbdev-archive/tarproc) - Utilities for sequential processing of tar files.
@@ -3865,7 +3877,7 @@
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [arc298/instagram-scraper](https://github.com/arc298/instagram-scraper) - Scrapes an instagram user's photos and videos
 - [the-paperless-project/paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
-- [jreese/markdown-pp](https://github.com/jreese/markdown-pp) - Preprocessor for Markdown files to generate a table of contents and other documentation needs
+- [amyreese/markdown-pp](https://github.com/amyreese/markdown-pp) - Preprocessor for Markdown files to generate a table of contents and other documentation needs
 - [althonos/InstaLooter](https://github.com/althonos/InstaLooter) - Another API-less Instagram pictures and videos downloader.
 - [kepi/qutepocket](https://github.com/kepi/qutepocket) - qutebrowser userscript to save pages to Pocket
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
@@ -4841,6 +4853,7 @@
 
 ## Rust 
 
+- [Plume-org/Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)
 - [alexwennerberg/crabmail](https://github.com/alexwennerberg/crabmail) - a static html and gemini mail archive for the 21st century, written in Rust
 - [yaky-dev/cosmodrome](https://github.com/yaky-dev/cosmodrome) - Cosmodrome - build a static website and a Gemini capsule in parallel
 - [gemrest/september](https://github.com/gemrest/september) - ♻ A simple and efficient Gemini-to-HTTP proxy written in Rust.
@@ -5033,6 +5046,7 @@
 
 ## Shell 
 
+- [tavinus/pdfScale](https://github.com/tavinus/pdfScale) - Bash Script to Scale and Resize PDFs using Ghostscript
 - [Edenhofer/fakepkg](https://github.com/Edenhofer/fakepkg) - reassemble Arch Linux packages
 - [NikitaIvanovV/stpv](https://github.com/NikitaIvanovV/stpv) - Simple Terminal PreViewer
 - [jwmullally/openwrt-iscsi-target-ramdisk](https://github.com/jwmullally/openwrt-iscsi-target-ramdisk) - Remote boot your Linux OS with PXE + iSCSI on another computer
@@ -5180,7 +5194,7 @@
 - [sunaku/dasht](https://github.com/sunaku/dasht) - 💁 Search API docs offline, in terminal or browser
 - [TDGalea/bash-numpad-input](https://github.com/TDGalea/bash-numpad-input) - Solely available for people to view the source code.
 - [gitenberg-dev/documentation](https://github.com/gitenberg-dev/documentation) - Documentation for the GITenberg books project
-- [mbhangui/mpdev](https://github.com/mbhangui/mpdev) - music player daemon events daemon
+- [mbhangui/mpdev](https://github.com/mbhangui/mpdev) - music player daemon events watcher
 - [vparnas/jrnl2](https://github.com/vparnas/jrnl2) - A CLI journaling system inspired by jrnl.sh
 - [evanpurkhiser/mkinitcpio-colors](https://github.com/evanpurkhiser/mkinitcpio-colors) - Provides a hook for Arch Linux's mkinitcpio utility to set VT colors during early userspace
 - [hackerb9/fonttable](https://github.com/hackerb9/fonttable) - Print out every unicode character; see all possible glyphs in your terminal
@@ -5740,6 +5754,7 @@
 
 - [aaronamk/dotfiles](https://github.com/aaronamk/dotfiles) - Aaron's Linux configuration files
 - [vim-scripts/AnsiEsc.vim](https://github.com/vim-scripts/AnsiEsc.vim) - ansi escape sequences concealed, but highlighted as specified (conceal)
+- [Kobo-InkBox/rootfs](https://github.com/Kobo-InkBox/rootfs) - InkBox OS root filesystem
 - [ojroques/vim-oscyank](https://github.com/ojroques/vim-oscyank) - A Vim plugin to copy text through SSH with OSC52
 - [samoshkin/dotvim](https://github.com/samoshkin/dotvim) - Personal vim configuration: vimrc file and friends
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
