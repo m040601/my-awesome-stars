@@ -166,6 +166,7 @@
 
 ## C 
 
+- [OpenStick/linux](https://github.com/OpenStick/linux) - Linux mainline kernel fork for many Qualcomm MSM8916/APQ8016 devices
 - [asg017/sqlite-lines](https://github.com/asg017/sqlite-lines) - A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)
 - [rbaron/elink](https://github.com/rbaron/elink) - A daisy chain of electronic shelf labels
 - [jirutka/tty-copy](https://github.com/jirutka/tty-copy) - Copy content to system clipboard via TTY and terminal using ANSI OSC52 sequence
@@ -2969,6 +2970,8 @@
 
 ## Others 
 
+- [juhench/openwrt_nbg6515](https://github.com/juhench/openwrt_nbg6515) - OpenWrt Development Instructions for ZyXEL NBG6515 Router
+- [OpenStick/OpenStick](https://github.com/OpenStick/OpenStick) - reverse engineering on msm8916 based 4G modem.
 - [RadicalEd360/ArchUSB](https://github.com/RadicalEd360/ArchUSB) - 
 - [penk/penkesu](https://github.com/penk/penkesu) - Penkesu Computer - A Homebrew Retro-style Handheld PC
 - [Xinyuan-LilyGO/T-U2T](https://github.com/Xinyuan-LilyGO/T-U2T) - 
@@ -6010,6 +6013,7 @@
 
 ## Vue 
 
+- [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
 - [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [pschatzmann/esp32_radio](https://github.com/pschatzmann/esp32_radio) - Web Radio Player which is also working with a ESP32 Micro Controller
 - [radiantearth/stac-browser](https://github.com/radiantearth/stac-browser) - A full-fledged UI for browsing static STAC catalogs and STAC APIs
