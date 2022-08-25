@@ -92,8 +92,8 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vala](#vala)
+- [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
-- [Vim script](#vim-script)
 - [Visual Basic](#visual-basic)
 - [Vue](#vue)
 - [XSLT](#xslt)
@@ -166,6 +166,7 @@
 
 ## C 
 
+- [openvehicles/Open-Vehicle-Monitoring-System-3](https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3) - Open Vehicle Monitoring System - Version 3
 - [OpenStick/linux](https://github.com/OpenStick/linux) - Linux mainline kernel fork for many Qualcomm MSM8916/APQ8016 devices
 - [asg017/sqlite-lines](https://github.com/asg017/sqlite-lines) - A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)
 - [rbaron/elink](https://github.com/rbaron/elink) - A daisy chain of electronic shelf labels
@@ -231,7 +232,7 @@
 - [przemoc/pcspk](https://github.com/przemoc/pcspk) - Command line tools for playing simple sounds and melodies using the PC speaker.
 - [aligrudi/neatsmtp](https://github.com/aligrudi/neatsmtp) - A small SMTP client
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
-- [networkupstools/nut](https://github.com/networkupstools/nut) - The Network UPS Tools repository
+- [networkupstools/nut](https://github.com/networkupstools/nut) - The Network UPS Tools repository. UPS management protocol Informational RFC 9271 published by IETF at https://www.rfc-editor.org/info/rfc9271
 - [gammu/gammu](https://github.com/gammu/gammu) - Gammu All Mobile Management Utilities
 - [phillbush/xfiles](https://github.com/phillbush/xfiles) - X11 file manager (work in progress)
 - [gciruelos/termplot](https://github.com/gciruelos/termplot) - Terminal-based mathematical function plotter
@@ -838,6 +839,7 @@
 
 ## C++ 
 
+- [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [MaartenBaert/ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
 - [xaizek/cursetag](https://github.com/xaizek/cursetag) - NCurses based audio file tag (metadata) editor
 - [Sound-Linux-More/cursetag](https://github.com/Sound-Linux-More/cursetag) - NCurses based audio file tag (metadata) editor
@@ -1456,6 +1458,7 @@
 
 ## Go 
 
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [asg017/sqlite-html](https://github.com/asg017/sqlite-html) - A SQLite extension for querying, manipulating, and creating HTML elements.
 - [asg017/sqlite-http](https://github.com/asg017/sqlite-http) - A SQLite extension for making HTTP requests purely in SQL
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
@@ -1866,7 +1869,6 @@
 - [openenergymonitor/guide](https://github.com/openenergymonitor/guide) - OpenEnergyMonitor User Guide
 - [daviddarnes/alembic-netlifycms-kit](https://github.com/daviddarnes/alembic-netlifycms-kit) - ⚗️💠 Starter kit for Alembic with Netlify CMS, hosted on Netlify
 - [sudomesh/solar-nodes](https://github.com/sudomesh/solar-nodes) - Solar + battery powered 4G LTE mesh nodes
-- [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
 - [distributed-mind/pagesaver](https://github.com/distributed-mind/pagesaver) - 
 - [FOSSASystems/FOSSASAT-1](https://github.com/FOSSASystems/FOSSASAT-1) - 
 - [sudomesh/disaster-radio](https://github.com/sudomesh/disaster-radio) - A (paused) work-in-progress long-range, low-bandwidth wireless disaster recovery mesh network powered by the sun.
@@ -2801,6 +2803,7 @@
 
 ## Lua 
 
+- [acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion) - Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C...
 - [occivink/mpv-gallery-view](https://github.com/occivink/mpv-gallery-view) - Gallery-view scripts for mpv
 - [occivink/mpv-image-viewer](https://github.com/occivink/mpv-image-viewer) - Configuration, scripts and tips for using mpv as an image viewer
 - [dfaker/VR-reversal](https://github.com/dfaker/VR-reversal) - VR-Reversal - Player for conversion of 3D video to 2D with optional saving of head tracking data and rendering out of 2D copies.
@@ -3407,6 +3410,7 @@
 
 ## Python 
 
+- [strohne/Facepager](https://github.com/strohne/Facepager) - Facepager was made for fetching public available data from YouTube, Twitter and other websites on the basis of APIs and webscraping.
 - [KMKfw/kmk_firmware](https://github.com/KMKfw/kmk_firmware) - Clackety Keyboards Powered by Python
 - [rbaron/catprinter](https://github.com/rbaron/catprinter) - 🐱🖨
 - [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
@@ -3715,6 +3719,7 @@
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [hiddewie/map-it](https://github.com/hiddewie/map-it) - Generating beatiful cycling maps using Mapnik and OpenStreetMap data
 - [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+- [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [karlicoss/pockexport](https://github.com/karlicoss/pockexport) - Export/access your Pocket data, including highlights!
 - [NadalVRoMa/PyLibGen](https://github.com/NadalVRoMa/PyLibGen) - A python script to download books from libgen.io
@@ -5701,7 +5706,7 @@
 - [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - [badaix/snapweb](https://github.com/badaix/snapweb) - Web interface for Snapcast
 - [nicojs/html2commonmark](https://github.com/nicojs/html2commonmark) - Converts HTML to markdown using commonmark.js. Compliant with the commmonmark markdown specification.
-- [gera2ld/markmap](https://github.com/gera2ld/markmap) - Visualize your Markdown as mindmaps with Markmap.
+- [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
 - [phiresky/pandoc-url2cite](https://github.com/phiresky/pandoc-url2cite) - Effortlessly and transparently add correctly styled citations to your markdown paper given only a URL
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
@@ -5750,11 +5755,7 @@
 - [birros/web-archives](https://github.com/birros/web-archives) - A web archives reader
 - [muriloventuroso/pdftricks](https://github.com/muriloventuroso/pdftricks) - A simple, efficient application for small manipulations in PDF files using Ghostscript.
 
-## Vim Snippet 
-
-- [honza/vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
-
-## Vim script 
+## Vim Script 
 
 - [aaronamk/dotfiles](https://github.com/aaronamk/dotfiles) - Aaron's Linux configuration files
 - [vim-scripts/AnsiEsc.vim](https://github.com/vim-scripts/AnsiEsc.vim) - ansi escape sequences concealed, but highlighted as specified (conceal)
@@ -6006,6 +6007,10 @@
 - [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
 - [msanders/snipmate.vim](https://github.com/msanders/snipmate.vim) - snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim.
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
+
+## Vim Snippet 
+
+- [honza/vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
 
 ## Visual Basic 
 
