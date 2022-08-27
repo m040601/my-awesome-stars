@@ -249,7 +249,7 @@
 - [AndrewFromMelbourne/raspi2fb](https://github.com/AndrewFromMelbourne/raspi2fb) - Program to copy the Raspberry Pi display to a secondary framebuffer.
 - [Patrick-Thomas/Sparkpad-Arduino](https://github.com/Patrick-Thomas/Sparkpad-Arduino) - 
 - [spkr-beep/beep](https://github.com/spkr-beep/beep) - beep is a command line tool for linux that beeps the PC speaker
-- [johanmalm/jgmenu](https://github.com/johanmalm/jgmenu) - An X11 menu
+- [jgmenu/jgmenu](https://github.com/jgmenu/jgmenu) - An X11 menu
 - [Netflix/dial-reference](https://github.com/Netflix/dial-reference) - 
 - [dharple/detox](https://github.com/dharple/detox) - Tames problematic filenames
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32
