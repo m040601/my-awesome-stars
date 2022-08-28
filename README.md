@@ -166,6 +166,7 @@
 
 ## C 
 
+- [jhe2/gmu](https://github.com/jhe2/gmu) - The Gmu Music Player
 - [openvehicles/Open-Vehicle-Monitoring-System-3](https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3) - Open Vehicle Monitoring System - Version 3
 - [OpenStick/linux](https://github.com/OpenStick/linux) - Linux mainline kernel fork for many Qualcomm MSM8916/APQ8016 devices
 - [asg017/sqlite-lines](https://github.com/asg017/sqlite-lines) - A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)
@@ -839,6 +840,7 @@
 
 ## C++ 
 
+- [zaps166/QMPlay2](https://github.com/zaps166/QMPlay2) - QMPlay2 is a video and audio player which can play most formats and codecs.
 - [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [MaartenBaert/ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
 - [xaizek/cursetag](https://github.com/xaizek/cursetag) - NCurses based audio file tag (metadata) editor
@@ -1257,6 +1259,7 @@
 
 ## CSS 
 
+- [IPi-Radio/IPi-Radio](https://github.com/IPi-Radio/IPi-Radio) - Turn your Raspberry PI into an internet radio
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 - [davesteele/comitup](https://github.com/davesteele/comitup) - Bootstrap Wifi support over Wifi
@@ -1458,6 +1461,7 @@
 
 ## Go 
 
+- [pitr/wp](https://github.com/pitr/wp) - 
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [asg017/sqlite-html](https://github.com/asg017/sqlite-html) - A SQLite extension for querying, manipulating, and creating HTML elements.
 - [asg017/sqlite-http](https://github.com/asg017/sqlite-http) - A SQLite extension for making HTTP requests purely in SQL
@@ -3410,6 +3414,8 @@
 
 ## Python 
 
+- [Inqbus/braille_radio](https://github.com/Inqbus/braille_radio) - A versatile commandline internet radio for braille users or small character displays (e.g. Raspberry Pi).
+- [cwahlmann/radiopi](https://github.com/cwahlmann/radiopi) - a raspberry pi internet radio
 - [strohne/Facepager](https://github.com/strohne/Facepager) - Facepager was made for fetching public available data from YouTube, Twitter and other websites on the basis of APIs and webscraping.
 - [KMKfw/kmk_firmware](https://github.com/KMKfw/kmk_firmware) - Clackety Keyboards Powered by Python
 - [rbaron/catprinter](https://github.com/rbaron/catprinter) - 🐱🖨
@@ -4542,7 +4548,7 @@
 - [mjkallen/rlogging](https://github.com/mjkallen/rlogging) - An R package for simple logging
 - [leeper/rio](https://github.com/leeper/rio) - A Swiss-Army Knife for Data I/O
 - [tidymodels/broom](https://github.com/tidymodels/broom) - Convert statistical analysis objects from R into tidy format
-- [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R.
+- [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R
 - [vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI) - R package to download World Bank data
 - [jennybc/ggplot2-tutorial](https://github.com/jennybc/ggplot2-tutorial) - Teaching materials for the R package ggplot2
 - [karthik/testdat](https://github.com/karthik/testdat) - A package to run unit tests on tabular data
@@ -5054,6 +5060,8 @@
 
 ## Shell 
 
+- [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
+- [pirateradiohack/Transistor](https://github.com/pirateradiohack/Transistor) - Open source DIY web radio receiver!
 - [tavinus/pdfScale](https://github.com/tavinus/pdfScale) - Bash Script to Scale and Resize PDFs using Ghostscript
 - [Edenhofer/fakepkg](https://github.com/Edenhofer/fakepkg) - reassemble Arch Linux packages
 - [NikitaIvanovV/stpv](https://github.com/NikitaIvanovV/stpv) - Simple Terminal PreViewer
