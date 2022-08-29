@@ -3124,7 +3124,6 @@
 - [MaslowCNC/Mechanics](https://github.com/MaslowCNC/Mechanics) - Digital Design Files
 - [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
 - [periodicpoint/robusta](https://github.com/periodicpoint/robusta) - A sound and versatile pandoc LaTeX boilerplate to produce academic articles using Markdown files featuring YAML, KOMA-Script, BibLaTeX and CSL
-- [periodicpoint/arabica](https://github.com/periodicpoint/arabica) - A sound and versatile pandoc LaTeX boilerplate to produce academic books using Markdown files featuring YAML, KOMA-Script, BibLaTeX and CSL
 - [lancopku/Chinese-Literature-NER-RE-Dataset](https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset) - A Discourse-Level Named Entity Recognition and Relation Extraction Dataset  for Chinese Literature Text
 - [lancopku/Chinese-abbreviation-dataset](https://github.com/lancopku/Chinese-abbreviation-dataset) - This is a corpus of Chinese abbreviation, including negative full forms.
 - [aidanruff/Solar-Tracker](https://github.com/aidanruff/Solar-Tracker) - Self aligning, 2 axis solar tracking system to optimise power
