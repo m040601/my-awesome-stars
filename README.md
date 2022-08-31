@@ -2277,6 +2277,7 @@
 - [ParticleCore/Iridium](https://github.com/ParticleCore/Iridium) - Iridium is an extension built to improve your experience with the new YouTube Material layout
 - [aranja/rakning-c19-app](https://github.com/aranja/rakning-c19-app) - App that helps to analyse individuals’ travel and trace their movements when cases of infection arise.
 - [nieldlr/decomposition-font-generator](https://github.com/nieldlr/decomposition-font-generator) - A font file generator for uncommon Chinese character glyphs usually derived from Chinese character decomposition.
+- [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
 - [Mailtrain-org/mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter app
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
 - [bekicot/scihub-firefox](https://github.com/bekicot/scihub-firefox) - Open scihub page in a new tab for current page's url.
@@ -3239,7 +3240,6 @@
 - [alexnathanson/solar-protocol](https://github.com/alexnathanson/solar-protocol) - A repository in development for a solar powered network of servers that host a distributed web platform. Project by Tega Brain, Alex Nathanson and Benedetta Piantella. Supported by Eyebeam Rapid Respo
 - [webkul/hotelcommerce](https://github.com/webkul/hotelcommerce) - Hotel & Booking Reservation Ecommerce system on Prestashop
 - [taoso/tagbar-markdown](https://github.com/taoso/tagbar-markdown) - vim-tagbar extension for markdown
-- [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
 - [SnaKKo/Fossdroid-Core](https://github.com/SnaKKo/Fossdroid-Core) - Fossdroid Core is a web frontend of F-Droid: an alternative software repository comprising only free, open source software for Android. This repo is the open source version of fossdroid.com.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
@@ -3413,6 +3413,8 @@
 
 ## Python 
 
+- [simonw/s3-ocr](https://github.com/simonw/s3-ocr) - Tools for running OCR against files stored in S3
+- [phildini/alameda-data](https://github.com/phildini/alameda-data) - Queryable data for the City of Alameda
 - [Inqbus/braille_radio](https://github.com/Inqbus/braille_radio) - A versatile commandline internet radio for braille users or small character displays (e.g. Raspberry Pi).
 - [cwahlmann/radiopi](https://github.com/cwahlmann/radiopi) - a raspberry pi internet radio
 - [strohne/Facepager](https://github.com/strohne/Facepager) - Facepager was made for fetching public available data from YouTube, Twitter and other websites on the basis of APIs and webscraping.
