@@ -166,6 +166,7 @@
 
 ## C 
 
+- [dmshaw/paperkey](https://github.com/dmshaw/paperkey) - Print an OpenPGP key on paper for archive and recovery
 - [jhe2/gmu](https://github.com/jhe2/gmu) - The Gmu Music Player
 - [openvehicles/Open-Vehicle-Monitoring-System-3](https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3) - Open Vehicle Monitoring System - Version 3
 - [OpenStick/linux](https://github.com/OpenStick/linux) - Linux mainline kernel fork for many Qualcomm MSM8916/APQ8016 devices
