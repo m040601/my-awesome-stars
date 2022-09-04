@@ -166,6 +166,8 @@
 
 ## C 
 
+- [eklhad/acsint](https://github.com/eklhad/acsint) - Accessibility intercepter - pass keystroke and tty events from the linux kernel to user space
+- [bakonyiferenc/fbkeyboard](https://github.com/bakonyiferenc/fbkeyboard) - a simple on screen keyboard for fbdev
 - [dmshaw/paperkey](https://github.com/dmshaw/paperkey) - Print an OpenPGP key on paper for archive and recovery
 - [jhe2/gmu](https://github.com/jhe2/gmu) - The Gmu Music Player
 - [openvehicles/Open-Vehicle-Monitoring-System-3](https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3) - Open Vehicle Monitoring System - Version 3
@@ -183,7 +185,7 @@
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [jart/bestline](https://github.com/jart/bestline) - ANSI Standard X3.64 Teletypewriter Command Session Library
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
-- [aaronamk/hkd](https://github.com/aaronamk/hkd) - Hotkey Daemon
+- [aaronamk/hkd](https://github.com/aaronamk/hkd) - Display Server Agnostic Hotkey Daemon
 - [ansilove/ansilove](https://github.com/ansilove/ansilove) - ANSI and ASCII art to PNG converter in C
 - [explosion-mental/mage](https://github.com/explosion-mental/mage) - iMAGE viewer
 - [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Read-only mirror of Neo Simple X Image Viewer
@@ -1438,6 +1440,7 @@
 - [xiaohanyu/oh-my-emacs](https://github.com/xiaohanyu/oh-my-emacs) - [Stopped] Provide an awesome, out-of-box, literate dotemacs for both newbies and nerds.
 - [technomancy/atreus-firmware](https://github.com/technomancy/atreus-firmware) - Firmware for the Atreus keyboard
 - [vikasrawal/orgpaper](https://github.com/vikasrawal/orgpaper) - Reproducible Research Papers using Org-mode and R: A Guide
+- [barrucadu/dotfiles](https://github.com/barrucadu/dotfiles) - My dotfiles and assorted other crap, managed with GNU Stow.
 
 ## FreeMarker 
 
@@ -1462,6 +1465,7 @@
 
 ## Go 
 
+- [tomnomnom/unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin
 - [pitr/wp](https://github.com/pitr/wp) - 
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [asg017/sqlite-html](https://github.com/asg017/sqlite-html) - A SQLite extension for querying, manipulating, and creating HTML elements.
@@ -1814,6 +1818,7 @@
 
 ## HTML 
 
+- [alan-turing-institute/ReadabiliPy](https://github.com/alan-turing-institute/ReadabiliPy) - A simple HTML content extractor in Python. Can be run as a wrapper for Mozilla's Readability.js package or in pure-python mode.
 - [radman1/sauce](https://github.com/radman1/sauce) - Standard Architecture for Universal Comment Extensions
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [papis/papis-zotero](https://github.com/papis/papis-zotero) - Zotero compatiblity scripts for papis
@@ -3414,6 +3419,7 @@
 
 ## Python 
 
+- [cbrews/ignition](https://github.com/cbrews/ignition) - Gemini Protocol Client for Python Developers
 - [simonw/s3-ocr](https://github.com/simonw/s3-ocr) - Tools for running OCR against files stored in S3
 - [phildini/alameda-data](https://github.com/phildini/alameda-data) - Queryable data for the City of Alameda
 - [Inqbus/braille_radio](https://github.com/Inqbus/braille_radio) - A versatile commandline internet radio for braille users or small character displays (e.g. Raspberry Pi).
@@ -5585,7 +5591,6 @@
 - [stef/utterson](https://github.com/stef/utterson) - a minimal static blog generator written using old-school unix tools (make, ksh, m4, awk, procmail and a pinch of elisp)
 - [micha/jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
 - [micha/resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
-- [barrucadu/dotfiles](https://github.com/barrucadu/dotfiles) - My dotfiles and assorted other crap, managed with GNU Stow.
 
 ## Smarty 
 
