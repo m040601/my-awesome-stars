@@ -7,6 +7,7 @@
 
 - [AGS Script](#ags-script)
 - [ActionScript](#actionscript)
+- [Adblock Filter List](#adblock-filter-list)
 - [Arduino](#arduino)
 - [Assembly](#assembly)
 - [AutoHotkey](#autohotkey)
@@ -108,6 +109,11 @@
 
 - [guokr/stan-cn-seg](https://github.com/guokr/stan-cn-seg) - A Chinese word segmentation package in stan-cn-* family
 
+## Adblock Filter List 
+
+- [FiltersHeroes/KADhosts](https://github.com/FiltersHeroes/KADhosts) - Wersja hosts filtrów KAD
+- [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
+
 ## Arduino 
 
 - [openenergymonitor/emontx2](https://github.com/openenergymonitor/emontx2) - emonTx V2 (through-hole design): A low power, wireless energy monitoring node based on Arduino / JeeNode
@@ -192,7 +198,7 @@
 - [geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) - Virtual cables between any audio source and any speaker in your home
 - [GoergPflug/AttinyStreamGfxApi](https://github.com/GoergPflug/AttinyStreamGfxApi) - Fast Graphics Library for Attiny85 and SSD1306 over I2c
 - [BelledonneCommunications/belle-sip](https://github.com/BelledonneCommunications/belle-sip) - Linphone.org mirror for belle-sip (git://git.linphone.org/belle-sip.git)
-- [nopnop2002/esp-idf-mpd-clinet](https://github.com/nopnop2002/esp-idf-mpd-clinet) - MPD client for ESP-IDF
+- [nopnop2002/esp-idf-mpd-client](https://github.com/nopnop2002/esp-idf-mpd-client) - MPD client for ESP-IDF
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 - [raysan5/raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
 - [jbensmann/xmouseless](https://github.com/jbensmann/xmouseless) - A fast and simple way to control the mouse.
@@ -1465,6 +1471,7 @@
 
 ## Go 
 
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [tomnomnom/unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin
 - [pitr/wp](https://github.com/pitr/wp) - 
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
@@ -3042,7 +3049,6 @@
 - [samhh/bangin](https://github.com/samhh/bangin) - bangin is a primitive, portable shell script which enables DuckDuckGo-like bangs.
 - [profet23/atreus62](https://github.com/profet23/atreus62) - Design files for the atreus62 keyboard
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
-- [FiltersHeroes/KADhosts](https://github.com/FiltersHeroes/KADhosts) - Wersja hosts filtrów KAD
 - [ScottHelme/revocation-endpoints](https://github.com/ScottHelme/revocation-endpoints) - A list of CRL and OCSP endpoints.
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [duyet/awesome-web-scraper](https://github.com/duyet/awesome-web-scraper) - A collection of awesome web scaper, crawler.
@@ -3419,6 +3425,7 @@
 
 ## Python 
 
+- [visidata/vdsql](https://github.com/visidata/vdsql) - VisiData interface for databases
 - [cbrews/ignition](https://github.com/cbrews/ignition) - Gemini Protocol Client for Python Developers
 - [simonw/s3-ocr](https://github.com/simonw/s3-ocr) - Tools for running OCR against files stored in S3
 - [phildini/alameda-data](https://github.com/phildini/alameda-data) - Queryable data for the City of Alameda
@@ -3635,7 +3642,6 @@
 - [notpike/Hambone](https://github.com/notpike/Hambone) - Raspberry Pi Bot for Ham Radio
 - [pimoroni/pirate-audio](https://github.com/pimoroni/pirate-audio) - Examples and documentation for the Pirate Audio range of Raspberry Pi add-ons
 - [yunsim/T9-predictive-text](https://github.com/yunsim/T9-predictive-text) - Implementation of T9 predictive text with C
-- [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 - [gauteh/lieer](https://github.com/gauteh/lieer) - Fast email-fetching and sending and two-way tag synchronization between notmuch and GMail
 - [google/gmail-oauth2-tools](https://github.com/google/gmail-oauth2-tools) - Tools and sample code for authenticating to Gmail with OAuth2
 - [the-black-eagle/script.streaming.radio.helper](https://github.com/the-black-eagle/script.streaming.radio.helper) - A python script to help skins cleanly display artist and track details when listening to streaming radio via Kodi
@@ -4875,6 +4881,7 @@
 
 ## Rust 
 
+- [jgoerzen/lorapipe](https://github.com/jgoerzen/lorapipe) - Pipe applications and networks over long-range LoRa radios
 - [Plume-org/Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)
 - [alexwennerberg/crabmail](https://github.com/alexwennerberg/crabmail) - a static html and gemini mail archive for the 21st century, written in Rust
 - [yaky-dev/cosmodrome](https://github.com/yaky-dev/cosmodrome) - Cosmodrome - build a static website and a Gemini capsule in parallel
@@ -5254,7 +5261,7 @@
 - [vparnas/scripts](https://github.com/vparnas/scripts) - A number of helper utilities not yet worthy of a separate repository.
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [OpenELEC/dvb-firmware](https://github.com/OpenELEC/dvb-firmware) - 
-- [dmn001/youtube_channel_archiver](https://github.com/dmn001/youtube_channel_archiver) - Starting point for archiving entire Youtube Channels using youtube-dl
+- [dmn001/youtube_channel_archiver](https://github.com/dmn001/youtube_channel_archiver) - Starting point for archiving entire YouTube channels using yt-dlp (originally youtube-dl)
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [jwilk/github-toolbox](https://github.com/jwilk/github-toolbox) - random GitHub tools
 - [chrisbra/wikipedia2text](https://github.com/chrisbra/wikipedia2text) - A commandline tool for querying the Wikipedia
@@ -5409,7 +5416,6 @@
 - [tmux-plugins/tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) - Quickly open any url on your terminal window!
 - [paretje/dotfiles](https://github.com/paretje/dotfiles) - My dotfiles
 - [nils-werner/raspi-overlayroot](https://github.com/nils-werner/raspi-overlayroot) - Protect your SD card against wear and tear
-- [postmarketOS/pmbootstrap](https://github.com/postmarketOS/pmbootstrap) - Repository has been moved! https://postmarketos.org/move.html#/pmbootstrap :truck: :truck: :truck:
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
