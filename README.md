@@ -172,6 +172,9 @@
 
 ## C 
 
+- [jschauma/xpipe](https://github.com/jschauma/xpipe) - split input and feed it into the given utility
+- [termbox/termbox2](https://github.com/termbox/termbox2) - suckless terminal rendering library
+- [RealMelkor/Vgmi](https://github.com/RealMelkor/Vgmi) - Gemini client with vim-like keybindings
 - [eklhad/acsint](https://github.com/eklhad/acsint) - Accessibility intercepter - pass keystroke and tty events from the linux kernel to user space
 - [bakonyiferenc/fbkeyboard](https://github.com/bakonyiferenc/fbkeyboard) - a simple on screen keyboard for fbdev
 - [dmshaw/paperkey](https://github.com/dmshaw/paperkey) - Print an OpenPGP key on paper for archive and recovery
@@ -191,7 +194,7 @@
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [jart/bestline](https://github.com/jart/bestline) - ANSI Standard X3.64 Teletypewriter Command Session Library
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
-- [aaronamk/hkd](https://github.com/aaronamk/hkd) - Display Server Agnostic Hotkey Daemon
+- [aaronamk/hkd](https://github.com/aaronamk/hkd) - Display-Server-Agnostic Hotkey Daemon for Linux
 - [ansilove/ansilove](https://github.com/ansilove/ansilove) - ANSI and ASCII art to PNG converter in C
 - [explosion-mental/mage](https://github.com/explosion-mental/mage) - iMAGE viewer
 - [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Read-only mirror of Neo Simple X Image Viewer
@@ -500,6 +503,7 @@
 - [TrilbyWhite/Iocane](https://github.com/TrilbyWhite/Iocane) - "Colorless, tasteless, oderless poison that will rid your system of its rodent infestation" i.e. simulates mouse events from the keyboard
 - [coreboot/chrome-ec](https://github.com/coreboot/chrome-ec) - Mirror of https://chromium.googlesource.com/chromiumos/platform/ec
 - [linuxstb/pidvbip](https://github.com/linuxstb/pidvbip) - tvheadend client for the Raspberry Pi
+- [r-lib/cli](https://github.com/r-lib/cli) - Tools for making beautiful & useful command line interfaces
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [gkarsay/parlatype](https://github.com/gkarsay/parlatype) - GNOME audio player for transcription
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
@@ -849,6 +853,7 @@
 
 ## C++ 
 
+- [TMRh20/RF24-Automation-Systems](https://github.com/TMRh20/RF24-Automation-Systems) - A repository for the code used in RF24 Home Automation Systems
 - [zaps166/QMPlay2](https://github.com/zaps166/QMPlay2) - QMPlay2 is a video and audio player which can play most formats and codecs.
 - [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [MaartenBaert/ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
@@ -869,7 +874,7 @@
 - [Martchus/arch-repo-manager](https://github.com/Martchus/arch-repo-manager) - Experimental project containing INOFFICIAL tools to manage custom Arch Linux repositories; built on top of tools provided by the pacman and devtools packages.
 - [Martchus/tagparser](https://github.com/Martchus/tagparser) - C++ library for reading and writing MP4/M4A/AAC (iTunes), ID3, Vorbis, Opus, FLAC and Matroska tags
 - [snyball/Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
-- [BCsabaEngine/RF24MeshSerial](https://github.com/BCsabaEngine/RF24MeshSerial) - Firmware for run RF24 Mesh network on ARM devices and access over TTY/serial (USB port)
+- [SegmentController/RF24MeshSerial](https://github.com/SegmentController/RF24MeshSerial) - Firmware for run RF24 Mesh network on ARM devices and access over TTY/serial (USB port)
 - [m5stack/ATOM-PRINTER](https://github.com/m5stack/ATOM-PRINTER) - M5Stack ATOM PRINTER firmware and examples
 - [BourgeoisLab/GPXLab](https://github.com/BourgeoisLab/GPXLab) - Program to show and manipulate GPS tracks
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
@@ -883,7 +888,7 @@
 - [DanBiscotti/jfbview](https://github.com/DanBiscotti/jfbview) - PDF and image viewer for the Linux framebuffer.
 - [RASPIAUDIO/museProto_radio](https://github.com/RASPIAUDIO/museProto_radio) - App for Muse PROTO board (ESP32 based)
 - [RASPIAUDIO/Simple_Bluetooth_Speaker_ESP32](https://github.com/RASPIAUDIO/Simple_Bluetooth_Speaker_ESP32) - App for Muse LUXE speaker (ESP32 based)
-- [muesli4/mpd-touch-screen-gui](https://github.com/muesli4/mpd-touch-screen-gui) - A small MPD client that let's you view covers and has controls suitable for small touchscreens. It allows to browse the queue, search for songs and run as standalone application.
+- [muesli4/mpd-touch-screen-gui](https://github.com/muesli4/mpd-touch-screen-gui) - A small and flexible MPD client that may act as standalone application for an audio system.
 - [muesli4/mpd-automount](https://github.com/muesli4/mpd-automount) - udisks2-based automounter that adds mountpoints to the mpd library.
 - [oe3cjb/TTGO-T-Beam-LoRa-APRS](https://github.com/oe3cjb/TTGO-T-Beam-LoRa-APRS) - Use TTGO T-Beam as LoRa APRS Tracker
 - [lora-aprs/LoRa_APRS_Tracker](https://github.com/lora-aprs/LoRa_APRS_Tracker) - A LoRa based APRS tracker for ESP32 boards.
@@ -1788,7 +1793,7 @@
 - [edi9999/path-extractor](https://github.com/edi9999/path-extractor) - A unix filter which outputs the filepaths found in stdin
 - [mattn/files](https://github.com/mattn/files) - Fast file find
 - [mattn/jvgrep](https://github.com/mattn/jvgrep) - grep for japanese vimmer
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
 - [monochromegane/the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher) - A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings.
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [ericlagergren/go-coreutils](https://github.com/ericlagergren/go-coreutils) - A cross-platform port of GNU's coreutils to Go
@@ -1825,6 +1830,7 @@
 
 ## HTML 
 
+- [jsvine/intro-to-visidata](https://github.com/jsvine/intro-to-visidata) - Source files for "An Introduction to VisiData"
 - [alan-turing-institute/ReadabiliPy](https://github.com/alan-turing-institute/ReadabiliPy) - A simple HTML content extractor in Python. Can be run as a wrapper for Mozilla's Readability.js package or in pure-python mode.
 - [radman1/sauce](https://github.com/radman1/sauce) - Standard Architecture for Universal Comment Extensions
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
@@ -1837,6 +1843,7 @@
 - [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
 - [feeby2494/chromebook_parts_tracker](https://github.com/feeby2494/chromebook_parts_tracker) - 
 - [Evoniuk/terminal-markdown](https://github.com/Evoniuk/terminal-markdown) - A markdown language for the terminal
+- [qq542vev/vim-style-newsboat](https://github.com/qq542vev/vim-style-newsboat) - Vim, Pentadactyl のキーボード操作を、 Newsboat で実現する試み。
 - [gammu/gsm-docs](https://github.com/gammu/gsm-docs) - GSM related documentation
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [arendst/Tasmota-firmware](https://github.com/arendst/Tasmota-firmware) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum
@@ -2317,7 +2324,7 @@
 - [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, end-to-end encrypted and open-source.
-- [postlight/mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
+- [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - Copying Link, Image and Tab(s) as Markdown Much Easier.
 - [Juris-M/zotero-odf-scan-plugin](https://github.com/Juris-M/zotero-odf-scan-plugin) - RTF/ODF-Scan for Zotero add-on
 - [GChristensen/scrapyard](https://github.com/GChristensen/scrapyard) - Bookmark heavy lifting
@@ -2863,7 +2870,6 @@
 - [ehildenb/pandoc-tangle](https://github.com/ehildenb/pandoc-tangle) - Simple tangler for Pandoc
 - [Orange-OpenSource/pandoc-terminal-writer](https://github.com/Orange-OpenSource/pandoc-terminal-writer) - Pretty-print text documents on a terminal using pandoc
 - [tomncooper/pandoc-gls](https://github.com/tomncooper/pandoc-gls) - A pandoc filter allowing easier syntax for the Latex glossaries package with Markdown documents
-- [sile-typesetter/casile](https://github.com/sile-typesetter/casile) - The CaSILE toolkit, a book publishing workflow employing SILE and other wizardry.
 - [pandoc/lua-filters](https://github.com/pandoc/lua-filters) - A collection of lua filters for pandoc
 - [dsanson/pandoc-questions.lua](https://github.com/dsanson/pandoc-questions.lua) - pandoc lua filter for managing different versions of a quiz or exam in a single document
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
@@ -2918,6 +2924,7 @@
 - [RuralHunter/CoreELEC](https://github.com/RuralHunter/CoreELEC) - This is CoreELEC for Phicomm N1 device only. Run ./mkn1 to build.
 - [probonopd/lirc-audio_alsa-for-openwrt](https://github.com/probonopd/lirc-audio_alsa-for-openwrt) - Use a soundcard input to receive infrared remote control signals.
 - [dilshan/usb2-power-hub](https://github.com/dilshan/usb2-power-hub) - 4-Port High Power USB 2.0 Hub
+- [sile-typesetter/casile](https://github.com/sile-typesetter/casile) - The CaSILE toolkit, a book publishing workflow employing SILE and other wizardry.
 - [vedetta-com/caesonia](https://github.com/vedetta-com/caesonia) - OpenBSD Email Service
 - [pjungwir/manpj](https://github.com/pjungwir/manpj) - Twenty years of tech notes, viewable as man pages
 - [cieplak/jz](https://github.com/cieplak/jz) - Tool for Configuring Jails, ZFS and pf on FreeBSD
@@ -2991,6 +2998,8 @@
 
 ## Others 
 
+- [paulstothard/helpful_commands](https://github.com/paulstothard/helpful_commands) - Command-line tools, commands, and code snippets for performing routine data processing and bioinformatics tasks.
+- [Allfifthstuning/awesome-groff-user-macrosets](https://github.com/Allfifthstuning/awesome-groff-user-macrosets) - Collection of user macrosets for groff typesetting system
 - [juhench/openwrt_nbg6515](https://github.com/juhench/openwrt_nbg6515) - OpenWrt Development Instructions for ZyXEL NBG6515 Router
 - [OpenStick/OpenStick](https://github.com/OpenStick/OpenStick) - reverse engineering on msm8916 based 4G modem.
 - [RadicalEd360/ArchUSB](https://github.com/RadicalEd360/ArchUSB) - 
@@ -4438,7 +4447,6 @@
 - [r-spatial/RQGIS3](https://github.com/r-spatial/RQGIS3) - 
 - [noamross/redoc](https://github.com/noamross/redoc) - [NOTE: Project in suspended animation for now] Reversible Reproducible Documents
 - [r-lib/prettycode](https://github.com/r-lib/prettycode) - Syntax highlight R code in the terminal
-- [r-lib/cli](https://github.com/r-lib/cli) - Tools for making beautiful & useful command line interfaces
 - [mdequeljoe/rdoc](https://github.com/mdequeljoe/rdoc) - colourised R docs in the terminal
 - [sensebox/opensensmapR](https://github.com/sensebox/opensensmapR) - R client for opensensemap.org
 - [cjgb/pxR](https://github.com/cjgb/pxR) - 
@@ -4634,6 +4642,7 @@
 
 ## Roff 
 
+- [Alhadis/Mono](https://github.com/Alhadis/Mono) - Troff macros for the 21st century.
 - [phillbush/incipit](https://github.com/phillbush/incipit) - the incipit plain text markup language, and some troff macro packages
 - [slavistan/lf-gadgets](https://github.com/slavistan/lf-gadgets) - A collection of useful and nifty use cases and configurations for lf.
 - [mkws-1/mkws](https://github.com/mkws-1/mkws) - A simple static site generator using `sh` as a templating language.
@@ -4881,6 +4890,7 @@
 
 ## Rust 
 
+- [jansc/ncgopher](https://github.com/jansc/ncgopher) - A gopher and gemini client for the modern internet
 - [jgoerzen/lorapipe](https://github.com/jgoerzen/lorapipe) - Pipe applications and networks over long-range LoRa radios
 - [Plume-org/Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)
 - [alexwennerberg/crabmail](https://github.com/alexwennerberg/crabmail) - a static html and gemini mail archive for the 21st century, written in Rust
@@ -5075,6 +5085,9 @@
 
 ## Shell 
 
+- [Bekaboo/pacman-install-comments](https://github.com/Bekaboo/pacman-install-comments) - Pacman hook for adding comments to explicitly installed packages.
+- [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
+- [dimkr/toolchains](https://github.com/dimkr/toolchains) - Toolchains for ultra-portable static binaries
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
 - [pirateradiohack/Transistor](https://github.com/pirateradiohack/Transistor) - Open source DIY web radio receiver!
 - [tavinus/pdfScale](https://github.com/tavinus/pdfScale) - Bash Script to Scale and Resize PDFs using Ghostscript
@@ -5131,7 +5144,6 @@
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [michaellihs/latex-pipeline](https://github.com/michaellihs/latex-pipeline) - 
 - [0xdanelia/cmenu](https://github.com/0xdanelia/cmenu) - Linux command line tool for selecting items from a list. Similar to dmenu, but remains on the command line and does not require a window manager.
-- [qq542vev/vim-style-newsboat](https://github.com/qq542vev/vim-style-newsboat) - Vim, Pentadactyl のキーボード操作を、 Newsboat で実現する試み。
 - [dmpop/otto](https://github.com/dmpop/otto) - Otto is a clever little 🐒 that imports and organizes photos on your Linux machine or NAS
 - [shinokada/tera](https://github.com/shinokada/tera) - Interactive Bash script terminal music radio player. Play your favorite radio station, CRUD your favorite lists, and explore new radio stations from your terminal.
 - [eshrh/ames](https://github.com/eshrh/ames) - Anki Media Extractor Script: Update anki cards with desktop audio and image on gnu/linux
@@ -5295,7 +5307,7 @@
 - [glacambre/.dotfiles](https://github.com/glacambre/.dotfiles) - My dotfiles. Install with `./install.sh`.
 - [eballetbo/chromebooks](https://github.com/eballetbo/chromebooks) - Chromebook Developer Tool
 - [huijunchen9260/dmenufm](https://github.com/huijunchen9260/dmenufm) - A simple file manager using dmenu
-- [qq542vev/w3mplus](https://github.com/qq542vev/w3mplus) - w3mの拡張機能。Pale Moon, Pentadactyl, Vimの機能と操作方法を模倣する試み。
+- [qq542vev/w3mplus](https://github.com/qq542vev/w3mplus) - w3mの拡張機能。Pale Moon, Pentadactyl, Vim の機能と操作方法を模倣する試み。
 - [p2rkw/xf86-input-mtrack](https://github.com/p2rkw/xf86-input-mtrack) - Xorg Multitouch Trackpad Driver
 - [bovine3dom/dotfiles](https://github.com/bovine3dom/dotfiles) - Managed by YADM.
 - [codekoala/pass-qr](https://github.com/codekoala/pass-qr) - A pass extension that lets you quickly generate a QR code for passwords using fzf or rofi
