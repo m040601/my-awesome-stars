@@ -111,6 +111,7 @@
 
 ## Adblock Filter List 
 
+- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 - [FiltersHeroes/KADhosts](https://github.com/FiltersHeroes/KADhosts) - Wersja hosts filtrów KAD
 - [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 
@@ -829,6 +830,7 @@
 
 ## C# # 
 
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your readi
 - [acidus99/NewsWaffle](https://github.com/acidus99/NewsWaffle) - Gemini frontend to any news site
 - [acidus99/Gemipedia](https://github.com/acidus99/Gemipedia) - Gemini frontend to Wikipedia
@@ -853,6 +855,7 @@
 
 ## C++ 
 
+- [Rain92/qt5-kobo-platform-plugin](https://github.com/Rain92/qt5-kobo-platform-plugin) - A Qt5 platform backend plugin for Kobo E-Ink devices.
 - [TMRh20/RF24-Automation-Systems](https://github.com/TMRh20/RF24-Automation-Systems) - A repository for the code used in RF24 Home Automation Systems
 - [zaps166/QMPlay2](https://github.com/zaps166/QMPlay2) - QMPlay2 is a video and audio player which can play most formats and codecs.
 - [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
@@ -1476,6 +1479,7 @@
 
 ## Go 
 
+- [micromata/dave](https://github.com/micromata/dave) - A totally simple and very easy to configure stand alone webdav server
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [tomnomnom/unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin
 - [pitr/wp](https://github.com/pitr/wp) - 
@@ -4482,7 +4486,7 @@
 - [juliasilge/tidytext](https://github.com/juliasilge/tidytext) - Text mining using tidy tools :sparkles::page_facing_up::sparkles:
 - [BAAQMD/copydat](https://github.com/BAAQMD/copydat) - Copy R data to clipboard
 - [hoxo-m/githubinstall](https://github.com/hoxo-m/githubinstall) - A Helpful Way to Install R Packages Hosted on GitHub
-- [ropensci/getlandsat](https://github.com/ropensci/getlandsat) - get landsat 8 images and metadata
+- [ropensci-archive/getlandsat](https://github.com/ropensci-archive/getlandsat) - :warning: ARCHIVED :warning: get landsat 8 images and metadata
 - [richfitz/sowsear](https://github.com/richfitz/sowsear) - Frictionless literate programming: generate knitr files from R scripts
 - [mrc-ide/syncr](https://github.com/mrc-ide/syncr) - :arrows_clockwise: R interface to rsync
 - [ropensci/rnaturalearth](https://github.com/ropensci/rnaturalearth) - an R package to hold and facilitate interaction with natural earth map data :earth_africa:
@@ -5094,7 +5098,6 @@
 - [Edenhofer/fakepkg](https://github.com/Edenhofer/fakepkg) - reassemble Arch Linux packages
 - [NikitaIvanovV/stpv](https://github.com/NikitaIvanovV/stpv) - Simple Terminal PreViewer
 - [jwmullally/openwrt-iscsi-target-ramdisk](https://github.com/jwmullally/openwrt-iscsi-target-ramdisk) - Remote boot your Linux OS with PXE + iSCSI on another computer
-- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 - [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
 - [dougy147/scitopdf](https://github.com/dougy147/scitopdf) - bash script to quickly fetch, download and open scientific papers from Sci-Hub's database.
 - [muesli4/archlinux-packages](https://github.com/muesli4/archlinux-packages) - PKGBUILD files to build some archlinux packages.
