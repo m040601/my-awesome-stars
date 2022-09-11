@@ -85,7 +85,6 @@
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
-- [Smarty](#smarty)
 - [Standard ML](#standard-ml)
 - [Svelte](#svelte)
 - [TSQL](#tsql)
@@ -112,6 +111,7 @@
 ## Adblock Filter List 
 
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
+- [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
 - [FiltersHeroes/KADhosts](https://github.com/FiltersHeroes/KADhosts) - Wersja hosts filtrów KAD
 - [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 
@@ -2832,6 +2832,7 @@
 
 ## Lua 
 
+- [stelzch/zotero.koplugin](https://github.com/stelzch/zotero.koplugin) - 
 - [acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion) - Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C...
 - [occivink/mpv-gallery-view](https://github.com/occivink/mpv-gallery-view) - Gallery-view scripts for mpv
 - [occivink/mpv-image-viewer](https://github.com/occivink/mpv-image-viewer) - Configuration, scripts and tips for using mpv as an image viewer
@@ -5612,10 +5613,6 @@
 - [stef/utterson](https://github.com/stef/utterson) - a minimal static blog generator written using old-school unix tools (make, ksh, m4, awk, procmail and a pinch of elisp)
 - [micha/jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
 - [micha/resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
-
-## Smarty 
-
-- [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
 
 ## Standard ML 
 
