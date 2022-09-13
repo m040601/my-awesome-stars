@@ -173,6 +173,12 @@
 
 ## C 
 
+- [jwilk/ttyjack](https://github.com/jwilk/ttyjack) - proof-of-concept tty hijacking via TIOCSTI or TIOCLINUX
+- [jwilk/vcsnoop](https://github.com/jwilk/vcsnoop) - Linux virtual console snooping via TIOCLINUX
+- [kilobyte/termrec](https://github.com/kilobyte/termrec) - tty recorder/player
+- [kilobyte/colorized-logs](https://github.com/kilobyte/colorized-logs) - tools for logs with ANSI color
+- [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux.
+- [kirdesde/Handsomemod](https://github.com/kirdesde/Handsomemod) - 
 - [jschauma/xpipe](https://github.com/jschauma/xpipe) - split input and feed it into the given utility
 - [termbox/termbox2](https://github.com/termbox/termbox2) - suckless terminal rendering library
 - [RealMelkor/Vgmi](https://github.com/RealMelkor/Vgmi) - Gemini client with vim-like keybindings
@@ -855,6 +861,7 @@
 
 ## C++ 
 
+- [oliverlew/fbterm](https://github.com/oliverlew/fbterm) - A personal fork only to keep the patches I need
 - [Rain92/qt5-kobo-platform-plugin](https://github.com/Rain92/qt5-kobo-platform-plugin) - A Qt5 platform backend plugin for Kobo E-Ink devices.
 - [TMRh20/RF24-Automation-Systems](https://github.com/TMRh20/RF24-Automation-Systems) - A repository for the code used in RF24 Home Automation Systems
 - [zaps166/QMPlay2](https://github.com/zaps166/QMPlay2) - QMPlay2 is a video and audio player which can play most formats and codecs.
@@ -1479,6 +1486,7 @@
 
 ## Go 
 
+- [TheThingsNetwork/lorawan-stack](https://github.com/TheThingsNetwork/lorawan-stack) - The Things Stack, an Open Source LoRaWAN Network Server
 - [micromata/dave](https://github.com/micromata/dave) - A totally simple and very easy to configure stand alone webdav server
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [tomnomnom/unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin
@@ -2128,6 +2136,7 @@
 
 ## Java 
 
+- [lastfm/coverartarchive-api](https://github.com/lastfm/coverartarchive-api) - Java data bindings for the Cover Art Archive (http://coverartarchive.org/).
 - [stream-pi/client](https://github.com/stream-pi/client) - Stream-Pi Client
 - [openremote/openremote](https://github.com/openremote/openremote) - 100% open-source IoT Platform - Integrate your devices, create rules, and analyse and visualise your data
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
@@ -3341,7 +3350,6 @@
 
 ## Perl 
 
-- [jwilk/url.sh](https://github.com/jwilk/url.sh) - this URL is also malicious(?!) shell script
 - [trapd00r/mpdcp](https://github.com/trapd00r/mpdcp) - copy track or album from an mpd server to destination
 - [omar-polo/mlmpl](https://github.com/omar-polo/mlmpl) - simple mailing list (and newsletter) manager
 - [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) - a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)
@@ -3439,6 +3447,8 @@
 
 ## Python 
 
+- [jwilk/vcsapeek](https://github.com/jwilk/vcsapeek) - Linux virtual console dumper
+- [alastair/python-musicbrainzngs](https://github.com/alastair/python-musicbrainzngs) - Python bindings for Musicbrainz' NGS webservice
 - [visidata/vdsql](https://github.com/visidata/vdsql) - VisiData interface for databases
 - [cbrews/ignition](https://github.com/cbrews/ignition) - Gemini Protocol Client for Python Developers
 - [simonw/s3-ocr](https://github.com/simonw/s3-ocr) - Tools for running OCR against files stored in S3
@@ -5090,6 +5100,8 @@
 
 ## Shell 
 
+- [jwilk/pagerboy](https://github.com/jwilk/pagerboy) - run program in a pty and pipe output to pager
+- [m98blk/fbcset](https://github.com/m98blk/fbcset) - fbterm color theme setter
 - [Bekaboo/pacman-install-comments](https://github.com/Bekaboo/pacman-install-comments) - Pacman hook for adding comments to explicitly installed packages.
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [dimkr/toolchains](https://github.com/dimkr/toolchains) - Toolchains for ultra-portable static binaries
@@ -5123,6 +5135,7 @@
 - [Wojnstup/PipeCatTurbo](https://github.com/Wojnstup/PipeCatTurbo) - PipeCat - but better. And written in bash!
 - [ghollingworth/overlayfs](https://github.com/ghollingworth/overlayfs) - 
 - [artemave/tmux_capture_last_command_output](https://github.com/artemave/tmux_capture_last_command_output) - Capture the output of the last terminal command and open it an editor in a separate tmux window.
+- [jwilk/url.sh](https://github.com/jwilk/url.sh) - this URL is also malicious(?!) shell script
 - [alpinelinux/alpine-chroot-install](https://github.com/alpinelinux/alpine-chroot-install) - Install Alpine Linux in chroot with a breeze. Build ARM on Travis CI or any other x86_64 CI.
 - [alpinelinux/alpine-make-rootfs](https://github.com/alpinelinux/alpine-make-rootfs) - Make customized Alpine Linux rootfs (base image) for containers
 - [gliderlabs/docker-alpine](https://github.com/gliderlabs/docker-alpine) - Alpine Linux Docker image. Win at minimalism!
@@ -5790,6 +5803,7 @@
 
 ## Vim Script 
 
+- [iranoan/dotfiles](https://github.com/iranoan/dotfiles) - 
 - [aaronamk/dotfiles](https://github.com/aaronamk/dotfiles) - Aaron's Linux configuration files
 - [vim-scripts/AnsiEsc.vim](https://github.com/vim-scripts/AnsiEsc.vim) - ansi escape sequences concealed, but highlighted as specified (conceal)
 - [Kobo-InkBox/rootfs](https://github.com/Kobo-InkBox/rootfs) - InkBox OS root filesystem
