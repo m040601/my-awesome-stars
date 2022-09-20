@@ -173,6 +173,12 @@
 
 ## C 
 
+- [csdvrx/CuteXterm](https://github.com/csdvrx/CuteXterm) - Sensible defaults for xterm in the 21st century
+- [csdvrx/sixel-tmux](https://github.com/csdvrx/sixel-tmux) - sixel-tmux is a fork of tmux, with just one goal: having the most reliable support of graphics
+- [timmbogner/Farm-Data-Relay-System](https://github.com/timmbogner/Farm-Data-Relay-System) - A system that uses ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.
+- [Openvario/meta-openvario](https://github.com/Openvario/meta-openvario) - Official OpenEmbedded layer for Openvario flight computer.
+- [OpenPrinting/hplip-printer-app](https://github.com/OpenPrinting/hplip-printer-app) - HPLIP Printer Application
+- [uobikiemukot/idump](https://github.com/uobikiemukot/idump) - tiny image viewer for framebuffer
 - [jwilk/ttyjack](https://github.com/jwilk/ttyjack) - proof-of-concept tty hijacking via TIOCSTI or TIOCLINUX
 - [jwilk/vcsnoop](https://github.com/jwilk/vcsnoop) - Linux virtual console snooping via TIOCLINUX
 - [kilobyte/termrec](https://github.com/kilobyte/termrec) - tty recorder/player
@@ -861,6 +867,13 @@
 
 ## C++ 
 
+- [landonr/esphome-remote](https://github.com/landonr/esphome-remote) - wifi smart home remote with display that runs on ESPHome. Uses on Lilygo T-Display or M5Stack Fire
+- [jbtronics/ESP32Console](https://github.com/jbtronics/ESP32Console) - Extensible UART console library for ESP32 with useful included commands.
+- [timmbogner/Linear-Spacing-Visualizer-for-Transplanters](https://github.com/timmbogner/Linear-Spacing-Visualizer-for-Transplanters) - This Arduino device uses an addressable LED strip synced to the movement of a tractor/transplanter to dictate precise plant spacing automatically or by remote input (coming soon).
+- [sandeepmistry/arduino-LoRa](https://github.com/sandeepmistry/arduino-LoRa) - An Arduino library for sending and receiving data using LoRa radios.
+- [timmbogner/LoRaNow](https://github.com/timmbogner/LoRaNow) - LoRaNow Library is a simple LoRa Node &lt;&gt; Gateway communication protocol.
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
+- [e1z0/Framebuffer-browser](https://github.com/e1z0/Framebuffer-browser) - Simple Linux framebuffer Web Browser based on QtWebEngine
 - [oliverlew/fbterm](https://github.com/oliverlew/fbterm) - A personal fork only to keep the patches I need
 - [Rain92/qt5-kobo-platform-plugin](https://github.com/Rain92/qt5-kobo-platform-plugin) - A Qt5 platform backend plugin for Kobo E-Ink devices.
 - [TMRh20/RF24-Automation-Systems](https://github.com/TMRh20/RF24-Automation-Systems) - A repository for the code used in RF24 Home Automation Systems
@@ -1486,6 +1499,8 @@
 
 ## Go 
 
+- [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [TheThingsNetwork/lorawan-stack](https://github.com/TheThingsNetwork/lorawan-stack) - The Things Stack, an Open Source LoRaWAN Network Server
 - [micromata/dave](https://github.com/micromata/dave) - A totally simple and very easy to configure stand alone webdav server
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -1583,7 +1598,7 @@
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [fasmide/schttp](https://github.com/fasmide/schttp) - An scp to http proxy / gateway thing...
 - [fasmide/remotemoe](https://github.com/fasmide/remotemoe) - tunnels to localhost and other ssh plumbing
-- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two laptops in close range. Linux, Mac, and Windows. iOS version available!
+- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two laptops in close range. Linux, macOS, Windows. iOS version available.
 - [schollz/find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
 - [schollz/syncdir](https://github.com/schollz/syncdir) - Automatically discover peers and synchronize a folder
 - [schollz/websitechanges](https://github.com/schollz/websitechanges) - Alerts you via email about a website change.
@@ -1646,7 +1661,7 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [shermp/UNCaGED](https://github.com/shermp/UNCaGED) - Universal Networked Calibre Go Ereader Device
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-- [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together, and build a community.
+- [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [writeas/writeas-cli](https://github.com/writeas/writeas-cli) - Command line client for Write.as / WriteFreely
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
@@ -1849,7 +1864,6 @@
 - [papis/papis-zotero](https://github.com/papis/papis-zotero) - Zotero compatiblity scripts for papis
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
-- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [amagovpt/observatory](https://github.com/amagovpt/observatory) - PT Observatory of Web Accessibility - the main app
 - [rugk/offline-qr-code](https://github.com/rugk/offline-qr-code) - 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
 - [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
@@ -2210,6 +2224,7 @@
 
 ## JavaScript 
 
+- [shimataro/ssh-key-action](https://github.com/shimataro/ssh-key-action) - GitHub Action that installs SSH key to .ssh
 - [erik/derive](https://github.com/erik/derive) - Generate personal heatmap from GPX/TCX/FIT/IGC data
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io
 - [dwmkerr/effective-shell](https://github.com/dwmkerr/effective-shell) - Text, samples and website for my 'Effective Shell' series.
@@ -2221,6 +2236,7 @@
 - [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files
 - [w3bdev1/alter](https://github.com/w3bdev1/alter) - A Firefox Add-on redirecting to privacy-friendly alternatives: https://addons.mozilla.org/addon/alter/
 - [OpenScan-org/OpenScan2](https://github.com/OpenScan-org/OpenScan2) - an improved firmware for the OpenScan devices, featuring many more cameras and a greatly improved overall usability
+- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [heussd/texttomail](https://github.com/heussd/texttomail) - Allows to e-mail pages that are viewed in reader mode.
 - [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadc
@@ -3012,6 +3028,7 @@
 
 ## Others 
 
+- [ricaun/LoRaNow-board](https://github.com/ricaun/LoRaNow-board) - LoRaNow Boards is a project with open source hardware using the Arduino (atmega328p) and LoRa Module (RFM95).
 - [paulstothard/helpful_commands](https://github.com/paulstothard/helpful_commands) - Command-line tools, commands, and code snippets for performing routine data processing and bioinformatics tasks.
 - [Allfifthstuning/awesome-groff-user-macrosets](https://github.com/Allfifthstuning/awesome-groff-user-macrosets) - Collection of user macrosets for groff typesetting system
 - [juhench/openwrt_nbg6515](https://github.com/juhench/openwrt_nbg6515) - OpenWrt Development Instructions for ZyXEL NBG6515 Router
@@ -3447,6 +3464,8 @@
 
 ## Python 
 
+- [alexpovel/ancv](https://github.com/alexpovel/ancv) - Renders your (JSON) resume/CV for online & pretty terminal display
+- [skylines-project/skylines](https://github.com/skylines-project/skylines) - Live tracking, flight database and competition framework
 - [jwilk/vcsapeek](https://github.com/jwilk/vcsapeek) - Linux virtual console dumper
 - [alastair/python-musicbrainzngs](https://github.com/alastair/python-musicbrainzngs) - Python bindings for Musicbrainz' NGS webservice
 - [visidata/vdsql](https://github.com/visidata/vdsql) - VisiData interface for databases
@@ -3862,7 +3881,7 @@
 - [ihabunek/radioscraper](https://github.com/ihabunek/radioscraper) - Scraping Croatian radio playlists
 - [magicalraccoon/tootstream](https://github.com/magicalraccoon/tootstream) - A command line interface for interacting with Mastodon instances
 - [Xunius/MeiTingTrunk](https://github.com/Xunius/MeiTingTrunk) - An open source reference management tool developed in PyQt5 and Python3.
-- [alicevision/meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
 - [RIPE-NCC/ripe-atlas-tools](https://github.com/RIPE-NCC/ripe-atlas-tools) - Official command-line client for RIPE Atlas
 - [RIPE-Atlas-Community/ripe-atlas-community-contrib](https://github.com/RIPE-Atlas-Community/ripe-atlas-community-contrib) - Repository for links towards tools written during hackathons, and a collection of contributions by the community of the RIPE Atlas visualizations, tools for analysing measurements data and other scrip
 - [mingrammer/awesome-finder](https://github.com/mingrammer/awesome-finder) - :sunglasses: Search the awesome curated list without browser
@@ -3956,7 +3975,7 @@
 - [standardebooks/tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files.
 - [meetmangukiya/instagram-scraper](https://github.com/meetmangukiya/instagram-scraper) - Scrape the Instagram frontend. Inspired from twitter-scraper by @kennethreitz.
 - [HariHend1973/lcd_mpd](https://github.com/HariHend1973/lcd_mpd) - 
-- [thp/urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
+- [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
 - [coderholic/pyradio](https://github.com/coderholic/pyradio) - Curses based internet radio player
 - [sdushantha/pyradio](https://github.com/sdushantha/pyradio) - 📻 Play your favorite radio station from the terminal
 - [schollz/raspberry-pi-turnkey](https://github.com/schollz/raspberry-pi-turnkey) - How to make a Raspberry Pi image that can be deployed anywhere and assigned to a WiFi network without SSH :ok_hand:
@@ -4034,7 +4053,7 @@
 - [jtauber/graded-reader](https://github.com/jtauber/graded-reader) - tools for creating computer-generated, corpus-driven graded readers
 - [smathot/academicmarkdown](https://github.com/smathot/academicmarkdown) - Academic writing with Markdown
 - [iwonbigbro/gsync](https://github.com/iwonbigbro/gsync) - RSync for Google Drive - GSync
-- [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 
+- [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
 - [devsnd/cherrymusic](https://github.com/devsnd/cherrymusic) - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server.
 - [scottlawsonbc/audio-reactive-led-strip](https://github.com/scottlawsonbc/audio-reactive-led-strip) - :musical_note: :rainbow: Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi
 - [readbeyond/lachesis](https://github.com/readbeyond/lachesis) - lachesis automates the segmentation of a transcript into closed captions
@@ -4090,7 +4109,7 @@
 - [dzone/osqa](https://github.com/dzone/osqa) - OSQA is a free, entry-level Q&A system from the makers of AnswerHub, the market-leading professional Q&A platform.   Looking for Enterprise functionality?  Checkout https://devada.com/answerhub/
 - [heldersepu/GMapCatcher](https://github.com/heldersepu/GMapCatcher) - An offline map viewer
 - [rspeer/wordfreq](https://github.com/rspeer/wordfreq) - Access a database of word frequencies, in various natural languages.
-- [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
+- [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [feihong/shu](https://github.com/feihong/shu) - A tool for making Chinese ebooks
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
@@ -4905,6 +4924,7 @@
 
 ## Rust 
 
+- [kugge/batimg](https://github.com/kugge/batimg) - Fast image/video printing in your terminal
 - [jansc/ncgopher](https://github.com/jansc/ncgopher) - A gopher and gemini client for the modern internet
 - [jgoerzen/lorapipe](https://github.com/jgoerzen/lorapipe) - Pipe applications and networks over long-range LoRa radios
 - [Plume-org/Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)
@@ -5100,6 +5120,7 @@
 
 ## Shell 
 
+- [alainwolf/roll.urown.net](https://github.com/alainwolf/roll.urown.net) - How to roll your own private self-hosted internet services.
 - [jwilk/pagerboy](https://github.com/jwilk/pagerboy) - run program in a pty and pipe output to pager
 - [m98blk/fbcset](https://github.com/m98blk/fbcset) - fbterm color theme setter
 - [Bekaboo/pacman-install-comments](https://github.com/Bekaboo/pacman-install-comments) - Pacman hook for adding comments to explicitly installed packages.
@@ -5803,6 +5824,7 @@
 
 ## Vim Script 
 
+- [pappasam/vim-keywordprg-commands](https://github.com/pappasam/vim-keywordprg-commands) - Plugin to create and manage user commands intended to look up keyword documentation in Vim
 - [iranoan/dotfiles](https://github.com/iranoan/dotfiles) - 
 - [aaronamk/dotfiles](https://github.com/aaronamk/dotfiles) - Aaron's Linux configuration files
 - [vim-scripts/AnsiEsc.vim](https://github.com/vim-scripts/AnsiEsc.vim) - ansi escape sequences concealed, but highlighted as specified (conceal)
