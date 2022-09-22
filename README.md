@@ -1821,7 +1821,7 @@
 - [edi9999/path-extractor](https://github.com/edi9999/path-extractor) - A unix filter which outputs the filepaths found in stdin
 - [mattn/files](https://github.com/mattn/files) - Fast file find
 - [mattn/jvgrep](https://github.com/mattn/jvgrep) - grep for japanese vimmer
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
 - [monochromegane/the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher) - A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings.
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [ericlagergren/go-coreutils](https://github.com/ericlagergren/go-coreutils) - A cross-platform port of GNU's coreutils to Go
@@ -3465,6 +3465,7 @@
 
 ## Python 
 
+- [repology/repology-webapp](https://github.com/repology/repology-webapp) - Repology web application
 - [alexpovel/ancv](https://github.com/alexpovel/ancv) - Renders your (JSON) resume/CV for online & pretty terminal display
 - [skylines-project/skylines](https://github.com/skylines-project/skylines) - Live tracking, flight database and competition framework
 - [jwilk/vcsapeek](https://github.com/jwilk/vcsapeek) - Linux virtual console dumper
