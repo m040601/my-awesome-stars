@@ -516,7 +516,6 @@
 - [TrilbyWhite/Iocane](https://github.com/TrilbyWhite/Iocane) - "Colorless, tasteless, oderless poison that will rid your system of its rodent infestation" i.e. simulates mouse events from the keyboard
 - [coreboot/chrome-ec](https://github.com/coreboot/chrome-ec) - Mirror of https://chromium.googlesource.com/chromiumos/platform/ec
 - [linuxstb/pidvbip](https://github.com/linuxstb/pidvbip) - tvheadend client for the Raspberry Pi
-- [r-lib/cli](https://github.com/r-lib/cli) - Tools for making beautiful & useful command line interfaces
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [gkarsay/parlatype](https://github.com/gkarsay/parlatype) - GNOME audio player for transcription
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
@@ -867,6 +866,7 @@
 
 ## C++ 
 
+- [Adrianotiger/phoneDTMF](https://github.com/Adrianotiger/phoneDTMF) - Detect DTMF without external devices
 - [landonr/esphome-remote](https://github.com/landonr/esphome-remote) - wifi smart home remote with display that runs on ESPHome. Uses on Lilygo T-Display or M5Stack Fire
 - [jbtronics/ESP32Console](https://github.com/jbtronics/ESP32Console) - Extensible UART console library for ESP32 with useful included commands.
 - [timmbogner/Linear-Spacing-Visualizer-for-Transplanters](https://github.com/timmbogner/Linear-Spacing-Visualizer-for-Transplanters) - This Arduino device uses an addressable LED strip synced to the movement of a tractor/transplanter to dictate precise plant spacing automatically or by remote input (coming soon).
@@ -3168,6 +3168,7 @@
 - [MaximeWack/tidyflow](https://github.com/MaximeWack/tidyflow) - Tidyflow: a workflow that fits the tidyverse
 - [codesections/gtypist_programming_characters](https://github.com/codesections/gtypist_programming_characters) - A typing lesson for gtypist focusing on the keys programmers use most frequently
 - [mdibaiee/awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites) - A list of awesome lightweight websites without all the bloat
+- [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 - [sigdeletras/qgis_recursos](https://github.com/sigdeletras/qgis_recursos) - Recursos para QGIS
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
@@ -3465,6 +3466,7 @@
 
 ## Python 
 
+- [mozilla-services/server-syncstorage](https://github.com/mozilla-services/server-syncstorage) - The SyncServer server software, as used by Firefox Sync
 - [repology/repology-webapp](https://github.com/repology/repology-webapp) - Repology web application
 - [alexpovel/ancv](https://github.com/alexpovel/ancv) - Renders your (JSON) resume/CV for online & pretty terminal display
 - [skylines-project/skylines](https://github.com/skylines-project/skylines) - Live tracking, flight database and competition framework
@@ -4483,6 +4485,7 @@
 - [r-spatial/RQGIS3](https://github.com/r-spatial/RQGIS3) - 
 - [noamross/redoc](https://github.com/noamross/redoc) - [NOTE: Project in suspended animation for now] Reversible Reproducible Documents
 - [r-lib/prettycode](https://github.com/r-lib/prettycode) - Syntax highlight R code in the terminal
+- [r-lib/cli](https://github.com/r-lib/cli) - Tools for making beautiful & useful command line interfaces
 - [mdequeljoe/rdoc](https://github.com/mdequeljoe/rdoc) - colourised R docs in the terminal
 - [sensebox/opensensmapR](https://github.com/sensebox/opensensmapR) - R client for opensensemap.org
 - [cjgb/pxR](https://github.com/cjgb/pxR) - 
@@ -4692,6 +4695,7 @@
 
 ## Ruby 
 
+- [sunaku/tamzen-font](https://github.com/sunaku/tamzen-font) - 💌 Bitmapped programming font, based on Tamsyn
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
 - [thredded/thredded](https://github.com/thredded/thredded) - The best Rails forums engine ever.
 - [Calamitous/iris](https://github.com/Calamitous/iris) - Serverless command-line forum software
@@ -4926,6 +4930,7 @@
 
 ## Rust 
 
+- [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
 - [kugge/batimg](https://github.com/kugge/batimg) - Fast image/video printing in your terminal
 - [jansc/ncgopher](https://github.com/jansc/ncgopher) - A gopher and gemini client for the modern internet
 - [jgoerzen/lorapipe](https://github.com/jgoerzen/lorapipe) - Pipe applications and networks over long-range LoRa radios
@@ -5122,6 +5127,7 @@
 
 ## Shell 
 
+- [smlinux/armbian-tanix-tx6](https://github.com/smlinux/armbian-tanix-tx6) - Armbian Linux build framework on stable Linux kernel
 - [alainwolf/roll.urown.net](https://github.com/alainwolf/roll.urown.net) - How to roll your own private self-hosted internet services.
 - [jwilk/pagerboy](https://github.com/jwilk/pagerboy) - run program in a pty and pipe output to pager
 - [m98blk/fbcset](https://github.com/m98blk/fbcset) - fbterm color theme setter
@@ -5418,7 +5424,6 @@
 - [cykerway/complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
 - [sdushantha/kunst](https://github.com/sdushantha/kunst) - Download and display album art or display embedded album art
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
-- [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [RespawnDespair/wifibroadcast-image-builder](https://github.com/RespawnDespair/wifibroadcast-image-builder) - Image builder for the EZ-Wifibroadcast project
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
