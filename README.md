@@ -2304,7 +2304,7 @@
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [trovu/trovu-web](https://github.com/trovu/trovu-web) - Trovu web interface.
 - [gorhill/uBO-Scope](https://github.com/gorhill/uBO-Scope) - A tool to measure over time your own exposure to third parties on the web
-- [yokoffing/Better-Fox](https://github.com/yokoffing/Better-Fox) - An up-to-date user.js to speed up and secure Firefox
+- [yokoffing/BetterFox](https://github.com/yokoffing/BetterFox) - An up-to-date user.js to speed up and secure Firefox
 - [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
 - [ndaidong/article-parser](https://github.com/ndaidong/article-parser) - To extract main article from given URL with Node.js
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
@@ -5088,12 +5088,11 @@
 
 ## SCSS 
 
-- [zyachel/libremdb](https://github.com/zyachel/libremdb) - A FOSS alternative front-end to IMDb.
 - [karan/nojs.club](https://github.com/karan/nojs.club) - You don't need Javascript to make a beautiful, usable web. How it works: https://goel.io/nojs-club
 - [minicomp/wax](https://github.com/minicomp/wax) - Jekyll based framework for minimal exhibitions with IIIF 🐝
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [chriskrycho/lightning-rs](https://github.com/chriskrycho/lightning-rs) - Yet another static site generator—but this one's written in Rust
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, easily build with widgets! 创建在线课程，学术简历或初创网站。#OpenScience
 - [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
 - [vim-advent-calendar/vimways.org](https://github.com/vim-advent-calendar/vimways.org) - vimways.org
 - [minicomp/ed](https://github.com/minicomp/ed) - A Jekyll theme for minimal editions :book:
@@ -5745,6 +5744,7 @@
 ## TypeScript 
 
 - [yktoo/infopi](https://github.com/yktoo/infopi) - InfoPi Information server application
+- [zyachel/libremdb](https://github.com/zyachel/libremdb) - A free & open source IMDb front-end.
 - [DigitalHERMES/hermes-gui](https://github.com/DigitalHERMES/hermes-gui) - HERMES Web interface code.
 - [adriancooney/puppeteer-heap-snapshot](https://github.com/adriancooney/puppeteer-heap-snapshot) - API and CLI tool to fetch and query Chome DevTools heap snapshots.
 - [Jaeyo/personal-archive](https://github.com/Jaeyo/personal-archive) - keep track of things you learn / discover everyday!
@@ -6103,6 +6103,7 @@
 
 ## XSLT 
 
+- [Earnestly/webfeeds](https://github.com/Earnestly/webfeeds) - web feed aggregator
 - [qmacro/thinking-aloud](https://github.com/qmacro/thinking-aloud) - A journal, of sorts.
 
 ## nesC 
