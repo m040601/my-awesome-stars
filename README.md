@@ -173,6 +173,7 @@
 
 ## C 
 
+- [justanhduc/task-spooler](https://github.com/justanhduc/task-spooler) - A scheduler for GPU/CPU tasks
 - [csdvrx/CuteXterm](https://github.com/csdvrx/CuteXterm) - Sensible defaults for xterm in the 21st century
 - [csdvrx/sixel-tmux](https://github.com/csdvrx/sixel-tmux) - sixel-tmux is a fork of tmux, with just one goal: having the most reliable support of graphics
 - [timmbogner/Farm-Data-Relay-System](https://github.com/timmbogner/Farm-Data-Relay-System) - A system that uses ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.
@@ -3466,6 +3467,9 @@
 
 ## Python 
 
+- [transitland/transitland-atlas](https://github.com/transitland/transitland-atlas) - an open directory of mobility feeds and operators — powers both Transitland v1 and v2
+- [MobilityData/mobility-database-catalogs](https://github.com/MobilityData/mobility-database-catalogs) - The Catalogs of Sources of the Mobility Database.
+- [binpash/pash](https://github.com/binpash/pash) - PaSh: Light-touch Data-Parallel Shell Processing
 - [mozilla-services/server-syncstorage](https://github.com/mozilla-services/server-syncstorage) - The SyncServer server software, as used by Firefox Sync
 - [repology/repology-webapp](https://github.com/repology/repology-webapp) - Repology web application
 - [alexpovel/ancv](https://github.com/alexpovel/ancv) - Renders your (JSON) resume/CV for online & pretty terminal display
