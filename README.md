@@ -173,6 +173,9 @@
 
 ## C 
 
+- [HandsomeMod/HandsomeMod](https://github.com/HandsomeMod/HandsomeMod) - IOT freedom for end users!
+- [IcedShake/openwrt-19.07-tl-wr840n-v6.x](https://github.com/IcedShake/openwrt-19.07-tl-wr840n-v6.x) - Unofficial OpenWrt 19.07 for the TP-Link TL-WR840N v6, v6.1, and v6.2
+- [espressif/qemu](https://github.com/espressif/qemu) - Fork of QEMU with Espressif patches. See Wiki for details.
 - [justanhduc/task-spooler](https://github.com/justanhduc/task-spooler) - A scheduler for GPU/CPU tasks
 - [csdvrx/CuteXterm](https://github.com/csdvrx/CuteXterm) - Sensible defaults for xterm in the 21st century
 - [csdvrx/sixel-tmux](https://github.com/csdvrx/sixel-tmux) - sixel-tmux is a fork of tmux, with just one goal: having the most reliable support of graphics
@@ -185,7 +188,7 @@
 - [kilobyte/termrec](https://github.com/kilobyte/termrec) - tty recorder/player
 - [kilobyte/colorized-logs](https://github.com/kilobyte/colorized-logs) - tools for logs with ANSI color
 - [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux.
-- [kirdesde/Handsomemod](https://github.com/kirdesde/Handsomemod) - 
+- [kirdesde/Handsomemod](https://github.com/kirdesde/Handsomemod) - This repository is a mirror of https://github.com/HandsomeMod/HandsomeMod It is for reference only and is not active for check-ins or for reporting issues
 - [jschauma/xpipe](https://github.com/jschauma/xpipe) - split input and feed it into the given utility
 - [termbox/termbox2](https://github.com/termbox/termbox2) - suckless terminal rendering library
 - [RealMelkor/Vgmi](https://github.com/RealMelkor/Vgmi) - Gemini client with vim-like keybindings
@@ -1500,6 +1503,7 @@
 
 ## Go 
 
+- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
 - [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
@@ -1615,7 +1619,7 @@
 - [ilius/crock32](https://github.com/ilius/crock32) - Douglas Crockford's Base32 encoding and decoding library in Go
 - [ilius/chunk32](https://github.com/ilius/chunk32) - The best encoding to write down binary data manually on a physical surface (paper, metal, etc)
 - [crazy-max/firefox-history-merger](https://github.com/crazy-max/firefox-history-merger) - Merge Firefox history and repair missing favicons with ease
-- [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
+- [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [a-h/min](https://github.com/a-h/min) - A Gemini browser (https://gemini.circumlunar.space)
@@ -1871,7 +1875,7 @@
 - [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
 - [feeby2494/chromebook_parts_tracker](https://github.com/feeby2494/chromebook_parts_tracker) - 
 - [Evoniuk/terminal-markdown](https://github.com/Evoniuk/terminal-markdown) - A markdown language for the terminal
-- [qq542vev/vim-style-newsboat](https://github.com/qq542vev/vim-style-newsboat) - Vim, Pentadactyl のキーボード操作を、 Newsboat で実現する試み。
+- [qq542vev/vim-style-newsboat](https://github.com/qq542vev/vim-style-newsboat) - Vim, Pentadactyl のキーボード操作を、Newsboat で実現する試み。
 - [gammu/gsm-docs](https://github.com/gammu/gsm-docs) - GSM related documentation
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [arendst/Tasmota-firmware](https://github.com/arendst/Tasmota-firmware) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum
@@ -2305,7 +2309,7 @@
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [trovu/trovu-web](https://github.com/trovu/trovu-web) - Trovu web interface.
 - [gorhill/uBO-Scope](https://github.com/gorhill/uBO-Scope) - A tool to measure over time your own exposure to third parties on the web
-- [yokoffing/BetterFox](https://github.com/yokoffing/BetterFox) - An up-to-date user.js to speed up and secure Firefox
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - An up-to-date user.js to speed up and secure Firefox
 - [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
 - [ndaidong/article-parser](https://github.com/ndaidong/article-parser) - To extract main article from given URL with Node.js
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
@@ -2981,6 +2985,7 @@
 ## Markdown 
 
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## MoonScript 
@@ -3030,6 +3035,7 @@
 
 ## Others 
 
+- [wick3dr0se/open-fetch](https://github.com/wick3dr0se/open-fetch) - An awesome(ly) curated list of open-source information fetch utilities
 - [ricaun/LoRaNow-board](https://github.com/ricaun/LoRaNow-board) - LoRaNow Boards is a project with open source hardware using the Arduino (atmega328p) and LoRa Module (RFM95).
 - [paulstothard/helpful_commands](https://github.com/paulstothard/helpful_commands) - Command-line tools, commands, and code snippets for performing routine data processing and bioinformatics tasks.
 - [Allfifthstuning/awesome-groff-user-macrosets](https://github.com/Allfifthstuning/awesome-groff-user-macrosets) - Collection of user macrosets for groff typesetting system
@@ -3077,7 +3083,6 @@
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [wemos/docs](https://github.com/wemos/docs) - 
 - [bsdhw/Trends](https://github.com/bsdhw/Trends) - Trends in Hardware
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [archdroid-org/repo](https://github.com/archdroid-org/repo) - Releases for the pkgbuilds repository.
 - [Twisted-Fields/acorn-mechanical-designs](https://github.com/Twisted-Fields/acorn-mechanical-designs) - Mechanical design information for Acorn, the precision farming rover from Twisted Fields
@@ -4639,7 +4644,7 @@
 - [ropensci/internetarchive](https://github.com/ropensci/internetarchive) - Search the Internet Archive, retrieve metadata, and download files
 - [yihui/servr](https://github.com/yihui/servr) - A simple HTTP server in R
 - [cboettig/template](https://github.com/cboettig/template) - :package: A template for my research projects, based on the R package structure
-- [r-lib/crayon](https://github.com/r-lib/crayon) - 🖍️ R package for colored terminal output
+- [r-lib/crayon](https://github.com/r-lib/crayon) - 🖍️ R package for colored terminal output — now superseded by cli
 - [qinwf/jiebaRD](https://github.com/qinwf/jiebaRD) - Chinese Text Segmentation Data for jiebaR Package
 - [rstudio/packrat](https://github.com/rstudio/packrat) - Packrat is a dependency management system for R
 - [cloudyr/imguR](https://github.com/cloudyr/imguR) - R imgur API Client
@@ -4934,6 +4939,8 @@
 
 ## Rust 
 
+- [ltratt/pizauth](https://github.com/ltratt/pizauth) - Command-line OAuth2 authentication daemon
+- [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
 - [kugge/batimg](https://github.com/kugge/batimg) - Fast image/video printing in your terminal
 - [jansc/ncgopher](https://github.com/jansc/ncgopher) - A gopher and gemini client for the modern internet
@@ -5130,6 +5137,8 @@
 
 ## Shell 
 
+- [Coralesoft/OpenwrtCloudflare](https://github.com/Coralesoft/OpenwrtCloudflare) - Raspberry Pi 4 or x86 OpenWrt Routers setting up Cloudflare tunnels
+- [helixarch/subedit](https://github.com/helixarch/subedit) - Command-line subtitle editor written in BASH
 - [smlinux/armbian-tanix-tx6](https://github.com/smlinux/armbian-tanix-tx6) - Armbian Linux build framework on stable Linux kernel
 - [alainwolf/roll.urown.net](https://github.com/alainwolf/roll.urown.net) - How to roll your own private self-hosted internet services.
 - [jwilk/pagerboy](https://github.com/jwilk/pagerboy) - run program in a pty and pipe output to pager
@@ -5277,7 +5286,7 @@
 - [mohd-akram/jawk](https://github.com/mohd-akram/jawk) - Awk for JSON.
 - [huijunchen9260/dmenubib](https://github.com/huijunchen9260/dmenubib) - A simple bibliography manager using dmenu
 - [chin123/archlinux-4044C](https://github.com/chin123/archlinux-4044C) - A guide with accompanying scripts to get a working arch linux chroot on the Alcatel 4044C, a $40 flip phone.
-- [oliverlew/xdg-xmenu](https://github.com/oliverlew/xdg-xmenu) - A shell script to generate menu for xmenu
+- [oliverlew/xdg-xmenu](https://github.com/oliverlew/xdg-xmenu) - Generate menu for xmenu
 - [brunomiguel/userrepository](https://github.com/brunomiguel/userrepository) - 
 - [dylanaraps/shfm](https://github.com/dylanaraps/shfm) - file manager written in posix shell
 - [jcorporation/myMPDos](https://github.com/jcorporation/myMPDos) - A music player image for Raspberry Pi based on Alpine Linux, MPD and myMPD.
@@ -5577,7 +5586,7 @@
 - [gummesson/dotfiles](https://github.com/gummesson/dotfiles) - A collection of assorted dotfiles.
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
 - [ornicar/dotfiles](https://github.com/ornicar/dotfiles) - My beloved Linux dot files for zsh, tmux, git, tig, vim, mpd, mutt, rtorrent, weechat, xmonad, urxvt, vimperator, ranger...
-- [sunaku/home](https://github.com/sunaku/home) - 🏡 $HOME directory (dot files & bin scripts)
+- [sunaku/home](https://github.com/sunaku/home) - 🏡 My $HOME directory (dot files & bin scripts)
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [tmux-plugins/tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings for quick opening of a highlighted file or url
 - [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
