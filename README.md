@@ -173,6 +173,11 @@
 
 ## C 
 
+- [alexivkin/CUPS-PDF-to-PDF](https://github.com/alexivkin/CUPS-PDF-to-PDF) - CUPS-PDF with a patch to print text correctly
+- [michaelrsweet/pappl](https://github.com/michaelrsweet/pappl) - PAPPL - Printer Application Framework
+- [michaelrsweet/lprint](https://github.com/michaelrsweet/lprint) - A Label Printer Application
+- [michaelrsweet/pdfio](https://github.com/michaelrsweet/pdfio) - PDFio is a simple C library for reading and writing PDF files.
+- [michaelrsweet/hp-printer-app](https://github.com/michaelrsweet/hp-printer-app) - Example printer application for HP PCL printers using PAPPL.
 - [HandsomeMod/HandsomeMod](https://github.com/HandsomeMod/HandsomeMod) - IOT freedom for end users!
 - [IcedShake/openwrt-19.07-tl-wr840n-v6.x](https://github.com/IcedShake/openwrt-19.07-tl-wr840n-v6.x) - Unofficial OpenWrt 19.07 for the TP-Link TL-WR840N v6, v6.1, and v6.2
 - [espressif/qemu](https://github.com/espressif/qemu) - Fork of QEMU with Espressif patches. See Wiki for details.
@@ -2255,7 +2260,7 @@
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [ShinobiCCTV/Shinobi](https://github.com/ShinobiCCTV/Shinobi) - :zap: Shinobi Pro - The Next Generation in Open-Source Video Management Software with support for over 6000 IP and USB Cameras
 - [edvardxyz/Tabs-in-title](https://github.com/edvardxyz/Tabs-in-title) - Firefox tabs in title, intended for firefox in kiosk/full-screen mode with dwm. With this extension you can see your tabs in the dwm bar.
-- [y-taka-23/wasm-pandoc](https://github.com/y-taka-23/wasm-pandoc) - Pandoc compiled into WebAssembly by Asterius.
+- [y-taka-23/wasm-pandoc](https://github.com/y-taka-23/wasm-pandoc) - Pandoc compiled into WebAssembly by Asterius. 📚
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [segfall/static-wiki](https://github.com/segfall/static-wiki) - Wikipedia using only static assets & no backend
 - [iiab/maps](https://github.com/iiab/maps) - Internet-in-a-Box (IIAB) Maps are like Google Maps but better, for schools especially, as they work offline (including satellite photos!) and avoid all the advertising.  LATEST README: https://github.
@@ -3472,6 +3477,7 @@
 
 ## Python 
 
+- [wkentaro/gdown](https://github.com/wkentaro/gdown) - Download a large file from Google Drive  (curl/wget fails because of the security notice).
 - [transitland/transitland-atlas](https://github.com/transitland/transitland-atlas) - an open directory of mobility feeds and operators — powers both Transitland v1 and v2
 - [MobilityData/mobility-database-catalogs](https://github.com/MobilityData/mobility-database-catalogs) - The Catalogs of Sources of the Mobility Database.
 - [binpash/pash](https://github.com/binpash/pash) - PaSh: Light-touch Data-Parallel Shell Processing
@@ -3716,7 +3722,7 @@
 - [felipos/newsboat-url-generator](https://github.com/felipos/newsboat-url-generator) - This script gets your Youtube subscriptions and generate a urls file for Newsboat
 - [simonw/conditional-get](https://github.com/simonw/conditional-get) - CLI tool for fetching data using HTTP conditional get
 - [jwilk/dothost](https://github.com/jwilk/dothost) - DNS lookup with Graphviz output
-- [jwilk/ocrodjvu](https://github.com/jwilk/ocrodjvu) - OCR for DjVu
+- [jwilk-archive/ocrodjvu](https://github.com/jwilk-archive/ocrodjvu) - OCR for DjVu
 - [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf) - A Python library for reading and writing PDF, powered by qpdf
 - [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
 - [CMB/cligh](https://github.com/CMB/cligh) - Command-line interface to GitHub
