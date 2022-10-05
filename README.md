@@ -86,6 +86,7 @@
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Standard ML](#standard-ml)
+- [SuperCollider](#supercollider)
 - [Svelte](#svelte)
 - [TSQL](#tsql)
 - [Tcl](#tcl)
@@ -1321,7 +1322,6 @@
 - [narakeet/examples](https://github.com/narakeet/examples) - Samples and examples for Narakeet scripts
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-- [iandol/dotpandoc](https://github.com/iandol/dotpandoc) - Pandoc Data directory, including customised filters and templates for producing multiple outputs for academic content.
 - [stonecrusher/simpleMenuWizard](https://github.com/stonecrusher/simpleMenuWizard) - Hide contextmenu items in Firefox Photon
 - [simonw/museums](https://github.com/simonw/museums) - A website recommending niche museums to visit
 - [slakkenhuis/pandoc.mk](https://github.com/slakkenhuis/pandoc.mk) - Simple PDF & static website generation using `make`, `jq` and `pandoc`.
@@ -2899,6 +2899,7 @@
 - [ISEMS/ISEMS-ESP32](https://github.com/ISEMS/ISEMS-ESP32) - ISEMS-Port for Solarnodes based on ESP32 Microcontrollers
 - [oliverlew/dotfiles](https://github.com/oliverlew/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
 - [AssrtOSS/mpv-assrt](https://github.com/AssrtOSS/mpv-assrt) - mpv自动下载字幕脚本 Automatically download subtitles from assrt.net
+- [iandol/dotpandoc](https://github.com/iandol/dotpandoc) - Pandoc Data directory, including customised filters and templates for producing multiple outputs for academic content.
 - [jgm/select-meta](https://github.com/jgm/select-meta) - Pandoc lua filter for constructing metadata from YAML data sources using queries
 - [ColumPaget/pocketeer.lua](https://github.com/ColumPaget/pocketeer.lua) - Lua script to list/add/delete items to getpocket.com. Requires libUseful and libUseful-lua
 - [teoric/pandoc-filters](https://github.com/teoric/pandoc-filters) - Pandoc filters
@@ -5677,6 +5678,10 @@
 
 - [GoldenCheetah/GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah) - Performance Software for Cyclists, Runners, Triathletes and Coaches
 - [dbohdan/initool](https://github.com/dbohdan/initool) - Manipulate INI files from the command line
+
+## SuperCollider 
+
+- [jonnieey/Sc-im-Tutorial](https://github.com/jonnieey/Sc-im-Tutorial) - 
 
 ## Svelte 
 
