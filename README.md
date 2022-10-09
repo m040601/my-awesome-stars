@@ -174,6 +174,8 @@
 
 ## C 
 
+- [dvarrazzo/py-setproctitle](https://github.com/dvarrazzo/py-setproctitle) - A Python module to customize the process title
+- [muennich/physlock](https://github.com/muennich/physlock) - Lightweight linux console locking tool
 - [alexivkin/CUPS-PDF-to-PDF](https://github.com/alexivkin/CUPS-PDF-to-PDF) - CUPS-PDF with a patch to print text correctly
 - [michaelrsweet/pappl](https://github.com/michaelrsweet/pappl) - PAPPL - Printer Application Framework
 - [michaelrsweet/lprint](https://github.com/michaelrsweet/lprint) - A Label Printer Application
@@ -2355,7 +2357,7 @@
 - [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 - [ankitects/anki-docs](https://github.com/ankitects/anki-docs) - Legacy documentation files
 - [FooSoft/yomichan](https://github.com/FooSoft/yomichan) - Japanese pop-up dictionary extension for Chrome and Firefox.
-- [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - IMPORTANT: development of this project has been paused, see the README (fast, simple map creation)
+- [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - fast, simple spatial data creation
 - [geoman-io/leaflet-geoman](https://github.com/geoman-io/leaflet-geoman) - 🍂🗺️ The most powerful leaflet plugin for drawing and editing geometry layers
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [IOTReboot/TasUI](https://github.com/IOTReboot/TasUI) - Javascript client for Tasmota
@@ -5064,7 +5066,7 @@
 - [JoshMcguigan/shell_completion](https://github.com/JoshMcguigan/shell_completion) - Write shell completion scripts in pure Rust
 - [samhh/bukubrow-host](https://github.com/samhh/bukubrow-host) - Host application for the Bukubrow WebExtension
 - [rabite0/hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated link aggregator in rust
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [ajmwagar/ufo](https://github.com/ajmwagar/ufo) - :rocket: :space_invader: A Drone/UAV Programming Library for Rust.
 - [TatriX/wordpress-to-zola](https://github.com/TatriX/wordpress-to-zola) - Convert wordpress xml dump to zola static site generator markdown files
@@ -5158,7 +5160,7 @@
 - [tavinus/pdfScale](https://github.com/tavinus/pdfScale) - Bash Script to Scale and Resize PDFs using Ghostscript
 - [Edenhofer/fakepkg](https://github.com/Edenhofer/fakepkg) - reassemble Arch Linux packages
 - [NikitaIvanovV/stpv](https://github.com/NikitaIvanovV/stpv) - Simple Terminal PreViewer
-- [jwmullally/openwrt-iscsi-target-ramdisk](https://github.com/jwmullally/openwrt-iscsi-target-ramdisk) - Remote boot your Linux OS with PXE + iSCSI on another computer
+- [jwmullally/openwrt-iscsi-target-ramdisk](https://github.com/jwmullally/openwrt-iscsi-target-ramdisk) - Remote boot your Linux or Windows OS with PXE + iSCSI on another computer
 - [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
 - [dougy147/scitopdf](https://github.com/dougy147/scitopdf) - bash script to quickly fetch, download and open scientific papers from Sci-Hub's database.
 - [muesli4/archlinux-packages](https://github.com/muesli4/archlinux-packages) - PKGBUILD files to build some archlinux packages.
