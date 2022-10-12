@@ -209,7 +209,7 @@
 - [asg017/sqlite-lines](https://github.com/asg017/sqlite-lines) - A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)
 - [rbaron/elink](https://github.com/rbaron/elink) - A daisy chain of electronic shelf labels
 - [jirutka/tty-copy](https://github.com/jirutka/tty-copy) - Copy content to system clipboard via TTY and terminal using ANSI OSC52 sequence
-- [NikitaIvanovV/ctpv](https://github.com/NikitaIvanovV/ctpv) - Terminal previewer
+- [NikitaIvanovV/ctpv](https://github.com/NikitaIvanovV/ctpv) - Previews for lf file manager
 - [NikitaIvanovV/ictree](https://github.com/NikitaIvanovV/ictree) - Like tree but interactive
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [nereusx/md2roff](https://github.com/nereusx/md2roff) - md2roff - convert markdown to groff / troff (man, mdoc, mm, mom) documents
@@ -1379,7 +1379,6 @@
 - [poole/poole](https://github.com/poole/poole) - The Jekyll Butler. A no frills responsive Jekyll blog theme.
 - [popcorn-time/popcorn-app](https://github.com/popcorn-time/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs.
 - [barraq/pandoc-moderncv](https://github.com/barraq/pandoc-moderncv) - Pandoc-ModernCV is a Pandoc fa­cil­i­ties for type­set­ting mod­ern cur­ricu­lums vi­tae. Inspired by the well known Latex ModernCV, it is fairly cus­tomiz­able, al­low­ing you to use predefined theme
-- [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [substance/io](https://github.com/substance/io) - IO is a minimal publishing system based on Pandoc, Substance and eLife Lens. It powers substance.io
 - [bgw/pan-am](https://github.com/bgw/pan-am) - Simple CSS for Pandoc
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
@@ -1829,7 +1828,7 @@
 - [huichen/sego](https://github.com/huichen/sego) - Go中文分词
 - [pebbe/textcat](https://github.com/pebbe/textcat) - A Go package for n-gram based text categorization, with support for utf-8 and raw text
 - [syncthing/syncthing-inotify](https://github.com/syncthing/syncthing-inotify) - File watcher intended for use with Syncthing (Linux, BSD, Windows, OSX)
-- [tealeg/xlsx](https://github.com/tealeg/xlsx) - Go (golang) library for reading and writing XLSX files.
+- [tealeg/xlsx](https://github.com/tealeg/xlsx) - (No longer maintained!) Go (golang) library for reading and writing XLSX files.
 - [edi9999/path-extractor](https://github.com/edi9999/path-extractor) - A unix filter which outputs the filepaths found in stdin
 - [mattn/files](https://github.com/mattn/files) - Fast file find
 - [mattn/jvgrep](https://github.com/mattn/jvgrep) - grep for japanese vimmer
@@ -1870,6 +1869,7 @@
 
 ## HTML 
 
+- [n0x5/n0x5.github.io](https://github.com/n0x5/n0x5.github.io) - test
 - [jsvine/intro-to-visidata](https://github.com/jsvine/intro-to-visidata) - Source files for "An Introduction to VisiData"
 - [alan-turing-institute/ReadabiliPy](https://github.com/alan-turing-institute/ReadabiliPy) - A simple HTML content extractor in Python. Can be run as a wrapper for Mozilla's Readability.js package or in pure-python mode.
 - [radman1/sauce](https://github.com/radman1/sauce) - Standard Architecture for Universal Comment Extensions
@@ -1877,6 +1877,7 @@
 - [papis/papis-zotero](https://github.com/papis/papis-zotero) - Zotero compatiblity scripts for papis
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [amagovpt/observatory](https://github.com/amagovpt/observatory) - PT Observatory of Web Accessibility - the main app
 - [rugk/offline-qr-code](https://github.com/rugk/offline-qr-code) - 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
 - [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
@@ -2249,7 +2250,6 @@
 - [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files
 - [w3bdev1/alter](https://github.com/w3bdev1/alter) - A Firefox Add-on redirecting to privacy-friendly alternatives: https://addons.mozilla.org/addon/alter/
 - [OpenScan-org/OpenScan2](https://github.com/OpenScan-org/OpenScan2) - an improved firmware for the OpenScan devices, featuring many more cameras and a greatly improved overall usability
-- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [heussd/texttomail](https://github.com/heussd/texttomail) - Allows to e-mail pages that are viewed in reader mode.
 - [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadc
@@ -2557,7 +2557,7 @@
 - [ha7ilm/openwebrx](https://github.com/ha7ilm/openwebrx) - Open source, multi-user SDR receiver software with a web interface
 - [cambecc/earth](https://github.com/cambecc/earth) - a project to visualize global weather conditions
 - [cyklokoalicia/OpenSourceBikeShare](https://github.com/cyklokoalicia/OpenSourceBikeShare) - The world's first low-cost and open source bike sharing system. (new version in development, use working "breakthrough" release instead!)
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [giacecco/twitter2rss](https://github.com/giacecco/twitter2rss) - A daemon to transform Twitter lists and searches in Atom feeds to be consumed by conventional news readers.
 - [wiki-hub/wiki-hub](https://github.com/wiki-hub/wiki-hub) - A small library that allows GitHub to be used as a wiki
 - [dafi/tocmd-generator](https://github.com/dafi/tocmd-generator) - Table of Contents Generator for Markdown pages
@@ -5121,6 +5121,7 @@
 - [npotts/httpmpc](https://github.com/npotts/httpmpc) - Simple HTTP Wrapper over MPD client connection
 - [yihui/blogdown-jekyll](https://github.com/yihui/blogdown-jekyll) - Automatically knit R Markdown documents, build them with Jekyll, and serve the website with servr locally
 - [thomaspark/pubcss](https://github.com/thomaspark/pubcss) - Format academic publications in HTML & CSS
+- [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 
 ## SMT 
 
