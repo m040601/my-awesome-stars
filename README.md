@@ -3480,6 +3480,7 @@
 
 ## Python 
 
+- [Demindiro/agreper](https://github.com/Demindiro/agreper) - Minimal, no-JS web forum software
 - [wkentaro/gdown](https://github.com/wkentaro/gdown) - Download a large file from Google Drive  (curl/wget fails because of the security notice).
 - [transitland/transitland-atlas](https://github.com/transitland/transitland-atlas) - an open directory of mobility feeds and operators — powers both Transitland v1 and v2
 - [MobilityData/mobility-database-catalogs](https://github.com/MobilityData/mobility-database-catalogs) - The Catalogs of Sources of the Mobility Database.
