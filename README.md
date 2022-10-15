@@ -2353,7 +2353,7 @@
 - [anvaka/peak-map](https://github.com/anvaka/peak-map) - Make a ridge line chart from any region on Earth
 - [evilpie/add-custom-search-engine](https://github.com/evilpie/add-custom-search-engine) - Add a custom search engine to the list of available search engines in Firefox
 - [kizniche/ttn-tracker](https://github.com/kizniche/ttn-tracker) - Download GPS data transmitted to The Things Network for live display on a map
-- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄‍♀️ A SurfingKeys config which adds 130+ key mappings & 50+ search engines
+- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄‍♀️ A SurfingKeys config which adds 180+ key mappings & 50+ search engines
 - [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 - [ankitects/anki-docs](https://github.com/ankitects/anki-docs) - Legacy documentation files
 - [FooSoft/yomichan](https://github.com/FooSoft/yomichan) - Japanese pop-up dictionary extension for Chrome and Firefox.
@@ -4108,7 +4108,7 @@
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [initialstate/fona-pi-zero](https://github.com/initialstate/fona-pi-zero) - Read from the Fona's GPS and then stream that data using it's cellular connection
 - [scottdarch/Arturo](https://github.com/scottdarch/Arturo) - Fork of amperka/ino to continue development.
-- [cihai/unihan-etl](https://github.com/cihai/unihan-etl) - Export UNIHAN's database to python, csv, json or yaml
+- [cihai/unihan-etl](https://github.com/cihai/unihan-etl) - Export UNIHAN's database to csv, json or yaml
 - [hltcoe/golden-horse](https://github.com/hltcoe/golden-horse) - Named Entity Recognition for Chinese social media (Weibo). From EMNLP 2015 paper.
 - [rreece/markdown2bib](https://github.com/rreece/markdown2bib) - Converts simple markdown-formatted APA bibliographies to bibtex
 - [tomduck/pandoc-tpp](https://github.com/tomduck/pandoc-tpp) - A pandoc template preprocessor.
