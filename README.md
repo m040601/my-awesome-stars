@@ -506,7 +506,7 @@
 - [harbaum/LCD2USB](https://github.com/harbaum/LCD2USB) - Cheap and simple USB to HD44780 text LCD interface
 - [nomeata/gtk-vector-screenshot](https://github.com/nomeata/gtk-vector-screenshot) - 
 - [hsoft/collapseos](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology
-- [ShadowsocksR-Live/shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 翻墙 从容穿越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
+- [ShadowsocksR-Live/shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 翻墙 从容穿越党国敏感日 ShadowsocksR (SSRoT) native implementation for all platforms, GFW terminator
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [OpenCPN/OpenCPN](https://github.com/OpenCPN/OpenCPN) - A concise ChartPlotter/Navigator. A cross-platform ship-borne GUI application supporting * GPS/GPDS Postition Input * BSB Raster Chart Display * S57 Vector ENChart Display * AIS Input Decoding * Waypo
 - [sjmulder/json-yaml](https://github.com/sjmulder/json-yaml) - Convert JSON to YAML and back
@@ -878,6 +878,7 @@
 
 ## C++ 
 
+- [cyborg5/IRLib2](https://github.com/cyborg5/IRLib2) - Library for receiving, decoding, and sending infrared signals using Arduino
 - [Adrianotiger/phoneDTMF](https://github.com/Adrianotiger/phoneDTMF) - Detect DTMF without external devices
 - [landonr/esphome-remote](https://github.com/landonr/esphome-remote) - wifi smart home remote with display that runs on ESPHome. Uses on Lilygo T-Display or M5Stack Fire
 - [jbtronics/ESP32Console](https://github.com/jbtronics/ESP32Console) - Extensible UART console library for ESP32 with useful included commands.
@@ -4333,7 +4334,7 @@
 - [jasperproject/jasper-client](https://github.com/jasperproject/jasper-client) - Client code for Jasper voice computing platform
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
-- [Anomareh/mynt](https://github.com/Anomareh/mynt) - A static site generator.
+- [uhnomoli/mynt](https://github.com/uhnomoli/mynt) - A static site generator.
 - [tkem/mopidy-podcast](https://github.com/tkem/mopidy-podcast) - Mopidy extension for browsing and playing podcasts
 - [nathangrigg/vimhelppdf](https://github.com/nathangrigg/vimhelppdf) - Create hyperlinked PDF file of the vim help documents
 - [FaustXVI/poche-to-calibre](https://github.com/FaustXVI/poche-to-calibre) - A script to get your inthepoche bookmarks down to calibre in epub format
@@ -4949,6 +4950,8 @@
 
 ## Rust 
 
+- [Builditluc/wiki-tui](https://github.com/Builditluc/wiki-tui) - A simple and easy to use Wikipedia Text User Interface
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [ltratt/pizauth](https://github.com/ltratt/pizauth) - Command-line OAuth2 authentication daemon
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
@@ -5148,6 +5151,8 @@
 
 ## Shell 
 
+- [hackerschoice/segfault](https://github.com/hackerschoice/segfault) - 
+- [dibdot/DoH-IP-blocklists](https://github.com/dibdot/DoH-IP-blocklists) - This repo contains the domain names and the IPv4/IPv6 addresses of public DoH server
 - [Coralesoft/OpenwrtCloudflare](https://github.com/Coralesoft/OpenwrtCloudflare) - Raspberry Pi 4 or x86 OpenWrt Routers setting up Cloudflare tunnels
 - [helixarch/subedit](https://github.com/helixarch/subedit) - Command-line subtitle editor written in BASH
 - [smlinux/armbian-tanix-tx6](https://github.com/smlinux/armbian-tanix-tx6) - Armbian Linux build framework on stable Linux kernel
