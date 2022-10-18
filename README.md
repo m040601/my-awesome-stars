@@ -174,6 +174,7 @@
 
 ## C 
 
+- [msm8916-mainline/linux](https://github.com/msm8916-mainline/linux) - Linux mainline kernel fork for many Qualcomm MSM8916/APQ8016 devices
 - [dvarrazzo/py-setproctitle](https://github.com/dvarrazzo/py-setproctitle) - A Python module to customize the process title
 - [muennich/physlock](https://github.com/muennich/physlock) - Lightweight linux console locking tool
 - [alexivkin/CUPS-PDF-to-PDF](https://github.com/alexivkin/CUPS-PDF-to-PDF) - CUPS-PDF with a patch to print text correctly
@@ -1921,7 +1922,7 @@
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [ubershmekel/cssbed](https://github.com/ubershmekel/cssbed) - Test bed for simple css resets that make your static page nice without classes.
-- [de-souza/hugo-flex](https://github.com/de-souza/hugo-flex) - A lightweight Hugo theme leveraging CSS Flexbox
+- [de-souza/hugo-flex](https://github.com/de-souza/hugo-flex) - A lightweight Hugo theme leveraging CSS Flexbox.
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [nickw1/hikar.org](https://github.com/nickw1/hikar.org) - The Hikar information website (only). Please see the README for the new repo for the AR.js-based Hikar webapp.
 - [spaghettiwews/hugonews](https://github.com/spaghettiwews/hugonews) - hugo theme (based on https://news.ycombinator.com) for https://bookmarks.wews.co.zw
@@ -3875,6 +3876,7 @@
 - [alpianon/pandoc-inline-headers](https://github.com/alpianon/pandoc-inline-headers) - Pandoc filter to render headers as inline headers in html, docx and odt conversion
 - [gamoutatsumi/pandoc-kakuyomu-ruby](https://github.com/gamoutatsumi/pandoc-kakuyomu-ruby) - カクヨム風のルビと圏点に対応したPandocフィルタ
 - [euri10/gols](https://github.com/euri10/gols) - upload garmin runs automatically on linux
+- [nickspaargaren/no-google](https://github.com/nickspaargaren/no-google) - Completely block Google and its services
 - [XavierBerger/pcd8544](https://github.com/XavierBerger/pcd8544) - Raspberry Pi python library to drive PCD8544 LCD (Nokia 5110)
 - [XavierBerger/RPi-Monitor-LCD](https://github.com/XavierBerger/RPi-Monitor-LCD) - Add a LCD screen to RPi-Monitor
 - [opengisch/qfieldsync](https://github.com/opengisch/qfieldsync) - Sync your projects to QField on android
@@ -5116,7 +5118,7 @@
 - [minicomp/wax](https://github.com/minicomp/wax) - Jekyll based framework for minimal exhibitions with IIIF 🐝
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [chriskrycho/lightning-rs](https://github.com/chriskrycho/lightning-rs) - Yet another static site generator—but this one's written in Rust
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, easily build with widgets! 创建在线课程，学术简历或初创网站。#OpenScience
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, easily build with blocks! 创建在线课程，学术简历或初创网站。#OpenScience
 - [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
 - [vim-advent-calendar/vimways.org](https://github.com/vim-advent-calendar/vimways.org) - vimways.org
 - [minicomp/ed](https://github.com/minicomp/ed) - A Jekyll theme for minimal editions :book:
@@ -5413,7 +5415,6 @@
 - [luigifcruz/pisdr-image](https://github.com/luigifcruz/pisdr-image) - 🥧 A SDR Linux Distro for the Raspberry Pi and other SBC. Compatible out of the box with multiple SDR.
 - [riichard/pocket-sh-add](https://github.com/riichard/pocket-sh-add) - Shell script to bookmark URLs to getpocket.com. No libraries, just shell & curl.
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
-- [nickspaargaren/no-google](https://github.com/nickspaargaren/no-google) - Completely block Google and its services
 - [ThomasKaiser/sbc-bench](https://github.com/ThomasKaiser/sbc-bench) - Simple benchmark for single board computers
 - [brainfucksec/archtorify](https://github.com/brainfucksec/archtorify) - Transparent proxy through Tor for Arch Linux OS
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
