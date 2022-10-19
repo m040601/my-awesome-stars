@@ -5268,7 +5268,7 @@
 - [hexdump0815/u-boot-chainloading-for-arm-chromebooks](https://github.com/hexdump0815/u-boot-chainloading-for-arm-chromebooks) - notes on u-boot chainloading for arm chromebooks
 - [The-Compiler/sshtunnel](https://github.com/The-Compiler/sshtunnel) - Managing of ssh tunnels via systemd
 - [kazhala/dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf
-- [adsr/rw.rs](https://github.com/adsr/rw.rs) - Free shell account and web 1.0 hosting @ http://rw.rs/~you
+- [adsr/rw.rs](https://github.com/adsr/rw.rs) - free shell account and web 1.0 hosting @ http://rw.rs/~you
 - [RaymiiOrg/bash-http-monitoring](https://github.com/RaymiiOrg/bash-http-monitoring) - HTTP(s) monitoring webpage via shell script
 - [e-zk/shlog](https://github.com/e-zk/shlog) - a static blog generator in /bin/sh: rewrite pending
 - [ropery/FFcast](https://github.com/ropery/FFcast) - Run command on rectangular screen regions
