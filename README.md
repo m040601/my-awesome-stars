@@ -115,6 +115,7 @@
 - [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
 - [FiltersHeroes/KADhosts](https://github.com/FiltersHeroes/KADhosts) - Wersja hosts filtrów KAD
 - [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
+- [migueldemoura/ublock-umatrix-rulesets](https://github.com/migueldemoura/ublock-umatrix-rulesets) - Hosts and uBlock Rulesets
 
 ## Arduino 
 
@@ -3149,7 +3150,6 @@
 - [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
 - [joseignaci/Recursos-Informacion-Geografica](https://github.com/joseignaci/Recursos-Informacion-Geografica) - Recursos abiertos de Información Geográfica para la investigación
 - [brunomiguel/antinonio](https://github.com/brunomiguel/antinonio) - Lista de bloqueios para a plataforma Nónio
-- [migueldemoura/ublock-umatrix-rulesets](https://github.com/migueldemoura/ublock-umatrix-rulesets) - Hosts and uBlock Rulesets
 - [adafruit/awesome-feather](https://github.com/adafruit/awesome-feather) - A curated list of awesome Feather form factor boards, guides, videos, libraries, software and resources.
 - [hsgw/tartan](https://github.com/hsgw/tartan) - 60% keyboard made by through-hole parts only
 - [hsgw/plaid](https://github.com/hsgw/plaid) - 12x4 ortholinear usb keyboard made by Through Hole components ONLY.
