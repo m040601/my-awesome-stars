@@ -175,7 +175,7 @@
 
 ## C 
 
-- [msm8916-mainline/linux](https://github.com/msm8916-mainline/linux) - Linux mainline kernel fork for many Qualcomm MSM8916/APQ8016 devices
+- [msm8916-mainline/linux](https://github.com/msm8916-mainline/linux) - Linux mainline kernel fork for various Qualcomm MSM8909/MSM8916/MSM8939 devices
 - [dvarrazzo/py-setproctitle](https://github.com/dvarrazzo/py-setproctitle) - A Python module to customize the process title
 - [muennich/physlock](https://github.com/muennich/physlock) - Lightweight linux console locking tool
 - [alexivkin/CUPS-PDF-to-PDF](https://github.com/alexivkin/CUPS-PDF-to-PDF) - CUPS-PDF with a patch to print text correctly
@@ -558,7 +558,7 @@
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
 - [bontibon/kjv](https://github.com/bontibon/kjv) - Read the Word of God from your terminal
 - [mananapr/cfiles](https://github.com/mananapr/cfiles) - A ncurses file manager written in C with vim like keybindings
-- [drkhsh/slstatus](https://github.com/drkhsh/slstatus) - slstatus is a suckless status monitor for window managers that use WM_NAME (e.g. dwm) or stdin to fill the status bar - mirror from suckless
+- [drkhsh/slstatus](https://github.com/drkhsh/slstatus) - mirror from suckless.org. send patches to hackers@suckless.org mailing list. NO PRs
 - [ropensci/rsvg](https://github.com/ropensci/rsvg) - SVG renderer for R based on librsvg2
 - [r-rust/gifski](https://github.com/r-rust/gifski) - R wrapper for the 'gifski' Rust Cargo crate.
 - [nicm/fdm](https://github.com/nicm/fdm) - fdm source code
@@ -1973,7 +1973,7 @@
 - [flukus/flukus.github.io](https://github.com/flukus/flukus.github.io) - 
 - [kaihendry/natalian](https://github.com/kaihendry/natalian) - Kai Hendry's blog
 - [ropensci-archive/roweb2](https://github.com/ropensci-archive/roweb2) - :no_entry: ARCHIVED :no_entry:
-- [allo-/firefox-profilemaker](https://github.com/allo-/firefox-profilemaker) - Tool to create firefox profiles with good defaults.
+- [allo-/firefox-profilemaker](https://github.com/allo-/firefox-profilemaker) - A tool to create firefox profiles with personalized defaults.
 - [CollectionBuilder/collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh) - a Jekyll project to create a basic digital collection exhibit. See Readme below for instructions to get started!
 - [christian-fei/christian-fei.github.io-pandoc](https://github.com/christian-fei/christian-fei.github.io-pandoc) - 
 - [simon04/POImap](https://github.com/simon04/POImap) - Lightweight POI (point of interest) maps based on OpenStreetMap, Leaflet and Overpass API
@@ -3515,7 +3515,7 @@
 - [mitxela/ddc-oled](https://github.com/mitxela/ddc-oled) - 
 - [pgdr/ph](https://github.com/pgdr/ph) - ph — the tabular data shell tool
 - [lekma/plugin.video.invidious](https://github.com/lekma/plugin.video.invidious) - Invidious Addon for Kodi
-- [iamtalhaasghar/yewtube](https://github.com/iamtalhaasghar/yewtube) - Terminal based YouTube player and downloader. No Youtube API key required. Forked from mps-youtube
+- [iamtalhaasghar/yewtube](https://github.com/iamtalhaasghar/yewtube) - Terminal based YouTube player and downloader. No Youtube API key required. Forked from https://github.com/mps-youtube/mps-youtube
 - [woefe/ytcc](https://github.com/woefe/ytcc) - Command line tool to keep track of your favorite playlists on YouTube and many other places.
 - [Wojnstup/PipeCat](https://github.com/Wojnstup/PipeCat) - A command line Youtube music player written in python. It's an app written for Linux. It also supports offline playlists that are stored in a playlists.db file. More documentation coming soon.
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
