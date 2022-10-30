@@ -73,6 +73,7 @@
 - [PowerShell](#powershell)
 - [Processing](#processing)
 - [Prolog](#prolog)
+- [Pug](#pug)
 - [Python](#python)
 - [QML](#qml)
 - [R](#r)
@@ -394,6 +395,7 @@
 - [phillbush/shod-old](https://github.com/phillbush/shod-old) - hybrid (floating and tiling) tabbed window manager
 - [phillbush/focus](https://github.com/phillbush/focus) - Focus window, workspace or monitor by direction or cycle through them.
 - [phillbush/xclickroot](https://github.com/phillbush/xclickroot) - click on root window and run a command
+- [oliverlew/xdg-xmenu](https://github.com/oliverlew/xdg-xmenu) - Generate menu for xmenu
 - [phillbush/xmenu](https://github.com/phillbush/xmenu) - a x11 menu utility
 - [gunboy001/hkd](https://github.com/gunboy001/hkd) - simple hotkey daemon using linux's evdev interface
 - [bitluni/ESP32Lib](https://github.com/bitluni/ESP32Lib) - 
@@ -596,6 +598,7 @@
 - [posva/catimg](https://github.com/posva/catimg) - 🦦 Insanely fast image printing in your terminal
 - [kevinboone/epub2txt2](https://github.com/kevinboone/epub2txt2) - A simple command-line utility for Linux, for extracting text from EPUB documents.
 - [kevinboone/epub2txt](https://github.com/kevinboone/epub2txt) - A simple utility to extract text from EPUB documents and, optionally, format it
+- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [karawin/Ka-Radio32](https://github.com/karawin/Ka-Radio32) - esp32 version of Ka-Radio (https://github.com/karawin/Ka-Radio) by jp Cocatrix
 - [lyusupov/SoftRF](https://github.com/lyusupov/SoftRF) - :airplane:  Multi-functional, compatible DIY general aviation proximity awareness system
 - [Heltec-Aaron-Lee/WiFi_Kit_series](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series) - Arduino source codes and toolchain for WiFi_Kit_series made by HelTecAutomation.
@@ -756,7 +759,6 @@
 - [jeroen/gpg](https://github.com/jeroen/gpg) - Bindings to gpgme for R
 - [ekovac/x86term](https://github.com/ekovac/x86term) - A terminal emulator for running on bare x86 machines.
 - [patrickhaller/no-wm](https://github.com/patrickhaller/no-wm) - Use X11 without a window manager
-- [rstudio/markdown](https://github.com/rstudio/markdown) - The first generation of Markdown rendering for R. This *markdown* package has entered the maintenance-only mode in 2018. You are most likely to be looking at the wrong repo, and should go to the *rmar
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [antirez/linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
 - [ardagnir/athame](https://github.com/ardagnir/athame) - Full vim for your shell (bash, zsh, gdb, python, etc)
@@ -938,7 +940,7 @@
 - [SebastianHinz73/InternetRadio](https://github.com/SebastianHinz73/InternetRadio) - With this repository, Espressif's LyraT board becomes an Internet radio.
 - [xavery/dcue](https://github.com/xavery/dcue) - DCue is a tool for generating CUE sheets from Discogs data.
 - [nopnop2002/esp8266-mpd-client](https://github.com/nopnop2002/esp8266-mpd-client) - MPD client example for ESP8266/ESP32.
-- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Project currently on an indefinite hiatus.
+- [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - **Old repository**. Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems.
 - [DjordjeMandic/Universal-IR-Blaster-TV-B-Gone](https://github.com/DjordjeMandic/Universal-IR-Blaster-TV-B-Gone) - TV-B-Gone on steroids using Universal IR Blaster board
 - [wagiminator/ATtiny13-TinyUPS](https://github.com/wagiminator/ATtiny13-TinyUPS) - Uninterruptible Power Supply
 - [wagiminator/ATtiny13-TinyRemote](https://github.com/wagiminator/ATtiny13-TinyRemote) - IR Remote Control
@@ -1193,7 +1195,7 @@
 - [ReiniervdL/Vinduino](https://github.com/ReiniervdL/Vinduino) - Vinduino is an open license project for agricultural irrigation management
 - [ItKindaWorks/ESPHelper](https://github.com/ItKindaWorks/ESPHelper) - A library to make using WiFi & MQTT on the ESP8266 easy.
 - [me-no-dev/ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async Web Server for ESP8266 and ESP32
-- [adafruit/RTClib](https://github.com/adafruit/RTClib) - A fork of Jeelab's fantastic RTC library
+- [adafruit/RTClib](https://github.com/adafruit/RTClib) - A fork of Jeelab's fantastic RTC Arduino library
 - [jpmeijers/RN2483-Arduino-Library](https://github.com/jpmeijers/RN2483-Arduino-Library) - Arduino C++ code to communicate with a Microchip RN2483 module
 - [kitesurfer1404/WS2812FX](https://github.com/kitesurfer1404/WS2812FX) - WS2812 FX Library for Arduino and ESP8266
 - [kakopappa/arduino-esp8266-alexa-wemo-switch](https://github.com/kakopappa/arduino-esp8266-alexa-wemo-switch) - Amazon Alexa  + WeMos switch made with Arduino D1 Mini
@@ -1356,7 +1358,7 @@
 - [alexbain/lirc_web](https://github.com/alexbain/lirc_web) - Control LIRC from the web using NodeJS and lirc_node
 - [DARIAH-TDA/DARIAH-NLP.github.io](https://github.com/DARIAH-TDA/DARIAH-NLP.github.io) - 
 - [mrzool/tex-boilerplates](https://github.com/mrzool/tex-boilerplates) - Website for the LaTeX Boilerplates
-- [Screenly/screenly-ose](https://github.com/Screenly/screenly-ose) - The most popular digital signage project on Github!
+- [Screenly/screenly-ose](https://github.com/Screenly/screenly-ose) - The most popular digital signage project on GitHub!
 - [kilianc/rtail](https://github.com/kilianc/rtail) - rtail(1) - Terminal output to the browser in seconds, using UNIX pipes.
 - [kaihendry/archpi.dabase.com](https://github.com/kaihendry/archpi.dabase.com) - Turning Wordsister into a FAQ site
 - [bamos/reading-list](https://github.com/bamos/reading-list) - My reading list.
@@ -1510,6 +1512,7 @@
 
 ## Go 
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
 - [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
@@ -1898,6 +1901,7 @@
 - [doersino/nyum](https://github.com/doersino/nyum) - A simple Pandoc-powered static site generator for your recipe collection – it effortlessly turns a set of Markdown-formatted recipes into a lightweight, responsive, searchable website.
 - [manubot/manubot.org](https://github.com/manubot/manubot.org) - Source code for https://manubot.org
 - [openenergymonitor/learn](https://github.com/openenergymonitor/learn) - OpenEnergyMonitor learning resources (previously building blocks)
+- [alexnathanson/solar-protocol](https://github.com/alexnathanson/solar-protocol) - A repository in development for a solar powered network of servers that host a distributed web platform. Project by Tega Brain, Alex Nathanson and Benedetta Piantella. Supported by Eyebeam Rapid Respo
 - [mcqn/my-babys-got-led](https://github.com/mcqn/my-babys-got-led) - Simple ESP8266 board to drive WS2812 LED strips
 - [orf/bare-hugo-theme](https://github.com/orf/bare-hugo-theme) - A Hugo theme based on Bulma.io
 - [tildeinstitute/site](https://github.com/tildeinstitute/site) - Web site for tilde.institute
@@ -2238,6 +2242,7 @@
 
 ## JavaScript 
 
+- [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
 - [shimataro/ssh-key-action](https://github.com/shimataro/ssh-key-action) - GitHub Action that installs SSH key to .ssh
 - [erik/derive](https://github.com/erik/derive) - Generate personal heatmap from GPX/TCX/FIT/IGC data
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io
@@ -2370,6 +2375,7 @@
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - Copying Link, Image and Tab(s) as Markdown Much Easier.
 - [Juris-M/zotero-odf-scan-plugin](https://github.com/Juris-M/zotero-odf-scan-plugin) - RTF/ODF-Scan for Zotero add-on
+- [plandes/zotsite](https://github.com/plandes/zotsite) - Export Zotero to a stand-alone web site
 - [GChristensen/scrapyard](https://github.com/GChristensen/scrapyard) - Bookmark heavy lifting
 - [omgimanerd/getnews.tech](https://github.com/omgimanerd/getnews.tech) - A web server that fetches data from the News API and formats it for display in the terminal.
 - [crisdosyago/Diskernet](https://github.com/crisdosyago/Diskernet) - 💾 Diskernet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect 
@@ -3044,6 +3050,7 @@
 
 ## Others 
 
+- [kdl-org/kdl](https://github.com/kdl-org/kdl) - the kdl document language specifications
 - [wick3dr0se/open-fetch](https://github.com/wick3dr0se/open-fetch) - An awesome(ly) curated list of open-source information fetch utilities
 - [ricaun/LoRaNow-board](https://github.com/ricaun/LoRaNow-board) - LoRaNow Boards is a project with open source hardware using the Arduino (atmega328p) and LoRa Module (RFM95).
 - [paulstothard/helpful_commands](https://github.com/paulstothard/helpful_commands) - Command-line tools, commands, and code snippets for performing routine data processing and bioinformatics tasks.
@@ -3307,7 +3314,6 @@
 - [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok) - Open source alternative frontend for TikTok made using PHP
 - [eklausme/saaze](https://github.com/eklausme/saaze) - Simplified Saaze is a static site generator. It aims to be fast, easy to understand and easy to use.
 - [DeBaschdi/docker.solaranzeige](https://github.com/DeBaschdi/docker.solaranzeige) - 
-- [alexnathanson/solar-protocol](https://github.com/alexnathanson/solar-protocol) - A repository in development for a solar powered network of servers that host a distributed web platform. Project by Tega Brain, Alex Nathanson and Benedetta Piantella. Supported by Eyebeam Rapid Respo
 - [webkul/hotelcommerce](https://github.com/webkul/hotelcommerce) - Hotel & Booking Reservation Ecommerce system on Prestashop
 - [taoso/tagbar-markdown](https://github.com/taoso/tagbar-markdown) - vim-tagbar extension for markdown
 - [SnaKKo/Fossdroid-Core](https://github.com/SnaKKo/Fossdroid-Core) - Fossdroid Core is a web frontend of F-Droid: an alternative software repository comprising only free, open source software for Android. This repo is the open source version of fossdroid.com.
@@ -3479,6 +3485,10 @@
 ## Prolog 
 
 - [biktorrr/dss](https://github.com/biktorrr/dss) - git repository for code (and possibly data) produced in the context of the CLARIN 'Dutch Ships and Sailors' project
+
+## Pug 
+
+- [zyachel/quetre](https://github.com/zyachel/quetre) - A libre front-end for Quora
 
 ## Python 
 
@@ -3797,7 +3807,6 @@
 - [simonw/fara-history](https://github.com/simonw/fara-history) - Tracking the history of the FARA data from https://www.justice.gov/nsd-fara
 - [simonw/yaml-to-sqlite](https://github.com/simonw/yaml-to-sqlite) - Utility for converting YAML files to SQLite
 - [Kagami/webm.py](https://github.com/Kagami/webm.py) - :film_strip: Cross-platform command-line WebM converter
-- [plandes/zotsite](https://github.com/plandes/zotsite) - Export Zotero to a stand-alone web site
 - [davidswelt/zot_bib_web](https://github.com/davidswelt/zot_bib_web) - Create interactive web bibliographies based on Zotero collections
 - [sgtpep/pmenu](https://github.com/sgtpep/pmenu) - A dynamic terminal-based menu inspired by dmenu written in Python without dependencies with an optional MRU ordering which could also be used as an application launcher and CtrlP alternative.
 - [silveiralexf/dmenu-launch](https://github.com/silveiralexf/dmenu-launch) - Simple dmenu launcher for passwords, docs, notes and application shortcuts.
@@ -4580,6 +4589,7 @@
 - [hrbrmstr/xslt](https://github.com/hrbrmstr/xslt) - lightweight XSLT processing package for R based on xmlwrapp
 - [stewid/xapr](https://github.com/stewid/xapr) - R bindings to the Xapian search engine
 - [leonawicz/ProjectManagement](https://github.com/leonawicz/ProjectManagement) - Project management project
+- [rstudio/markdown](https://github.com/rstudio/markdown) - The first generation of Markdown rendering for R (born in 2012). Now R Markdown usually means the *r*markdown package instead of *markdown*. The repo for the former is at https://github.com/rstudio/rm
 - [christophergandrud/Rep-Res-Examples](https://github.com/christophergandrud/Rep-Res-Examples) - Examples
 - [christophergandrud/oecdr](https://github.com/christophergandrud/oecdr) - Download and format data from the OECD
 - [christophergandrud/dpmr](https://github.com/christophergandrud/dpmr) - Data Package Manager for R
@@ -5304,7 +5314,6 @@
 - [mohd-akram/jawk](https://github.com/mohd-akram/jawk) - Awk for JSON.
 - [huijunchen9260/dmenubib](https://github.com/huijunchen9260/dmenubib) - A simple bibliography manager using dmenu
 - [chin123/archlinux-4044C](https://github.com/chin123/archlinux-4044C) - A guide with accompanying scripts to get a working arch linux chroot on the Alcatel 4044C, a $40 flip phone.
-- [oliverlew/xdg-xmenu](https://github.com/oliverlew/xdg-xmenu) - Generate menu for xmenu
 - [brunomiguel/userrepository](https://github.com/brunomiguel/userrepository) - 
 - [dylanaraps/shfm](https://github.com/dylanaraps/shfm) - file manager written in posix shell
 - [jcorporation/myMPDos](https://github.com/jcorporation/myMPDos) - A music player image for Raspberry Pi based on Alpine Linux, MPD and myMPD.
@@ -5832,7 +5841,6 @@
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Email-based instant messaging for Desktop.
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [hotwired/stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [davidar/pandiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc
 - [Ashish-Bansal/audio-only-youtube](https://github.com/Ashish-Bansal/audio-only-youtube) - Listen to only audio on youtube.
