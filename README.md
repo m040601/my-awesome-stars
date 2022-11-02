@@ -1013,7 +1013,7 @@
 - [AK-Homberger/NMEA2000WifiGateway-with-ESP32](https://github.com/AK-Homberger/NMEA2000WifiGateway-with-ESP32) - This repository shows how to build a NMEA2000 WiFi Gateway with voltage and temperature alarms.
 - [ttlappalainen/NMEA2000](https://github.com/ttlappalainen/NMEA2000) - NMEA2000 library for Arduino
 - [kizniche/ttgo-tbeam-ttn-tracker](https://github.com/kizniche/ttgo-tbeam-ttn-tracker) - TTGO T-Beam Tracker for TTN Mapper and TTN Tracker using US (915 MHz) and EU (868 MHz) frequencies
-- [meshtastic/Meshtastic-device](https://github.com/meshtastic/Meshtastic-device) - Meshtastic device firmware
+- [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
 - [wing-eu-ops/andon](https://github.com/wing-eu-ops/andon) - IoT Light Notification System
 - [pcb2gcode/pcb2gcode](https://github.com/pcb2gcode/pcb2gcode) - Command-line tool for isolation, routing and drilling of PCBs
 - [witnessmenow/arduino-switcheroonie](https://github.com/witnessmenow/arduino-switcheroonie) - A really simple macro keyboard project using an arduino
@@ -5012,7 +5012,7 @@
 - [cartoon-raccoon/cogsy](https://github.com/cartoon-raccoon/cogsy) - a command line local Discogs client
 - [grego/blades](https://github.com/grego/blades) - Blazing fast dead simple static site generator
 - [dbohdan/csv2html](https://github.com/dbohdan/csv2html) - Convert CSV files to HTML tables
-- [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit
+- [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 - [figsoda/mmtc](https://github.com/figsoda/mmtc) - Minimal mpd terminal client that aims to be simple yet highly configurable
