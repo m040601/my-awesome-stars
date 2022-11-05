@@ -940,7 +940,7 @@
 - [SebastianHinz73/InternetRadio](https://github.com/SebastianHinz73/InternetRadio) - With this repository, Espressif's LyraT board becomes an Internet radio.
 - [xavery/dcue](https://github.com/xavery/dcue) - DCue is a tool for generating CUE sheets from Discogs data.
 - [nopnop2002/esp8266-mpd-client](https://github.com/nopnop2002/esp8266-mpd-client) - MPD client example for ESP8266/ESP32.
-- [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - **Old repository**. Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems.
+- [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - **Old repository, check GitHub organization**. Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating syste
 - [DjordjeMandic/Universal-IR-Blaster-TV-B-Gone](https://github.com/DjordjeMandic/Universal-IR-Blaster-TV-B-Gone) - TV-B-Gone on steroids using Universal IR Blaster board
 - [wagiminator/ATtiny13-TinyUPS](https://github.com/wagiminator/ATtiny13-TinyUPS) - Uninterruptible Power Supply
 - [wagiminator/ATtiny13-TinyRemote](https://github.com/wagiminator/ATtiny13-TinyRemote) - IR Remote Control
@@ -1592,7 +1592,7 @@
 - [jftuga/photo_id_resizer](https://github.com/jftuga/photo_id_resizer) - Resize photo ID images using face recognition technology
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [psanford/wormhole-william-mobile](https://github.com/psanford/wormhole-william-mobile) - End-to-end encrypted file transfer for Android. An Android Magic Wormhole client.
+- [psanford/wormhole-william-mobile](https://github.com/psanford/wormhole-william-mobile) - End-to-end encrypted file transfer for Android and iOS. A Magic Wormhole Mobile client.
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [hnrss/hnrss](https://github.com/hnrss/hnrss) - Custom, realtime RSS feeds for Hacker News
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
