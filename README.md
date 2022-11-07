@@ -460,7 +460,6 @@
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
 - [hy987/T9-Predictive-Text](https://github.com/hy987/T9-Predictive-Text) - Texting predictive technology
 - [lefcha/imapfilter](https://github.com/lefcha/imapfilter) - IMAP mail filtering utility
-- [OpenHD/QOpenHD](https://github.com/OpenHD/QOpenHD) - QOpenHD App
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [eworm-de/mpd-notification](https://github.com/eworm-de/mpd-notification) - Notify about tracks played by mpd
 - [riyas-org/ir_translator](https://github.com/riyas-org/ir_translator) - Repurpose old IR remote with ATTINY13
@@ -557,7 +556,7 @@
 - [aluzzardi/pam_usb](https://github.com/aluzzardi/pam_usb) - [UNMAINTAINED] Hardware authentication for Linux using ordinary USB Flash Drives.
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
-- [bontibon/kjv](https://github.com/bontibon/kjv) - Read the Word of God from your terminal
+- [layeh/kjv](https://github.com/layeh/kjv) - Read the Word of God from your terminal
 - [mananapr/cfiles](https://github.com/mananapr/cfiles) - A ncurses file manager written in C with vim like keybindings
 - [drkhsh/slstatus](https://github.com/drkhsh/slstatus) - mirror from suckless.org. send patches to hackers@suckless.org mailing list. NO PRs
 - [ropensci/rsvg](https://github.com/ropensci/rsvg) - SVG renderer for R based on librsvg2
@@ -800,6 +799,7 @@
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [suomela/types](https://github.com/suomela/types) - types2: Type and hapax accumulation curves
 - [IPS-LMU/wrassp](https://github.com/IPS-LMU/wrassp) - wrassp is a wrapper for R around Michel Scheffers's libassp (Advanced Speech Signal Processor). The libassp library aims at providing functionality for handling speech signal files in most common audi
+- [lotuskip/cursetag](https://github.com/lotuskip/cursetag) - NCurses based audio file tag (metadata) editor
 - [gianm/zsync](https://github.com/gianm/zsync) - fork of http://zsync.moria.org.uk/zsync.git with bugfixes and support for libcurl
 - [jespera/zsync-windows](https://github.com/jespera/zsync-windows) - 
 - [nabetaro/elinks](https://github.com/nabetaro/elinks) - This repo is cloned from http://elinks.cz/elinks.git for translation. This is NOT UPSTREAM
@@ -989,6 +989,7 @@
 - [kodi-pvr/pvr.hts](https://github.com/kodi-pvr/pvr.hts) - Kodi's Tvheadend HTSP client addon
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [xbmc/inputstream.adaptive](https://github.com/xbmc/inputstream.adaptive) - kodi inputstream addon for several manifest types
+- [OpenHD/QOpenHD](https://github.com/OpenHD/QOpenHD) - QOpenHD App
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [mb720/nethogs](https://github.com/mb720/nethogs) - Linux 'net top' tool
 - [pgaskin/kobo-mods](https://github.com/pgaskin/kobo-mods) - My Kobo mods/hacks/tools which aren't patches and aren't in koboutils.
@@ -1113,7 +1114,7 @@
 - [bitluni/ESP32CompositeVideo](https://github.com/bitluni/ESP32CompositeVideo) - 
 - [mdhiggins/ESP8266-HTTP-IR-Blaster](https://github.com/mdhiggins/ESP8266-HTTP-IR-Blaster) - ESP8266 Compatible IR Blaster that accepts HTTP commands for use with services like Amazon Echo
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
-- [weserv/images](https://github.com/weserv/images) - Source code of images.weserv.nl, to be used on your own server(s).
+- [weserv/images](https://github.com/weserv/images) - Source code of wsrv.nl (formerly images.weserv.nl), to be used on your own server(s).
 - [pmartin/plop-reader](https://github.com/pmartin/plop-reader) - A Wallabag application for Pocketbook / TEA Touch Lux ereaders
 - [iotappstory/ESP-Library](https://github.com/iotappstory/ESP-Library) - Software Distribution and Management Over the Air
 - [vpcola/ESP32SingleChannelGateway](https://github.com/vpcola/ESP32SingleChannelGateway) - A Fork of the popular ESP8266 single channel gateway adapted to ESP32 on the 915Mhz band.
@@ -1266,7 +1267,6 @@
 - [yanyiwu/cppjieba](https://github.com/yanyiwu/cppjieba) - "结巴"中文分词的C++版本
 - [qinwf/jiebaR](https://github.com/qinwf/jiebaR) - Chinese text segmentation with R.  R语言中文分词 （文档已更新 🎉 ：https://qinwenfeng.com/jiebaR/ )
 - [breach/thrust](https://github.com/breach/thrust) - Chromium-based cross-platform / cross-language application framework
-- [lotuskip/cursetag](https://github.com/lotuskip/cursetag) - NCurses based audio file tag (metadata) editor
 - [aidin36/tocc](https://github.com/aidin36/tocc) - A tag based file management system.
 - [qmule/qmule](https://github.com/qmule/qmule) - qmule
 - [qmule/libed2k](https://github.com/qmule/libed2k) - 
@@ -1512,6 +1512,7 @@
 
 ## Go 
 
+- [RealMelkor/Gemigit](https://github.com/RealMelkor/Gemigit) - A self-hosted gemini git service
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
@@ -1877,6 +1878,7 @@
 - [jsvine/intro-to-visidata](https://github.com/jsvine/intro-to-visidata) - Source files for "An Introduction to VisiData"
 - [alan-turing-institute/ReadabiliPy](https://github.com/alan-turing-institute/ReadabiliPy) - A simple HTML content extractor in Python. Can be run as a wrapper for Mozilla's Readability.js package or in pure-python mode.
 - [radman1/sauce](https://github.com/radman1/sauce) - Standard Architecture for Universal Comment Extensions
+- [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Pandoc.
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [papis/papis-zotero](https://github.com/papis/papis-zotero) - Zotero compatiblity scripts for papis
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
@@ -1996,6 +1998,7 @@
 - [nstrayer/tuftesque](https://github.com/nstrayer/tuftesque) - A very similar style to the original tufte hugo theme but with a few modifications. Used in my blogdown blog.
 - [freekrai/jekyll-bookmarklet](https://github.com/freekrai/jekyll-bookmarklet) - Bookmarklet for Jekyll on Github Pages
 - [segler-alex/radiobrowser](https://github.com/segler-alex/radiobrowser) - website frontend with angular for radio-browser api
+- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [kerrickstaley/drive-podcast](https://github.com/kerrickstaley/drive-podcast) - Google Apps Script for creating a podcast from a set of files in Google Drive
 - [moderndive/ModernDive_book](https://github.com/moderndive/ModernDive_book) - Statistical Inference via Data Science: A ModernDive into R and the Tidyverse
 - [dwyl/learn-to-send-email-via-google-script-html-no-server](https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server) - :email: An Example of using an HTML form (e.g: "Contact Us" on a website) to send Email without a Backend Server (using a Google Script) perfect for static websites that need to collect data.
@@ -2544,7 +2547,6 @@
 - [digidem/leaflet-side-by-side](https://github.com/digidem/leaflet-side-by-side) - A Leaflet control to add a split screen to compare two map overlays
 - [digidem/mapeo-desktop](https://github.com/digidem/mapeo-desktop) - Local-first mapping and monitoring in remote environments
 - [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
-- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [thlorenz/doctoc](https://github.com/thlorenz/doctoc) - 📜 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
@@ -3556,7 +3558,7 @@
 - [deadc0de6/catcli](https://github.com/deadc0de6/catcli) - The command line catalog tool for your offline data
 - [opcode-eu-org-libs/asciicast2movie](https://github.com/opcode-eu-org-libs/asciicast2movie) - 
 - [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
-- [FreeTAKTeam/FreeTakServer](https://github.com/FreeTAKTeam/FreeTakServer) - an open source, lightweight Server for connect TAK clients
+- [FreeTAKTeam/FreeTakServer](https://github.com/FreeTAKTeam/FreeTakServer) - an open source, lightweight Server for connecting TAK clients
 - [moses-palmer/pynput](https://github.com/moses-palmer/pynput) - Sends virtual input commands
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
@@ -5719,7 +5721,6 @@
 
 ## TeX 
 
-- [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Pandoc.
 - [statsthinking21/statsthinking21-R](https://github.com/statsthinking21/statsthinking21-R) - R companion for Statistical Thinking in the 21st Century
 - [ntd/tccv](https://github.com/ntd/tccv) - Two columns curriculum vitae
 - [maehr/zotero-bib-to-gh](https://github.com/maehr/zotero-bib-to-gh) - GitHub action to retrieve Zotero collection in BibLaTeX format and save it as GitHub repository.
