@@ -212,7 +212,7 @@
 - [asg017/sqlite-lines](https://github.com/asg017/sqlite-lines) - A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)
 - [rbaron/elink](https://github.com/rbaron/elink) - A daisy chain of electronic shelf labels
 - [jirutka/tty-copy](https://github.com/jirutka/tty-copy) - Copy content to system clipboard via TTY and terminal using ANSI OSC52 sequence
-- [NikitaIvanovV/ctpv](https://github.com/NikitaIvanovV/ctpv) - Previews for lf file manager
+- [NikitaIvanovV/ctpv](https://github.com/NikitaIvanovV/ctpv) - Image previews for lf file manager
 - [NikitaIvanovV/ictree](https://github.com/NikitaIvanovV/ictree) - Like tree but interactive
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [nereusx/md2roff](https://github.com/nereusx/md2roff) - md2roff - convert markdown to groff / troff (man, mdoc, mm, mom) documents
@@ -563,7 +563,7 @@
 - [r-rust/gifski](https://github.com/r-rust/gifski) - R wrapper for the 'gifski' Rust Cargo crate.
 - [nicm/fdm](https://github.com/nicm/fdm) - fdm source code
 - [waveshare/WM8960-Audio-HAT](https://github.com/waveshare/WM8960-Audio-HAT) - The drivers of [WM8960 Audio HAT] for Raspberry Pi
-- [OpenHD/Open.HD](https://github.com/OpenHD/Open.HD) - Open.HD
+- [OpenHD/OpenHD](https://github.com/OpenHD/OpenHD) - Open.HD
 - [mwarning/KadNode](https://github.com/mwarning/KadNode) - P2P DNS with content key, crypto key and PKI support. DynDNS alternative.
 - [8l/fbui](https://github.com/8l/fbui) - Framebuffer UI (fbui) in-kernel Linux windowing system.
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
@@ -597,7 +597,6 @@
 - [posva/catimg](https://github.com/posva/catimg) - 🦦 Insanely fast image printing in your terminal
 - [kevinboone/epub2txt2](https://github.com/kevinboone/epub2txt2) - A simple command-line utility for Linux, for extracting text from EPUB documents.
 - [kevinboone/epub2txt](https://github.com/kevinboone/epub2txt) - A simple utility to extract text from EPUB documents and, optionally, format it
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [karawin/Ka-Radio32](https://github.com/karawin/Ka-Radio32) - esp32 version of Ka-Radio (https://github.com/karawin/Ka-Radio) by jp Cocatrix
 - [lyusupov/SoftRF](https://github.com/lyusupov/SoftRF) - :airplane:  Multi-functional, compatible DIY general aviation proximity awareness system
 - [Heltec-Aaron-Lee/WiFi_Kit_series](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series) - Arduino source codes and toolchain for WiFi_Kit_series made by HelTecAutomation.
@@ -2325,7 +2324,7 @@
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [trovu/trovu-web](https://github.com/trovu/trovu-web) - Trovu web interface.
 - [gorhill/uBO-Scope](https://github.com/gorhill/uBO-Scope) - A tool to measure over time your own exposure to third parties on the web
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file for hardening Firefox and optimizing privacy, security, and speed
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to harden Firefox and optimize privacy, security, and speed
 - [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
 - [ndaidong/article-parser](https://github.com/ndaidong/article-parser) - To extract main article from given URL with Node.js
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
@@ -2366,7 +2365,7 @@
 - [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 - [ankitects/anki-docs](https://github.com/ankitects/anki-docs) - Legacy documentation files
 - [FooSoft/yomichan](https://github.com/FooSoft/yomichan) - Japanese pop-up dictionary extension for Chrome and Firefox.
-- [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - fast, simple spatial data creation
+- [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - A quick, simple tool for creating, viewing, and sharing spatial data
 - [geoman-io/leaflet-geoman](https://github.com/geoman-io/leaflet-geoman) - 🍂🗺️ The most powerful leaflet plugin for drawing and editing geometry layers
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [IOTReboot/TasUI](https://github.com/IOTReboot/TasUI) - Javascript client for Tasmota
@@ -3052,6 +3051,7 @@
 
 ## Others 
 
+- [ferritreader/ferrit](https://github.com/ferritreader/ferrit) - DISCONTINUED. Former fork of libreddit/libreddit.
 - [kdl-org/kdl](https://github.com/kdl-org/kdl) - the kdl document language specifications
 - [wick3dr0se/open-fetch](https://github.com/wick3dr0se/open-fetch) - An awesome(ly) curated list of open-source information fetch utilities
 - [ricaun/LoRaNow-board](https://github.com/ricaun/LoRaNow-board) - LoRaNow Boards is a project with open source hardware using the Arduino (atmega328p) and LoRa Module (RFM95).
@@ -3311,6 +3311,7 @@
 
 ## PHP 
 
+- [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
 - [xaizek/vim-like-pile](https://github.com/xaizek/vim-like-pile) - Sources of Big Pile of Vim-like
 - [anmaped/openfang](https://github.com/anmaped/openfang) - The openfang is a bootloader, kernel and toolchain for devices using Ingenic T10 and T20 SOC
 - [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok) - Open source alternative frontend for TikTok made using PHP
@@ -4963,7 +4964,6 @@
 
 ## Rust 
 
-- [ferritreader/ferrit](https://github.com/ferritreader/ferrit) - Private front-end for Reddit. Continuation of spikecodes/libreddit.
 - [Builditluc/wiki-tui](https://github.com/Builditluc/wiki-tui) - A simple and easy to use Wikipedia Text User Interface
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [ltratt/pizauth](https://github.com/ltratt/pizauth) - Command-line OAuth2 authentication daemon
@@ -5166,6 +5166,7 @@
 
 ## Shell 
 
+- [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash and zsh key bindings for Git objects, powered by fzf
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault) - 
 - [dibdot/DoH-IP-blocklists](https://github.com/dibdot/DoH-IP-blocklists) - This repo contains the domain names and the IPv4/IPv6 addresses of public DoH server
 - [Coralesoft/OpenwrtCloudflare](https://github.com/Coralesoft/OpenwrtCloudflare) - Raspberry Pi 4 or x86 OpenWrt Routers setting up Cloudflare tunnels
@@ -5460,7 +5461,7 @@
 - [reynico/raspberry-noaa](https://github.com/reynico/raspberry-noaa) - Fully automated ISS SSTV, NOAA and Meteor satellite image downloader using Raspberry PI
 - [GMG-Special-Projects-Desk/GoodbyeBigFive](https://github.com/GMG-Special-Projects-Desk/GoodbyeBigFive) - Streamlined version of the tech in the Goodbye Big Five Series
 - [carnager/buku_run](https://github.com/carnager/buku_run) - rofi frontend for buku bookmarks manager
-- [OpenHD/Open.HD_Image_Builder](https://github.com/OpenHD/Open.HD_Image_Builder) - Script for building automatically Open.HD
+- [OpenHD/OpenHD-ImageBuilder](https://github.com/OpenHD/OpenHD-ImageBuilder) - Script for building automatically Open.HD
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
 - [cykerway/complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
 - [sdushantha/kunst](https://github.com/sdushantha/kunst) - Download and display album art or display embedded album art
@@ -5843,6 +5844,7 @@
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Email-based instant messaging for Desktop.
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [hotwired/stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
+- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [davidar/pandiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc
 - [Ashish-Bansal/audio-only-youtube](https://github.com/Ashish-Bansal/audio-only-youtube) - Listen to only audio on youtube.
