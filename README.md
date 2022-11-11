@@ -563,7 +563,7 @@
 - [r-rust/gifski](https://github.com/r-rust/gifski) - R wrapper for the 'gifski' Rust Cargo crate.
 - [nicm/fdm](https://github.com/nicm/fdm) - fdm source code
 - [waveshare/WM8960-Audio-HAT](https://github.com/waveshare/WM8960-Audio-HAT) - The drivers of [WM8960 Audio HAT] for Raspberry Pi
-- [OpenHD/OpenHD](https://github.com/OpenHD/OpenHD) - Open.HD
+- [OpenHD/OpenHD](https://github.com/OpenHD/OpenHD) - OpenHD
 - [mwarning/KadNode](https://github.com/mwarning/KadNode) - P2P DNS with content key, crypto key and PKI support. DynDNS alternative.
 - [8l/fbui](https://github.com/8l/fbui) - Framebuffer UI (fbui) in-kernel Linux windowing system.
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
@@ -995,7 +995,7 @@
 - [pgaskin/NickelMenu](https://github.com/pgaskin/NickelMenu) - The easiest way to launch scripts, change settings, and run actions on Kobo e-readers.
 - [Martchus/tageditor](https://github.com/Martchus/tageditor) - A tag editor with Qt GUI and command-line interface supporting MP4/M4A/AAC (iTunes), ID3, Vorbis, Opus, FLAC and Matroska
 - [TechSmith/mp4v2](https://github.com/TechSmith/mp4v2) - Fork of mp4v2: https://code.google.com/archive/p/mp4v2/
-- [jwilk/pdf2djvu](https://github.com/jwilk/pdf2djvu) - PDF to DjVu converter
+- [jwilk-archive/pdf2djvu](https://github.com/jwilk-archive/pdf2djvu) - PDF to DjVu converter
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [4lex4/scantailor-advanced](https://github.com/4lex4/scantailor-advanced) - ScanTailor Advanced is the version that merges the features of the ScanTailor Featured and ScanTailor Enhanced versions, brings new ones and fixes.
 - [easytarget/esp32-cjmcu-531-demo](https://github.com/easytarget/esp32-cjmcu-531-demo) - CJMCU-531 and ESP32 Web Demo interfacing to a VL53L1X IR time-of-flight sensor
@@ -1983,7 +1983,6 @@
 - [georgjaehnig/wifi-qr-poster](https://github.com/georgjaehnig/wifi-qr-poster) - Generate a poster with password & QR Code for your Wifi network.
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [im-tomu/tomu.im](https://github.com/im-tomu/tomu.im) - tomu.im website
-- [duzyn/tufte-markdown](https://github.com/duzyn/tufte-markdown) - Use markdown to write your handouts and books in Tufte style.
 - [clagnut/webtypography](https://github.com/clagnut/webtypography) - The source code for WebTypography.net, a practical guide to web typography.
 - [datamade/data-making-guidelines](https://github.com/datamade/data-making-guidelines) - :blue_book: Making Data, the DataMade Way
 - [pubsubhubbub/PubSubHubbub](https://github.com/pubsubhubbub/PubSubHubbub) - The PubSubHubbub protocol specification.
@@ -2407,7 +2406,7 @@
 - [realdennis/md2pdf](https://github.com/realdennis/md2pdf) - Offline markdown to pdf, choose -&gt; edit -&gt; transform 🥂
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [liberodark/ODrive](https://github.com/liberodark/ODrive) - Google Drive GUI for Windows / Mac / Linux
 - [heiseonline/shariff](https://github.com/heiseonline/shariff) - 👮 Shariff enables website users to share their favorite content without compromising their privacy.
@@ -3056,7 +3055,6 @@
 - [wick3dr0se/open-fetch](https://github.com/wick3dr0se/open-fetch) - An awesome(ly) curated list of open-source information fetch utilities
 - [ricaun/LoRaNow-board](https://github.com/ricaun/LoRaNow-board) - LoRaNow Boards is a project with open source hardware using the Arduino (atmega328p) and LoRa Module (RFM95).
 - [paulstothard/helpful_commands](https://github.com/paulstothard/helpful_commands) - Command-line tools, commands, and code snippets for performing routine data processing and bioinformatics tasks.
-- [Allfifthstuning/awesome-groff-user-macrosets](https://github.com/Allfifthstuning/awesome-groff-user-macrosets) - Collection of user macrosets for groff typesetting system
 - [juhench/openwrt_nbg6515](https://github.com/juhench/openwrt_nbg6515) - OpenWrt Development Instructions for ZyXEL NBG6515 Router
 - [OpenStick/OpenStick](https://github.com/OpenStick/OpenStick) - reverse engineering on msm8916 based 4G modem.
 - [RadicalEd360/ArchUSB](https://github.com/RadicalEd360/ArchUSB) - 
@@ -3202,6 +3200,7 @@
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 - [coherentgraphics/cpdf-binaries](https://github.com/coherentgraphics/cpdf-binaries) - PDF Command Line Tools binaries for Linux, Mac, Windows
 - [MaslowCNC/Mechanics](https://github.com/MaslowCNC/Mechanics) - Digital Design Files
+- [duzyn/tufte-markdown](https://github.com/duzyn/tufte-markdown) - Use markdown to write your handouts or books in Tufte style.
 - [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
 - [periodicpoint/robusta](https://github.com/periodicpoint/robusta) - A sound and versatile pandoc LaTeX boilerplate to produce academic articles using Markdown files featuring YAML, KOMA-Script, BibLaTeX and CSL
 - [lancopku/Chinese-Literature-NER-RE-Dataset](https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset) - A Discourse-Level Named Entity Recognition and Relation Extraction Dataset  for Chinese Literature Text
@@ -4717,6 +4716,7 @@
 ## Roff 
 
 - [Alhadis/Mono](https://github.com/Alhadis/Mono) - Troff macros for the 21st century.
+- [Allfifthstuning/awesome-groff-user-macrosets](https://github.com/Allfifthstuning/awesome-groff-user-macrosets) - Collection of user macrosets for groff typesetting system
 - [phillbush/incipit](https://github.com/phillbush/incipit) - the incipit plain text markup language, and some troff macro packages
 - [slavistan/lf-gadgets](https://github.com/slavistan/lf-gadgets) - A collection of useful and nifty use cases and configurations for lf.
 - [rrthomas/pdfjam-extras](https://github.com/rrthomas/pdfjam-extras) - Some unsupported 'wrapper' scripts for pdfjam
