@@ -3228,7 +3228,6 @@
 - [OpenGarage/OpenGarage-Hardware](https://github.com/OpenGarage/OpenGarage-Hardware) - 
 - [SuperHouse/D1MTERMINAL](https://github.com/SuperHouse/D1MTERMINAL) - Terminal Shield for the WeMos D1 Mini with ESP8266
 - [offensive-security/kali-arm-build-scripts](https://github.com/offensive-security/kali-arm-build-scripts) - Kali Linux ARM build scripts
-- [hak5darren/USB-Rubber-Ducky](https://github.com/hak5darren/USB-Rubber-Ducky) - 
 - [mcauser/Raspberry-Pi-ITead-Studio-GPS-NEO-6M](https://github.com/mcauser/Raspberry-Pi-ITead-Studio-GPS-NEO-6M) - Experiments with my ITead Studio RPI GPS Add On
 - [openLRSng/openLRSngWiki](https://github.com/openLRSng/openLRSngWiki) - openLRSng wiki
 - [CongducPham/tutorials](https://github.com/CongducPham/tutorials) - Tutorial slides for the low-cost LoRa IoT platform
@@ -5249,7 +5248,7 @@
 - [spywhere/tmux-now-playing](https://github.com/spywhere/tmux-now-playing) - Add music player with music control through key bindings to tmux
 - [Feqzz/tmux-mpv-info](https://github.com/Feqzz/tmux-mpv-info) - 🎵 Displays the current song playing with MPV in your tmux status bar.
 - [vkitchen/apostl](https://github.com/vkitchen/apostl) - A POS Templating Language
-- [roosta/tmux-fuzzback](https://github.com/roosta/tmux-fuzzback) - Search your tmux scrollback buffer using fzf
+- [roosta/tmux-fuzzback](https://github.com/roosta/tmux-fuzzback) - Search your tmux scrollback buffer using fuzzy matching
 - [inkarkat/tmux-extensions](https://github.com/inkarkat/tmux-extensions) - Additions and tweaks to the tmux CLI.
 - [inkarkat/shell-basics](https://github.com/inkarkat/shell-basics) - A collection of basic shell scripts that are either useful on its own (in interactive sessions), or offer generic functionality for higher-level scripts.
 - [aw1cks/sloth](https://github.com/aw1cks/sloth) - The lazy installer for Arch Linux
