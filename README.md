@@ -176,6 +176,7 @@
 
 ## C 
 
+- [maximemoreillon/ring_reader](https://github.com/maximemoreillon/ring_reader) - 
 - [msm8916-mainline/linux](https://github.com/msm8916-mainline/linux) - Linux mainline kernel fork for various Qualcomm MSM8909/MSM8916/MSM8939 devices
 - [dvarrazzo/py-setproctitle](https://github.com/dvarrazzo/py-setproctitle) - A Python module to customize the process title
 - [muennich/physlock](https://github.com/muennich/physlock) - Lightweight linux console locking tool
@@ -3539,7 +3540,6 @@
 - [Ga68/benign-key-logger](https://github.com/Ga68/benign-key-logger) - A simple, transparent, open-source key logger, written in Python, for tracking your own key-usage statistics.
 - [wcerfgba/searx](https://github.com/wcerfgba/searx) - A modified version of searx (the privacy-respecting metasearch engine) to only search an allowlist of sites, to build functionality similar to Rollyo and Bing Custom Search.
 - [jayvdb/https-everywhere-py](https://github.com/jayvdb/https-everywhere-py) - Privacy for Pythons
-- [rpkak/local-aur](https://github.com/rpkak/local-aur) - Download the AUR packages you trust and use pacman to install them.
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
 - [Krasjet/pdf.tocgen](https://github.com/Krasjet/pdf.tocgen) - A CLI toolset to generate table of contents for PDF files automatically.
 - [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor network traffic per executable using BPF
