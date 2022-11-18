@@ -176,6 +176,7 @@
 
 ## C 
 
+- [jkbenaim/hs100](https://github.com/jkbenaim/hs100) - CLI tool for TP-Link and Kasa WiFi smart plugs.
 - [maximemoreillon/ring_reader](https://github.com/maximemoreillon/ring_reader) - 
 - [msm8916-mainline/linux](https://github.com/msm8916-mainline/linux) - Linux mainline kernel fork for various Qualcomm MSM8909/MSM8916/MSM8939 devices
 - [dvarrazzo/py-setproctitle](https://github.com/dvarrazzo/py-setproctitle) - A Python module to customize the process title
@@ -1975,6 +1976,7 @@
 - [tomcritchlow/tomcritchlow.github.io](https://github.com/tomcritchlow/tomcritchlow.github.io) - Me. Learning to use Github and learning to live life.
 - [flukus/flukus.github.io](https://github.com/flukus/flukus.github.io) - 
 - [kaihendry/natalian](https://github.com/kaihendry/natalian) - Kai Hendry's blog
+- [ropensci/osmplotr](https://github.com/ropensci/osmplotr) - Data visualisation using OpenStreetMap objects
 - [ropensci-archive/roweb2](https://github.com/ropensci-archive/roweb2) - :no_entry: ARCHIVED :no_entry:
 - [allo-/firefox-profilemaker](https://github.com/allo-/firefox-profilemaker) - A tool to create firefox profiles with personalized defaults.
 - [CollectionBuilder/collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh) - a Jekyll project to create a basic digital collection exhibit. See Readme below for instructions to get started!
@@ -3051,6 +3053,7 @@
 
 ## Others 
 
+- [nathanlesage/academics-on-mastodon](https://github.com/nathanlesage/academics-on-mastodon) - A list of various lists consisting of academics on Mastodon
 - [ferritreader/ferrit](https://github.com/ferritreader/ferrit) - DISCONTINUED. Former fork of libreddit/libreddit.
 - [kdl-org/kdl](https://github.com/kdl-org/kdl) - the kdl document language specifications
 - [wick3dr0se/open-fetch](https://github.com/wick3dr0se/open-fetch) - An awesome(ly) curated list of open-source information fetch utilities
@@ -4533,7 +4536,6 @@
 - [ropensci/DataPackageR](https://github.com/ropensci/DataPackageR) - An R package to enable reproducible data processing, packaging and sharing.
 - [ropensci/vcr](https://github.com/ropensci/vcr) - Record HTTP calls and replay them
 - [ropensci/crul](https://github.com/ropensci/crul) - R6 based http client for R (made for developers)
-- [ropensci/osmplotr](https://github.com/ropensci/osmplotr) - Data visualisation using OpenStreetMap objects
 - [ropensci/drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
 - [petebaker/dryworkflow](https://github.com/petebaker/dryworkflow) - DRY (Don't Repeat Yourself) Workflow for more efficient data analysis using R
 - [hrbrmstr/pubcrawl](https://github.com/hrbrmstr/pubcrawl) - 🍺📖 Convert 'epub' Files to Text (Use https://github.com/ropensci/epubr instead)
