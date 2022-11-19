@@ -176,6 +176,7 @@
 
 ## C 
 
+- [libical/libical](https://github.com/libical/libical) - Libical is an Open Source implementation of the iCalendar protocols and protocol data units.
 - [jkbenaim/hs100](https://github.com/jkbenaim/hs100) - CLI tool for TP-Link and Kasa WiFi smart plugs.
 - [maximemoreillon/ring_reader](https://github.com/maximemoreillon/ring_reader) - 
 - [msm8916-mainline/linux](https://github.com/msm8916-mainline/linux) - Linux mainline kernel fork for various Qualcomm MSM8909/MSM8916/MSM8939 devices
@@ -1875,6 +1876,7 @@
 
 ## HTML 
 
+- [Georiviere/website](https://github.com/Georiviere/website) - Project website Georivière
 - [n0x5/n0x5.github.io](https://github.com/n0x5/n0x5.github.io) - test
 - [jsvine/intro-to-visidata](https://github.com/jsvine/intro-to-visidata) - Source files for "An Introduction to VisiData"
 - [alan-turing-institute/ReadabiliPy](https://github.com/alan-turing-institute/ReadabiliPy) - A simple HTML content extractor in Python. Can be run as a wrapper for Mozilla's Readability.js package or in pure-python mode.
@@ -2024,6 +2026,7 @@
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [cran/transcribeR](https://github.com/cran/transcribeR) - :exclamation: This is a read-only mirror of the CRAN R package repository.  transcribeR — Automated Transcription of Audio Files Through the HP IDOL API
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
+- [hadley/r4ds](https://github.com/hadley/r4ds) - R for data science: a book
 - [PolMine/polmineR](https://github.com/PolMine/polmineR) - R-package for text mining with the Corpus Workbench (CWB) as backend
 - [FOSSRIT/people](https://github.com/FOSSRIT/people) - Interactive directory of FOSS@RIT community members generated from YAML profiles and built with Jekyll
 - [interedition/collatex](https://github.com/interedition/collatex) - CollateX – Software for Collating Textual Sources
@@ -2246,6 +2249,9 @@
 
 ## JavaScript 
 
+- [kewisch/ical.js](https://github.com/kewisch/ical.js) - Javascript parser for ics (rfc5545) and vcard (rfc6350) data
+- [nextcloud/cdav-library](https://github.com/nextcloud/cdav-library) - :date: 📇 CalDAV and CardDAV client library for JavaScript
+- [nextcloud/calendar](https://github.com/nextcloud/calendar) - 📆 Calendar app for Nextcloud
 - [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
 - [shimataro/ssh-key-action](https://github.com/shimataro/ssh-key-action) - GitHub Action that installs SSH key to .ssh
 - [erik/derive](https://github.com/erik/derive) - Generate personal heatmap from GPX/TCX/FIT/IGC data
@@ -2856,6 +2862,7 @@
 
 ## Kotlin 
 
+- [bitfireAT/icsx5](https://github.com/bitfireAT/icsx5) - ICSx⁵ is an Android app to subscribe to remote or local iCalendar files (like time tables of your school/university or event files of your sports team).
 - [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 1M+ downloads Linux reference app with basics, tips and formatted man pages
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support
 - [metrodroid/metrodroid](https://github.com/metrodroid/metrodroid) - Read data from public transit cards using your NFC Android phone! (iOS 13 and PC/SC support coming soon)
@@ -3497,6 +3504,9 @@
 
 ## Python 
 
+- [GeotrekCE/Geotrek-admin](https://github.com/GeotrekCE/Geotrek-admin) - Paths management for National Parks and Tourism organizations
+- [Georiviere/Georiviere-admin](https://github.com/Georiviere/Georiviere-admin) - https://georiviere.fr
+- [pretalx/pretalx](https://github.com/pretalx/pretalx) - Conference planning tool: CfP, scheduling, speaker management
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [Demindiro/agreper](https://github.com/Demindiro/agreper) - Minimal, no-JS web forum software
 - [wkentaro/gdown](https://github.com/wkentaro/gdown) - Download a large file from Google Drive  (curl/wget fails because of the security notice).
@@ -3985,7 +3995,6 @@
 - [some-programs/exitwp](https://github.com/some-programs/exitwp) - Exitwp is tool primarily aimed for making migration from one or more wordpress blogs to the jekyll blog engine as easy as possible.
 - [actionless/pikaur](https://github.com/actionless/pikaur) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
-- [arc298/instagram-scraper](https://github.com/arc298/instagram-scraper) - Scrapes an instagram user's photos and videos
 - [the-paperless-project/paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [amyreese/markdown-pp](https://github.com/amyreese/markdown-pp) - Preprocessor for Markdown files to generate a table of contents and other documentation needs
 - [althonos/InstaLooter](https://github.com/althonos/InstaLooter) - Another API-less Instagram pictures and videos downloader.
@@ -4582,7 +4591,6 @@
 - [tidyverse/reprex](https://github.com/tidyverse/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
 - [seankross/neocities](https://github.com/seankross/neocities) - :smiley_cat: An R Package for the Neocities API
 - [jeroen/openssl](https://github.com/jeroen/openssl) - OpenSSL bindings for R
-- [hadley/r4ds](https://github.com/hadley/r4ds) - R for data science: a book
 - [richierocks/learningr](https://github.com/richierocks/learningr) - Data and functions to accompany the book "Learning R".
 - [richierocks/pathological](https://github.com/richierocks/pathological) - R package of utilities for handling paths, files and directories
 - [richierocks/rebus](https://github.com/richierocks/rebus) - 
@@ -5790,6 +5798,8 @@
 
 ## TypeScript 
 
+- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
+- [GeotrekCE/Geotrek-rando-v3](https://github.com/GeotrekCE/Geotrek-rando-v3) - Geotrek public data website (version 3)
 - [yktoo/infopi](https://github.com/yktoo/infopi) - InfoPi Information server application
 - [zyachel/libremdb](https://github.com/zyachel/libremdb) - A free & open source IMDb front-end.
 - [DigitalHERMES/hermes-gui](https://github.com/DigitalHERMES/hermes-gui) - HERMES Web interface code.
