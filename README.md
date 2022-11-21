@@ -57,6 +57,7 @@
 - [Markdown](#markdown)
 - [MoonScript](#moonscript)
 - [NSIS](#nsis)
+- [NewLisp](#newlisp)
 - [Nim](#nim)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -1314,6 +1315,7 @@
 
 ## CSS 
 
+- [wmurphyrd/guppe](https://github.com/wmurphyrd/guppe) - Decentralized social groups with ActivityPub, NodeJS, Express, and Mongodb
 - [IPi-Radio/IPi-Radio](https://github.com/IPi-Radio/IPi-Radio) - Turn your Raspberry PI into an internet radio
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
@@ -1514,6 +1516,7 @@
 
 ## Go 
 
+- [jafarlihi/rssnix](https://github.com/jafarlihi/rssnix) - Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader
 - [RealMelkor/Gemigit](https://github.com/RealMelkor/Gemigit) - A self-hosted gemini git service
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
@@ -2249,6 +2252,7 @@
 
 ## JavaScript 
 
+- [wallabag/wallabagger](https://github.com/wallabag/wallabagger) - Chrome / Firefox / Opera plugin for wallabag v2.
 - [kewisch/ical.js](https://github.com/kewisch/ical.js) - Javascript parser for ics (rfc5545) and vcard (rfc6350) data
 - [nextcloud/cdav-library](https://github.com/nextcloud/cdav-library) - :date: 📇 CalDAV and CardDAV client library for JavaScript
 - [nextcloud/calendar](https://github.com/nextcloud/calendar) - 📆 Calendar app for Nextcloud
@@ -3021,6 +3025,10 @@
 
 - [bmatzelle/gow](https://github.com/bmatzelle/gow) - Unix command line utilities installer for Windows.
 
+## NewLisp 
+
+- [Allfifthstuning/awesome-groff-user-macrosets](https://github.com/Allfifthstuning/awesome-groff-user-macrosets) - Collection of user macrosets for groff typesetting system
+
 ## Nim 
 
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
@@ -3218,6 +3226,7 @@
 - [lancopku/Chinese-abbreviation-dataset](https://github.com/lancopku/Chinese-abbreviation-dataset) - This is a corpus of Chinese abbreviation, including negative full forms.
 - [aidanruff/Solar-Tracker](https://github.com/aidanruff/Solar-Tracker) - Self aligning, 2 axis solar tracking system to optimise power
 - [aidanruff/https---github.com-aidanruff-Solar-Tracker](https://github.com/aidanruff/https---github.com-aidanruff-Solar-Tracker) - Solar Tracker - 2 axis, self aligning
+- [seebye/fmui](https://github.com/seebye/fmui) - fzf mpd user interface
 - [thomas154/dmenu-video-downloader](https://github.com/thomas154/dmenu-video-downloader) - dmenu interface for youtube-dl
 - [romainl/idiomatic-vimrc](https://github.com/romainl/idiomatic-vimrc) - Guidelines for sculpting your very own ~/.vimrc.
 - [steve-m/fl2k-examples](https://github.com/steve-m/fl2k-examples) - Example flowgraphs for osmo-fl2k
@@ -3504,6 +3513,7 @@
 
 ## Python 
 
+- [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
 - [GeotrekCE/Geotrek-admin](https://github.com/GeotrekCE/Geotrek-admin) - Paths management for National Parks and Tourism organizations
 - [Georiviere/Georiviere-admin](https://github.com/Georiviere/Georiviere-admin) - https://georiviere.fr
 - [pretalx/pretalx](https://github.com/pretalx/pretalx) - Conference planning tool: CfP, scheduling, speaker management
@@ -4725,7 +4735,6 @@
 ## Roff 
 
 - [Alhadis/Mono](https://github.com/Alhadis/Mono) - Troff macros for the 21st century.
-- [Allfifthstuning/awesome-groff-user-macrosets](https://github.com/Allfifthstuning/awesome-groff-user-macrosets) - Collection of user macrosets for groff typesetting system
 - [phillbush/incipit](https://github.com/phillbush/incipit) - the incipit plain text markup language, and some troff macro packages
 - [slavistan/lf-gadgets](https://github.com/slavistan/lf-gadgets) - A collection of useful and nifty use cases and configurations for lf.
 - [rrthomas/pdfjam-extras](https://github.com/rrthomas/pdfjam-extras) - Some unsupported 'wrapper' scripts for pdfjam
@@ -5506,7 +5515,6 @@
 - [nickdaria/TzumiMagicTV-RTLSDR](https://github.com/nickdaria/TzumiMagicTV-RTLSDR) - Working with the 13 dollar Tzumi MagicTV.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [openipcamera/openipc-firmware](https://github.com/openipcamera/openipc-firmware) - OpenIPC Firmware for Wyze Cameras
-- [seebye/fmui](https://github.com/seebye/fmui) - fzf mpd user interface
 - [mikepqr/stowsh](https://github.com/mikepqr/stowsh) - A shell script to install and uninstall dotfiles using symlinks with almost no dependencies
 - [rememberYou/dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration
 - [seemoo-lab/mobisys2018_nexmon_software_defined_radio](https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio) - Proof of concept project for operating Broadcom Wi-Fi chips as arbitrary signal transmitters similar to software-defined radios (SDRs)
