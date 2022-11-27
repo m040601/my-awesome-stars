@@ -177,6 +177,7 @@
 
 ## C 
 
+- [LevitatingBusinessMan/catbin](https://github.com/LevitatingBusinessMan/catbin) - A pastebin server meant for the terminal
 - [libical/libical](https://github.com/libical/libical) - Libical is an Open Source implementation of the iCalendar protocols and protocol data units.
 - [jkbenaim/hs100](https://github.com/jkbenaim/hs100) - CLI tool for TP-Link and Kasa WiFi smart plugs.
 - [maximemoreillon/ring_reader](https://github.com/maximemoreillon/ring_reader) - 
@@ -884,6 +885,7 @@
 
 ## C++ 
 
+- [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
 - [cyborg5/IRLib2](https://github.com/cyborg5/IRLib2) - Library for receiving, decoding, and sending infrared signals using Arduino
 - [Adrianotiger/phoneDTMF](https://github.com/Adrianotiger/phoneDTMF) - Detect DTMF without external devices
 - [landonr/esphome-remote](https://github.com/landonr/esphome-remote) - wifi smart home remote with display that runs on ESPHome. Uses on Lilygo T-Display or M5Stack Fire
@@ -1315,7 +1317,7 @@
 
 ## CSS 
 
-- [wmurphyrd/guppe](https://github.com/wmurphyrd/guppe) - Decentralized social groups with ActivityPub, NodeJS, Express, and Mongodb
+- [immers-space/guppe](https://github.com/immers-space/guppe) - Decentralized social groups with ActivityPub, NodeJS, Express, and Mongodb
 - [IPi-Radio/IPi-Radio](https://github.com/IPi-Radio/IPi-Radio) - Turn your Raspberry PI into an internet radio
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
@@ -1491,7 +1493,6 @@
 - [xiaohanyu/oh-my-emacs](https://github.com/xiaohanyu/oh-my-emacs) - [Stopped] Provide an awesome, out-of-box, literate dotemacs for both newbies and nerds.
 - [technomancy/atreus-firmware](https://github.com/technomancy/atreus-firmware) - Firmware for the Atreus keyboard
 - [vikasrawal/orgpaper](https://github.com/vikasrawal/orgpaper) - Reproducible Research Papers using Org-mode and R: A Guide
-- [barrucadu/dotfiles](https://github.com/barrucadu/dotfiles) - My dotfiles and assorted other crap, managed with GNU Stow.
 
 ## FreeMarker 
 
@@ -1910,6 +1911,7 @@
 - [manubot/manubot.org](https://github.com/manubot/manubot.org) - Source code for https://manubot.org
 - [openenergymonitor/learn](https://github.com/openenergymonitor/learn) - OpenEnergyMonitor learning resources (previously building blocks)
 - [alexnathanson/solar-protocol](https://github.com/alexnathanson/solar-protocol) - A repository in development for a solar powered network of servers that host a distributed web platform. Project by Tega Brain, Alex Nathanson and Benedetta Piantella. Supported by Eyebeam Rapid Respo
+- [Twisted-Fields/acorn-robot-electronics](https://github.com/Twisted-Fields/acorn-robot-electronics) - PCB hardware designs in KICAD for Acorn, the precision farming rover from Twisted Fields.
 - [mcqn/my-babys-got-led](https://github.com/mcqn/my-babys-got-led) - Simple ESP8266 board to drive WS2812 LED strips
 - [orf/bare-hugo-theme](https://github.com/orf/bare-hugo-theme) - A Hugo theme based on Bulma.io
 - [tildeinstitute/site](https://github.com/tildeinstitute/site) - Web site for tilde.institute
@@ -2483,6 +2485,7 @@
 - [Dr-Mx/bexhill-osm](https://github.com/Dr-Mx/bexhill-osm) - A local mapping project using data from OpenStreetMap. Includes overlays, walking directions and historical information.
 - [pgaskin/KoboStuff](https://github.com/pgaskin/KoboStuff) - Automatically updated Kobo firmware download page. Also see pgaskin/kfwproxy for the backend.
 - [containers-everywhere/contain-google](https://github.com/containers-everywhere/contain-google) - [Looking for maintainer] - Google Container isolates your Google activity from the rest of your web activity in order to prevent Google from tracking you outside of the Google website via third party 
+- [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
 - [tyrasd/togpx](https://github.com/tyrasd/togpx) - convert geojson to gpx
 - [tyrasd/osmtogeojson](https://github.com/tyrasd/osmtogeojson) - convert osm to geojson
 - [tyrasd/overpass-turbo](https://github.com/tyrasd/overpass-turbo) - A web based data mining tool for OpenStreetMap using the Overpass API.
@@ -2724,7 +2727,7 @@
 - [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
 - [walmartlabs/static](https://github.com/walmartlabs/static) - 
 - [christophercliff/caisson](https://github.com/christophercliff/caisson) - Deploy your static website to AWS
-- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best JavaScript and Node.js logging service and logging npm package
+- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is a Node.js and JavaScript logging tool and service.
 - [prose/prose](https://github.com/prose/prose) - A Content Editor for GitHub.
 - [developmentseed/jekyll-hook](https://github.com/developmentseed/jekyll-hook) - No Longer Maintained | A server that listens for GitHub webhook posts and renders a Jekyll site
 - [elifesciences/lens-article](https://github.com/elifesciences/lens-article) - The Lens Article Format
@@ -3329,6 +3332,7 @@
 
 ## PHP 
 
+- [simon816/ical-bridge](https://github.com/simon816/ical-bridge) - RSS-Bridge but for iCalendar
 - [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
 - [xaizek/vim-like-pile](https://github.com/xaizek/vim-like-pile) - Sources of Big Pile of Vim-like
 - [anmaped/openfang](https://github.com/anmaped/openfang) - The openfang is a bootloader, kernel and toolchain for devices using Ingenic T10 and T20 SOC
@@ -3513,6 +3517,8 @@
 
 ## Python 
 
+- [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
+- [jelmer/xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server
 - [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
 - [GeotrekCE/Geotrek-admin](https://github.com/GeotrekCE/Geotrek-admin) - Paths management for National Parks and Tourism organizations
 - [Georiviere/Georiviere-admin](https://github.com/Georiviere/Georiviere-admin) - https://georiviere.fr
@@ -3632,7 +3638,6 @@
 - [camelot-dev/camelot](https://github.com/camelot-dev/camelot) - A Python library to extract tabular data from PDFs
 - [artperrin/image2csv](https://github.com/artperrin/image2csv) - Convert tables stored as images to an usable .csv file
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
-- [Twisted-Fields/acorn-robot-electronics](https://github.com/Twisted-Fields/acorn-robot-electronics) - PCB hardware designs in KICAD for Acorn, the precision farming rover from Twisted Fields.
 - [Twisted-Fields/acorn-precision-farming-rover](https://github.com/Twisted-Fields/acorn-precision-farming-rover) - Source code for Acorn, the precision farming rover by Twisted Fields
 - [dewitt/opensearch](https://github.com/dewitt/opensearch) - OpenSearch is a collection of simple formats for the sharing of search results.
 - [afewmail/afew](https://github.com/afewmail/afew) - an initial tagging script for notmuch mail
@@ -3645,7 +3650,7 @@
 - [The-Compiler/nasebohr](https://github.com/The-Compiler/nasebohr) - A command-line tool for DNS queries, with colors and beautiful output
 - [volzotan/CompressorCam](https://github.com/volzotan/CompressorCam) - A camera for digital solargraphy and multi-day long exposure photography
 - [volzotan/plotmap](https://github.com/volzotan/plotmap) - generate large-scale maps for pen plotters from OSM/shapefile/geotiff data
-- [daq-tools/kotori](https://github.com/daq-tools/kotori) - A flexible data historian based on InfluxDB, Grafana, MQTT and more. Free, open, simple.
+- [daq-tools/kotori](https://github.com/daq-tools/kotori) - A flexible data historian based on InfluxDB, Grafana, MQTT, and more. Free, open, simple.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [tjltjl/plycutter](https://github.com/tjltjl/plycutter) - 
 - [kongmunist/asciiZOOM](https://github.com/kongmunist/asciiZOOM) - This alternative to Zoom offers a secure, end-to-end encrypted way to video chat from the safety of your terminal.
@@ -3684,7 +3689,6 @@
 - [oseiskar/autosubsync](https://github.com/oseiskar/autosubsync) - Automatically synchronize subtitles with audio using machine learning
 - [tympanix/subsync](https://github.com/tympanix/subsync) - Synchronize your subtitles using machine learning
 - [rdiff-backup/rdiff-backup](https://github.com/rdiff-backup/rdiff-backup) - Reverse differential backup tool, over a network or locally.
-- [furybsd/furybsd-livecd](https://github.com/furybsd/furybsd-livecd) - LiveCD builder for FuryBSD
 - [the-paperless-project/ansible-role-paperless](https://github.com/the-paperless-project/ansible-role-paperless) - Ansible role to install and configure paperless.
 - [briansteffens/mkws](https://github.com/briansteffens/mkws) - Quickly generate throwaway development environments for quick tests, calculations, etc.
 - [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six) - Community maintained fork of pdfminer - we fathom PDF
@@ -3994,7 +3998,6 @@
 - [tuxor1337/dictmaster](https://github.com/tuxor1337/dictmaster) - Read-only mirror of https://framagit.org/tuxor1337/dictmaster Pull requests and issues on GitHub cannot be accepted and will be automatically closed.
 - [Garee/sp](https://github.com/Garee/sp) - Search Startpage.com from the terminal 🔎
 - [noembryo/KoHighlights](https://github.com/noembryo/KoHighlights) - KOHighlights is a utility for viewing KOReader's highlights and/or export them to simple text, csv or html files.
-- [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [sdushantha/qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - Transfer files over WiFi between your computer and your smartphone from the terminal
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
@@ -4073,7 +4076,7 @@
 - [cihai/cihai](https://github.com/cihai/cihai) - Python library for CJK (Chinese, Japanese, and Korean) language dictionary
 - [scokobro/pandoc-abbreviations](https://github.com/scokobro/pandoc-abbreviations) - Pandoc filter to replace listed abbreviations with their expansions.
 - [sergiocorreia/panflute](https://github.com/sergiocorreia/panflute) - An Pythonic alternative to John MacFarlane's pandocfilters, with extra helper functions
-- [svpcom/wifibroadcast](https://github.com/svpcom/wifibroadcast) - WFB-NG - the next generation of long-range packet radio link based on raw WiFi radio
+- [svpcom/wfb-ng](https://github.com/svpcom/wfb-ng) - WFB-NG - the next generation of long-range packet radio link based on raw WiFi radio
 - [rsteube/qutebrowser-readability](https://github.com/rsteube/qutebrowser-readability) - Userscript that executes python-readability on current page and opens the summary as new tab
 - [reid-k/neb](https://github.com/reid-k/neb) - Wrapper for newsbeuter
 - [OpenGeoscience/geonotebook](https://github.com/OpenGeoscience/geonotebook) - A Jupyter notebook extension for geospatial visualization and analysis
@@ -4510,6 +4513,7 @@
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [batterseapower/pinyin-toolkit](https://github.com/batterseapower/pinyin-toolkit) - A plugin for the Anki Spaced Repetition System (http://ichi2.net/anki/)
+- [barrucadu/dotfiles](https://github.com/barrucadu/dotfiles) - My dotfiles and assorted other crap, managed with GNU Stow.
 - [EnigmaCurry/blogofile](https://github.com/EnigmaCurry/blogofile) - A static website compiler and blog engine written in Python.
 - [brendano/tsvutils](https://github.com/brendano/tsvutils) - Utilities for processing tab-separated files
 - [cmdln/flashbake](https://github.com/cmdln/flashbake) - Scripts to gather information for including in version history comments and to make using source control a bit simpler for non-technical projects.
@@ -5184,6 +5188,8 @@
 
 ## Shell 
 
+- [ricardogj08/fesh](https://github.com/ricardogj08/fesh) - Un generador de feeds de Atom para cápsulas Gemini escrito en POSIX sh.
+- [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
 - [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash and zsh key bindings for Git objects, powered by fzf
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault) - 
 - [dibdot/DoH-IP-blocklists](https://github.com/dibdot/DoH-IP-blocklists) - This repo contains the domain names and the IPv4/IPv6 addresses of public DoH server
@@ -5806,6 +5812,7 @@
 
 ## TypeScript 
 
+- [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
 - [GeotrekCE/Geotrek-rando-v3](https://github.com/GeotrekCE/Geotrek-rando-v3) - Geotrek public data website (version 3)
 - [yktoo/infopi](https://github.com/yktoo/infopi) - InfoPi Information server application
