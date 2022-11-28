@@ -3622,8 +3622,8 @@
 - [4nd3r/adblock-simulator](https://github.com/4nd3r/adblock-simulator) - simulate adblock like a pro
 - [4nd3r/requests-logger](https://github.com/4nd3r/requests-logger) - log website requests
 - [kylebarron/usgs-topo-tiler](https://github.com/kylebarron/usgs-topo-tiler) - Python package to read Web Mercator map tiles from USGS Historical Topographic Maps
-- [doersino/aerialbot](https://github.com/doersino/aerialbot) - A simple yet highly configurable bot that tweets geotagged aerial imagery of a random location in the world.
-- [doersino/earthacrosstime](https://github.com/doersino/earthacrosstime) - Twitter bot that posts videos showcasing how random locations in the world have changed since 1984.
+- [doersino/aerialbot](https://github.com/doersino/aerialbot) - A simple yet highly configurable Mastodon/Twitter bot that posts geotagged aerial imagery of a random location in the world.
+- [doersino/earthacrosstime](https://github.com/doersino/earthacrosstime) - Mastodon/Twitter bot that posts videos showcasing how random locations in the world have changed since 1984.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
@@ -5777,7 +5777,7 @@
 - [christophergandrud/Rep-Res-Book](https://github.com/christophergandrud/Rep-Res-Book) - Source code files for the book Reproducible Research with R/RStudio
 - [yihui/knitr-book](https://github.com/yihui/knitr-book) - Dynamic Documents with R and knitr
 - [yihui/knitr-examples](https://github.com/yihui/knitr-examples) - A collection of knitr examples
-- [gastonstat/relic-stat133](https://github.com/gastonstat/relic-stat133) - Concepts in Computing with Data, UC Berkeley
+- [gastonstat/relic-stat133](https://github.com/gastonstat/relic-stat133) - Deprecated website for Concepts in Computing with Data
 - [divad12/resume](https://github.com/divad12/resume) - Yaml resume compiled into multiple formats (such as LaTeX, HTML (TODO), etc.)
 - [OpenIntroStat/openintro-statistics](https://github.com/OpenIntroStat/openintro-statistics) - 📚 An open-source textbook written at the college level. OpenIntro also offers a second college-level intro stat textbook and also a high school variant.
 - [rstudio/rticles](https://github.com/rstudio/rticles) - LaTeX Journal Article Templates for R Markdown
