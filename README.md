@@ -325,7 +325,7 @@
 - [kristapsdz/sblg](https://github.com/kristapsdz/sblg) - static blog utility
 - [kristapsdz/sqliteconvert](https://github.com/kristapsdz/sqliteconvert) - extract documentation from sqlite schemas
 - [leahneukirchen/mblaze](https://github.com/leahneukirchen/mblaze) - Unix utilities to deal with Maildir
-- [karlstav/cava](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa
+- [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 - [mchehab/zbar](https://github.com/mchehab/zbar) - ZBar is an open source software suite for reading bar codes from various sources, including webcams. As its development stopped in 2012, I took the task of keeping it updated with the V4L2 API. This i
 - [anholt/linux](https://github.com/anholt/linux) - 
 - [legionus/kbd](https://github.com/legionus/kbd) - Mirror of https://git.kernel.org/pub/scm/linux/kernel/git/legion/kbd.git
@@ -2276,7 +2276,6 @@
 - [heussd/texttomail](https://github.com/heussd/texttomail) - Allows to e-mail pages that are viewed in reader mode.
 - [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadc
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
-- [tuzig/terminal7](https://github.com/tuzig/terminal7) - A Touchable Terminal Emulator & Multiplexer hybrid app
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
 - [andrioid/jamstack-example](https://github.com/andrioid/jamstack-example) - https://andri.dk/blog/2021/deploy-static-websites-anywhere
 - [joschi/toot-together](https://github.com/joschi/toot-together) - :elephant: A GitHub action to toot from a repository
@@ -2340,7 +2339,7 @@
 - [gorhill/uBO-Scope](https://github.com/gorhill/uBO-Scope) - A tool to measure over time your own exposure to third parties on the web
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to harden Firefox and optimize privacy, security, and speed
 - [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
-- [ndaidong/article-parser](https://github.com/ndaidong/article-parser) - To extract main article from given URL with Node.js
+- [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
 - [ArchiveBox/readability-extractor](https://github.com/ArchiveBox/readability-extractor) - Javascript/Node wrapper around Mozilla's Readability library so that ArchiveBox can call it as a oneshot CLI command to extract each page's article text.
 - [patrickhulce/third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
@@ -3737,7 +3736,7 @@
 - [zopyx/print-css-rocks](https://github.com/zopyx/print-css-rocks) - CSS Paged Media tutorial and review of tools (repository for print-css.rocks)
 - [python-cm/mkdocs-commonmark](https://github.com/python-cm/mkdocs-commonmark) - A fork of mkdocs that change the markdown parser from Python-Markdown to Mistletoe for reliable CommonMark support.
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
-- [midnightprioriem/mkdocs-vim-md-tags-plugin](https://github.com/midnightprioriem/mkdocs-vim-md-tags-plugin) - An MkDocs plugin that creates a vim tag file of all markdown files
+- [zachhannum/mkdocs-vim-md-tags-plugin](https://github.com/zachhannum/mkdocs-vim-md-tags-plugin) - An MkDocs plugin that creates a vim tag file of all markdown files
 - [TheStaticTurtle/Open433](https://github.com/TheStaticTurtle/Open433) - This project is an opensource usb 433Mhz rf transmitter / receiver based on an atmega328p
 - [hyperqueryhq/whale](https://github.com/hyperqueryhq/whale) - 🐳 The stupidly simple CLI workspace for your data warehouse.
 - [random-python/nspawn](https://github.com/random-python/nspawn) - Containers with systemd-nspawn
@@ -5822,6 +5821,7 @@
 - [Jaeyo/personal-archive](https://github.com/Jaeyo/personal-archive) - keep track of things you learn / discover everyday!
 - [georgestagg/webR](https://github.com/georgestagg/webR) - This project aims to compile the statistical language R into WASM for use in a browser, via Emscripten.
 - [esphome/esp-web-tools](https://github.com/esphome/esp-web-tools) - Open source tools to allow working with ESP devices in the browser
+- [tuzig/terminal7](https://github.com/tuzig/terminal7) - A Touchable Terminal Emulator & Multiplexer hybrid app
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [ethomson/send-tweet-action](https://github.com/ethomson/send-tweet-action) - Send a tweet from a GitHub Action
