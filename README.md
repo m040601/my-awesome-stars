@@ -252,7 +252,6 @@
 - [directfb2/DirectFB2](https://github.com/directfb2/DirectFB2) - Core DirectFB library
 - [oliverlew/dwm](https://github.com/oliverlew/dwm) - My fork of the suckless window manager dwm
 - [deeice/ziptuner](https://github.com/deeice/ziptuner) - Internet radio station tuner (playlist fetcher) for the console using C and dialog.
-- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (Music Player, Music Recorder supporting I2S, Microphones, DAC, ADC, A2DP, Url, MP3, AAC, AudioKit, ES8388)
 - [jscrane/TTS](https://github.com/jscrane/TTS) - Arduino Text-to-Speech Library
 - [pschatzmann/TTS](https://github.com/pschatzmann/TTS) - Arduino Text-to-Speech Library
 - [pschatzmann/rp2040-i2s](https://github.com/pschatzmann/rp2040-i2s) - I2S Arduino Library for Raspberry Pico
@@ -631,7 +630,7 @@
 - [rkd77/elinks](https://github.com/rkd77/elinks) - Fork of elinks
 - [toblum/McLighting](https://github.com/toblum/McLighting) - The ESP8266 based multi-client lighting gadget
 - [hallard/ESP32-Paxcounter](https://github.com/hallard/ESP32-Paxcounter) - Wifi & BLE driven passenger flow metering with cheap ESP32 boards
-- [jeanthom/DirtyJTAG](https://github.com/jeanthom/DirtyJTAG) - JTAG probe firmware for STM32F1
+- [dirtyjtag/DirtyJTAG](https://github.com/dirtyjtag/DirtyJTAG) - JTAG probe firmware
 - [iliasam/OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Source scanning laser rangefinder
 - [iliasam/OpenLIDAR](https://github.com/iliasam/OpenLIDAR) - Open Hardware scanning triangulation laser rangefinder
 - [EliasKotlyar/Xiaomi-Dafang-Software](https://github.com/EliasKotlyar/Xiaomi-Dafang-Software) - 
@@ -1517,6 +1516,7 @@
 
 ## Go 
 
+- [tigrawap/slit](https://github.com/tigrawap/slit) - slit - a modern PAGER for viewing logs, get more than most in less time
 - [jafarlihi/rssnix](https://github.com/jafarlihi/rssnix) - Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader
 - [RealMelkor/Gemigit](https://github.com/RealMelkor/Gemigit) - A self-hosted gemini git service
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -1880,6 +1880,7 @@
 
 ## HTML 
 
+- [cadars/portable-php](https://github.com/cadars/portable-php) - A blog in one HTML file
 - [Georiviere/website](https://github.com/Georiviere/website) - Project website Georivière
 - [n0x5/n0x5.github.io](https://github.com/n0x5/n0x5.github.io) - test
 - [jsvine/intro-to-visidata](https://github.com/jsvine/intro-to-visidata) - Source files for "An Introduction to VisiData"
@@ -1938,7 +1939,6 @@
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [nickw1/hikar.org](https://github.com/nickw1/hikar.org) - The Hikar information website (only). Please see the README for the new repo for the AR.js-based Hikar webapp.
 - [spaghettiwews/hugonews](https://github.com/spaghettiwews/hugonews) - hugo theme (based on https://news.ycombinator.com) for https://bookmarks.wews.co.zw
-- [datamade/how-to](https://github.com/datamade/how-to) - 📚 Doing all sorts of things, the DataMade way
 - [blakadder/templates](https://github.com/blakadder/templates) - Tasmota Device Templates Repository. Your one stop shop to get templates for devices running Tasmota!
 - [gkovacs/smart-subtitles-system-chi2014](https://github.com/gkovacs/smart-subtitles-system-chi2014) - Tool to assist in understanding foreign-language videos
 - [ggerganov/dot-to-ascii](https://github.com/ggerganov/dot-to-ascii) - Graphviz to ASCII converter using Graph::Easy
@@ -2254,6 +2254,7 @@
 
 ## JavaScript 
 
+- [mozilla/firefox-translations](https://github.com/mozilla/firefox-translations) - Firefox Translations is a webextension that enables client side translations for web browsers.
 - [wallabag/wallabagger](https://github.com/wallabag/wallabagger) - Chrome / Firefox / Opera plugin for wallabag v2.
 - [kewisch/ical.js](https://github.com/kewisch/ical.js) - Javascript parser for ics (rfc5545) and vcard (rfc6350) data
 - [nextcloud/cdav-library](https://github.com/nextcloud/cdav-library) - :date: 📇 CalDAV and CardDAV client library for JavaScript
@@ -2843,6 +2844,7 @@
 
 ## Jupyter Notebook 
 
+- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (Music Player, Music Recorder supporting I2S, Microphones, DAC, ADC, A2DP, Url, MP3, AAC, AudioKit, ES8388)
 - [statsthinking21/statsthinking21-python](https://github.com/statsthinking21/statsthinking21-python) - Python companion for Statistical Thinking in the 21st Century
 - [neelsomani/senator-filings](https://github.com/neelsomani/senator-filings) - Scrape public filings of the buy + sell orders of U.S. senators and calculate their returns
 - [Bubblbu/zotero-insights](https://github.com/Bubblbu/zotero-insights) - 
@@ -3415,6 +3417,7 @@
 
 ## Perl 
 
+- [trizen/lbry-viewer](https://github.com/trizen/lbry-viewer) - Experimental Linux client for LBRY/Odysee.
 - [trapd00r/mpdcp](https://github.com/trapd00r/mpdcp) - copy track or album from an mpd server to destination
 - [omar-polo/mlmpl](https://github.com/omar-polo/mlmpl) - simple mailing list (and newsletter) manager
 - [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) - a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)
@@ -3789,6 +3792,7 @@
 - [pvsr/qbpm](https://github.com/pvsr/qbpm) - qutebrowser profile manager
 - [Zverik/Nik4](https://github.com/Zverik/Nik4) - Mapnik to image export
 - [Wazzaps/jqed](https://github.com/Wazzaps/jqed) - json interactive stream editor (jq + up) - for Linux and MacOS
+- [datamade/how-to](https://github.com/datamade/how-to) - 📚 Doing all sorts of things, the DataMade way
 - [Bubblbu/zotnote](https://github.com/Bubblbu/zotnote) - Automatize and manage your reading notes with Zotero & Better Bibtex Plugin (BBT)
 - [josch/img2pdf](https://github.com/josch/img2pdf) - mirror of https://gitlab.mister-muffin.de/josch/img2pdf for Travis and appveyor CI
 - [openwrt/asu](https://github.com/openwrt/asu) - An image on demand server for OpenWrt based distributions
@@ -4124,7 +4128,7 @@
 - [ekbrown/python_scripts](https://github.com/ekbrown/python_scripts) - Python scripts for corpus linguistics
 - [nerevu/riko](https://github.com/nerevu/riko) - A Python stream processing engine modeled after Yahoo! Pipes
 - [agermanidis/autosub](https://github.com/agermanidis/autosub) - [NO LONGER MAINTAINED] Command-line utility for auto-generating subtitles for any video file
-- [dbohdan/remarshal](https://github.com/dbohdan/remarshal) - Convert between CBOR, JSON, MessagePack, TOML, and YAML
+- [remarshal-project/remarshal](https://github.com/remarshal-project/remarshal) - Convert between CBOR, JSON, MessagePack, TOML, and YAML
 - [jpmens/mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notify pluggable services
 - [roam-qgis/Roam](https://github.com/roam-qgis/Roam) - Simple data collection built using QGIS.
 - [gaubert/gmvault](https://github.com/gaubert/gmvault) - gmail backup software
@@ -5096,7 +5100,7 @@
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
 - [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
-- [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
+- [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [golemparts/rppal](https://github.com/golemparts/rppal) - A Rust library that provides access to the Raspberry Pi's GPIO, I2C, PWM, SPI and UART peripherals.
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
@@ -5187,6 +5191,7 @@
 
 ## Shell 
 
+- [unifreq/openwrt_packit](https://github.com/unifreq/openwrt_packit) - Flippy's openwrt packaged source code
 - [ricardogj08/fesh](https://github.com/ricardogj08/fesh) - Un generador de feeds de Atom para cápsulas Gemini escrito en POSIX sh.
 - [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
 - [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash and zsh key bindings for Git objects, powered by fzf
@@ -5241,7 +5246,7 @@
 - [toddyamakawa/tmux-prefixless](https://github.com/toddyamakawa/tmux-prefixless) - 
 - [whame/tmux-modal](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable
 - [ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) - OpenWrt for Amlogic s9xxx tv box. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc. including install to EMMC and update related functions.
-- [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Armbian for Amlogic s9xxx tv box. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc.  including install to EMMC and update related functions.
+- [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Armbian for Amlogic and Rockchip. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc.  including install to EMMC and update related functions.
 - [marado/RNID](https://github.com/marado/RNID) - Lista de casos de incumprimento do RNID
 - [BawdyAnarchist/quBSD](https://github.com/BawdyAnarchist/quBSD) - A FreeBSD jails and bhyve wrapper; which emulates a Qubes-like containerization schema
 - [jcorporation/webradiodb](https://github.com/jcorporation/webradiodb) - Webradio database for myMPD
