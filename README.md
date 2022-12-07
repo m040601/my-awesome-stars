@@ -87,6 +87,7 @@
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
+- [Smarty](#smarty)
 - [Standard ML](#standard-ml)
 - [SuperCollider](#supercollider)
 - [Svelte](#svelte)
@@ -884,6 +885,7 @@
 
 ## C++ 
 
+- [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
 - [cyborg5/IRLib2](https://github.com/cyborg5/IRLib2) - Library for receiving, decoding, and sending infrared signals using Arduino
@@ -1364,7 +1366,7 @@
 - [alexbain/lirc_web](https://github.com/alexbain/lirc_web) - Control LIRC from the web using NodeJS and lirc_node
 - [DARIAH-TDA/DARIAH-NLP.github.io](https://github.com/DARIAH-TDA/DARIAH-NLP.github.io) - 
 - [mrzool/tex-boilerplates](https://github.com/mrzool/tex-boilerplates) - Website for the LaTeX Boilerplates
-- [Screenly/screenly-ose](https://github.com/Screenly/screenly-ose) - The most popular digital signage project on GitHub!
+- [Screenly/Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
 - [kilianc/rtail](https://github.com/kilianc/rtail) - rtail(1) - Terminal output to the browser in seconds, using UNIX pipes.
 - [kaihendry/archpi.dabase.com](https://github.com/kaihendry/archpi.dabase.com) - Turning Wordsister into a FAQ site
 - [bamos/reading-list](https://github.com/bamos/reading-list) - My reading list.
@@ -2255,6 +2257,8 @@
 
 ## JavaScript 
 
+- [programming/farside-redirect](https://github.com/programming/farside-redirect) - Firefox extension to automatically redirect requests to working instances of privacy-oriented alternative frontends with zero-configuration
+- [ayes-web/farside-redirect](https://github.com/ayes-web/farside-redirect) - Unofficial Farside redirect userscript
 - [mozilla/firefox-translations](https://github.com/mozilla/firefox-translations) - Firefox Translations is a webextension that enables client side translations for web browsers.
 - [wallabag/wallabagger](https://github.com/wallabag/wallabagger) - Chrome / Firefox / Opera plugin for wallabag v2.
 - [kewisch/ical.js](https://github.com/kewisch/ical.js) - Javascript parser for ics (rfc5545) and vcard (rfc6350) data
@@ -3334,6 +3338,7 @@
 
 ## PHP 
 
+- [Rouji/single_php_filehost](https://github.com/Rouji/single_php_filehost) - Simple Filehosting Page in a Single PHP File (obvious 0x0 clone)
 - [simon816/ical-bridge](https://github.com/simon816/ical-bridge) - RSS-Bridge but for iCalendar
 - [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
 - [xaizek/vim-like-pile](https://github.com/xaizek/vim-like-pile) - Sources of Big Pile of Vim-like
@@ -3520,6 +3525,7 @@
 
 ## Python 
 
+- [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [jelmer/xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server
 - [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
@@ -5520,7 +5526,7 @@
 - [mdaffin/arch-pkgs](https://github.com/mdaffin/arch-pkgs) - Management repo for my Arch Linux systems. Mirror of https://gitlab.com/mdaffin/arch-pkgs
 - [fread-ink/fread-vagrant](https://github.com/fread-ink/fread-vagrant) - vagrant system for compiling fread.ink
 - [MToniotti/ARMchromebook](https://github.com/MToniotti/ARMchromebook) - 
-- [13pgeiser/debian_chromebook_XE303C12](https://github.com/13pgeiser/debian_chromebook_XE303C12) - Debian Buster on Samsung Chromebook Serie 3 (XE303C12, ARM Exynos)
+- [13pgeiser/debian_chromebook_XE303C12](https://github.com/13pgeiser/debian_chromebook_XE303C12) - Debian Bullseye on Samsung Chromebook Serie 3 (XE303C12, ARM Exynos)
 - [passff/passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
 - [RuneAudio/RuneOS](https://github.com/RuneAudio/RuneOS) - ArchLinux optimized distribution for audio playback
 - [nickdaria/TzumiMagicTV-RTLSDR](https://github.com/nickdaria/TzumiMagicTV-RTLSDR) - Working with the 13 dollar Tzumi MagicTV.
@@ -5724,6 +5730,10 @@
 - [stef/utterson](https://github.com/stef/utterson) - a minimal static blog generator written using old-school unix tools (make, ksh, m4, awk, procmail and a pinch of elisp)
 - [micha/jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
 - [micha/resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
+
+## Smarty 
+
+- [tumic0/GPXSee-maps](https://github.com/tumic0/GPXSee-maps) - GPXSee maps
 
 ## Standard ML 
 
