@@ -178,6 +178,8 @@
 
 ## C 
 
+- [nifty-site-manager/nsm](https://github.com/nifty-site-manager/nsm) - Nift - world's fastest cross-platform open source website generator.
+- [fAuernigg/esp32-baresip-client](https://github.com/fAuernigg/esp32-baresip-client) - 
 - [LevitatingBusinessMan/catbin](https://github.com/LevitatingBusinessMan/catbin) - A pastebin server meant for the terminal
 - [libical/libical](https://github.com/libical/libical) - Libical is an Open Source implementation of the iCalendar protocols and protocol data units.
 - [jkbenaim/hs100](https://github.com/jkbenaim/hs100) - CLI tool for TP-Link and Kasa WiFi smart plugs.
@@ -241,7 +243,7 @@
 - [jbensmann/xmouseless](https://github.com/jbensmann/xmouseless) - A fast and simple way to control the mouse.
 - [milankragujevic/openwrt-wr840n-v620-old](https://github.com/milankragujevic/openwrt-wr840n-v620-old) - Patched OpenWrt for TP-Link WR840N(EU) v6.20
 - [BertoldVdb/sdtool](https://github.com/BertoldVdb/sdtool) - A small tool for managing the write protection flag of SD cards.
-- [rbaron/b-parasite](https://github.com/rbaron/b-parasite) - 🌱💧 A Bluetooth Low Energy (BLE) soil moisture sensor.
+- [rbaron/b-parasite](https://github.com/rbaron/b-parasite) - 🌱💧 An open source soil moisture sensor.
 - [aligrudi/fbpad_mkfn](https://github.com/aligrudi/fbpad_mkfn) - Generate Fbpad fonts from TrueType fonts
 - [slavaGanzin/await](https://github.com/slavaGanzin/await) - 32Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination
 - [EliasOenal/multimon-ng](https://github.com/EliasOenal/multimon-ng) - 
@@ -885,6 +887,7 @@
 
 ## C++ 
 
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything in your terminal.
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -1045,7 +1048,6 @@
 - [jnogues/ESP32-Long-Range-WiFi](https://github.com/jnogues/ESP32-Long-Range-WiFi) - 
 - [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
 - [Blub/netevent](https://github.com/Blub/netevent) - Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
-- [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [schwehr/libais](https://github.com/schwehr/libais) - C++ decoder for Automatic Identification System for tracking ships and decoding maritime information
 - [Snapcast/snapcast](https://github.com/Snapcast/snapcast) - Synchronous multi-room audio player
 - [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
@@ -1519,6 +1521,13 @@
 
 ## Go 
 
+- [n0x1m/md2gmi](https://github.com/n0x1m/md2gmi) - Converts Markdown to Gemini gemtext with Go. Working with streams and UNIX pipes, utilizing Go channels. Processes streams of input line by line and forwards blocks to the next pipeline stage.
+- [n0x1m/hugoext](https://github.com/n0x1m/hugoext) - Hugoext allows to pipe Go Hugo markdown content files through an arbitrary processing tool. It abides the same destination file tree for thoser file types with the processed output.
+- [chzyer/readline](https://github.com/chzyer/readline) - Readline is a pure go(golang) implementation for GNU-Readline kind library
+- [wader/ydls](https://github.com/wader/ydls) - youtube-dl HTTP download and transcode service
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats
+- [ferdinandyb/maildir-rank-addr](https://github.com/ferdinandyb/maildir-rank-addr) - Creates a ranked list of email addresses from maildir folders, which can be used for address completion for example in aerc.
+- [maragudk/sqlite-app](https://github.com/maragudk/sqlite-app) - Companion app to "The Complete Guide to Go and SQLite".
 - [tigrawap/slit](https://github.com/tigrawap/slit) - slit - a modern PAGER for viewing logs, get more than most in less time
 - [jafarlihi/rssnix](https://github.com/jafarlihi/rssnix) - Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader
 - [RealMelkor/Gemigit](https://github.com/RealMelkor/Gemigit) - A self-hosted gemini git service
@@ -1788,7 +1797,7 @@
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [rgburke/grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 - [bogem/nehm](https://github.com/bogem/nehm) - (DEPRECATED) ☁️  CLI for downloading tracks from SoundCloud
-- [DrakeW/corgi](https://github.com/DrakeW/corgi) - Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet
+- [junyu-w/corgi](https://github.com/junyu-w/corgi) - Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [RadhiFadlillah/simple-server](https://github.com/RadhiFadlillah/simple-server) - Simple HTTP server to serve contents of specified directory
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
@@ -2257,6 +2266,8 @@
 
 ## JavaScript 
 
+- [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [programming/farside-redirect](https://github.com/programming/farside-redirect) - Firefox extension to automatically redirect requests to working instances of privacy-oriented alternative frontends with zero-configuration
 - [ayes-web/farside-redirect](https://github.com/ayes-web/farside-redirect) - Unofficial Farside redirect userscript
 - [mozilla/firefox-translations](https://github.com/mozilla/firefox-translations) - Firefox Translations is a webextension that enables client side translations for web browsers.
@@ -2392,14 +2403,14 @@
 - [claudehohl/Stikked](https://github.com/claudehohl/Stikked) - An advanced and beautiful pastebin written in PHP
 - [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
-- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, end-to-end encrypted and open-source.
+- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - Copying Link, Image and Tab(s) as Markdown Much Easier.
 - [Juris-M/zotero-odf-scan-plugin](https://github.com/Juris-M/zotero-odf-scan-plugin) - RTF/ODF-Scan for Zotero add-on
 - [plandes/zotsite](https://github.com/plandes/zotsite) - Export Zotero to a stand-alone web site
 - [GChristensen/scrapyard](https://github.com/GChristensen/scrapyard) - Bookmark heavy lifting
 - [omgimanerd/getnews.tech](https://github.com/omgimanerd/getnews.tech) - A web server that fetches data from the News API and formats it for display in the terminal.
-- [crisdosyago/Diskernet](https://github.com/crisdosyago/Diskernet) - 💾 Diskernet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect 
+- [crisdosyago/DiskerNet](https://github.com/crisdosyago/DiskerNet) - 💾 DiskerNet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect 
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [cmdalbem/ciclomapa](https://github.com/cmdalbem/ciclomapa) - Beautiful, interactive & open bike maps of Brazilian cities. Powered by OpenStreetMap.
@@ -2812,7 +2823,6 @@
 - [christophercliff/sausage](https://github.com/christophercliff/sausage) - A jQuery UI widget for contextual pagination.
 - [janmonschke/backbone-couchdb](https://github.com/janmonschke/backbone-couchdb) - A couchdb connector for backbone with support for real time changes.
 - [stewartmckee/cobweb](https://github.com/stewartmckee/cobweb) - Web crawler with very flexible crawling options.  Can either use standalone or can be used with resque to perform clustered crawls.
-- [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 - [LeaVerou/inspire.js](https://github.com/LeaVerou/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
 - [jeromegn/Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) - A localStorage adapter for Backbone.js
 - [guard/guard-livereload](https://github.com/guard/guard-livereload) - Guard::LiveReload automatically reload your browser when 'view' files are modified.
@@ -2900,6 +2910,7 @@
 
 ## Lua 
 
+- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [stelzch/zotero.koplugin](https://github.com/stelzch/zotero.koplugin) - 
 - [acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion) - Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C...
 - [occivink/mpv-gallery-view](https://github.com/occivink/mpv-gallery-view) - Gallery-view scripts for mpv
@@ -3188,6 +3199,7 @@
 - [adafruit/awesome-feather](https://github.com/adafruit/awesome-feather) - A curated list of awesome Feather form factor boards, guides, videos, libraries, software and resources.
 - [hsgw/tartan](https://github.com/hsgw/tartan) - 60% keyboard made by through-hole parts only
 - [hsgw/plaid](https://github.com/hsgw/plaid) - 12x4 ortholinear usb keyboard made by Through Hole components ONLY.
+- [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [AdamKeher/Pico-Audio](https://github.com/AdamKeher/Pico-Audio) - TinyPICO I2S Audio, I2S Microphone & 3.7W Stereo Amplifier Module with Built-in MicroSD card reader
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [feramhq/cli-apps](https://github.com/feramhq/cli-apps) - Database of CLI apps for cliapp.store
@@ -3525,6 +3537,9 @@
 
 ## Python 
 
+- [etesync/server](https://github.com/etesync/server) - The Etebase server (so you can run your own)
+- [pimutils/todoman](https://github.com/pimutils/todoman) - ✅ A simple, standards-based, cli todo (aka: task) manager.
+- [pazz/alot](https://github.com/pazz/alot) - Terminal-based Mail User Agent
 - [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [jelmer/xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server
@@ -4523,7 +4538,7 @@
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [batterseapower/pinyin-toolkit](https://github.com/batterseapower/pinyin-toolkit) - A plugin for the Anki Spaced Repetition System (http://ichi2.net/anki/)
-- [barrucadu/dotfiles](https://github.com/barrucadu/dotfiles) - My dotfiles and assorted other crap, managed with GNU Stow.
+- [barrucadu/dotfiles](https://github.com/barrucadu/dotfiles) - My dotfiles and assorted other crap, managed with chezmoi.
 - [EnigmaCurry/blogofile](https://github.com/EnigmaCurry/blogofile) - A static website compiler and blog engine written in Python.
 - [brendano/tsvutils](https://github.com/brendano/tsvutils) - Utilities for processing tab-separated files
 - [cmdln/flashbake](https://github.com/cmdln/flashbake) - Scripts to gather information for including in version history comments and to make using source control a bit simpler for non-technical projects.
@@ -5198,6 +5213,9 @@
 
 ## Shell 
 
+- [qq542vev/shell-opensearch](https://github.com/qq542vev/shell-opensearch) - Shell の端末環境で OpenSearch description document を利用する。
+- [l29ah/w3crapcli](https://github.com/l29ah/w3crapcli) - A collection of CLI tools to deal with the web
+- [jasonccox/conf-to-epub](https://github.com/jasonccox/conf-to-epub) - LDS General Conference for e-readers
 - [unifreq/openwrt_packit](https://github.com/unifreq/openwrt_packit) - Flippy's openwrt packaged source code
 - [ricardogj08/fesh](https://github.com/ricardogj08/fesh) - Un generador de feeds de Atom para cápsulas Gemini escrito en POSIX sh.
 - [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
