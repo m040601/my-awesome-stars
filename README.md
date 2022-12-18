@@ -178,6 +178,7 @@
 
 ## C 
 
+- [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [nifty-site-manager/nsm](https://github.com/nifty-site-manager/nsm) - Nift - world's fastest cross-platform open source website generator.
 - [fAuernigg/esp32-baresip-client](https://github.com/fAuernigg/esp32-baresip-client) - 
 - [LevitatingBusinessMan/catbin](https://github.com/LevitatingBusinessMan/catbin) - A pastebin server meant for the terminal
@@ -1479,7 +1480,7 @@
 
 ## Elixir 
 
-- [mrusme/kiwi](https://github.com/mrusme/kiwi) - Kiwi turns your Pimoroni Keybow into a fully customizable poor-man's Elgato Stream Deck!
+- [mrusme/kiwi](https://github.com/mrusme/kiwi) - Pimoroni Keybow based, WiFi-enabled Macro Pad (a.k.a. poor-man's Elgato Stream Deck)
 - [benbusby/farside](https://github.com/benbusby/farside) - A smart redirecting gateway for various frontend services
 - [andersju/webbkoll](https://github.com/andersju/webbkoll) - An online tool that checks how a website is doing with regards to privacy
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
@@ -1981,7 +1982,6 @@
 - [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
 - [vsoch/watchme](https://github.com/vsoch/watchme) - Reproducible watchers for research
 - [jm42/compare-user.js](https://github.com/jm42/compare-user.js) - Compare firefox user.js
-- [owid/owid-static](https://github.com/owid/owid-static) - Auto-generated static pages of the full ourworldindata.org site.
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [atoponce/d-note](https://github.com/atoponce/d-note) - Self destructing encrypted notes
@@ -5213,6 +5213,7 @@
 
 ## Shell 
 
+- [vaniacer/sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
 - [qq542vev/shell-opensearch](https://github.com/qq542vev/shell-opensearch) - Shell の端末環境で OpenSearch description document を利用する。
 - [l29ah/w3crapcli](https://github.com/l29ah/w3crapcli) - A collection of CLI tools to deal with the web
 - [jasonccox/conf-to-epub](https://github.com/jasonccox/conf-to-epub) - LDS General Conference for e-readers
@@ -5846,7 +5847,7 @@
 ## TypeScript 
 
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
-- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
+- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [GeotrekCE/Geotrek-rando-v3](https://github.com/GeotrekCE/Geotrek-rando-v3) - Geotrek public data website (version 3)
 - [yktoo/infopi](https://github.com/yktoo/infopi) - InfoPi Information server application
 - [zyachel/libremdb](https://github.com/zyachel/libremdb) - A free & open source IMDb front-end.
@@ -6204,7 +6205,7 @@
 - [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
 - [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [pschatzmann/esp32_radio](https://github.com/pschatzmann/esp32_radio) - Web Radio Player which is also working with a ESP32 Micro Controller
-- [radiantearth/stac-browser](https://github.com/radiantearth/stac-browser) - A full-fledged UI for browsing static STAC catalogs and STAC APIs
+- [radiantearth/stac-browser](https://github.com/radiantearth/stac-browser) - A full-fledged UI in Vue for browsing and searching static STAC catalogs and STAC APIs
 - [anonaddy/browser-extension](https://github.com/anonaddy/browser-extension) - The source code for the browser extension
 - [perliedman/course-sketcher](https://github.com/perliedman/course-sketcher) - Web based course setting for orienteering
 
