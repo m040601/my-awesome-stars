@@ -560,7 +560,7 @@
 - [tboox/tbox](https://github.com/tboox/tbox) - 🎁 A glib-like multi-platform c library
 - [tboox/ltui](https://github.com/tboox/ltui) - 🍖 A cross-platform terminal ui library based on Lua
 - [christf/snapcastc](https://github.com/christf/snapcastc) - C implementation of snapcast focussing on audio quality and ease of maintenance.
-- [paolostivanin/OTPClient](https://github.com/paolostivanin/OTPClient) - Highly secure and easy to use OTP client written in C/GTK that supports both TOTP and HOTP
+- [paolostivanin/OTPClient](https://github.com/paolostivanin/OTPClient) - Highly secure and easy to use OTP client written in C/GTK3 that supports both TOTP and HOTP
 - [aluzzardi/pam_usb](https://github.com/aluzzardi/pam_usb) - [UNMAINTAINED] Hardware authentication for Linux using ordinary USB Flash Drives.
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
@@ -951,7 +951,7 @@
 - [SebastianHinz73/InternetRadio](https://github.com/SebastianHinz73/InternetRadio) - With this repository, Espressif's LyraT board becomes an Internet radio.
 - [xavery/dcue](https://github.com/xavery/dcue) - DCue is a tool for generating CUE sheets from Discogs data.
 - [nopnop2002/esp8266-mpd-client](https://github.com/nopnop2002/esp8266-mpd-client) - MPD client example for ESP8266/ESP32.
-- [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - **Old repository, check GitHub organization**. Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating syste
+- [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained.
 - [DjordjeMandic/Universal-IR-Blaster-TV-B-Gone](https://github.com/DjordjeMandic/Universal-IR-Blaster-TV-B-Gone) - TV-B-Gone on steroids using Universal IR Blaster board
 - [wagiminator/ATtiny13-TinyUPS](https://github.com/wagiminator/ATtiny13-TinyUPS) - Uninterruptible Power Supply
 - [wagiminator/ATtiny13-TinyRemote](https://github.com/wagiminator/ATtiny13-TinyRemote) - IR Remote Control
@@ -2859,6 +2859,7 @@
 
 ## Jupyter Notebook 
 
+- [whotracksme/whotracks.me](https://github.com/whotracksme/whotracks.me) - Data from the largest and longest measurement of online tracking.
 - [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (Music Player, Music Recorder supporting I2S, Microphones, DAC, ADC, A2DP, Url, MP3, AAC, AudioKit, ES8388)
 - [statsthinking21/statsthinking21-python](https://github.com/statsthinking21/statsthinking21-python) - Python companion for Statistical Thinking in the 21st Century
 - [neelsomani/senator-filings](https://github.com/neelsomani/senator-filings) - Scrape public filings of the buy + sell orders of U.S. senators and calculate their returns
@@ -3537,6 +3538,7 @@
 
 ## Python 
 
+- [willmcgugan/textual-markdown](https://github.com/willmcgugan/textual-markdown) - 
 - [etesync/server](https://github.com/etesync/server) - The Etebase server (so you can run your own)
 - [pimutils/todoman](https://github.com/pimutils/todoman) - ✅ A simple, standards-based, cli todo (aka: task) manager.
 - [pazz/alot](https://github.com/pazz/alot) - Terminal-based Mail User Agent
