@@ -2876,6 +2876,7 @@
 - [tvd-dataset/GameOfThrones](https://github.com/tvd-dataset/GameOfThrones) - "Game Of Thrones" TVD plugin
 - [tvd-dataset/TheBigBangTheory](https://github.com/tvd-dataset/TheBigBangTheory) - "The Big Bang Theory" TVD plugin
 - [IRkernel/IRkernel](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter
+- [cs109/content](https://github.com/cs109/content) - Official content for Harvard CS109
 
 ## KiCad Layout 
 
@@ -4422,7 +4423,6 @@
 - [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [ianmilligan1/Historian-WARC-1](https://github.com/ianmilligan1/Historian-WARC-1) - The Historian's WARC Toolkit
-- [cs109/content](https://github.com/cs109/content) - Official content for Harvard CS109
 - [midgetspy/Sick-Beard](https://github.com/midgetspy/Sick-Beard) - PVR & episode guide that downloads and manages all your TV shows
 - [Diaoul/subliminal](https://github.com/Diaoul/subliminal) - Subtitles, faster than your thoughts
 - [trakt/script.trakt](https://github.com/trakt/script.trakt) - Trakt.tv movie and TV show scrobbler for Kodi
@@ -5860,7 +5860,7 @@
 - [esphome/esp-web-tools](https://github.com/esphome/esp-web-tools) - Open source tools to allow working with ESP devices in the browser
 - [tuzig/terminal7](https://github.com/tuzig/terminal7) - A Touchable Terminal Emulator & Multiplexer hybrid app
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%), but is fully open source.
 - [ethomson/send-tweet-action](https://github.com/ethomson/send-tweet-action) - Send a tweet from a GitHub Action
 - [krisek/audioloader](https://github.com/krisek/audioloader) - A responsive Music Player Daemon web client with special focus on listening full albums.
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
