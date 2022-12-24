@@ -178,6 +178,7 @@
 
 ## C 
 
+- [mini-rose/rose](https://github.com/mini-rose/rose) - Minimalist browser based on webkit2.
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [nifty-site-manager/nsm](https://github.com/nifty-site-manager/nsm) - Nift - world's fastest cross-platform open source website generator.
 - [fAuernigg/esp32-baresip-client](https://github.com/fAuernigg/esp32-baresip-client) - 
@@ -3155,7 +3156,6 @@
 - [mkws-1/pp](https://github.com/mkws-1/pp) - a preprocessor
 - [mkws-1/mkws](https://github.com/mkws-1/mkws) - A simple static site generator using `sh` as a templating language.
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
-- [brunomiguel/userrepository](https://github.com/brunomiguel/userrepository) - 
 - [ScottHelme/revocation-endpoints](https://github.com/ScottHelme/revocation-endpoints) - A list of CRL and OCSP endpoints.
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [duyet/awesome-web-scraper](https://github.com/duyet/awesome-web-scraper) - A collection of awesome web scaper, crawler.
@@ -3540,6 +3540,7 @@
 
 ## Python 
 
+- [dsanson/termpdf.py](https://github.com/dsanson/termpdf.py) - A graphical pdf and epub reader that works inside the kitty terminal
 - [willmcgugan/textual-markdown](https://github.com/willmcgugan/textual-markdown) - 
 - [etesync/server](https://github.com/etesync/server) - The Etebase server (so you can run your own)
 - [pimutils/todoman](https://github.com/pimutils/todoman) - ✅ A simple, standards-based, cli todo (aka: task) manager.
@@ -5375,6 +5376,7 @@
 - [mohd-akram/jawk](https://github.com/mohd-akram/jawk) - Awk for JSON.
 - [huijunchen9260/dmenubib](https://github.com/huijunchen9260/dmenubib) - A simple bibliography manager using dmenu
 - [chin123/archlinux-4044C](https://github.com/chin123/archlinux-4044C) - A guide with accompanying scripts to get a working arch linux chroot on the Alcatel 4044C, a $40 flip phone.
+- [brunomiguel/userrepository](https://github.com/brunomiguel/userrepository) - 
 - [dylanaraps/shfm](https://github.com/dylanaraps/shfm) - file manager written in posix shell
 - [jcorporation/myMPDos](https://github.com/jcorporation/myMPDos) - A music player image for Raspberry Pi based on Alpine Linux, MPD and myMPD.
 - [uriel1998/mpdq](https://github.com/uriel1998/mpdq) - Automatic MPD "smart playlist" creator with minimal but hackable setup.
