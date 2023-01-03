@@ -178,6 +178,7 @@
 
 ## C 
 
+- [rpmohn/a4](https://github.com/rpmohn/a4) - dynamic terminal manager and multiplexer
 - [ciniml/WireGuard-ESP32-Arduino](https://github.com/ciniml/WireGuard-ESP32-Arduino) - WireGuard implementation for ESP32 Arduino
 - [phillbush/plumb](https://github.com/phillbush/plumb) - yet another plumbing utility for UNIX
 - [mini-rose/rose](https://github.com/mini-rose/rose) - Minimalist browser based on webkit2.
@@ -1896,6 +1897,7 @@
 
 ## HTML 
 
+- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [cadars/portable-php](https://github.com/cadars/portable-php) - A blog in one HTML file
 - [Georiviere/website](https://github.com/Georiviere/website) - Project website Georivière
 - [n0x5/n0x5.github.io](https://github.com/n0x5/n0x5.github.io) - test
@@ -2912,8 +2914,8 @@
 
 ## Lua 
 
+- [kode-team/mastodon.nvim](https://github.com/kode-team/mastodon.nvim) - Mastodon client for Neovim
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - A file manager for Neovim which lets you edit your filesystem like you edit text
-- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [stelzch/zotero.koplugin](https://github.com/stelzch/zotero.koplugin) - 
 - [acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion) - Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C...
 - [occivink/mpv-gallery-view](https://github.com/occivink/mpv-gallery-view) - Gallery-view scripts for mpv
@@ -3129,7 +3131,6 @@
 - [jazmichaelking/mastodon-near-me](https://github.com/jazmichaelking/mastodon-near-me) - Directory of Mastodon and related servers that operate primarily in or are targeted to a locality or region
 - [Xinyuan-LilyGO/LilyGO-T-Motion](https://github.com/Xinyuan-LilyGO/LilyGO-T-Motion) - LilyGO-T-Motion
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
-- [robhagemans/hoard-of-bitfonts](https://github.com/robhagemans/hoard-of-bitfonts) - turns out I like bitmap fonts
 - [Vinnl/feeds](https://github.com/Vinnl/feeds) - Example repository for creating your own RSS feeds using Feed me up, Scotty!
 - [hexdump0815/linux-mainline-on-arm-chromebooks](https://github.com/hexdump0815/linux-mainline-on-arm-chromebooks) - running linux mainline on arm chromebooks - for example: samsung xe303c12 and xe503c12 (snow and peach), acer c100, c101 and c201 (veyron speedy, minnie etc. and gru bob and kevin), medion s2013 and s
 - [justdomains/blocklists](https://github.com/justdomains/blocklists) - Domain-ONLY Filter Lists (for use with DNS / Domain blocking tools)
@@ -3432,6 +3433,7 @@
 
 ## Pascal 
 
+- [robhagemans/hoard-of-bitfonts](https://github.com/robhagemans/hoard-of-bitfonts) - turns out I like bitmap fonts
 - [benibela/xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON docu
 - [me2d13/luamacros](https://github.com/me2d13/luamacros) - 
 - [ultibohub/Examples](https://github.com/ultibohub/Examples) - Ultibo Examples
