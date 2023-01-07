@@ -178,6 +178,7 @@
 
 ## C 
 
+- [leonerd/libtickit](https://github.com/leonerd/libtickit) - 
 - [rpmohn/a4](https://github.com/rpmohn/a4) - dynamic terminal manager and multiplexer
 - [ciniml/WireGuard-ESP32-Arduino](https://github.com/ciniml/WireGuard-ESP32-Arduino) - WireGuard implementation for ESP32 Arduino
 - [phillbush/plumb](https://github.com/phillbush/plumb) - yet another plumbing utility for UNIX
@@ -191,7 +192,7 @@
 - [maximemoreillon/ring_reader](https://github.com/maximemoreillon/ring_reader) - 
 - [msm8916-mainline/linux](https://github.com/msm8916-mainline/linux) - Linux mainline kernel fork for various Qualcomm MSM8909/MSM8916/MSM8939 devices
 - [dvarrazzo/py-setproctitle](https://github.com/dvarrazzo/py-setproctitle) - A Python module to customize the process title
-- [muennich/physlock](https://github.com/muennich/physlock) - Lightweight linux console locking tool
+- [xyb3rt/physlock](https://github.com/xyb3rt/physlock) - Lightweight linux console locking tool
 - [alexivkin/CUPS-PDF-to-PDF](https://github.com/alexivkin/CUPS-PDF-to-PDF) - CUPS-PDF with a patch to print text correctly
 - [michaelrsweet/pappl](https://github.com/michaelrsweet/pappl) - PAPPL - Printer Application Framework
 - [michaelrsweet/lprint](https://github.com/michaelrsweet/lprint) - A Label Printer Application
@@ -258,7 +259,7 @@
 - [begriffs/mimedown](https://github.com/begriffs/mimedown) - markdown to multipart mime
 - [Xinyuan-LilyGO/TTGO_TWatch_Library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library) - 
 - [directfb2/DirectFB2](https://github.com/directfb2/DirectFB2) - Core DirectFB library
-- [oliverlew/dwm](https://github.com/oliverlew/dwm) - My fork of the suckless window manager dwm
+- [xlucn/dwm](https://github.com/xlucn/dwm) - My fork of the suckless window manager dwm
 - [deeice/ziptuner](https://github.com/deeice/ziptuner) - Internet radio station tuner (playlist fetcher) for the console using C and dialog.
 - [jscrane/TTS](https://github.com/jscrane/TTS) - Arduino Text-to-Speech Library
 - [pschatzmann/TTS](https://github.com/pschatzmann/TTS) - Arduino Text-to-Speech Library
@@ -287,7 +288,7 @@
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [networkupstools/nut](https://github.com/networkupstools/nut) - The Network UPS Tools repository. UPS management protocol Informational RFC 9271 published by IETF at https://www.rfc-editor.org/info/rfc9271
 - [gammu/gammu](https://github.com/gammu/gammu) - Gammu All Mobile Management Utilities
-- [phillbush/xfiles](https://github.com/phillbush/xfiles) - X11 file manager (work in progress)
+- [phillbush/xfiles](https://github.com/phillbush/xfiles) - Configurable and simple file manager for X11
 - [gciruelos/termplot](https://github.com/gciruelos/termplot) - Terminal-based mathematical function plotter
 - [An7ar35/ctune](https://github.com/An7ar35/ctune) - nCurses internet radio player for Linux
 - [MacPaw/XADMaster](https://github.com/MacPaw/XADMaster) - Objective-C library for archive and file unarchiving and extraction
@@ -407,7 +408,7 @@
 - [phillbush/shod-old](https://github.com/phillbush/shod-old) - hybrid (floating and tiling) tabbed window manager
 - [phillbush/focus](https://github.com/phillbush/focus) - Focus window, workspace or monitor by direction or cycle through them.
 - [phillbush/xclickroot](https://github.com/phillbush/xclickroot) - click on root window and run a command
-- [oliverlew/xdg-xmenu](https://github.com/oliverlew/xdg-xmenu) - Generate menu for xmenu
+- [xlucn/xdg-xmenu](https://github.com/xlucn/xdg-xmenu) - Generate menu for xmenu
 - [phillbush/xmenu](https://github.com/phillbush/xmenu) - a x11 menu utility
 - [gunboy001/hkd](https://github.com/gunboy001/hkd) - simple hotkey daemon using linux's evdev interface
 - [bitluni/ESP32Lib](https://github.com/bitluni/ESP32Lib) - 
@@ -824,7 +825,7 @@
 - [baskerville/xdo](https://github.com/baskerville/xdo) - Small X utility to perform elementary actions on windows
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
 - [tonyfischetti/qstats](https://github.com/tonyfischetti/qstats) - Quick and dirty statistics tool for the UNIX pipeline
-- [muennich/sxiv](https://github.com/muennich/sxiv) - Simple X Image Viewer
+- [xyb3rt/sxiv](https://github.com/xyb3rt/sxiv) - Simple X Image Viewer
 - [benblazak/ergodox-firmware](https://github.com/benblazak/ergodox-firmware) - firmware for the ergoDOX keyboard
 - [laurikari/tre](https://github.com/laurikari/tre) - The approximate regex matching library and agrep command line tool.
 - [sahib/glyr](https://github.com/sahib/glyr) - Glyr is a music related metadata searchengine, both with commandline interface and C API
@@ -905,7 +906,7 @@
 - [timmbogner/LoRaNow](https://github.com/timmbogner/LoRaNow) - LoRaNow Library is a simple LoRa Node &lt;&gt; Gateway communication protocol.
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 - [e1z0/Framebuffer-browser](https://github.com/e1z0/Framebuffer-browser) - Simple Linux framebuffer Web Browser based on QtWebEngine
-- [oliverlew/fbterm](https://github.com/oliverlew/fbterm) - A personal fork only to keep the patches I need
+- [xlucn/fbterm](https://github.com/xlucn/fbterm) - A personal fork only to keep the patches I need
 - [Rain92/qt5-kobo-platform-plugin](https://github.com/Rain92/qt5-kobo-platform-plugin) - A Qt5 platform backend plugin for Kobo E-Ink devices.
 - [TMRh20/RF24-Automation-Systems](https://github.com/TMRh20/RF24-Automation-Systems) - A repository for the code used in RF24 Home Automation Systems
 - [zaps166/QMPlay2](https://github.com/zaps166/QMPlay2) - QMPlay2 is a video and audio player which can play most formats and codecs.
@@ -1526,6 +1527,10 @@
 
 ## Go 
 
+- [trashhalo/imgcat](https://github.com/trashhalo/imgcat) - a tool to output images as RGB ANSI graphics on the terminal
+- [natesales/q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
+- [demostanis/gimmeasearx](https://github.com/demostanis/gimmeasearx) - Find a random searx instance
 - [n0x1m/md2gmi](https://github.com/n0x1m/md2gmi) - Converts Markdown to Gemini gemtext with Go. Working with streams and UNIX pipes, utilizing Go channels. Processes streams of input line by line and forwards blocks to the next pipeline stage.
 - [n0x1m/hugoext](https://github.com/n0x1m/hugoext) - Hugoext allows to pipe Go Hugo markdown content files through an arbitrary processing tool. It abides the same destination file tree for thoser file types with the processed output.
 - [chzyer/readline](https://github.com/chzyer/readline) - Readline is a pure go(golang) implementation for GNU-Readline kind library
@@ -2134,6 +2139,7 @@
 
 ## Haskell 
 
+- [nsanmartin/reg](https://github.com/nsanmartin/reg) - Comand line program to paste stdin in "registers".
 - [pdobsan/mailctl](https://github.com/pdobsan/mailctl) - Provide IMAP/SMTP clients with the capabilities of renewal and authorization of OAuth2 credentials.
 - [fosskers/aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
 - [LaurentRDC/pandoc-plot](https://github.com/LaurentRDC/pandoc-plot) - Render and include figures in Pandoc documents using your plotting toolkit of choice
@@ -2415,7 +2421,7 @@
 - [plandes/zotsite](https://github.com/plandes/zotsite) - Export Zotero to a stand-alone web site
 - [GChristensen/scrapyard](https://github.com/GChristensen/scrapyard) - Bookmark heavy lifting
 - [omgimanerd/getnews.tech](https://github.com/omgimanerd/getnews.tech) - A web server that fetches data from the News API and formats it for display in the terminal.
-- [crisdosyago/DiskerNet](https://github.com/crisdosyago/DiskerNet) - 💾 DiskerNet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect 
+- [dosyago/DiskerNet](https://github.com/dosyago/DiskerNet) - 💾 DiskerNet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect 
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [cmdalbem/ciclomapa](https://github.com/cmdalbem/ciclomapa) - Beautiful, interactive & open bike maps of Brazilian cities. Powered by OpenStreetMap.
@@ -2945,7 +2951,7 @@
 - [noctux/philote](https://github.com/noctux/philote) - Ansible management for your OpenWRT router - with lua
 - [PhilipRoman/tmux-filetree](https://github.com/PhilipRoman/tmux-filetree) - Simple, non-intrusive dynamic file tree which always tracks your active Tmux pane
 - [ISEMS/ISEMS-ESP32](https://github.com/ISEMS/ISEMS-ESP32) - ISEMS-Port for Solarnodes based on ESP32 Microcontrollers
-- [oliverlew/dotfiles](https://github.com/oliverlew/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
+- [xlucn/dotfiles](https://github.com/xlucn/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
 - [AssrtOSS/mpv-assrt](https://github.com/AssrtOSS/mpv-assrt) - mpv自动下载字幕脚本 Automatically download subtitles from assrt.net
 - [iandol/dotpandoc](https://github.com/iandol/dotpandoc) - Pandoc Data directory, including customised filters and templates for producing multiple outputs for academic content.
 - [jgm/select-meta](https://github.com/jgm/select-meta) - Pandoc lua filter for constructing metadata from YAML data sources using queries
@@ -3137,7 +3143,7 @@
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGu
 - [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen) - 😎 Awesome list of Library Genesis, the world's largest free library.
 - [timvisee/send-instances](https://github.com/timvisee/send-instances) - 🌍 A list of public Send instances. Mirror.
-- [YOURLS/awesome-yourls](https://github.com/YOURLS/awesome-yourls) - 🎉 A curated list of awesome things related to YOURLS
+- [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
 - [pandoc/pandoc-action-example](https://github.com/pandoc/pandoc-action-example) - using the pandoc document converter on GitHub Actions
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [wemos/docs](https://github.com/wemos/docs) - 
@@ -3157,6 +3163,7 @@
 - [mkws-1/pp](https://github.com/mkws-1/pp) - a preprocessor
 - [mkws-1/mkws](https://github.com/mkws-1/mkws) - A simple static site generator using `sh` as a templating language.
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
+- [brunomiguel/userrepository](https://github.com/brunomiguel/userrepository) - 
 - [ScottHelme/revocation-endpoints](https://github.com/ScottHelme/revocation-endpoints) - A list of CRL and OCSP endpoints.
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [duyet/awesome-web-scraper](https://github.com/duyet/awesome-web-scraper) - A collection of awesome web scaper, crawler.
@@ -3207,7 +3214,6 @@
 - [AdamKeher/Pico-Audio](https://github.com/AdamKeher/Pico-Audio) - TinyPICO I2S Audio, I2S Microphone & 3.7W Stereo Amplifier Module with Built-in MicroSD card reader
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [feramhq/cli-apps](https://github.com/feramhq/cli-apps) - Database of CLI apps for cliapp.store
-- [arturgs/espresso-hole](https://github.com/arturgs/espresso-hole) - EspressoBin-based personal router with ad blocking
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [panovvv/solar-harvester](https://github.com/panovvv/solar-harvester) - DIY outdoor solar harvester.
 - [Xinyuan-LilyGO/LilyGo-T-Call-SIM800](https://github.com/Xinyuan-LilyGO/LilyGo-T-Call-SIM800) - 
@@ -3226,7 +3232,7 @@
 - [PiSugar/pisugar-case-pihat-cap](https://github.com/PiSugar/pisugar-case-pihat-cap) - PiHat caps designed for PiSugar case. 配合PiSugar外壳以及各类PiHat使用的盖子。
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [EnigmaBridge/javacard-curated-list](https://github.com/EnigmaBridge/javacard-curated-list) - Curated list of open-source Java Card applets and related applications for cryptographic smartcards
+- [crocs-muni/javacard-curated-list](https://github.com/crocs-muni/javacard-curated-list) - Curated list of open-source Java Card applets and related applications for cryptographic smartcards
 - [sirredbeard/Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [dylanaraps/writing-a-tui-in-bash](https://github.com/dylanaraps/writing-a-tui-in-bash) - How to write a TUI in BASH
 - [NanoAdblocker/NanoCore](https://github.com/NanoAdblocker/NanoCore) - An adblocker
@@ -3542,6 +3548,7 @@
 
 ## Python 
 
+- [xlucn/statusd](https://github.com/xlucn/statusd) - Status text daemon for dwm, tmux, etc.
 - [hng/germine](https://github.com/hng/germine) - A gemini application that displays calendar events from an URL to an .ics file.
 - [dsanson/termpdf.py](https://github.com/dsanson/termpdf.py) - A graphical pdf and epub reader that works inside the kitty terminal
 - [willmcgugan/textual-markdown](https://github.com/willmcgugan/textual-markdown) - 
@@ -4168,7 +4175,7 @@
 - [seveas/git-spindle](https://github.com/seveas/git-spindle) - Abandoned command-line interface to GitHub and other central git services
 - [pystitch/stitch](https://github.com/pystitch/stitch) - Write reproducible reports in Markdown
 - [jankatins/knitpy](https://github.com/jankatins/knitpy) - knitpy: Elegant, flexible and fast dynamic report generation with python
-- [DanielDent/git-annex-remote-rclone](https://github.com/DanielDent/git-annex-remote-rclone) - Use rclone supported cloud storage providers with git-annex
+- [git-annex-remote-rclone/git-annex-remote-rclone](https://github.com/git-annex-remote-rclone/git-annex-remote-rclone) - Use rclone supported cloud storage providers with git-annex
 - [tweekmonster/tmux2html](https://github.com/tweekmonster/tmux2html) - :cat2: Render full tmux windows or individual panes as HTML
 - [guyzmo/git-repo](https://github.com/guyzmo/git-repo) - Git-Repo: CLI utility to manage git services from your workspace
 - [mzucker/page_dewarp](https://github.com/mzucker/page_dewarp) - Text page dewarping using a "cubic sheet" model
@@ -5020,6 +5027,7 @@
 
 ## Rust 
 
+- [szclsya/mpdris2-rs](https://github.com/szclsya/mpdris2-rs) - Exposing MPRIS V2.1 D-Bus interface for mpd
 - [Builditluc/wiki-tui](https://github.com/Builditluc/wiki-tui) - A simple and easy to use Wikipedia Text User Interface
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [ltratt/pizauth](https://github.com/ltratt/pizauth) - Command-line OAuth2 authentication daemon
@@ -5380,7 +5388,6 @@
 - [mohd-akram/jawk](https://github.com/mohd-akram/jawk) - Awk for JSON.
 - [huijunchen9260/dmenubib](https://github.com/huijunchen9260/dmenubib) - A simple bibliography manager using dmenu
 - [chin123/archlinux-4044C](https://github.com/chin123/archlinux-4044C) - A guide with accompanying scripts to get a working arch linux chroot on the Alcatel 4044C, a $40 flip phone.
-- [brunomiguel/userrepository](https://github.com/brunomiguel/userrepository) - 
 - [dylanaraps/shfm](https://github.com/dylanaraps/shfm) - file manager written in posix shell
 - [jcorporation/myMPDos](https://github.com/jcorporation/myMPDos) - A music player image for Raspberry Pi based on Alpine Linux, MPD and myMPD.
 - [uriel1998/mpdq](https://github.com/uriel1998/mpdq) - Automatic MPD "smart playlist" creator with minimal but hackable setup.
