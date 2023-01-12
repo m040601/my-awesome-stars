@@ -626,7 +626,7 @@
 - [espressif/esp-adf](https://github.com/espressif/esp-adf) - Espressif Audio Development Framework
 - [mltframework/mlt](https://github.com/mltframework/mlt) - MLT Multimedia Framework
 - [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
-- [khadas/linux](https://github.com/khadas/linux) - Linux kernel for Khadas VIMs & Edge
+- [khadas/linux](https://github.com/khadas/linux) - Linux kernel for Khadas VIMs & Edges
 - [miegl/PiFmAdv](https://github.com/miegl/PiFmAdv) - Advanced Raspberry Pi FM transmitter with RDS encoding
 - [pde/tosback2](https://github.com/pde/tosback2) - Reimplementing TOSBack using git as a database layer!
 - [pilight/pilight](https://github.com/pilight/pilight) - open source domotica solution
@@ -1815,7 +1815,7 @@
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
-- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3 or 4 (or on amd64 PCs!)
+- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi Zero 2 W, or amd64 PCs!
 - [sgreben/jp](https://github.com/sgreben/jp) - dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.
 - [desmondhume/newspaper](https://github.com/desmondhume/newspaper) - Read webpages in readability mode, inside your terminal.
 - [netlify/git-gateway](https://github.com/netlify/git-gateway) - A Gateway to Git APIs
@@ -2210,7 +2210,7 @@
 - [airsonic/airsonic](https://github.com/airsonic/airsonic) - :satellite: :cloud: :notes:Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic)
 - [stingle/stingle-photos-android](https://github.com/stingle/stingle-photos-android) - Stingle Photos is an open-source, end-to-end encrypted media gallery application that provides backup, sharing and cross-platform sync functionality without sacrificing convenience.
 - [bengtmartensson/IrScrutinizer](https://github.com/bengtmartensson/IrScrutinizer) - IrScrutinizer is a program for IR signal analysis, decoding, generation and much more.
-- [w3c/epubcheck](https://github.com/w3c/epubcheck) - Validation tool for EPUB
+- [w3c/epubcheck](https://github.com/w3c/epubcheck) - The conformance checker for EPUB publications
 - [calibre2opds/calibre2opds](https://github.com/calibre2opds/calibre2opds) - Calibre2opds:  Generate a web catalog for a Calibre library
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [bastillion-io/Bastillion](https://github.com/bastillion-io/Bastillion) - Bastillion is a web-based SSH console that centrally manages administrative access to systems. Web-based administration is combined with management and distribution of user's public SSH keys.
@@ -2899,7 +2899,6 @@
 - [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 1M+ downloads Linux reference app with basics, tips and formatted man pages
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support
 - [metrodroid/metrodroid](https://github.com/metrodroid/metrodroid) - Read data from public transit cards using your NFC Android phone! (iOS 13 and PC/SC support coming soon)
-- [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada for Android and iOS.
 - [39aldo39/libdecsync](https://github.com/39aldo39/libdecsync) - 
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android application for Meshtastic
@@ -3099,6 +3098,7 @@
 
 ## Others 
 
+- [warpme/miniarch](https://github.com/warpme/miniarch) - ArchLinux ARM SD card images for quick start with ArchLinux on ARM SBC & TV Boxes
 - [nathanlesage/academics-on-mastodon](https://github.com/nathanlesage/academics-on-mastodon) - A list of various lists consisting of academics on Mastodon
 - [ferritreader/ferrit](https://github.com/ferritreader/ferrit) - DISCONTINUED. Former fork of libreddit/libreddit.
 - [kdl-org/kdl](https://github.com/kdl-org/kdl) - the kdl document language specifications
@@ -3163,7 +3163,6 @@
 - [mkws-1/pp](https://github.com/mkws-1/pp) - a preprocessor
 - [mkws-1/mkws](https://github.com/mkws-1/mkws) - A simple static site generator using `sh` as a templating language.
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
-- [brunomiguel/userrepository](https://github.com/brunomiguel/userrepository) - 
 - [ScottHelme/revocation-endpoints](https://github.com/ScottHelme/revocation-endpoints) - A list of CRL and OCSP endpoints.
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [duyet/awesome-web-scraper](https://github.com/duyet/awesome-web-scraper) - A collection of awesome web scaper, crawler.
@@ -3171,6 +3170,7 @@
 - [lukicdarkoo/rpi-wifi](https://github.com/lukicdarkoo/rpi-wifi) - Configures simultaneous AP and Managed Mode Wifi on Raspberry Pi
 - [dmadison/LED-Segment-ASCII](https://github.com/dmadison/LED-Segment-ASCII) - Library of ASCII character representations using 7 segment, 14 segment, and 16 segment LED displays
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
+- [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
 - [aliyevaa/cname_cloaking](https://github.com/aliyevaa/cname_cloaking) - the repo contains a list of subdomains that point to known trackers/advertisers
 - [nextdns/cname-cloaking-blocklist](https://github.com/nextdns/cname-cloaking-blocklist) - A list of domains used by tracking companies as CNAME destination when disguising third-party trackers as first-party trackers.
 - [FreeYourStream/freedeck-hardware](https://github.com/FreeYourStream/freedeck-hardware) - all the stuff you need to build your own FreeDeck
@@ -3257,7 +3257,7 @@
 - [lancopku/Chinese-abbreviation-dataset](https://github.com/lancopku/Chinese-abbreviation-dataset) - This is a corpus of Chinese abbreviation, including negative full forms.
 - [aidanruff/Solar-Tracker](https://github.com/aidanruff/Solar-Tracker) - Self aligning, 2 axis solar tracking system to optimise power
 - [aidanruff/https---github.com-aidanruff-Solar-Tracker](https://github.com/aidanruff/https---github.com-aidanruff-Solar-Tracker) - Solar Tracker - 2 axis, self aligning
-- [seebye/fmui](https://github.com/seebye/fmui) - fzf mpd user interface
+- [seebye/fmui](https://github.com/seebye/fmui) - 
 - [thomas154/dmenu-video-downloader](https://github.com/thomas154/dmenu-video-downloader) - dmenu interface for youtube-dl
 - [romainl/idiomatic-vimrc](https://github.com/romainl/idiomatic-vimrc) - Guidelines for sculpting your very own ~/.vimrc.
 - [steve-m/fl2k-examples](https://github.com/steve-m/fl2k-examples) - Example flowgraphs for osmo-fl2k
@@ -3360,6 +3360,7 @@
 
 ## PHP 
 
+- [hnhx/librex](https://github.com/hnhx/librex) - A privacy respecting free as in freedom meta search engine for Google, popular torrent sites and tor hidden services
 - [Rouji/single_php_filehost](https://github.com/Rouji/single_php_filehost) - Simple Filehosting Page in a Single PHP File (obvious 0x0 clone)
 - [simon816/ical-bridge](https://github.com/simon816/ical-bridge) - RSS-Bridge but for iCalendar
 - [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
@@ -5388,6 +5389,7 @@
 - [mohd-akram/jawk](https://github.com/mohd-akram/jawk) - Awk for JSON.
 - [huijunchen9260/dmenubib](https://github.com/huijunchen9260/dmenubib) - A simple bibliography manager using dmenu
 - [chin123/archlinux-4044C](https://github.com/chin123/archlinux-4044C) - A guide with accompanying scripts to get a working arch linux chroot on the Alcatel 4044C, a $40 flip phone.
+- [brunomiguel/userrepository](https://github.com/brunomiguel/userrepository) - 
 - [dylanaraps/shfm](https://github.com/dylanaraps/shfm) - file manager written in posix shell
 - [jcorporation/myMPDos](https://github.com/jcorporation/myMPDos) - A music player image for Raspberry Pi based on Alpine Linux, MPD and myMPD.
 - [uriel1998/mpdq](https://github.com/uriel1998/mpdq) - Automatic MPD "smart playlist" creator with minimal but hackable setup.
