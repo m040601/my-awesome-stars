@@ -178,6 +178,7 @@
 
 ## C 
 
+- [LinusDierheimer/fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in C.
 - [leonerd/libtickit](https://github.com/leonerd/libtickit) - 
 - [rpmohn/a4](https://github.com/rpmohn/a4) - dynamic terminal manager and multiplexer
 - [ciniml/WireGuard-ESP32-Arduino](https://github.com/ciniml/WireGuard-ESP32-Arduino) - WireGuard implementation for ESP32 Arduino
@@ -893,7 +894,7 @@
 
 ## C++ 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal.
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal. Quick, easy, and pretty.
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -1356,7 +1357,6 @@
 - [jondot/graphene](https://github.com/jondot/graphene) - Graphene is a realtime dashboard & graphing toolkit based on D3 and Backbone.
 - [rbind/support](https://github.com/rbind/support) - Technical support for rbind
 - [danielquinn/aletheia](https://github.com/danielquinn/aletheia) - Fight fake news with cryptography & human nature
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [prose/starter](https://github.com/prose/starter) - A starter site for Jekyll + Prose
 - [kleinfreund/kleinfreund.de](https://github.com/kleinfreund/kleinfreund.de) - Source of my personal site
 - [joseflaviojr/nheengatu](https://github.com/joseflaviojr/nheengatu) - Produza e publique trabalhos com a linguagem popular Markdown. Escreva uma vez e crie livros digitais (e-book), artigos, trabalhos acadêmicos, relatórios, páginas web (site) --- PDF, EPUB, LaTeX, HTML
@@ -1535,7 +1535,7 @@
 - [n0x1m/hugoext](https://github.com/n0x1m/hugoext) - Hugoext allows to pipe Go Hugo markdown content files through an arbitrary processing tool. It abides the same destination file tree for thoser file types with the processed output.
 - [chzyer/readline](https://github.com/chzyer/readline) - Readline is a pure go(golang) implementation for GNU-Readline kind library
 - [wader/ydls](https://github.com/wader/ydls) - youtube-dl HTTP download and transcode service
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - Tool, language and decoders for working with binary data
 - [ferdinandyb/maildir-rank-addr](https://github.com/ferdinandyb/maildir-rank-addr) - Creates a ranked list of email addresses from maildir folders, which can be used for address completion for example in aerc.
 - [maragudk/sqlite-app](https://github.com/maragudk/sqlite-app) - Companion app to "The Complete Guide to Go and SQLite".
 - [tigrawap/slit](https://github.com/tigrawap/slit) - slit - a modern PAGER for viewing logs, get more than most in less time
@@ -3674,7 +3674,7 @@
 - [Overv/outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
 - [ProfoundNetworks/gzipi](https://github.com/ProfoundNetworks/gzipi) - Tools for indexing gzip files to support random-like access.
 - [rushter/data-science-blogs](https://github.com/rushter/data-science-blogs) - A curated list of data science blogs
-- [riptideio/pymodbus](https://github.com/riptideio/pymodbus) - A full modbus protocol written in python
+- [pymodbus-dev/pymodbus](https://github.com/pymodbus-dev/pymodbus) - A full modbus protocol written in python
 - [camelot-dev/camelot](https://github.com/camelot-dev/camelot) - A Python library to extract tabular data from PDFs
 - [artperrin/image2csv](https://github.com/artperrin/image2csv) - Convert tables stored as images to an usable .csv file
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
@@ -4622,7 +4622,7 @@
 - [ropensci-archive/getlandsat](https://github.com/ropensci-archive/getlandsat) - :warning: ARCHIVED :warning: get landsat 8 images and metadata
 - [richfitz/sowsear](https://github.com/richfitz/sowsear) - Frictionless literate programming: generate knitr files from R scripts
 - [mrc-ide/syncr](https://github.com/mrc-ide/syncr) - :arrows_clockwise: R interface to rsync
-- [ropensci/rnaturalearth](https://github.com/ropensci/rnaturalearth) - an R package to hold and facilitate interaction with natural earth map data :earth_africa:
+- [ropensci/rnaturalearth](https://github.com/ropensci/rnaturalearth) - An R package to hold and facilitate interaction with natural earth map data :earth_africa:
 - [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) - A curated list of awesome network analysis resources.
 - [trinker/clustext](https://github.com/trinker/clustext) - Easy, fast clustering of texts
 - [ropensci/jqr](https://github.com/ropensci/jqr) - R interface to jq
@@ -5028,6 +5028,7 @@
 
 ## Rust 
 
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [szclsya/mpdris2-rs](https://github.com/szclsya/mpdris2-rs) - Exposing MPRIS V2.1 D-Bus interface for mpd
 - [Builditluc/wiki-tui](https://github.com/Builditluc/wiki-tui) - A simple and easy to use Wikipedia Text User Interface
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
@@ -5251,7 +5252,7 @@
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [dimkr/toolchains](https://github.com/dimkr/toolchains) - Toolchains for ultra-portable static binaries
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
-- [pirateradiohack/Transistor](https://github.com/pirateradiohack/Transistor) - Open source DIY web radio receiver!
+- [pirateradiohack/Transistor_Deprecated](https://github.com/pirateradiohack/Transistor_Deprecated) - Open source DIY web radio receiver!
 - [tavinus/pdfScale](https://github.com/tavinus/pdfScale) - Bash Script to Scale and Resize PDFs using Ghostscript
 - [Edenhofer/fakepkg](https://github.com/Edenhofer/fakepkg) - reassemble Arch Linux packages
 - [NikitaIvanovV/stpv](https://github.com/NikitaIvanovV/stpv) - Simple Terminal PreViewer
@@ -5538,6 +5539,7 @@
 - [sdushantha/kunst](https://github.com/sdushantha/kunst) - Download and display album art or display embedded album art
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [RespawnDespair/wifibroadcast-image-builder](https://github.com/RespawnDespair/wifibroadcast-image-builder) - Image builder for the EZ-Wifibroadcast project
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [felipesaa/A-vim-like-firefox-like-configuration-for-w3m](https://github.com/felipesaa/A-vim-like-firefox-like-configuration-for-w3m) - A configuration and documentation for w3m
