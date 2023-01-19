@@ -793,6 +793,7 @@
 - [TrilbyWhite/junkdrawer](https://github.com/TrilbyWhite/junkdrawer) - Assorted scripts and small projects
 - [dmorgan81/dstatus](https://github.com/dmorgan81/dstatus) - 
 - [jech/polipo](https://github.com/jech/polipo) - The Polipo caching HTTP proxy
+- [igraph/rigraph](https://github.com/igraph/rigraph) - igraph R package
 - [tjunier/sqawk](https://github.com/tjunier/sqawk) - SQL on CSV files in the shell
 - [koron/cmigemo](https://github.com/koron/cmigemo) - C/Migemo
 - [rpodgorny/unionfs-fuse](https://github.com/rpodgorny/unionfs-fuse) - union filesystem using fuse
@@ -894,7 +895,7 @@
 
 ## C++ 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal. Quick, easy, and pretty.
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Quick, easy, and pretty.
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -1265,7 +1266,6 @@
 - [asmello/fm_transmitter](https://github.com/asmello/fm_transmitter) - Raspberry Pi as FM transmitter, custom source
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [popcornmix/omxplayer](https://github.com/popcornmix/omxplayer) - omxplayer
-- [jeroen/V8](https://github.com/jeroen/V8) - Embedded JavaScript Engine for R
 - [geneticdrift/fake-music-files](https://github.com/geneticdrift/fake-music-files) - fmf's purpose is to generate tagged music files for testsing media servers.
 - [wavexx/fIcy](https://github.com/wavexx/fIcy) - An icecast/shoutcast stream grabber suite
 - [vitalif/grive2](https://github.com/vitalif/grive2) - Google Drive client with support for new Drive REST API and partial sync
@@ -1357,6 +1357,7 @@
 - [jondot/graphene](https://github.com/jondot/graphene) - Graphene is a realtime dashboard & graphing toolkit based on D3 and Backbone.
 - [rbind/support](https://github.com/rbind/support) - Technical support for rbind
 - [danielquinn/aletheia](https://github.com/danielquinn/aletheia) - Fight fake news with cryptography & human nature
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [prose/starter](https://github.com/prose/starter) - A starter site for Jekyll + Prose
 - [kleinfreund/kleinfreund.de](https://github.com/kleinfreund/kleinfreund.de) - Source of my personal site
 - [joseflaviojr/nheengatu](https://github.com/joseflaviojr/nheengatu) - Produza e publique trabalhos com a linguagem popular Markdown. Escreva uma vez e crie livros digitais (e-book), artigos, trabalhos acadêmicos, relatórios, páginas web (site) --- PDF, EPUB, LaTeX, HTML
@@ -1535,7 +1536,7 @@
 - [n0x1m/hugoext](https://github.com/n0x1m/hugoext) - Hugoext allows to pipe Go Hugo markdown content files through an arbitrary processing tool. It abides the same destination file tree for thoser file types with the processed output.
 - [chzyer/readline](https://github.com/chzyer/readline) - Readline is a pure go(golang) implementation for GNU-Readline kind library
 - [wader/ydls](https://github.com/wader/ydls) - youtube-dl HTTP download and transcode service
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - Tool, language and decoders for working with binary data
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [ferdinandyb/maildir-rank-addr](https://github.com/ferdinandyb/maildir-rank-addr) - Creates a ranked list of email addresses from maildir folders, which can be used for address completion for example in aerc.
 - [maragudk/sqlite-app](https://github.com/maragudk/sqlite-app) - Companion app to "The Complete Guide to Go and SQLite".
 - [tigrawap/slit](https://github.com/tigrawap/slit) - slit - a modern PAGER for viewing logs, get more than most in less time
@@ -2646,6 +2647,7 @@
 - [aethereans/aether-app](https://github.com/aethereans/aether-app) - Aether client app with bundled front-end and P2P back-end
 - [xat/castnow](https://github.com/xat/castnow) - commandline chromecast player
 - [rwebapps/markdownapp](https://github.com/rwebapps/markdownapp) - OpenCPU Markdown App
+- [jeroen/V8](https://github.com/jeroen/V8) - Embedded JavaScript Engine for R
 - [dan-nguyen/hdmi-cec-node-test](https://github.com/dan-nguyen/hdmi-cec-node-test) - Quick and Clunky/Dirty HDMI CEC Node App for Raspberry Pi
 - [chris-morgan/tty-player](https://github.com/chris-morgan/tty-player) - &lt;tty-player&gt;: &lt;video&gt;, but for ttyrec scripts
 - [vincelwt/RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
@@ -2919,6 +2921,7 @@
 
 ## Lua 
 
+- [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [kode-team/mastodon.nvim](https://github.com/kode-team/mastodon.nvim) - Mastodon client for Neovim
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - A file manager for Neovim which lets you edit your filesystem like you edit text
 - [stelzch/zotero.koplugin](https://github.com/stelzch/zotero.koplugin) - 
@@ -3004,7 +3007,7 @@
 - [unixsheikh/phpthewrongway](https://github.com/unixsheikh/phpthewrongway) - A pragmatic view on PHP programming.
 - [danyork/writing-internet-drafts-in-markdown](https://github.com/danyork/writing-internet-drafts-in-markdown) - A presentation (in Markdown) for the IETF Hub Boston on June 12, 2018.
 - [colindean/plaintextaccounting_workshop](https://github.com/colindean/plaintextaccounting_workshop) - An Introduction and Then Some to Plain Text Accounting with Ledger
-- [colindean/talks](https://github.com/colindean/talks) - My talks
+- [colindean/talks](https://github.com/colindean/talks) - My talks, presentations, slides sources, and links to recordings
 - [dibdot/packages](https://github.com/dibdot/packages) - Community maintained packages for OpenWrt
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 - [jp-fosterson/pandoc-novel](https://github.com/jp-fosterson/pandoc-novel) - Markdown text to a novel in ePub and PDF.
@@ -3360,7 +3363,7 @@
 
 ## PHP 
 
-- [hnhx/librex](https://github.com/hnhx/librex) - A privacy respecting free as in freedom meta search engine for Google, popular torrent sites and tor hidden services
+- [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine for Google, popular torrent sites and tor hidden services
 - [Rouji/single_php_filehost](https://github.com/Rouji/single_php_filehost) - Simple Filehosting Page in a Single PHP File (obvious 0x0 clone)
 - [simon816/ical-bridge](https://github.com/simon816/ical-bridge) - RSS-Bridge but for iCalendar
 - [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
@@ -4697,7 +4700,6 @@
 - [gaborcsardi/rcorpora](https://github.com/gaborcsardi/rcorpora) - R package with a collection of small corpuses of interesting data, from https://github.com/dariusk/corpora
 - [trinker/qdap](https://github.com/trinker/qdap) - Quantitative Discourse Analysis Package: Bridging the gap between qualitative data and quantitative analysis
 - [chainsawriot/ngramrr](https://github.com/chainsawriot/ngramrr) - A replacement of RWeka's NGramTokenizer (no rJava dependency!)
-- [igraph/rigraph](https://github.com/igraph/rigraph) - igraph R package
 - [jennybc/googlesheets](https://github.com/jennybc/googlesheets) - Google Spreadsheets R API
 - [dgrtwo/rgallery](https://github.com/dgrtwo/rgallery) - Build a gallery of R snippets
 - [cran/ggenealogy](https://github.com/cran/ggenealogy) - :exclamation: This is a read-only mirror of the CRAN R package repository.  ggenealogy — Visualization Tools for Genealogical Data
@@ -5539,7 +5541,6 @@
 - [sdushantha/kunst](https://github.com/sdushantha/kunst) - Download and display album art or display embedded album art
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [RespawnDespair/wifibroadcast-image-builder](https://github.com/RespawnDespair/wifibroadcast-image-builder) - Image builder for the EZ-Wifibroadcast project
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [felipesaa/A-vim-like-firefox-like-configuration-for-w3m](https://github.com/felipesaa/A-vim-like-firefox-like-configuration-for-w3m) - A configuration and documentation for w3m
