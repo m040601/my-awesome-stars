@@ -101,6 +101,7 @@
 - [Visual Basic](#visual-basic)
 - [Vue](#vue)
 - [XSLT](#xslt)
+- [jq](#jq)
 - [nesC](#nesc)
 - [sed](#sed)
 
@@ -895,7 +896,8 @@
 
 ## C++ 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Quick, easy, and pretty.
+- [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -978,7 +980,7 @@
 - [lvandeve/lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
 - [sp1ff/scribbu](https://github.com/sp1ff/scribbu) - The extensible tool for tagging your music collection
 - [epoupon/lms](https://github.com/epoupon/lms) - Lightweight Music Server. Access your self-hosted music using a web interface.
-- [kodi-pvr/pvr.vuplus](https://github.com/kodi-pvr/pvr.vuplus) - Kodi's VuPlus client addon
+- [kodi-pvr/pvr.vuplus](https://github.com/kodi-pvr/pvr.vuplus) - Kodi's Enigma2 client add-on
 - [firmata/arduino](https://github.com/firmata/arduino) - Firmata firmware for Arduino
 - [Srcodesalittle/Ignition-panel-to-wake-on-lan](https://github.com/Srcodesalittle/Ignition-panel-to-wake-on-lan) - Ignition panel project to startup PC using wake on LAN.
 - [sepfy/xiaopi](https://github.com/sepfy/xiaopi) - An Open Source Home Security Camera For Raspberry Pi
@@ -1266,6 +1268,7 @@
 - [asmello/fm_transmitter](https://github.com/asmello/fm_transmitter) - Raspberry Pi as FM transmitter, custom source
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [popcornmix/omxplayer](https://github.com/popcornmix/omxplayer) - omxplayer
+- [jeroen/V8](https://github.com/jeroen/V8) - Embedded JavaScript Engine for R
 - [geneticdrift/fake-music-files](https://github.com/geneticdrift/fake-music-files) - fmf's purpose is to generate tagged music files for testsing media servers.
 - [wavexx/fIcy](https://github.com/wavexx/fIcy) - An icecast/shoutcast stream grabber suite
 - [vitalif/grive2](https://github.com/vitalif/grive2) - Google Drive client with support for new Drive REST API and partial sync
@@ -1528,6 +1531,7 @@
 
 ## Go 
 
+- [mrusme/mercator](https://github.com/mrusme/mercator) - OpenStreetMap but as terminal user interface (TUI) program
 - [trashhalo/imgcat](https://github.com/trashhalo/imgcat) - a tool to output images as RGB ANSI graphics on the terminal
 - [natesales/q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
@@ -1823,7 +1827,6 @@
 - [bemasher/rtlamr](https://github.com/bemasher/rtlamr) - An rtl-sdr receiver for Itron ERT compatible smart meters operating in the 900MHz ISM band.
 - [posener/complete](https://github.com/posener/complete) - bash completion written in go + bash completion for go command
 - [peterhellberg/neocities](https://github.com/peterhellberg/neocities) - A Neocities client written in Go
-- [nikolay-turpitko/x-newsbeuter-scripts](https://github.com/nikolay-turpitko/x-newsbeuter-scripts) - Custom filter scripts for newsbeuter
 - [printmaps/printmaps](https://github.com/printmaps/printmaps) - Web service that allows the creation of large-format, OSM-based maps in print quality.
 - [brocaar/chirpstack-network-server](https://github.com/brocaar/chirpstack-network-server) - ChirpStack Network Server is an open-source LoRaWAN network-server.
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
@@ -2647,7 +2650,6 @@
 - [aethereans/aether-app](https://github.com/aethereans/aether-app) - Aether client app with bundled front-end and P2P back-end
 - [xat/castnow](https://github.com/xat/castnow) - commandline chromecast player
 - [rwebapps/markdownapp](https://github.com/rwebapps/markdownapp) - OpenCPU Markdown App
-- [jeroen/V8](https://github.com/jeroen/V8) - Embedded JavaScript Engine for R
 - [dan-nguyen/hdmi-cec-node-test](https://github.com/dan-nguyen/hdmi-cec-node-test) - Quick and Clunky/Dirty HDMI CEC Node App for Raspberry Pi
 - [chris-morgan/tty-player](https://github.com/chris-morgan/tty-player) - &lt;tty-player&gt;: &lt;video&gt;, but for ttyrec scripts
 - [vincelwt/RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
@@ -3131,7 +3133,6 @@
 - [voltlog/Valve-Actuator](https://github.com/voltlog/Valve-Actuator) - 
 - [poolpOrg/OpenSMTPD-book](https://github.com/poolpOrg/OpenSMTPD-book) - 
 - [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.
-- [qmacro-org/url-notes](https://github.com/qmacro-org/url-notes) - 
 - [victorlucachi/void9](https://github.com/victorlucachi/void9) - A 3x3 handwired macropad, running QMK firmware
 - [victorlucachi/void40](https://github.com/victorlucachi/void40) - A 40% handwired ortholinear keyboard, running QMK firmware
 - [victorlucachi/void30](https://github.com/victorlucachi/void30) - A 30% handwired ortholinear keyboard, running QMK firmware
@@ -3363,7 +3364,7 @@
 
 ## PHP 
 
-- [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine for Google, popular torrent sites and tor hidden services
+- [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
 - [Rouji/single_php_filehost](https://github.com/Rouji/single_php_filehost) - Simple Filehosting Page in a Single PHP File (obvious 0x0 clone)
 - [simon816/ical-bridge](https://github.com/simon816/ical-bridge) - RSS-Bridge but for iCalendar
 - [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
@@ -3483,7 +3484,7 @@
 - [imran-uk/gpx-garmin-format](https://github.com/imran-uk/gpx-garmin-format) - Formats a GPX file to work well with Garmin eTrex 10/20/30 devices
 - [Git-Mediawiki/Git-Mediawiki](https://github.com/Git-Mediawiki/Git-Mediawiki) - Gate between Git and Mediawiki
 - [LibreCat/LibreCat](https://github.com/LibreCat/LibreCat) - A publication management system
-- [LibreCat/Catmandu](https://github.com/LibreCat/Catmandu) - Catmandu - a data processing toolkit developed by Ghent University Library
+- [LibreCat/Catmandu](https://github.com/LibreCat/Catmandu) - Catmandu - a data processing toolkit
 - [trizen/youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight YouTube client for Linux
 - [pigmonkey/dotfiles](https://github.com/pigmonkey/dotfiles) - User preference and configuration files that I use to build my working environment. (All the cool kids are doing it!)
 - [robert-winkler/mdbibexport](https://github.com/robert-winkler/mdbibexport) - Extracts the cited references of a markdown document into a bibtex database.
@@ -4577,9 +4578,9 @@
 - [blmayer/asciichartr](https://github.com/blmayer/asciichartr) - Nice-looking lightweight console ASCII line charts ╭┈╯ for R, no dependencies
 - [RLesur/weasydoc](https://github.com/RLesur/weasydoc) - Convert R Markdown to PDF Using Weasyprint (or Prince XML)
 - [brodieG/fansi](https://github.com/brodieG/fansi) - ANSI Control Sequence Aware String Functions
-- [datascienceworkshops/knitractive](https://github.com/datascienceworkshops/knitractive) - A knitr engine to simulate interactive sessions
-- [datascienceworkshops/rexpect](https://github.com/datascienceworkshops/rexpect) - Automate Interactive Applications in R
-- [datascienceworkshops/tmuxr](https://github.com/datascienceworkshops/tmuxr) - Manage tmux from R
+- [jeroenjanssens/knitractive](https://github.com/jeroenjanssens/knitractive) - A knitr engine to simulate interactive sessions
+- [jeroenjanssens/rexpect](https://github.com/jeroenjanssens/rexpect) - Automate Interactive Applications in R
+- [jeroenjanssens/tmuxr](https://github.com/jeroenjanssens/tmuxr) - Manage tmux from R
 - [crsh/citr](https://github.com/crsh/citr) - RStudio Addin to Insert Markdown Citations
 - [thomasWeise/bookbuildeR](https://github.com/thomasWeise/bookbuildeR) - An R Package for Building Books or Documents using pandoc
 - [r-lib/usethis](https://github.com/r-lib/usethis) - Set up commonly used 📦 components
@@ -6235,6 +6236,10 @@
 
 - [Earnestly/webfeeds](https://github.com/Earnestly/webfeeds) - web feed aggregator
 - [qmacro/thinking-aloud](https://github.com/qmacro/thinking-aloud) - A journal, of sorts.
+
+## jq 
+
+- [qmacro-org/url-notes](https://github.com/qmacro-org/url-notes) - 
 
 ## nesC 
 
