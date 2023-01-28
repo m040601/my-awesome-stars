@@ -179,6 +179,7 @@
 
 ## C 
 
+- [leonmavr/retrocube](https://github.com/leonmavr/retrocube) - Spinning cube animation via very basic ray tracing on the terminal. Rendered in ASCII.
 - [LinusDierheimer/fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in C.
 - [leonerd/libtickit](https://github.com/leonerd/libtickit) - 
 - [rpmohn/a4](https://github.com/rpmohn/a4) - dynamic terminal manager and multiplexer
@@ -578,7 +579,6 @@
 - [r-rust/gifski](https://github.com/r-rust/gifski) - R wrapper for the 'gifski' Rust Cargo crate.
 - [nicm/fdm](https://github.com/nicm/fdm) - fdm source code
 - [waveshare/WM8960-Audio-HAT](https://github.com/waveshare/WM8960-Audio-HAT) - The drivers of [WM8960 Audio HAT] for Raspberry Pi
-- [OpenHD/OpenHD](https://github.com/OpenHD/OpenHD) - OpenHD
 - [mwarning/KadNode](https://github.com/mwarning/KadNode) - P2P DNS with content key, crypto key and PKI support. DynDNS alternative.
 - [8l/fbui](https://github.com/8l/fbui) - Framebuffer UI (fbui) in-kernel Linux windowing system.
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
@@ -1101,6 +1101,7 @@
 - [corax89/esp8266_game_engine](https://github.com/corax89/esp8266_game_engine) - Used ili9341 or ST7735. Contains a virtual machine running games from RAM.
 - [JoaoLopesF/RemoteDebug](https://github.com/JoaoLopesF/RemoteDebug) - Library for Arduino to  debug projects over WiFi, with web app or telnet,  with print commands like Serial Monitor
 - [mgieseki/dvisvgm](https://github.com/mgieseki/dvisvgm) - A fast DVI, EPS, and PDF to SVG converter
+- [OpenHD/OpenHD](https://github.com/OpenHD/OpenHD) - OpenHD
 - [blakesmith/embedded](https://github.com/blakesmith/embedded) - Blake's embedded projects
 - [mike-rankin/ESP32_CoinCell](https://github.com/mike-rankin/ESP32_CoinCell) - An ESP32 Project with sensors and tiny display powered by a coin cell
 - [exploitagency/ESPloitV2](https://github.com/exploitagency/ESPloitV2) - WiFi Keystroke Injection Tool designed for an Atmega 32u4/ESP8266 Paired via Serial (Cactus WHID Firmware).  Also features Serial, HTTP, and PASV FTP exfiltration methods and an integrated Credential 
@@ -1531,6 +1532,9 @@
 
 ## Go 
 
+- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+- [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
+- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [mrusme/mercator](https://github.com/mrusme/mercator) - OpenStreetMap but as terminal user interface (TUI) program
 - [trashhalo/imgcat](https://github.com/trashhalo/imgcat) - a tool to output images as RGB ANSI graphics on the terminal
 - [natesales/q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
@@ -4399,7 +4403,7 @@
 - [openeventdata/petrarch](https://github.com/openeventdata/petrarch) - The Python-language successor to the TABARI event-data coding software.
 - [dsoprea/GDriveFS](https://github.com/dsoprea/GDriveFS) - An innovative FUSE wrapper for Google Drive.
 - [mps-youtube/pafy](https://github.com/mps-youtube/pafy) - Python library to download YouTube content and retrieve metadata
-- [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
+- [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, formerly mps-youtube, is a Terminal based YouTube player and downloader.
 - [dilshod/xlsx2csv](https://github.com/dilshod/xlsx2csv) - Convert xslx to csv, it is fast, and works for huge xlsx files
 - [vikstrous/pirate-get](https://github.com/vikstrous/pirate-get) - A command line interface for The Pirate Bay
 - [darkfeline/dantalian](https://github.com/darkfeline/dantalian) - File tagging with hard links
@@ -4782,6 +4786,7 @@
 
 ## Roff 
 
+- [omar-polo/plass](https://github.com/omar-polo/plass) - manage passwords
 - [Alhadis/Mono](https://github.com/Alhadis/Mono) - Troff macros for the 21st century.
 - [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Armbian for Amlogic and Rockchip. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, rk3588, rk3568, rk3328, etc.  including install to EMMC and update related functions.
 - [phillbush/incipit](https://github.com/phillbush/incipit) - the incipit plain text markup language, and some troff macro packages
@@ -5031,6 +5036,10 @@
 
 ## Rust 
 
+- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
+- [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
+- [weihanglo/sfz](https://github.com/weihanglo/sfz) - A simple static file serving command-line tool written in Rust.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [szclsya/mpdris2-rs](https://github.com/szclsya/mpdris2-rs) - Exposing MPRIS V2.1 D-Bus interface for mpd
 - [Builditluc/wiki-tui](https://github.com/Builditluc/wiki-tui) - A simple and easy to use Wikipedia Text User Interface
@@ -5814,7 +5823,6 @@
 - [eddelbuettel/linl](https://github.com/eddelbuettel/linl) - Linl Is Not Letter -- Markdown-based LaTeX Letter Template
 - [saghirb/Getting-Started-in-R](https://github.com/saghirb/Getting-Started-in-R) - An 8 page guide to starting with R - Tidyverse Edition
 - [eddelbuettel/binb](https://github.com/eddelbuettel/binb) - Binb is not Beamer
-- [bcrowell/calculus](https://github.com/bcrowell/calculus) - a free and open-source calculus textbook
 - [mszep/pandoc_resume](https://github.com/mszep/pandoc_resume) - The Markdown Resume
 - [robert-winkler/scientific-articles-markdown](https://github.com/robert-winkler/scientific-articles-markdown) - Creation of scientific articles in various output formats (DOCX, ODT, PDF, LATEX, HTML, EPUB) with markdown/ pandoc
 - [jennybc/happy-git-with-r](https://github.com/jennybc/happy-git-with-r) - Using Git and GitHub with R, Rstudio, and R Markdown
@@ -5988,11 +5996,11 @@
 - [chrisbra/Recover.vim](https://github.com/chrisbra/Recover.vim) - A Plugin to show a diff, whenever recovering a buffer
 - [chrisbra/Colorizer](https://github.com/chrisbra/Colorizer) - color hex codes and color names
 - [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
-- [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
+- [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :computer: Terminal manager for (neo)vim
 - [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist) - projectionist.vim: Granular project configuration
 - [chimay/configuration](https://github.com/chimay/configuration) - Config files
 - [eiro/slides.vim](https://github.com/eiro/slides.vim) - yet another WYSIWYG presentation editor
-- [rbong/vim-flog](https://github.com/rbong/vim-flog) - A lightweight and powerful git branch viewer for vim.
+- [rbong/vim-flog](https://github.com/rbong/vim-flog) - A fast, beautiful, and powerful git branch viewer for vim.
 - [jonasjacek/colorcli](https://github.com/jonasjacek/colorcli) - Collection of harmonized, light command-line interface (CLI) color themes for tmux, cmus, newsboat, mcabber, Vim, Vifm, and Mutt.
 - [nikvdp/neomux](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
 - [manu-mannattil/configs](https://github.com/manu-mannattil/configs) - A repository for my dotfiles (vim, mutt, bash, etc.)
