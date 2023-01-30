@@ -3605,7 +3605,7 @@
 - [mitxela/ddc-oled](https://github.com/mitxela/ddc-oled) - 
 - [pgdr/ph](https://github.com/pgdr/ph) - ph — the tabular data shell tool
 - [lekma/plugin.video.invidious](https://github.com/lekma/plugin.video.invidious) - Invidious Addon for Kodi
-- [iamtalhaasghar/yewtube](https://github.com/iamtalhaasghar/yewtube) - Terminal based YouTube player and downloader. No Youtube API key required. Forked from https://github.com/mps-youtube/mps-youtube
+- [iamtalhaasghar/yewtube-old](https://github.com/iamtalhaasghar/yewtube-old) - Terminal based YouTube player and downloader. No Youtube API key required. Forked from https://github.com/mps-youtube/mps-youtube
 - [woefe/ytcc](https://github.com/woefe/ytcc) - Command line tool to keep track of your favorite playlists on YouTube and many other places.
 - [Wojnstup/PipeCat](https://github.com/Wojnstup/PipeCat) - A command line Youtube music player written in python. It's an app written for Linux. It also supports offline playlists that are stored in a playlists.db file. More documentation coming soon.
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
@@ -4403,7 +4403,7 @@
 - [openeventdata/petrarch](https://github.com/openeventdata/petrarch) - The Python-language successor to the TABARI event-data coding software.
 - [dsoprea/GDriveFS](https://github.com/dsoprea/GDriveFS) - An innovative FUSE wrapper for Google Drive.
 - [mps-youtube/pafy](https://github.com/mps-youtube/pafy) - Python library to download YouTube content and retrieve metadata
-- [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, formerly mps-youtube, is a Terminal based YouTube player and downloader.
+- [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
 - [dilshod/xlsx2csv](https://github.com/dilshod/xlsx2csv) - Convert xslx to csv, it is fast, and works for huge xlsx files
 - [vikstrous/pirate-get](https://github.com/vikstrous/pirate-get) - A command line interface for The Pirate Bay
 - [darkfeline/dantalian](https://github.com/darkfeline/dantalian) - File tagging with hard links
