@@ -78,6 +78,7 @@
 - [Python](#python)
 - [QML](#qml)
 - [R](#r)
+- [Raku](#raku)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -192,7 +193,7 @@
 - [LevitatingBusinessMan/catbin](https://github.com/LevitatingBusinessMan/catbin) - A pastebin server meant for the terminal
 - [libical/libical](https://github.com/libical/libical) - Libical is an Open Source implementation of the iCalendar protocols and protocol data units.
 - [jkbenaim/hs100](https://github.com/jkbenaim/hs100) - CLI tool for TP-Link and Kasa WiFi smart plugs.
-- [maximemoreillon/ring_reader](https://github.com/maximemoreillon/ring_reader) - 
+- [maximemoreillon/ring_reader](https://github.com/maximemoreillon/ring_reader) - IoT EM4305 RFID ring reader firmware
 - [msm8916-mainline/linux](https://github.com/msm8916-mainline/linux) - Linux mainline kernel fork for various Qualcomm MSM8909/MSM8916/MSM8939 devices
 - [dvarrazzo/py-setproctitle](https://github.com/dvarrazzo/py-setproctitle) - A Python module to customize the process title
 - [xyb3rt/physlock](https://github.com/xyb3rt/physlock) - Lightweight linux console locking tool
@@ -897,13 +898,13 @@
 ## C++ 
 
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Cut, copy, and paste anything, anywhere, all from the terminal! 😄 Save time and effort the easy way.
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
 - [cyborg5/IRLib2](https://github.com/cyborg5/IRLib2) - Library for receiving, decoding, and sending infrared signals using Arduino
 - [Adrianotiger/phoneDTMF](https://github.com/Adrianotiger/phoneDTMF) - Detect DTMF without external devices
-- [landonr/esphome-remote](https://github.com/landonr/esphome-remote) - wifi smart home remote with display that runs on ESPHome. Uses on Lilygo T-Display or M5Stack Fire
+- [landonr/homeThing](https://github.com/landonr/homeThing) - wifi smart home remote with display that runs on ESPHome. Uses on Lilygo T-Display or M5Stack Fire
 - [jbtronics/ESP32Console](https://github.com/jbtronics/ESP32Console) - Extensible UART console library for ESP32 with useful included commands.
 - [timmbogner/Linear-Spacing-Visualizer-for-Transplanters](https://github.com/timmbogner/Linear-Spacing-Visualizer-for-Transplanters) - This Arduino device uses an addressable LED strip synced to the movement of a tractor/transplanter to dictate precise plant spacing automatically or by remote input (coming soon).
 - [sandeepmistry/arduino-LoRa](https://github.com/sandeepmistry/arduino-LoRa) - An Arduino library for sending and receiving data using LoRa radios.
@@ -1566,7 +1567,7 @@
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [jbensmann/mouseless](https://github.com/jbensmann/mouseless) - A replacement for the mouse in Linux
 - [mrusme/addrb](https://github.com/mrusme/addrb) - addrb: A lightweight CLI / TUI address book that supports CardDAV
-- [xyproto/preview](https://github.com/xyproto/preview) - Approximate image viewer for the terminal that uses content aware image resizing
+- [xyproto/carveimg](https://github.com/xyproto/carveimg) - Two image viewing utilities for the terminal
 - [dimkr/dohli](https://github.com/dimkr/dohli) - Set up your own ad-blocking DoH server
 - [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 - [arl/gitmux](https://github.com/arl/gitmux) - :computer: Git in your tmux status bar
@@ -2388,7 +2389,6 @@
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [arifwn/t9-emulator](https://github.com/arifwn/t9-emulator) - Javascript T9 Predictive Text Input Emulator
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-- [enrico-kaack/markdown-clipper](https://github.com/enrico-kaack/markdown-clipper) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [kyukyunyorituryo/FixedEpub3JS](https://github.com/kyukyunyorituryo/FixedEpub3JS) - 固定レイアウトのEPUB３を作成するJavaScript
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
@@ -2647,7 +2647,6 @@
 - [usbarmory/interlock](https://github.com/usbarmory/interlock) - INTERLOCK - file encryption and HSM front-end
 - [karan173/Batch-Save-Pocket](https://github.com/karan173/Batch-Save-Pocket) - Chrome extension to add multiple links to Pocket at once through the selected text with custom tags.
 - [andrewrk/groovebasin](https://github.com/andrewrk/groovebasin) - Music player server with a web-based user interface.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [jdittrich/SplitMarkdownFilter](https://github.com/jdittrich/SplitMarkdownFilter) - Split Markdown File Pandoc Filter
 - [chjj/ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
@@ -3010,7 +3009,6 @@
 
 - [ipxe/pipxe](https://github.com/ipxe/pipxe) - iPXE for the Raspberry Pi
 - [yichya/openwrt-cloudflared](https://github.com/yichya/openwrt-cloudflared) - Run argo tunnel client on your router
-- [unixsheikh/phpthewrongway](https://github.com/unixsheikh/phpthewrongway) - A pragmatic view on PHP programming.
 - [danyork/writing-internet-drafts-in-markdown](https://github.com/danyork/writing-internet-drafts-in-markdown) - A presentation (in Markdown) for the IETF Hub Boston on June 12, 2018.
 - [colindean/plaintextaccounting_workshop](https://github.com/colindean/plaintextaccounting_workshop) - An Introduction and Then Some to Plain Text Accounting with Ledger
 - [colindean/talks](https://github.com/colindean/talks) - My talks, presentations, slides sources, and links to recordings
@@ -3046,6 +3044,7 @@
 - [pfalcon/esp-open-sdk](https://github.com/pfalcon/esp-open-sdk) - Free and open (as much as possible) integrated SDK for ESP8266/ESP8285 chips
 - [maxnet/berryboot](https://github.com/maxnet/berryboot) - Berryboot -- Boot menu / OS installer
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [datasciencetoolbox/datasciencetoolbox](https://github.com/datasciencetoolbox/datasciencetoolbox) - Complete environments for busy polyglot data scientists
 - [mallochine/jarvis2](https://github.com/mallochine/jarvis2) - Expedient travel around the filesystem using user-created bookmarks
 - [jakobib/makespec](https://github.com/jakobib/makespec) - Makefile and templates to create specifications from Pandoc Markdown syntax
@@ -3128,6 +3127,7 @@
 - [takingnames/awesome-loginless](https://github.com/takingnames/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
 - [takingnames/namedrop-protocol-spec](https://github.com/takingnames/namedrop-protocol-spec) - Specification for the NameDrop DNS delegation protocol
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
+- [unixsheikh/phpthewrongway](https://github.com/unixsheikh/phpthewrongway) - A pragmatic view on PHP programming.
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
 - [brunompena/zsun-resources](https://github.com/brunompena/zsun-resources) - Zsun SD100 OpenWrt Resources
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
@@ -3178,7 +3178,6 @@
 - [lukicdarkoo/rpi-wifi](https://github.com/lukicdarkoo/rpi-wifi) - Configures simultaneous AP and Managed Mode Wifi on Raspberry Pi
 - [dmadison/LED-Segment-ASCII](https://github.com/dmadison/LED-Segment-ASCII) - Library of ASCII character representations using 7 segment, 14 segment, and 16 segment LED displays
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
-- [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
 - [aliyevaa/cname_cloaking](https://github.com/aliyevaa/cname_cloaking) - the repo contains a list of subdomains that point to known trackers/advertisers
 - [nextdns/cname-cloaking-blocklist](https://github.com/nextdns/cname-cloaking-blocklist) - A list of domains used by tracking companies as CNAME destination when disguising third-party trackers as first-party trackers.
 - [FreeYourStream/freedeck-hardware](https://github.com/FreeYourStream/freedeck-hardware) - all the stuff you need to build your own FreeDeck
@@ -3605,7 +3604,7 @@
 - [mitxela/ddc-oled](https://github.com/mitxela/ddc-oled) - 
 - [pgdr/ph](https://github.com/pgdr/ph) - ph — the tabular data shell tool
 - [lekma/plugin.video.invidious](https://github.com/lekma/plugin.video.invidious) - Invidious Addon for Kodi
-- [iamtalhaasghar/yewtube-old](https://github.com/iamtalhaasghar/yewtube-old) - Terminal based YouTube player and downloader. No Youtube API key required. Forked from https://github.com/mps-youtube/mps-youtube
+- [iamtalhaasghar/yewtube](https://github.com/iamtalhaasghar/yewtube) - Terminal based YouTube player and downloader. No Youtube API key required. Forked from https://github.com/mps-youtube/mps-youtube
 - [woefe/ytcc](https://github.com/woefe/ytcc) - Command line tool to keep track of your favorite playlists on YouTube and many other places.
 - [Wojnstup/PipeCat](https://github.com/Wojnstup/PipeCat) - A command line Youtube music player written in python. It's an app written for Linux. It also supports offline playlists that are stored in a playlists.db file. More documentation coming soon.
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
@@ -4784,6 +4783,10 @@
 - [Rapporter/pander](https://github.com/Rapporter/pander) - An R Pandoc Writer: Convert arbitrary R objects into markdown
 - [Rapporter/rapport](https://github.com/Rapporter/rapport) - rapport is an R package that facilitates the creation of reproducible statistical report templates
 
+## Raku 
+
+- [bduggan/termie](https://github.com/bduggan/termie) - A console for your console
+
 ## Roff 
 
 - [omar-polo/plass](https://github.com/omar-polo/plass) - manage passwords
@@ -5377,7 +5380,7 @@
 - [LibreSolar/learn.libre.solar](https://github.com/LibreSolar/learn.libre.solar) - Building DC Energy Systems (OER)
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [hexdump0815/imagebuilder](https://github.com/hexdump0815/imagebuilder) - velvet os - simple script framework to build ubuntu 20.04 lts (focal), ubuntu 22.04 lts (jammy) and debian 11 (bullseye) bootable sd card images for some arm and intel devices
-- [krjdev/rock64_openbsd](https://github.com/krjdev/rock64_openbsd) - TUTORIAL: Install OpenBSD on a PINE64 ROCK64 media board.
+- [krotti42/rock64_openbsd](https://github.com/krotti42/rock64_openbsd) - TUTORIAL: Install OpenBSD on a PINE64 ROCK64 media board.
 - [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
 - [netlify/actions](https://github.com/netlify/actions) - 
 - [appleboy/gh-pages-action](https://github.com/appleboy/gh-pages-action) - A GitHub Action to deploy a static site on GitHub Pages.
@@ -5420,6 +5423,7 @@
 - [RyanGreenup/Note-Taking-Tools](https://github.com/RyanGreenup/Note-Taking-Tools) - Tools to Facilitate MD Note Taking, Intended to integrate with Notable.
 - [EnergizedProtection/Energized_Linux](https://github.com/EnergizedProtection/Energized_Linux) - Energized All-in-One Script for Linux Distros
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
+- [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
 - [yubiuser/pihole_adlist_tool](https://github.com/yubiuser/pihole_adlist_tool) - A tool to analyse how your pihole adlists cover you browsing behavior
 - [jaecksch/snapcastbox](https://github.com/jaecksch/snapcastbox) - Small OS based on Buildroot for SNAPCAST Multiroom audio
 - [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt
