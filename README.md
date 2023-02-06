@@ -3106,6 +3106,7 @@
 
 ## Others 
 
+- [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx
 - [warpme/miniarch](https://github.com/warpme/miniarch) - ArchLinux ARM SD card images for quick start with ArchLinux on ARM SBC & TV Boxes
 - [nathanlesage/academics-on-mastodon](https://github.com/nathanlesage/academics-on-mastodon) - A list of various lists consisting of academics on Mastodon
 - [ferritreader/ferrit](https://github.com/ferritreader/ferrit) - DISCONTINUED. Former fork of libreddit/libreddit.
@@ -4791,7 +4792,7 @@
 
 - [omar-polo/plass](https://github.com/omar-polo/plass) - manage passwords
 - [Alhadis/Mono](https://github.com/Alhadis/Mono) - Troff macros for the 21st century.
-- [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Armbian for Amlogic and Rockchip. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, rk3588, rk3568, rk3328, etc.  including install to EMMC and update related functions.
+- [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Armbian for Amlogic and Rockchip. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, rk3588, rk3568, rk3399, rk3328, etc.  including install to EMMC and update related functions.
 - [phillbush/incipit](https://github.com/phillbush/incipit) - the incipit plain text markup language, and some troff macro packages
 - [slavistan/lf-gadgets](https://github.com/slavistan/lf-gadgets) - A collection of useful and nifty use cases and configurations for lf.
 - [rrthomas/pdfjam-extras](https://github.com/rrthomas/pdfjam-extras) - Some unsupported 'wrapper' scripts for pdfjam
@@ -5247,6 +5248,7 @@
 
 ## Shell 
 
+- [ShaneMcC/beeps](https://github.com/ShaneMcC/beeps) - Linux beep music
 - [vaniacer/sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
 - [qq542vev/shell-opensearch](https://github.com/qq542vev/shell-opensearch) - Shell の端末環境で OpenSearch description document を利用する。
 - [l29ah/w3crapcli](https://github.com/l29ah/w3crapcli) - A collection of CLI tools to deal with the web
