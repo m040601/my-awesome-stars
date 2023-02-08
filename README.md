@@ -186,7 +186,6 @@
 - [rpmohn/a4](https://github.com/rpmohn/a4) - dynamic terminal manager and multiplexer
 - [ciniml/WireGuard-ESP32-Arduino](https://github.com/ciniml/WireGuard-ESP32-Arduino) - WireGuard implementation for ESP32 Arduino
 - [phillbush/plumb](https://github.com/phillbush/plumb) - yet another plumbing utility for UNIX
-- [mini-rose/rose](https://github.com/mini-rose/rose) - Minimalist browser based on webkit2.
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [nifty-site-manager/nsm](https://github.com/nifty-site-manager/nsm) - Nift - world's fastest cross-platform open source website generator.
 - [fAuernigg/esp32-baresip-client](https://github.com/fAuernigg/esp32-baresip-client) - 
@@ -1333,7 +1332,7 @@
 
 ## CSS 
 
-- [immers-space/guppe](https://github.com/immers-space/guppe) - Decentralized social groups with ActivityPub, NodeJS, Express, and Mongodb
+- [immers-space/guppe](https://github.com/immers-space/guppe) - Federated social groups with ActivityPub, NodeJS, Express, and Mongodb
 - [IPi-Radio/IPi-Radio](https://github.com/IPi-Radio/IPi-Radio) - Turn your Raspberry PI into an internet radio
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
@@ -2286,6 +2285,7 @@
 
 ## JavaScript 
 
+- [mini-rose/rose](https://github.com/mini-rose/rose) - Minimalist browser based on webkit2.
 - [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [programming/farside-redirect](https://github.com/programming/farside-redirect) - Firefox extension to automatically redirect requests to working instances of privacy-oriented alternative frontends with zero-configuration
