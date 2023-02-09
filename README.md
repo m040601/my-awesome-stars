@@ -1938,7 +1938,6 @@
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [clauswilke/dataviz](https://github.com/clauswilke/dataviz) - A book covering the fundamentals of data visualization
 - [statsthinking21/statsthinking21-core](https://github.com/statsthinking21/statsthinking21-core) - Core statistical text for Statistical Thinking in the 21st Century
-- [amyjko/foundations-of-information](https://github.com/amyjko/foundations-of-information) - A book to support the INFO 200 Intellectual Foundations of Information course.
 - [doersino/nyum](https://github.com/doersino/nyum) - A simple Pandoc-powered static site generator for your recipe collection – it effortlessly turns a set of Markdown-formatted recipes into a lightweight, responsive, searchable website.
 - [manubot/manubot.org](https://github.com/manubot/manubot.org) - Source code for https://manubot.org
 - [openenergymonitor/learn](https://github.com/openenergymonitor/learn) - OpenEnergyMonitor learning resources (previously building blocks)
@@ -4217,7 +4216,6 @@
 - [OpenDataServices/cove](https://github.com/OpenDataServices/cove) - CoVE is an web application to Convert, Validate and Explore data following certain open data standards - including 360Giving, Open Contracting Data Standard, IATI and the Beneficial Ownership Data Sta
 - [OpenDataServices/flatten-tool](https://github.com/OpenDataServices/flatten-tool) - Tools for generating CSV and other flat versions of the structured data
 - [christofs/diffs](https://github.com/christofs/diffs) - Python script to classify differences between two text versions
-- [dzone/osqa](https://github.com/dzone/osqa) - OSQA is a free, entry-level Q&A system from the makers of AnswerHub, the market-leading professional Q&A platform.   Looking for Enterprise functionality?  Checkout https://devada.com/answerhub/
 - [heldersepu/GMapCatcher](https://github.com/heldersepu/GMapCatcher) - An offline map viewer
 - [rspeer/wordfreq](https://github.com/rspeer/wordfreq) - Access a database of word frequencies, in various natural languages.
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
@@ -5354,6 +5352,7 @@
 - [system76/launch](https://github.com/system76/launch) - System76 Launch Configurable Keyboard
 - [Roshan-R/termv](https://github.com/Roshan-R/termv) - A terminal iptv player written in bash
 - [huijunchen9260/shbib](https://github.com/huijunchen9260/shbib) - A BibTeX-centric bibliography manager written in POSIX shell
+- [amyjko/foundations-of-information](https://github.com/amyjko/foundations-of-information) - A book to support the INFO 200 Intellectual Foundations of Information course.
 - [doersino/gomati](https://github.com/doersino/gomati) - A simple Google Maps tile downloader and stitcher.
 - [tolstoyevsky/pieman](https://github.com/tolstoyevsky/pieman) - A script for creating custom OS images for single-board computers
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
