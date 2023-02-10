@@ -4542,7 +4542,7 @@
 - [KonishchevDmitry/pytee](https://github.com/KonishchevDmitry/pytee) - Video player for watching movies with subtitles
 - [apenwarr/redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - UNMAINTAINED looking for maintainers! Text outlining and task management for Vim based on Emacs' Org-Mode
+- [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
 - [marcuse/pyopenkeyval](https://github.com/marcuse/pyopenkeyval) - A simple Python interface to OpenKeyval.org
 - [pagekite/PyPagekite](https://github.com/pagekite/PyPagekite) - Python implementation of the PageKite remote front-end protocols.
 - [aarddict/tools](https://github.com/aarddict/tools) - Tools for Aard Dictionary
@@ -5779,7 +5779,7 @@
 - [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [thornomad/dt-s3-backup](https://github.com/thornomad/dt-s3-backup) - Bash script for automated backups with duplicity and Amazon's S3 online storage
 - [falconindy/SquashFu](https://github.com/falconindy/SquashFu) - A backup program employing the use of SquashFS, Aufs and Rsync
-- [nycksw/ocd](https://github.com/nycksw/ocd) - Obessive Compulsive Directory
+- [nycksw/ocd](https://github.com/nycksw/ocd) - Optimally Configured Dotfiles
 - [archlinuxarm/PKGBUILDs](https://github.com/archlinuxarm/PKGBUILDs) - PKGBUILDs modified to build on Arch Linux ARM
 - [stef/utterson](https://github.com/stef/utterson) - a minimal static blog generator written using old-school unix tools (make, ksh, m4, awk, procmail and a pinch of elisp)
 - [micha/jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
