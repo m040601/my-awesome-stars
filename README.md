@@ -3914,7 +3914,7 @@
 - [IvanFon/xinput-gui](https://github.com/IvanFon/xinput-gui) - A simple GUI for Xorg's Xinput tool.
 - [datalad/datalad](https://github.com/datalad/datalad) - Keep code, data, containers under control with git  and git-annex
 - [okfde/farmsubsidy.org](https://github.com/okfde/farmsubsidy.org) - FarmSubsidy website and search
-- [conda/conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
+- [conda/conda](https://github.com/conda/conda) - A system-level, binary package and environment manager running on all major operating systems and platforms.
 - [classicsc/syncthingmanager](https://github.com/classicsc/syncthingmanager) - Configure Syncthing from the CLI
 - [hdb/qtube](https://github.com/hdb/qtube) - graphical interface for youtube built with pyqt, youtube-dl and mpv
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
@@ -5809,7 +5809,7 @@
 
 ## Tcl 
 
-- [dbohdan/sqawk](https://github.com/dbohdan/sqawk) - Like Awk but with SQL and table joins
+- [dbohdan/sqawk](https://github.com/dbohdan/sqawk) - Like awk but with SQL and table joins
 - [adasilva/journal2ebook](https://github.com/adasilva/journal2ebook) - optimize academic pdfs for e-readers
 
 ## TeX 
