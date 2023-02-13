@@ -74,7 +74,6 @@
 - [PowerShell](#powershell)
 - [Processing](#processing)
 - [Prolog](#prolog)
-- [Pug](#pug)
 - [Python](#python)
 - [QML](#qml)
 - [R](#r)
@@ -1585,7 +1584,7 @@
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks and markdown.
 - [bmaupin/go-epub](https://github.com/bmaupin/go-epub) - Go library for creating EPUB files
 - [LiboShen/webpage-to-ebook](https://github.com/LiboShen/webpage-to-ebook) - 
-- [xyproto/o](https://github.com/xyproto/o) - :cyclone: Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile c
+- [xyproto/o](https://github.com/xyproto/o) - :cyclone: Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles w
 - [dakyskye/dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
 - [audstanley/libgen-tui](https://github.com/audstanley/libgen-tui) - A terminal based application for LibGen
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -2295,6 +2294,7 @@
 - [nextcloud/cdav-library](https://github.com/nextcloud/cdav-library) - :date: 📇 CalDAV and CardDAV client library for JavaScript
 - [nextcloud/calendar](https://github.com/nextcloud/calendar) - 📆 Calendar app for Nextcloud
 - [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
+- [zyachel/quetre](https://github.com/zyachel/quetre) - A libre front-end for Quora
 - [shimataro/ssh-key-action](https://github.com/shimataro/ssh-key-action) - GitHub Action that installs SSH key to .ssh
 - [erik/derive](https://github.com/erik/derive) - Generate personal heatmap from GPX/TCX/FIT/IGC data
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
@@ -3549,10 +3549,6 @@
 ## Prolog 
 
 - [biktorrr/dss](https://github.com/biktorrr/dss) - git repository for code (and possibly data) produced in the context of the CLARIN 'Dutch Ships and Sailors' project
-
-## Pug 
-
-- [zyachel/quetre](https://github.com/zyachel/quetre) - A libre front-end for Quora
 
 ## Python 
 
