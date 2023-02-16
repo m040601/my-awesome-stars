@@ -1531,6 +1531,7 @@
 
 ## Go 
 
+- [httpjamesm/AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View StackOverflow in privacy and without the clutter.
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
@@ -2059,7 +2060,6 @@
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [cran/transcribeR](https://github.com/cran/transcribeR) - :exclamation: This is a read-only mirror of the CRAN R package repository.  transcribeR — Automated Transcription of Audio Files Through the HP IDOL API
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
-- [hadley/r4ds](https://github.com/hadley/r4ds) - R for data science: a book
 - [PolMine/polmineR](https://github.com/PolMine/polmineR) - R-package for text mining with the Corpus Workbench (CWB) as backend
 - [FOSSRIT/people](https://github.com/FOSSRIT/people) - Interactive directory of FOSS@RIT community members generated from YAML profiles and built with Jekyll
 - [interedition/collatex](https://github.com/interedition/collatex) - CollateX – Software for Collating Textual Sources
@@ -2068,6 +2068,7 @@
 - [homerhanumat/tigerstats](https://github.com/homerhanumat/tigerstats) - An R package for the teaching of statistics
 - [ProjectMOSAIC/LittleBooks](https://github.com/ProjectMOSAIC/LittleBooks) - Materials for the MOSAIC "Teaching Statistics with R and RStudio"
 - [talgalili/d3heatmap](https://github.com/talgalili/d3heatmap) - A D3.js-based heatmap htmlwidget for R
+- [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [carpentries/lesson-example](https://github.com/carpentries/lesson-example) - Example lesson using The Carpentries lesson template.
 - [sachsmc/dceg-r-course](https://github.com/sachsmc/dceg-r-course) - Introduction to R for Epidemiologists
 - [YePpHa/YouTubeCenter](https://github.com/YePpHa/YouTubeCenter) - YouTube Center is a userscript designed to expand the functionality of YouTube. It includes the ability to download the video you're watching, auto selecting your preferred video quality and much more
@@ -2283,6 +2284,7 @@
 
 ## JavaScript 
 
+- [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [mini-rose/rose](https://github.com/mini-rose/rose) - Minimalist browser based on webkit2.
 - [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -2436,7 +2438,6 @@
 - [JVital2013/RoadApplePi](https://github.com/JVital2013/RoadApplePi) - An elegent "Black Box" solution that can be retrofitted into any car with an OBD(II) port for minimal cost.
 - [inventaire/inventaire](https://github.com/inventaire/inventaire) - a libre collaborative resource mapper powered by open-knowledge, starting with books! :books:
 - [csaftoiu/yahoo-groups-backup](https://github.com/csaftoiu/yahoo-groups-backup) - A python script to backup the contents of private Yahoo! groups.
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [nextcloud/twofactor_totp](https://github.com/nextcloud/twofactor_totp) - 🔑 Second factor TOTP (RFC 6238) provider for Nextcloud
 - [alct/export-tabs-urls](https://github.com/alct/export-tabs-urls) - https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
@@ -2874,7 +2875,7 @@
 ## Jupyter Notebook 
 
 - [whotracksme/whotracks.me](https://github.com/whotracksme/whotracks.me) - Data from the largest and longest measurement of online tracking.
-- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (Music Player, Music Recorder supporting I2S, Microphones, DAC, ADC, A2DP, Url, MP3, AAC, AudioKit, ES8388)
+- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library not only for Arduino)
 - [statsthinking21/statsthinking21-python](https://github.com/statsthinking21/statsthinking21-python) - Python companion for Statistical Thinking in the 21st Century
 - [neelsomani/senator-filings](https://github.com/neelsomani/senator-filings) - Scrape public filings of the buy + sell orders of U.S. senators and calculate their returns
 - [Bubblbu/zotero-insights](https://github.com/Bubblbu/zotero-insights) - 
@@ -3378,6 +3379,7 @@
 - [DeBaschdi/docker.solaranzeige](https://github.com/DeBaschdi/docker.solaranzeige) - 
 - [webkul/hotelcommerce](https://github.com/webkul/hotelcommerce) - Hotel & Booking Reservation Ecommerce system on Prestashop
 - [taoso/tagbar-markdown](https://github.com/taoso/tagbar-markdown) - vim-tagbar extension for markdown
+- [ct-Open-Source/ctraspion](https://github.com/ct-Open-Source/ctraspion) - Turns a Raspberry Pi into a WLAN router to take a look at network traffic of smart home and IoT devices
 - [SnaKKo/Fossdroid-Core](https://github.com/SnaKKo/Fossdroid-Core) - Fossdroid Core is a web frontend of F-Droid: an alternative software repository comprising only free, open source software for Android. This repo is the open source version of fossdroid.com.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
@@ -3416,7 +3418,6 @@
 - [urlgrey/hsmm-pi](https://github.com/urlgrey/hsmm-pi) - A set of tools to easily configure the Raspberry Pi to function as a High-Speed Multimedia (HSMM) wireless node.
 - [silvanmelchior/RPi_Cam_Web_Interface](https://github.com/silvanmelchior/RPi_Cam_Web_Interface) - A web interface for the RPi Cam
 - [emoncms/emoncms](https://github.com/emoncms/emoncms) - Web-app for processing, logging and visualising energy, temperature and other environmental data
-- [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [DownloadTicketService/dl](https://github.com/DownloadTicketService/dl) - Download Ticket Service
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [omeka/plugin-Scripto](https://github.com/omeka/plugin-Scripto) - Adds the ability to transcribe items using the Scripto library.
@@ -3552,6 +3553,8 @@
 
 ## Python 
 
+- [tomas-teijeiro/wavtobeep](https://github.com/tomas-teijeiro/wavtobeep) - Converts a wav file to a secuence of *beep* PC-speaker calls
+- [m33x/wol-plex-server](https://github.com/m33x/wol-plex-server) - Home Server that Automatically Suspends to RAM and Wakes up Again
 - [xlucn/statusd](https://github.com/xlucn/statusd) - Status text daemon for dwm, tmux, etc.
 - [hng/germine](https://github.com/hng/germine) - A gemini application that displays calendar events from an URL to an .ics file.
 - [dsanson/termpdf.py](https://github.com/dsanson/termpdf.py) - A graphical pdf and epub reader that works inside the kitty terminal
@@ -4648,6 +4651,7 @@
 - [tidyverse/reprex](https://github.com/tidyverse/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
 - [seankross/neocities](https://github.com/seankross/neocities) - :smiley_cat: An R Package for the Neocities API
 - [jeroen/openssl](https://github.com/jeroen/openssl) - OpenSSL bindings for R
+- [hadley/r4ds](https://github.com/hadley/r4ds) - R for data science: a book
 - [richierocks/learningr](https://github.com/richierocks/learningr) - Data and functions to accompany the book "Learning R".
 - [richierocks/pathological](https://github.com/richierocks/pathological) - R package of utilities for handling paths, files and directories
 - [richierocks/rebus](https://github.com/richierocks/rebus) - 
@@ -4784,9 +4788,9 @@
 
 ## Roff 
 
+- [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Armbian for Amlogic and Rockchip. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, rk3588, rk3568, rk3399, rk3328, etc.  including install to EMMC and update related functions.
 - [omar-polo/plass](https://github.com/omar-polo/plass) - manage passwords
 - [Alhadis/Mono](https://github.com/Alhadis/Mono) - Troff macros for the 21st century.
-- [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Armbian for Amlogic and Rockchip. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, rk3588, rk3568, rk3399, rk3328, etc.  including install to EMMC and update related functions.
 - [phillbush/incipit](https://github.com/phillbush/incipit) - the incipit plain text markup language, and some troff macro packages
 - [slavistan/lf-gadgets](https://github.com/slavistan/lf-gadgets) - A collection of useful and nifty use cases and configurations for lf.
 - [rrthomas/pdfjam-extras](https://github.com/rrthomas/pdfjam-extras) - Some unsupported 'wrapper' scripts for pdfjam
@@ -5034,6 +5038,8 @@
 
 ## Rust 
 
+- [mrmekon/itsy-gitsy](https://github.com/mrmekon/itsy-gitsy) - A static site generator for Git repositories
+- [mrmekon/circadian](https://github.com/mrmekon/circadian) - Suspend-On-Idle Daemon for GNU/Linux Power Management
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
@@ -5242,6 +5248,7 @@
 
 ## Shell 
 
+- [7Ji/amlogic-s9xxx-archlinuxarm](https://github.com/7Ji/amlogic-s9xxx-archlinuxarm) - ArchLinux ARM for Amlogic s9xxx tv box.
 - [ShaneMcC/beeps](https://github.com/ShaneMcC/beeps) - Linux beep music
 - [vaniacer/sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
 - [qq542vev/shell-opensearch](https://github.com/qq542vev/shell-opensearch) - Shell の端末環境で OpenSearch description document を利用する。
@@ -5463,7 +5470,6 @@
 - [Frenzie/readablepdf](https://github.com/Frenzie/readablepdf) - ReadablePDF streamlines the effort of turning a not so great PDF into a more easily readable PDF (or of course a pretty decent PDF into an even better one).
 - [erichs/composure](https://github.com/erichs/composure) - Don't fear the Unix chainsaw
 - [learnbyexample/learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
-- [ct-Open-Source/ctraspion](https://github.com/ct-Open-Source/ctraspion) - Turns a Raspberry Pi into a WLAN router to take a look at network traffic of smart home and IoT devices
 - [lwilletts/mpvc](https://github.com/lwilletts/mpvc) - An mpc-like control interface for mpv.
 - [eli-schwartz/aurpublish](https://github.com/eli-schwartz/aurpublish) - PKGBUILD management framework for the Arch User Repository
 - [eli-schwartz/dotfiles.sh](https://github.com/eli-schwartz/dotfiles.sh) - Dotfiles made easy
