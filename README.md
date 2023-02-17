@@ -2070,6 +2070,7 @@
 - [talgalili/d3heatmap](https://github.com/talgalili/d3heatmap) - A D3.js-based heatmap htmlwidget for R
 - [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [carpentries/lesson-example](https://github.com/carpentries/lesson-example) - Example lesson using The Carpentries lesson template.
+- [swcarpentry/make-novice](https://github.com/swcarpentry/make-novice) - Automation and Make
 - [sachsmc/dceg-r-course](https://github.com/sachsmc/dceg-r-course) - Introduction to R for Epidemiologists
 - [YePpHa/YouTubeCenter](https://github.com/YePpHa/YouTubeCenter) - YouTube Center is a userscript designed to expand the functionality of YouTube. It includes the ability to download the video you're watching, auto selecting your preferred video quality and much more
 - [trinker/regexr](https://github.com/trinker/regexr) - Readable Regular Expressions
@@ -4295,7 +4296,6 @@
 - [pixelb/crudini](https://github.com/pixelb/crudini) - A utility for manipulating ini files
 - [lahwaacz/wiki-scripts](https://github.com/lahwaacz/wiki-scripts) - Framework for writing bots, maintenance scripts or performing data analysis on wikis powered by MediaWiki
 - [luispedro/BuildingMachineLearningSystemsWithPython](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) - Source Code for the book Building Machine Learning Systems with Python
-- [swcarpentry/make-novice](https://github.com/swcarpentry/make-novice) - Automation and Make
 - [mark-me/Pi-Jukebox](https://github.com/mark-me/Pi-Jukebox) - A mpd front-end for playing your your Raspberry Pi
 - [msprev/unite-bibtex](https://github.com/msprev/unite-bibtex) - a BibTeX source for unite.vim
 - [dersphere/plugin.audio.radio_de](https://github.com/dersphere/plugin.audio.radio_de) - XBMC music plugin to access all radio.de listed radio stations
