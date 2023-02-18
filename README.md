@@ -123,7 +123,6 @@
 
 ## Arduino 
 
-- [openenergymonitor/emontx2](https://github.com/openenergymonitor/emontx2) - emonTx V2 (through-hole design): A low power, wireless energy monitoring node based on Arduino / JeeNode
 - [jalmeroth/ESP8266-OAUTH2](https://github.com/jalmeroth/ESP8266-OAUTH2) - WIP: Implementation of OAUTH2 for ESP8266
 - [bitluni/WeatherStation](https://github.com/bitluni/WeatherStation) - 
 - [CheapskateProjects/GPSLogger](https://github.com/CheapskateProjects/GPSLogger) - Simple project which logs data from GPS module (NEO 6M) into SD card.
@@ -969,6 +968,7 @@
 - [G4lile0/tinyGS](https://github.com/G4lile0/tinyGS) - 📡 Open Ground Station Network  🛰
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based b
 - [alexnathanson/EPSolar_Tracer](https://github.com/alexnathanson/EPSolar_Tracer) - Various implementation for communicating with an EP Solar Tracer charge controller
+- [openenergymonitor/emontx2](https://github.com/openenergymonitor/emontx2) - emonTx V2 (through-hole design): A low power, wireless energy monitoring node based on Arduino / JeeNode
 - [openenergymonitor/emonpi](https://github.com/openenergymonitor/emonpi) - Raspberry Pi Based Energy Monitor. Hardware, Firmware & related software for the PI.
 - [justinmklam/iot-sourdough-starter-monitor](https://github.com/justinmklam/iot-sourdough-starter-monitor) - Tracking the fermentation of sourdough starter over the cloud.
 - [Edzelf/ESP32-Radio](https://github.com/Edzelf/ESP32-Radio) - Internet radio based on ESP32, VS1053 and a TFT screen.
@@ -5669,7 +5669,7 @@
 - [gcarq/inox-patchset](https://github.com/gcarq/inox-patchset) - Inox patchset tries to provide a minimal Chromium based browser with focus on privacy by disabling data transmission to Google.
 - [Qeole/pangitive](https://github.com/Qeole/pangitive) - Static blog generator based on pandoc and on Git hooks − this is a fork of fugitive static blog generator
 - [dotphiles/dotsync](https://github.com/dotphiles/dotsync) - Sync dotfiles between multiple machines from a git repo or push using rsync
-- [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, upon any Linux distro
+- [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
 - [whiteinge/ok.sh](https://github.com/whiteinge/ok.sh) - A Bourne shell GitHub API client library focused on interfacing with shell scripts
 - [Othernet-Project/pkgbuilds](https://github.com/Othernet-Project/pkgbuilds) - Source files for Arch repos
 - [Othernet-Project/orx-rpi](https://github.com/Othernet-Project/orx-rpi) - ORx build for Raspberry Pi
