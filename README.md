@@ -178,6 +178,7 @@
 
 ## C 
 
+- [dreirund/Handsomemod-uf896](https://github.com/dreirund/Handsomemod-uf896) - A fork of OpenWrt-based "Handsomemod" operating system targeted to the ["UF896" stick-format WiFi/LTE router](https://forum.openwrt.org/t/131712).
 - [leonmavr/retrocube](https://github.com/leonmavr/retrocube) - Spinning cube animation via very basic ray tracing on the terminal. Rendered in ASCII.
 - [LinusDierheimer/fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in C.
 - [leonerd/libtickit](https://github.com/leonerd/libtickit) - 
@@ -1531,6 +1532,7 @@
 
 ## Go 
 
+- [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [httpjamesm/AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View StackOverflow in privacy and without the clutter.
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
@@ -1882,7 +1884,6 @@
 - [wangbin/jiebago](https://github.com/wangbin/jiebago) - Jieba 分词 Go 语言版
 - [wendal/gor](https://github.com/wendal/gor) - Golang编写的静态博客引擎
 - [jehiah/json2csv](https://github.com/jehiah/json2csv) - command line tool to convert json to csv
-- [mkaz/hastie](https://github.com/mkaz/hastie) - A static site generator written in Go
 - [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [mattn/gof](https://github.com/mattn/gof) - 
 - [peco/migemogrep](https://github.com/peco/migemogrep) - Search/grep against Japanese text using latin-1 text
@@ -4370,6 +4371,7 @@
 - [jtauber/greek-reader](https://github.com/jtauber/greek-reader) - Python 3 tool for generating (initially Biblical) Greek readers
 - [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
 - [AlJohri/OpenSubtitles](https://github.com/AlJohri/OpenSubtitles) - A series of scripts to download and parse the OpenSubtitles corpus.
+- [mkaz/hastie](https://github.com/mkaz/hastie) - A static site generator in Python
 - [buildinspace/peru](https://github.com/buildinspace/peru) - a generic package manager, for including other people's code in your projects
 - [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
 - [catherinedevlin/ipython-sql](https://github.com/catherinedevlin/ipython-sql) - %%sql magic for IPython, hopefully evolving into full SQL client
