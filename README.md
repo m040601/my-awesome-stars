@@ -895,6 +895,7 @@
 
 ## C++ 
 
+- [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Cut, copy, and paste anything, anywhere, all from the terminal! 😄 Save time and effort the easy way.
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
@@ -1532,6 +1533,7 @@
 
 ## Go 
 
+- [consbio/mbtileserver](https://github.com/consbio/mbtileserver) - Basic Go server for mbtiles
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [httpjamesm/AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View StackOverflow in privacy and without the clutter.
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
@@ -1911,6 +1913,7 @@
 
 ## HTML 
 
+- [pafoster/gdir.telae.net](https://github.com/pafoster/gdir.telae.net) - Code for gdir.telae.net - a minimalistic directions service
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [cadars/portable-php](https://github.com/cadars/portable-php) - A blog in one HTML file
 - [Georiviere/website](https://github.com/Georiviere/website) - Project website Georivière
@@ -2380,7 +2383,7 @@
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to harden Firefox and optimize privacy, security, and speed
 - [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
 - [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
-- [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
+- [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or MD docs.
 - [ArchiveBox/readability-extractor](https://github.com/ArchiveBox/readability-extractor) - Javascript/Node wrapper around Mozilla's Readability library so that ArchiveBox can call it as a oneshot CLI command to extract each page's article text.
 - [patrickhulce/third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
 - [NightMachinery/readability-cli](https://github.com/NightMachinery/readability-cli) - A CLI for Mozilla Readability. Get clean, uncluttered, ready-to-read HTML from any webpage!
@@ -3555,6 +3558,7 @@
 
 ## Python 
 
+- [pafoster/gdir](https://github.com/pafoster/gdir) - Get train/bus directions using the command line
 - [tomas-teijeiro/wavtobeep](https://github.com/tomas-teijeiro/wavtobeep) - Converts a wav file to a secuence of *beep* PC-speaker calls
 - [m33x/wol-plex-server](https://github.com/m33x/wol-plex-server) - Home Server that Automatically Suspends to RAM and Wakes up Again
 - [xlucn/statusd](https://github.com/xlucn/statusd) - Status text daemon for dwm, tmux, etc.
@@ -5884,6 +5888,8 @@
 
 ## TypeScript 
 
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
+- [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Cloud-optimized + compressed single-file tile archives for vector and raster maps
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [GeotrekCE/Geotrek-rando-v3](https://github.com/GeotrekCE/Geotrek-rando-v3) - Geotrek public data website (version 3)
