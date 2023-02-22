@@ -2383,7 +2383,7 @@
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to harden Firefox and optimize privacy, security, and speed
 - [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
 - [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
-- [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or MD docs.
+- [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
 - [ArchiveBox/readability-extractor](https://github.com/ArchiveBox/readability-extractor) - Javascript/Node wrapper around Mozilla's Readability library so that ArchiveBox can call it as a oneshot CLI command to extract each page's article text.
 - [patrickhulce/third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
 - [NightMachinery/readability-cli](https://github.com/NightMachinery/readability-cli) - A CLI for Mozilla Readability. Get clean, uncluttered, ready-to-read HTML from any webpage!
@@ -3580,7 +3580,6 @@
 - [wkentaro/gdown](https://github.com/wkentaro/gdown) - Download a large file from Google Drive  (curl/wget fails because of the security notice).
 - [transitland/transitland-atlas](https://github.com/transitland/transitland-atlas) - an open directory of mobility feeds and operators — powers both Transitland v1 and v2
 - [MobilityData/mobility-database-catalogs](https://github.com/MobilityData/mobility-database-catalogs) - The Catalogs of Sources of the Mobility Database.
-- [binpash/pash](https://github.com/binpash/pash) - PaSh: Light-touch Data-Parallel Shell Processing
 - [mozilla-services/server-syncstorage](https://github.com/mozilla-services/server-syncstorage) - The SyncServer server software, as used by Firefox Sync
 - [repology/repology-webapp](https://github.com/repology/repology-webapp) - Repology web application
 - [alexpovel/ancv](https://github.com/alexpovel/ancv) - Renders your (JSON) resume/CV for online & pretty terminal display
@@ -3600,7 +3599,7 @@
 - [ynikitenko/yarsync](https://github.com/ynikitenko/yarsync) - Yet Another Rsync: a file synchronization and backup tool
 - [saulpw/unzip-http](https://github.com/saulpw/unzip-http) - Extract individual files from .zip files over http without downloading the entire archive.
 - [tmbdev-archive/tarproc](https://github.com/tmbdev-archive/tarproc) - Utilities for sequential processing of tar files.
-- [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display and browse images in the terminal
+- [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display images in the terminal
 - [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2) - Ansible role that installs and upgrades OpenWISP.
 - [MartinBarker/vinyl2digital](https://github.com/MartinBarker/vinyl2digital) - Batch render an Audacity audio track into an entire album of mp3 files using a Discogs URL for metadata tagging.
 - [FiXato/tui_launcher](https://github.com/FiXato/tui_launcher) - A proof of concept for a TUI-based launcher written in Python using urwid
@@ -5215,6 +5214,8 @@
 
 ## SCSS 
 
+- [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
+- [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 - [karan/nojs.club](https://github.com/karan/nojs.club) - You don't need Javascript to make a beautiful, usable web. How it works: https://goel.io/nojs-club
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [minicomp/wax](https://github.com/minicomp/wax) - Jekyll based framework for minimal exhibitions with IIIF 🐝
@@ -5269,6 +5270,7 @@
 - [dibdot/DoH-IP-blocklists](https://github.com/dibdot/DoH-IP-blocklists) - This repo contains the domain names and the IPv4/IPv6 addresses of public DoH server
 - [Coralesoft/OpenwrtCloudflare](https://github.com/Coralesoft/OpenwrtCloudflare) - Raspberry Pi 4 or x86 OpenWrt Routers setting up Cloudflare tunnels
 - [helixarch/subedit](https://github.com/helixarch/subedit) - Command-line subtitle editor written in BASH
+- [binpash/pash](https://github.com/binpash/pash) - PaSh: Light-touch Data-Parallel Shell Processing
 - [smlinux/armbian-tanix-tx6](https://github.com/smlinux/armbian-tanix-tx6) - Armbian Linux build framework on stable Linux kernel
 - [alainwolf/roll.urown.net](https://github.com/alainwolf/roll.urown.net) - How to roll your own private self-hosted internet services.
 - [jwilk/pagerboy](https://github.com/jwilk/pagerboy) - run program in a pty and pipe output to pager
@@ -5325,7 +5327,6 @@
 - [remileduc/sherver](https://github.com/remileduc/sherver) - Pure Bash lightweight web server.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [jabirali/tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
-- [ploum/offlinetools](https://github.com/ploum/offlinetools) - Tools to spend more time offline
 - [Yetangitu/books](https://github.com/Yetangitu/books) - Library Genesis (libgen) CLI/TUI/GUI client (mirror from private repo)
 - [Nature40/pimod](https://github.com/Nature40/pimod) - Reconfigure Raspberry Pi images with an easy, Docker-like configuration file
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
@@ -6099,7 +6100,7 @@
 - [q335r49/microviche](https://github.com/q335r49/microviche) - Pan, zoom, and map a 2D text plane (for vim)
 - [kassio/neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
 - [neomake/neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
-- [nathanaelkane/vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides) - A Vim plugin for visually displaying indent levels in code
+- [preservim/vim-indent-guides](https://github.com/preservim/vim-indent-guides) - A Vim plugin for visually displaying indent levels in code
 - [Shougo/neosnippet.vim](https://github.com/Shougo/neosnippet.vim) - neo-snippet plugin
 - [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
 - [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
@@ -6219,7 +6220,6 @@
 - [garbas/vim-snipmate](https://github.com/garbas/vim-snipmate) - snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim.
 - [mattn/pastebin-vim](https://github.com/mattn/pastebin-vim) - vimscript for pastebin
 - [mattn/googletranslate-vim](https://github.com/mattn/googletranslate-vim) - Translate between English and Japanese using Google
-- [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 - [mattn/webapi-vim](https://github.com/mattn/webapi-vim) - vim interface to Web API
 - [davidoc/taskpaper.vim](https://github.com/davidoc/taskpaper.vim) - This package contains a syntax file and a file-type plugin for the simple format used by the TaskPaper application.
 - [tomtom/vikitasks_vim](https://github.com/tomtom/vikitasks_vim) - Search viki files for tasks and display them in a list
