@@ -475,6 +475,7 @@
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
 - [hy987/T9-Predictive-Text](https://github.com/hy987/T9-Predictive-Text) - Texting predictive technology
 - [lefcha/imapfilter](https://github.com/lefcha/imapfilter) - IMAP mail filtering utility
+- [OpenHD/QOpenHD](https://github.com/OpenHD/QOpenHD) - QOpenHD App
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [eworm-de/mpd-notification](https://github.com/eworm-de/mpd-notification) - Notify about tracks played by mpd
 - [riyas-org/ir_translator](https://github.com/riyas-org/ir_translator) - Repurpose old IR remote with ATTINY13
@@ -897,7 +898,7 @@
 
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Cut, copy, and paste anything, anywhere, all from the terminal! 😄 Save time and effort the easy way.
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket::sparkles: Cut, copy, and paste anything, anywhere, all from the terminal! 😄 Save time and effort the easy way.
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -1010,7 +1011,6 @@
 - [kodi-pvr/pvr.hts](https://github.com/kodi-pvr/pvr.hts) - Kodi's Tvheadend HTSP client addon
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [xbmc/inputstream.adaptive](https://github.com/xbmc/inputstream.adaptive) - kodi inputstream addon for several manifest types
-- [OpenHD/QOpenHD](https://github.com/OpenHD/QOpenHD) - QOpenHD App
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [mb720/nethogs](https://github.com/mb720/nethogs) - Linux 'net top' tool
 - [pgaskin/kobo-mods](https://github.com/pgaskin/kobo-mods) - My Kobo mods/hacks/tools which aren't patches and aren't in koboutils.
@@ -3711,6 +3711,7 @@
 - [sim590/qurlshare](https://github.com/sim590/qurlshare) - A Qutebrowser userscript enabling secure sharing of an URL between qutebrowser instances without need of any centralized service.
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
 - [OpenViX/enigma2](https://github.com/OpenViX/enigma2) - 
+- [tenllado/dotfiles](https://github.com/tenllado/dotfiles) - My dot files
 - [dedupeio/dedupe](https://github.com/dedupeio/dedupe) - :id: A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
 - [systemd/mkosi](https://github.com/systemd/mkosi) - 💽 Build Bespoke OS Images
 - [blaa/WaveSync](https://github.com/blaa/WaveSync) - Multi-room synchronised audio playback over shaky network connections and cheap (rasbperry pi) hardware.
@@ -5386,7 +5387,6 @@
 - [e-zk/shlog](https://github.com/e-zk/shlog) - a static blog generator in /bin/sh: rewrite pending
 - [ropery/FFcast](https://github.com/ropery/FFcast) - Run command on rectangular screen regions
 - [matyas1995/linux-aarch64-rockpro64](https://github.com/matyas1995/linux-aarch64-rockpro64) - 
-- [tenllado/dotfiles](https://github.com/tenllado/dotfiles) - My dot files
 - [uriel1998/agaetr](https://github.com/uriel1998/agaetr) - Modular scripts to take text, images, and links from RSS feeds and push to social media
 - [archdroid-org/alarm-image-generator](https://github.com/archdroid-org/alarm-image-generator) - ArchLinuxARM Disk Image Generator
 - [LibreSolar/learn.libre.solar](https://github.com/LibreSolar/learn.libre.solar) - Building DC Energy Systems (OER)
