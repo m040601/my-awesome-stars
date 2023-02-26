@@ -686,7 +686,7 @@
 - [jeelabs/esp-link](https://github.com/jeelabs/esp-link) - esp8266 wifi-serial bridge, outbound TCP, and arduino/AVR/LPC/NXP programmer
 - [vain/datenstrahler](https://github.com/vain/datenstrahler) - Display a web site (WebKit2GTK+)
 - [vain/lariza](https://github.com/vain/lariza) - Simple WebKit2GTK+ Browser
-- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [piersfinlayson/otb-iot](https://github.com/piersfinlayson/otb-iot) - Out of The Box Internet Of Things
 - [souliss/souliss](https://github.com/souliss/souliss) - Arduino based Distributed Networking Framework for Smart Homes and IoT
 - [tuanpmt/esp-audio-player](https://github.com/tuanpmt/esp-audio-player) - ESP8266 Mp3 player and display spectrum on OLED
@@ -898,7 +898,7 @@
 
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket::sparkles: Cut, copy, and paste anything, anywhere, all from the terminal! 😄 Save time and effort the easy way.
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Cut, copy, and paste anything, anywhere, all from the terminal! 😄 Save time and effort the easy way.
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -5495,7 +5495,7 @@
 - [glacambre/.dotfiles](https://github.com/glacambre/.dotfiles) - My dotfiles. Install with `./install.sh`.
 - [eballetbo/chromebooks](https://github.com/eballetbo/chromebooks) - Chromebook Developer Tool
 - [huijunchen9260/dmenufm](https://github.com/huijunchen9260/dmenufm) - A simple file manager using dmenu
-- [qq542vev/w3mplus](https://github.com/qq542vev/w3mplus) - w3mの拡張機能。Pale Moon, Pentadactyl, Vim の機能と操作方法を模倣する試み。
+- [qq542vev/w3mplus](https://github.com/qq542vev/w3mplus) - w3m の拡張機能。Pale Moon, Pentadactyl, Vim の機能と操作方法を模倣する試み。
 - [p2rkw/xf86-input-mtrack](https://github.com/p2rkw/xf86-input-mtrack) - Xorg Multitouch Trackpad Driver
 - [bovine3dom/dotfiles](https://github.com/bovine3dom/dotfiles) - Managed by YADM.
 - [codekoala/pass-qr](https://github.com/codekoala/pass-qr) - A pass extension that lets you quickly generate a QR code for passwords using fzf or rofi
