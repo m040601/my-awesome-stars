@@ -353,7 +353,7 @@
 - [volzotan/drawbot](https://github.com/volzotan/drawbot) - Arduino Nano based GRBL control board for pen-plotters
 - [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) - Lua based interactive firmware for ESP8266, ESP8285 and ESP32
 - [avih/dejsonlz4](https://github.com/avih/dejsonlz4) - Decompress Mozilla Firefox bookmarks backup files
-- [pvvx/ATC_MiThermometer](https://github.com/pvvx/ATC_MiThermometer) - Custom firmware for the Xiaomi Thermometers and Telink Flasher via USB to Serial converter
+- [pvvx/ATC_MiThermometer](https://github.com/pvvx/ATC_MiThermometer) - Custom firmware for the Xiaomi Thermometers and Telink Flasher
 - [tmk/tmk_keyboard](https://github.com/tmk/tmk_keyboard) - Keyboard firmwares for Atmel AVR and Cortex-M
 - [wtarreau/bootterm](https://github.com/wtarreau/bootterm) - The terminal written for its users by its users
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
@@ -898,7 +898,7 @@
 
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Cut, copy, and paste anything, anywhere, all from the terminal! 😄 Save time and effort the easy way.
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the easy way. Cut, copy, and paste anything, anywhere, all from the terminal! 😄
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -4072,7 +4072,7 @@
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [mzucker/noteshrink](https://github.com/mzucker/noteshrink) - Convert scans of handwritten notes to beautiful, compact PDFs
-- [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2020, WikiTeam has preserved more than 250,000 wikis.
+- [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2023, WikiTeam has preserved more than 350,000 wikis.
 - [SDI-SoftwareDefinedInverter/TAPAS](https://github.com/SDI-SoftwareDefinedInverter/TAPAS) - Community drives inverter project
 - [arminstraub/krop](https://github.com/arminstraub/krop) - A simple graphical tool to crop the pages of PDF files, written in Python/Qt
 - [medieval-source-book/Encoding-Software](https://github.com/medieval-source-book/Encoding-Software) - Software to automatically format prose and poetry into TEI XML
@@ -4794,7 +4794,7 @@
 
 ## Roff 
 
-- [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Armbian for Amlogic and Rockchip. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, rk3588, rk3568, rk3399, rk3328, etc.  including install to EMMC and update related functions.
+- [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [omar-polo/plass](https://github.com/omar-polo/plass) - manage passwords
 - [Alhadis/Mono](https://github.com/Alhadis/Mono) - Troff macros for the 21st century.
 - [phillbush/incipit](https://github.com/phillbush/incipit) - the incipit plain text markup language, and some troff macro packages
@@ -5318,7 +5318,7 @@
 - [toddyamakawa/tmux-scratchpad](https://github.com/toddyamakawa/tmux-scratchpad) - 
 - [toddyamakawa/tmux-prefixless](https://github.com/toddyamakawa/tmux-prefixless) - 
 - [whame/tmux-modal](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable
-- [ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) - OpenWrt for Amlogic and Rockchip. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, rk3588, rk3568, rk3288, etc. including install to EMMC and update related functions.
+- [ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) - Support for OpenWrt in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [marado/RNID](https://github.com/marado/RNID) - Lista de casos de incumprimento do RNID
 - [BawdyAnarchist/quBSD](https://github.com/BawdyAnarchist/quBSD) - A FreeBSD jails and bhyve wrapper; which emulates a Qubes-like containerization schema
 - [jcorporation/webradiodb](https://github.com/jcorporation/webradiodb) - Webradio database for myMPD
