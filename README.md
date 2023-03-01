@@ -178,6 +178,7 @@
 
 ## C 
 
+- [Fishwaldo/esp_ghota](https://github.com/Fishwaldo/esp_ghota) - esp32 OTA Component to update firmware from Github Releases
 - [dreirund/Handsomemod-uf896](https://github.com/dreirund/Handsomemod-uf896) - A fork of OpenWrt-based "Handsomemod" operating system targeted to the ["UF896" stick-format WiFi/LTE router](https://forum.openwrt.org/t/131712).
 - [leonmavr/retrocube](https://github.com/leonmavr/retrocube) - Spinning cube animation via very basic ray tracing on the terminal. Rendered in ASCII.
 - [LinusDierheimer/fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in C.
@@ -2061,7 +2062,6 @@
 - [ArchiveTeam/wpull](https://github.com/ArchiveTeam/wpull) - Wget-compatible web downloader and crawler.
 - [kbenoit/ITAUR](https://github.com/kbenoit/ITAUR) - Introduction to Text Analysis Using R
 - [trinker/pacman](https://github.com/trinker/pacman) - A package management tools for R
-- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [cran/transcribeR](https://github.com/cran/transcribeR) - :exclamation: This is a read-only mirror of the CRAN R package repository.  transcribeR — Automated Transcription of Audio Files Through the HP IDOL API
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [PolMine/polmineR](https://github.com/PolMine/polmineR) - R-package for text mining with the Corpus Workbench (CWB) as backend
@@ -3012,6 +3012,7 @@
 
 ## Makefile 
 
+- [warpme/minimyth2](https://github.com/warpme/minimyth2) - Distro to make disk-less MythTV appliance
 - [ipxe/pipxe](https://github.com/ipxe/pipxe) - iPXE for the Raspberry Pi
 - [yichya/openwrt-cloudflared](https://github.com/yichya/openwrt-cloudflared) - Run argo tunnel client on your router
 - [danyork/writing-internet-drafts-in-markdown](https://github.com/danyork/writing-internet-drafts-in-markdown) - A presentation (in Markdown) for the IETF Hub Boston on June 12, 2018.
@@ -4250,6 +4251,7 @@
 - [nlplab/brat](https://github.com/nlplab/brat) - brat rapid annotation tool (brat) - for all your textual annotation needs
 - [onlyhavecans/ReadItLater-Calibre-Plugin](https://github.com/onlyhavecans/ReadItLater-Calibre-Plugin) - This is an updated & modified version of the official Calibre plugin for Pocket (Formerly ReadItLater)
 - [tcpj/pocket-on-term](https://github.com/tcpj/pocket-on-term) - Pocket client for terminals
+- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
 - [mitsuhiko/pipsi](https://github.com/mitsuhiko/pipsi) - pip script installer
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
