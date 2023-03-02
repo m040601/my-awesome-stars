@@ -2763,7 +2763,7 @@
 - [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
 - [walmartlabs/static](https://github.com/walmartlabs/static) - 
 - [christophercliff/caisson](https://github.com/christophercliff/caisson) - Deploy your static website to AWS
-- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is a Node.js and JavaScript logging tool and service.
+- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best self-hosted JavaScript and Node.js logging service.  Made for @forwardemail.
 - [prose/prose](https://github.com/prose/prose) - A Content Editor for GitHub.
 - [developmentseed/jekyll-hook](https://github.com/developmentseed/jekyll-hook) - No Longer Maintained | A server that listens for GitHub webhook posts and renders a Jekyll site
 - [elifesciences/lens-article](https://github.com/elifesciences/lens-article) - The Lens Article Format
@@ -2970,7 +2970,7 @@
 - [ColumPaget/pocketeer.lua](https://github.com/ColumPaget/pocketeer.lua) - Lua script to list/add/delete items to getpocket.com. Requires libUseful and libUseful-lua
 - [teoric/pandoc-filters](https://github.com/teoric/pandoc-filters) - Pandoc filters
 - [pandocker/pandocker-lua-filters](https://github.com/pandocker/pandocker-lua-filters) - Lua filters for pandoc
-- [cagix/pandoc-lecture](https://github.com/cagix/pandoc-lecture) - This project defines a skeleton repo for creating lecture slides and handouts including lecture notes out of Pandoc Markdown (http://pandoc.org/MANUAL.html) using a single source approach.
+- [cagix/pandoc-lecture](https://github.com/cagix/pandoc-lecture) - This project defines a skeleton repo for creating lecture slides and handouts including lecture notes out of Pandoc Markdown (https://pandoc.org/MANUAL.html) using a single source approach.
 - [jgm/html2cmark](https://github.com/jgm/html2cmark) - Lua library to convert HTML5 to commonmark
 - [kelciour/mpv-scripts](https://github.com/kelciour/mpv-scripts) - Experimental scripts for mpv video player, mostly for foreign language learning
 - [averms/pandoc-filters](https://github.com/averms/pandoc-filters) - A small, useful collection of pandoc filters
