@@ -178,6 +178,7 @@
 
 ## C 
 
+- [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
 - [Fishwaldo/esp_ghota](https://github.com/Fishwaldo/esp_ghota) - esp32 OTA Component to update firmware from Github Releases
 - [dreirund/Handsomemod-uf896](https://github.com/dreirund/Handsomemod-uf896) - A fork of OpenWrt-based "Handsomemod" operating system targeted to the ["UF896" stick-format WiFi/LTE router](https://forum.openwrt.org/t/131712).
 - [leonmavr/retrocube](https://github.com/leonmavr/retrocube) - Spinning cube animation via very basic ray tracing on the terminal. Rendered in ASCII.
@@ -6222,6 +6223,7 @@
 - [garbas/vim-snipmate](https://github.com/garbas/vim-snipmate) - snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim.
 - [mattn/pastebin-vim](https://github.com/mattn/pastebin-vim) - vimscript for pastebin
 - [mattn/googletranslate-vim](https://github.com/mattn/googletranslate-vim) - Translate between English and Japanese using Google
+- [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 - [mattn/webapi-vim](https://github.com/mattn/webapi-vim) - vim interface to Web API
 - [davidoc/taskpaper.vim](https://github.com/davidoc/taskpaper.vim) - This package contains a syntax file and a file-type plugin for the simple format used by the TaskPaper application.
 - [tomtom/vikitasks_vim](https://github.com/tomtom/vikitasks_vim) - Search viki files for tasks and display them in a list
