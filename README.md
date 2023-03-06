@@ -930,7 +930,7 @@
 - [mattcuk/IRtranslator](https://github.com/mattcuk/IRtranslator) - Arduino IR Translator. Converts incoming IR codes from one manufacturer to another set of IR codes from a different manufacturer,
 - [unsurv/unsurv-offline](https://github.com/unsurv/unsurv-offline) - Offline portable GNSS device based on the ESP32
 - [blippy/neoleo](https://github.com/blippy/neoleo) - Lightweight curses spreadsheet based on GNU oleo
-- [Kobo-InkBox/inkbox](https://github.com/Kobo-InkBox/inkbox) - An open-source, Qt-based eBook reader for Kobos.
+- [Kobo-InkBox/inkbox](https://github.com/Kobo-InkBox/inkbox) - An open-source, Qt-based eBook reader for Kobos (and other devices).
 - [pschatzmann/esp32_vue_example](https://github.com/pschatzmann/esp32_vue_example) - 
 - [pschatzmann/ESP32-A2DP](https://github.com/pschatzmann/ESP32-A2DP) - A Simple ESP32 Bluetooth A2DP Library (to implement a Music Receiver or Sender) that supports Arduino, PlatformIO and Espressif IDF
 - [Martchus/arch-repo-manager](https://github.com/Martchus/arch-repo-manager) - Experimental project containing INOFFICIAL tools to manage custom Arch Linux repositories; built on top of tools provided by the pacman and devtools packages.
@@ -2409,7 +2409,7 @@
 - [bekicot/scihub-firefox](https://github.com/bekicot/scihub-firefox) - Open scihub page in a new tab for current page's url.
 - [UB-Mannheim/zotero-ocr](https://github.com/UB-Mannheim/zotero-ocr) - Zotero Plugin for OCR
 - [Guillawme/zotero-doi-link-quickcopy](https://github.com/Guillawme/zotero-doi-link-quickcopy) - "Copy Selected Items' DOIs to Clipboard" shortcut for Zotero
-- [l0o0/translators_CN](https://github.com/l0o0/translators_CN) - Zotero translator中文网页抓取插件
+- [l0o0/translators_CN](https://github.com/l0o0/translators_CN) - Zotero translator中文网页抓取翻译器🎉This is Zotero translators for Chinese Sites(beta), not the official Zotero repo
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org) - JSCAD is an open source set of modular, browser and command line tools for creating parametric 2D and 3D designs with JavaScript code. It provides a quick, precise and reproducible method for generati
 - [davidferguson/pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
@@ -2691,7 +2691,7 @@
 - [cpill0789/experigen](https://github.com/cpill0789/experigen) - A framework for creating linguistic experiments
 - [suomela/types-examples](https://github.com/suomela/types-examples) - types2: Type and hapax accumulation curves – examples
 - [mbostock/stack](https://github.com/mbostock/stack) - A presentation library with intuitive, scroll-based navigation.
-- [breach/breach_core](https://github.com/breach/breach_core) - A Browser written in JS. Free. Modular. Hackable.
+- [spolu/breach_core](https://github.com/spolu/breach_core) - A Browser written in JS. Free. Modular. Hackable.
 - [kynikos/wiki-monkey](https://github.com/kynikos/wiki-monkey) - MediaWiki-compatible bot and editor assistant running directly in the browser and expandable with plugins.
 - [ardagnir/pterosaur](https://github.com/ardagnir/pterosaur) - All firefox text fields are vim.
 - [edsu/anon](https://github.com/edsu/anon) - tweet about anonymous Wikipedia edits from particular IP address ranges
@@ -2932,6 +2932,7 @@
 
 ## Lua 
 
+- [dialoa/collection](https://github.com/dialoa/collection) - A Pandoc Lua filter to build collections
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [kode-team/mastodon.nvim](https://github.com/kode-team/mastodon.nvim) - Mastodon client for Neovim
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - A file manager for Neovim which lets you edit your filesystem like you edit text
@@ -2966,7 +2967,6 @@
 - [ISEMS/ISEMS-ESP32](https://github.com/ISEMS/ISEMS-ESP32) - ISEMS-Port for Solarnodes based on ESP32 Microcontrollers
 - [xlucn/dotfiles](https://github.com/xlucn/dotfiles) - Linux configuration files (dotfiles) and some useful scripts
 - [AssrtOSS/mpv-assrt](https://github.com/AssrtOSS/mpv-assrt) - mpv自动下载字幕脚本 Automatically download subtitles from assrt.net
-- [iandol/dotpandoc](https://github.com/iandol/dotpandoc) - Pandoc Data directory, including customised filters and templates for producing multiple outputs for academic content.
 - [jgm/select-meta](https://github.com/jgm/select-meta) - Pandoc lua filter for constructing metadata from YAML data sources using queries
 - [ColumPaget/pocketeer.lua](https://github.com/ColumPaget/pocketeer.lua) - Lua script to list/add/delete items to getpocket.com. Requires libUseful and libUseful-lua
 - [teoric/pandoc-filters](https://github.com/teoric/pandoc-filters) - Pandoc filters
@@ -5394,7 +5394,7 @@
 - [archdroid-org/alarm-image-generator](https://github.com/archdroid-org/alarm-image-generator) - ArchLinuxARM Disk Image Generator
 - [LibreSolar/learn.libre.solar](https://github.com/LibreSolar/learn.libre.solar) - Building DC Energy Systems (OER)
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
-- [hexdump0815/imagebuilder](https://github.com/hexdump0815/imagebuilder) - velvet os - simple script framework to build ubuntu 20.04 lts (focal), ubuntu 22.04 lts (jammy) and debian 11 (bullseye) bootable sd card images for some arm and intel devices
+- [hexdump0815/imagebuilder](https://github.com/hexdump0815/imagebuilder) - velvet os - simple script framework to build ubuntu 20.04/22.04 lts (focal/jammy) and debian 11/12 (bullseye/bookworm) bootable sd card images for some arm and intel devices - lots of prebuilt images 
 - [krotti42/rock64_openbsd](https://github.com/krotti42/rock64_openbsd) - TUTORIAL: Install OpenBSD on a PINE64 ROCK64 media board.
 - [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
 - [netlify/actions](https://github.com/netlify/actions) - 
@@ -5547,7 +5547,7 @@
 - [hellricer/mpseek](https://github.com/hellricer/mpseek) - Conditional search queries for Music Player Daemon (MPD)
 - [mjturt/dotfiles](https://github.com/mjturt/dotfiles) - Yet another dotfiles repository
 - [lecler-i/dotfiles](https://github.com/lecler-i/dotfiles) - 
-- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, sway, kitty, kakoune, zsh and more + scripted installation guide
+- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more + scripted installation guide
 - [maximbaz/docker-arch-build-aur](https://github.com/maximbaz/docker-arch-build-aur) - Build AUR packages (useful for building *-bin packages via Travis / Shippable)
 - [miroslavvidovic/rofi-scripts](https://github.com/miroslavvidovic/rofi-scripts) - Small scripts for rofi
 - [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
