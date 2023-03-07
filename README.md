@@ -181,7 +181,7 @@
 - [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
 - [Fishwaldo/esp_ghota](https://github.com/Fishwaldo/esp_ghota) - esp32 OTA Component to update firmware from Github Releases
 - [dreirund/Handsomemod-uf896](https://github.com/dreirund/Handsomemod-uf896) - A fork of OpenWrt-based "Handsomemod" operating system targeted to the ["UF896" stick-format WiFi/LTE router](https://forum.openwrt.org/t/131712).
-- [leonmavr/retrocube](https://github.com/leonmavr/retrocube) - Spinning cube animation via very basic ray tracing on the terminal. Rendered in ASCII.
+- [leonmavr/retrocube](https://github.com/leonmavr/retrocube) - 📺👽 3D shapes on the terminal in plain C without any third parties
 - [LinusDierheimer/fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in C.
 - [leonerd/libtickit](https://github.com/leonerd/libtickit) - 
 - [rpmohn/a4](https://github.com/rpmohn/a4) - dynamic terminal manager and multiplexer
@@ -2444,6 +2444,7 @@
 - [JVital2013/RoadApplePi](https://github.com/JVital2013/RoadApplePi) - An elegent "Black Box" solution that can be retrofitted into any car with an OBD(II) port for minimal cost.
 - [inventaire/inventaire](https://github.com/inventaire/inventaire) - a libre collaborative resource mapper powered by open-knowledge, starting with books! :books:
 - [csaftoiu/yahoo-groups-backup](https://github.com/csaftoiu/yahoo-groups-backup) - A python script to backup the contents of private Yahoo! groups.
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [nextcloud/twofactor_totp](https://github.com/nextcloud/twofactor_totp) - 🔑 Second factor TOTP (RFC 6238) provider for Nextcloud
 - [alct/export-tabs-urls](https://github.com/alct/export-tabs-urls) - https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
