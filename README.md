@@ -2882,7 +2882,7 @@
 ## Jupyter Notebook 
 
 - [whotracksme/whotracks.me](https://github.com/whotracksme/whotracks.me) - Data from the largest and longest measurement of online tracking.
-- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library not only for Arduino)
+- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library for not only Arduino)
 - [statsthinking21/statsthinking21-python](https://github.com/statsthinking21/statsthinking21-python) - Python companion for Statistical Thinking in the 21st Century
 - [neelsomani/senator-filings](https://github.com/neelsomani/senator-filings) - Scrape public filings of the buy + sell orders of U.S. senators and calculate their returns
 - [Bubblbu/zotero-insights](https://github.com/Bubblbu/zotero-insights) - 
@@ -4134,7 +4134,6 @@
 - [scokobro/pandoc-abbreviations](https://github.com/scokobro/pandoc-abbreviations) - Pandoc filter to replace listed abbreviations with their expansions.
 - [sergiocorreia/panflute](https://github.com/sergiocorreia/panflute) - An Pythonic alternative to John MacFarlane's pandocfilters, with extra helper functions
 - [svpcom/wfb-ng](https://github.com/svpcom/wfb-ng) - WFB-NG - the next generation of long-range packet radio link based on raw WiFi radio
-- [rsteube/qutebrowser-readability](https://github.com/rsteube/qutebrowser-readability) - Userscript that executes python-readability on current page and opens the summary as new tab
 - [reid-k/neb](https://github.com/reid-k/neb) - Wrapper for newsbeuter
 - [OpenGeoscience/geonotebook](https://github.com/OpenGeoscience/geonotebook) - A Jupyter notebook extension for geospatial visualization and analysis
 - [swkrueger/Thrifty](https://github.com/swkrueger/Thrifty) - Thrifty is proof-of-concept SDR software for TDOA positioning using inexpensive SDR hardware such as the RTL-SDR.
@@ -5156,7 +5155,7 @@
 - [ilpianista/arch-audit](https://github.com/ilpianista/arch-audit) - A utility like pkg-audit for Arch Linux. Based on Arch Security Team data.
 - [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
 - [baskerville/sdunpack](https://github.com/baskerville/sdunpack) - Unpack a StarDict dictionary as plain text
-- [termapps/enquirer](https://github.com/termapps/enquirer) - Command Line Utility for Stylish Interactive Prompts
+- [termapps/enquirer](https://github.com/termapps/enquirer) - Command line utility for stylish interactive prompts
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [google/OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [koraa/huniq](https://github.com/koraa/huniq) - Filter out duplicates on the command line. Replacement for `sort | uniq` optimized for speed (10x faster) when sorting is not needed.
