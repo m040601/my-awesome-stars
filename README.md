@@ -266,6 +266,7 @@
 - [directfb2/DirectFB2](https://github.com/directfb2/DirectFB2) - Core DirectFB library
 - [xlucn/dwm](https://github.com/xlucn/dwm) - My fork of the suckless window manager dwm
 - [deeice/ziptuner](https://github.com/deeice/ziptuner) - Internet radio station tuner (playlist fetcher) for the console using C and dialog.
+- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library for not only Arduino)
 - [jscrane/TTS](https://github.com/jscrane/TTS) - Arduino Text-to-Speech Library
 - [pschatzmann/TTS](https://github.com/pschatzmann/TTS) - Arduino Text-to-Speech Library
 - [pschatzmann/rp2040-i2s](https://github.com/pschatzmann/rp2040-i2s) - I2S Arduino Library for Raspberry Pico
@@ -2883,7 +2884,6 @@
 ## Jupyter Notebook 
 
 - [whotracksme/whotracks.me](https://github.com/whotracksme/whotracks.me) - Data from the largest and longest measurement of online tracking.
-- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library for not only Arduino)
 - [statsthinking21/statsthinking21-python](https://github.com/statsthinking21/statsthinking21-python) - Python companion for Statistical Thinking in the 21st Century
 - [neelsomani/senator-filings](https://github.com/neelsomani/senator-filings) - Scrape public filings of the buy + sell orders of U.S. senators and calculate their returns
 - [Bubblbu/zotero-insights](https://github.com/Bubblbu/zotero-insights) - 
@@ -4055,7 +4055,7 @@
 - [tuxor1337/springerdownload](https://github.com/tuxor1337/springerdownload) - Read-only mirror of https://framagit.org/tuxor1337/springerdownload. Pull requests and issues on GitHub cannot be accepted and will be automatically closed.
 - [tuxor1337/dictmaster](https://github.com/tuxor1337/dictmaster) - Read-only mirror of https://framagit.org/tuxor1337/dictmaster Pull requests and issues on GitHub cannot be accepted and will be automatically closed.
 - [Garee/sp](https://github.com/Garee/sp) - Search Startpage.com from the terminal 🔎
-- [noembryo/KoHighlights](https://github.com/noembryo/KoHighlights) - KOHighlights is a utility for viewing KOReader's highlights and/or export them to simple text, csv or html files.
+- [noembryo/KoHighlights](https://github.com/noembryo/KoHighlights) - KOHighlights is a utility for viewing KOReader's highlights and/or export them to simple text, html, csv or markdown files.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [sdushantha/qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - Transfer files over WiFi between your computer and your smartphone from the terminal
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
