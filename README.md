@@ -937,7 +937,7 @@
 - [pschatzmann/ESP32-A2DP](https://github.com/pschatzmann/ESP32-A2DP) - A Simple ESP32 Bluetooth A2DP Library (to implement a Music Receiver or Sender) that supports Arduino, PlatformIO and Espressif IDF
 - [Martchus/arch-repo-manager](https://github.com/Martchus/arch-repo-manager) - Experimental project containing INOFFICIAL tools to manage custom Arch Linux repositories; built on top of tools provided by the pacman and devtools packages.
 - [Martchus/tagparser](https://github.com/Martchus/tagparser) - C++ library for reading and writing MP4/M4A/AAC (iTunes), ID3, Vorbis, Opus, FLAC and Matroska tags
-- [snyball/Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
+- [snyball/hawck](https://github.com/snyball/hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [SegmentController/RF24MeshSerial](https://github.com/SegmentController/RF24MeshSerial) - Firmware for run RF24 Mesh network on ARM devices and access over TTY/serial (USB port)
 - [m5stack/ATOM-PRINTER](https://github.com/m5stack/ATOM-PRINTER) - M5Stack ATOM PRINTER firmware and examples
 - [BourgeoisLab/GPXLab](https://github.com/BourgeoisLab/GPXLab) - Program to show and manipulate GPS tracks
