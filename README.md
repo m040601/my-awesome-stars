@@ -2440,7 +2440,7 @@
 - [omgimanerd/getnews.tech](https://github.com/omgimanerd/getnews.tech) - A web server that fetches data from the News API and formats it for display in the terminal.
 - [dosyago/DiskerNet](https://github.com/dosyago/DiskerNet) - 💾 DiskerNet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect 
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
-- [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
+- [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK e-book reader
 - [cmdalbem/ciclomapa](https://github.com/cmdalbem/ciclomapa) - Beautiful, interactive & open bike maps of Brazilian cities. Powered by OpenStreetMap.
 - [heiseonline/embetty](https://github.com/heiseonline/embetty) - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
 - [JVital2013/RoadApplePi](https://github.com/JVital2013/RoadApplePi) - An elegent "Black Box" solution that can be retrofitted into any car with an OBD(II) port for minimal cost.
@@ -2703,7 +2703,7 @@
 - [datopian/datapipes](https://github.com/datopian/datapipes) - Data Pipes for CSV
 - [okfn/wikipediajs](https://github.com/okfn/wikipediajs) - A small Javascript library for accessing information in Wikipedia articles such as dates, places, abstracts and more
 - [frictionlessdata/dpm-js](https://github.com/frictionlessdata/dpm-js) - [DEPRECATED] Please use https://datahub.io/docs/features/data-cli
-- [datopian/portal.js](https://github.com/datopian/portal.js) - 🌀 Next generation Javascript framework for rapidly building rich data portals.
+- [datopian/portal.js](https://github.com/datopian/portal.js) - 🌀 Data portal framework in modern Javascript.
 - [mdp/gibberish-aes](https://github.com/mdp/gibberish-aes) - A fully OpenSSL compliant javascript library for AES encryption.
 - [ahoward/middleman-gibberish](https://github.com/ahoward/middleman-gibberish) - password protect middleman pages - even on s3
 - [akahuku/wasavi](https://github.com/akahuku/wasavi) - wasavi is an extension for Chrome, Firefox, and Opera. wasavi changes a textarea element to virtual vi editor which supports almost all the vi/ex commands.
