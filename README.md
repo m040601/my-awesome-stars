@@ -902,7 +902,7 @@
 
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the easy way. Cut, copy, and paste anything, anywhere, all from the terminal! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the easy way. Cut, copy, and paste anything, anywhere, anytime, all from the terminal! 😄
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -1685,10 +1685,10 @@
 - [opds-community/libopds2-go](https://github.com/opds-community/libopds2-go) - An OPDS 2.0 library written in Go that can also parse OPDS 1.x
 - [vasyahuyasa/july](https://github.com/vasyahuyasa/july) - OPDS home catalog
 - [dubyte/dir2opds](https://github.com/dubyte/dir2opds) - Serve an OPDS based on a directory
-- [makeworld-the-better-one/gemlikes](https://github.com/makeworld-the-better-one/gemlikes) - A liking and comment system for the Gemini protocol.
-- [makeworld-the-better-one/gemget](https://github.com/makeworld-the-better-one/gemget) - Command line downloader for the Gemini protocol.
+- [makew0rld/gemlikes](https://github.com/makew0rld/gemlikes) - A liking and comment system for the Gemini protocol.
+- [makew0rld/gemget](https://github.com/makew0rld/gemget) - Command line downloader for the Gemini protocol.
 - [kconner/gloggery](https://github.com/kconner/gloggery) - Gemtext blog static site generator
-- [makeworld-the-better-one/amfora](https://github.com/makeworld-the-better-one/amfora) - A fancy terminal browser for the Gemini protocol.
+- [makew0rld/amfora](https://github.com/makew0rld/amfora) - A fancy terminal browser for the Gemini protocol.
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [schollz/share](https://github.com/schollz/share) - Simple file sharing from the browser and the command-line.
@@ -3749,7 +3749,7 @@
 - [briansteffens/mkws](https://github.com/briansteffens/mkws) - Quickly generate throwaway development environments for quick tests, calculations, etc.
 - [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six) - Community maintained fork of pdfminer - we fathom PDF
 - [zveronline/docker-sopds](https://github.com/zveronline/docker-sopds) - Dockerfile to build a Simple OPDS server docker image.
-- [makeworld-the-better-one/md2gemini](https://github.com/makeworld-the-better-one/md2gemini) - File converter from Markdown to Gemini.
+- [makew0rld/md2gemini](https://github.com/makew0rld/md2gemini) - File converter from Markdown to Gemini.
 - [gokcehan/mopen](https://github.com/gokcehan/mopen) - File opener using mimetypes and mailcap
 - [opentimestamps/opentimestamps-server](https://github.com/opentimestamps/opentimestamps-server) - OpenTimestamps server component
 - [opentimestamps/opentimestamps-client](https://github.com/opentimestamps/opentimestamps-client) - OpenTimestamps client
@@ -3919,7 +3919,7 @@
 - [ids1024/wikicurses](https://github.com/ids1024/wikicurses) - A simple curses interface for MediaWiki sites such as Wikipedia.
 - [torre76/gd_shortener](https://github.com/torre76/gd_shortener) - Python Module for is.gd - v.gd URL Shortener
 - [nicoulaj/rainbow](https://github.com/nicoulaj/rainbow) - :rainbow: Colorize commands output or STDIN using patterns.
-- [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer, manager and workflow automation tool.
+- [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool.
 - [IvanFon/xinput-gui](https://github.com/IvanFon/xinput-gui) - A simple GUI for Xorg's Xinput tool.
 - [datalad/datalad](https://github.com/datalad/datalad) - Keep code, data, containers under control with git  and git-annex
 - [okfde/farmsubsidy.org](https://github.com/okfde/farmsubsidy.org) - FarmSubsidy website and search
