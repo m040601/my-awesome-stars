@@ -447,7 +447,6 @@
 - [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas) - A portable fork of the OpenBSD `doas` command
 - [gromgit/ttyplot](https://github.com/gromgit/ttyplot) - a simple general purpose plotting utility for tty with data input from stdin
 - [salman-abedin/puri](https://github.com/salman-abedin/puri) - Minimal CLI URL launcher
-- [pikvm/packages](https://github.com/pikvm/packages) - PiKVM Packages
 - [jacksonliam/mjpg-streamer](https://github.com/jacksonliam/mjpg-streamer) - Fork of http://sourceforge.net/projects/mjpg-streamer/
 - [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPEG-HTTP streamer
 - [annacrombie/plot](https://github.com/annacrombie/plot) - plot on the command line
@@ -902,7 +901,7 @@
 
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the easy way. Cut, copy, and paste anything, anywhere, anytime, all from the terminal! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the easy way. Cut, copy, and paste anything, anytime, anywhere, all from the terminal! 😄
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -2629,6 +2628,7 @@
 - [nixcloud/pankat](https://github.com/nixcloud/pankat) - A static blog/wiki pandoc based page generator written in GO featuring bootstrap, tocify.js, anchor.js and more.
 - [Jalle19/node-ffmpeg-mpegts-proxy](https://github.com/Jalle19/node-ffmpeg-mpegts-proxy) - Simple proxy for leveraging ffmpeg to convert any source URL into MPEG-TS over HTTP
 - [zenozeng/Free-Chinese-Fonts](https://github.com/zenozeng/Free-Chinese-Fonts) - 免费中文字体
+- [Tafkas/solarpi](https://github.com/Tafkas/solarpi) - A RaspberryPi based, Flask powered photovoltaic monitor
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [TheAustrian/Wemos-D1-Mini-BME280-Weather-Station](https://github.com/TheAustrian/Wemos-D1-Mini-BME280-Weather-Station) - Simple Weather Station Code using an ESP8266 and a BME280 sensor. Data is handled via PHP and stored in a MySQL database
 - [tangrams/tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography
@@ -4216,7 +4216,6 @@
 - [jceb/vmux](https://github.com/jceb/vmux) - vim/neovim session handler within tmux
 - [ewwaller/dup.py](https://github.com/ewwaller/dup.py) - Duplicate file management with extensions for media file geolocation metadata
 - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
-- [Tafkas/solarpi](https://github.com/Tafkas/solarpi) - A RaspberryPi based, Flask powered photovoltaic monitor
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [SteamLUG/neovim-shownoter](https://github.com/SteamLUG/neovim-shownoter) - Neovim plugin for editing SteamLUG Cast shownotes
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
@@ -5435,6 +5434,7 @@
 - [hackerb9/fonttable](https://github.com/hackerb9/fonttable) - Print out every unicode character; see all possible glyphs in your terminal
 - [wmutils/contrib](https://github.com/wmutils/contrib) - Useful bits and pieces
 - [lwilletts/fwm](https://github.com/lwilletts/fwm) - wmutils based shell scripts for window management
+- [pikvm/packages](https://github.com/pikvm/packages) - PiKVM Packages
 - [greyltc/put-arch-onto-disk](https://github.com/greyltc/put-arch-onto-disk) - This puts the latest Arch Linux distro onto a target disk
 - [RyanGreenup/Note-Taking-Tools](https://github.com/RyanGreenup/Note-Taking-Tools) - Tools to Facilitate MD Note Taking, Intended to integrate with Notable.
 - [EnergizedProtection/Energized_Linux](https://github.com/EnergizedProtection/Energized_Linux) - Energized All-in-One Script for Linux Distros
