@@ -256,7 +256,7 @@
 - [BertoldVdb/sdtool](https://github.com/BertoldVdb/sdtool) - A small tool for managing the write protection flag of SD cards.
 - [rbaron/b-parasite](https://github.com/rbaron/b-parasite) - 🌱💧 An open source soil moisture sensor.
 - [aligrudi/fbpad_mkfn](https://github.com/aligrudi/fbpad_mkfn) - Generate Fbpad fonts from TrueType fonts
-- [slavaGanzin/await](https://github.com/slavaGanzin/await) - 32Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination
+- [slavaGanzin/await](https://github.com/slavaGanzin/await) - 28Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination
 - [EliasOenal/multimon-ng](https://github.com/EliasOenal/multimon-ng) - 
 - [taviso/ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash.
 - [pimoroni/keybow-firmware](https://github.com/pimoroni/keybow-firmware) - Keybow Firmware for the Raspberry Pi Zero
@@ -902,7 +902,7 @@
 - [datacute/DoubleResetDetector](https://github.com/datacute/DoubleResetDetector) - Library to detect a double reset, using ESP8266 RTC User Memory
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the easy way. Cut, copy, and paste anything, anytime, anywhere, and make your life better! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the 𝗲𝗮𝘀𝘆 way. Cut, copy, and paste anything, anytime, anywhere! Say adiós to ugly aliases and one-liners. 😄
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -1540,7 +1540,7 @@
 - [consbio/mbtileserver](https://github.com/consbio/mbtileserver) - Basic Go server for mbtiles
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [httpjamesm/AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View StackOverflow in privacy and without the clutter.
-- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
 - [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [mrusme/mercator](https://github.com/mrusme/mercator) - OpenStreetMap but as terminal user interface (TUI) program
@@ -1632,7 +1632,7 @@
 - [codesoap/songmem](https://github.com/codesoap/songmem) - Remember the songs you heard and analyse your listening patterns
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [renard/papersave](https://github.com/renard/papersave) - Backup small important files to paper
-- [neilotoole/sq](https://github.com/neilotoole/sq) - swiss-army knife for data
+- [neilotoole/sq](https://github.com/neilotoole/sq) - data wrangler
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [ciehanski/libgen-cli](https://github.com/ciehanski/libgen-cli) - A CLI tool to access the Library Genesis dataset; written in Go.
 - [jftuga/photo_id_resizer](https://github.com/jftuga/photo_id_resizer) - Resize photo ID images using face recognition technology
@@ -2935,6 +2935,7 @@
 
 ## Lua 
 
+- [bjesus/air](https://github.com/bjesus/air) - Awesome Interface for e-Readers
 - [dialoa/collection](https://github.com/dialoa/collection) - A Pandoc Lua filter to build collections
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [kode-team/mastodon.nvim](https://github.com/kode-team/mastodon.nvim) - Mastodon client for Neovim
