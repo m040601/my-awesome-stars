@@ -902,7 +902,7 @@
 - [datacute/DoubleResetDetector](https://github.com/datacute/DoubleResetDetector) - Library to detect a double reset, using ESP8266 RTC User Memory
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the 𝗲𝗮𝘀𝘆 way. Cut, copy, and paste anything, anytime, anywhere! Say adiós to ugly aliases and one-liners. 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the 𝗲𝗮𝘀𝘆 way! Cut, copy, and paste anything, anytime, anywhere. 😄
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -1949,7 +1949,6 @@
 - [doersino/nyum](https://github.com/doersino/nyum) - A simple Pandoc-powered static site generator for your recipe collection – it effortlessly turns a set of Markdown-formatted recipes into a lightweight, responsive, searchable website.
 - [manubot/manubot.org](https://github.com/manubot/manubot.org) - Source code for https://manubot.org
 - [openenergymonitor/learn](https://github.com/openenergymonitor/learn) - OpenEnergyMonitor learning resources (previously building blocks)
-- [alexnathanson/solar-protocol](https://github.com/alexnathanson/solar-protocol) - A repository in development for a solar powered network of servers that host a distributed web platform. Project by Tega Brain, Alex Nathanson and Benedetta Piantella. Supported by Eyebeam Rapid Respo
 - [Twisted-Fields/acorn-robot-electronics](https://github.com/Twisted-Fields/acorn-robot-electronics) - PCB hardware designs in KICAD for Acorn, the precision farming rover from Twisted Fields.
 - [mcqn/my-babys-got-led](https://github.com/mcqn/my-babys-got-led) - Simple ESP8266 board to drive WS2812 LED strips
 - [orf/bare-hugo-theme](https://github.com/orf/bare-hugo-theme) - A Hugo theme based on Bulma.io
@@ -3692,6 +3691,7 @@
 - [ProfoundNetworks/gzipi](https://github.com/ProfoundNetworks/gzipi) - Tools for indexing gzip files to support random-like access.
 - [rushter/data-science-blogs](https://github.com/rushter/data-science-blogs) - A curated list of data science blogs
 - [pymodbus-dev/pymodbus](https://github.com/pymodbus-dev/pymodbus) - A full modbus protocol written in python
+- [alexnathanson/solar-protocol](https://github.com/alexnathanson/solar-protocol) - A repository in development for a solar powered network of servers that host a distributed web platform. Project by Tega Brain, Alex Nathanson and Benedetta Piantella. Supported by Eyebeam Rapid Respo
 - [camelot-dev/camelot](https://github.com/camelot-dev/camelot) - A Python library to extract tabular data from PDFs
 - [artperrin/image2csv](https://github.com/artperrin/image2csv) - Convert tables stored as images to an usable .csv file
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
