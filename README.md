@@ -188,6 +188,7 @@
 - [rpmohn/a4](https://github.com/rpmohn/a4) - dynamic terminal manager and multiplexer
 - [ciniml/WireGuard-ESP32-Arduino](https://github.com/ciniml/WireGuard-ESP32-Arduino) - WireGuard implementation for ESP32 Arduino
 - [phillbush/plumb](https://github.com/phillbush/plumb) - yet another plumbing utility for UNIX
+- [mini-rose/rose](https://github.com/mini-rose/rose) - Minimalist browser based on webkit2.
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [nifty-site-manager/nsm](https://github.com/nifty-site-manager/nsm) - Nift - world's fastest cross-platform open source website generator.
 - [fAuernigg/esp32-baresip-client](https://github.com/fAuernigg/esp32-baresip-client) - 
@@ -241,6 +242,7 @@
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [jart/bestline](https://github.com/jart/bestline) - ANSI Standard X3.64 Teletypewriter Command Session Library
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
+- [Xinyuan-LilyGO/LilyGo-T-Relay](https://github.com/Xinyuan-LilyGO/LilyGo-T-Relay) - 
 - [aaronamk/hkd](https://github.com/aaronamk/hkd) - Display-Server-Agnostic Hotkey Daemon for Linux
 - [ansilove/ansilove](https://github.com/ansilove/ansilove) - ANSI and ASCII art to PNG converter in C
 - [explosion-mental/mage](https://github.com/explosion-mental/mage) - iMAGE viewer
@@ -923,7 +925,6 @@
 - [MaartenBaert/ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
 - [xaizek/cursetag](https://github.com/xaizek/cursetag) - NCurses based audio file tag (metadata) editor
 - [Sound-Linux-More/cursetag](https://github.com/Sound-Linux-More/cursetag) - NCurses based audio file tag (metadata) editor
-- [Xinyuan-LilyGO/LilyGo-T-Relay](https://github.com/Xinyuan-LilyGO/LilyGo-T-Relay) - 
 - [thewtex/tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux
 - [Kansattica/msync](https://github.com/Kansattica/msync) - A store and forward command line Mastodon and Pleroma client that fits on a floppy disk.
 - [tsowell/kobo-btpt](https://github.com/tsowell/kobo-btpt) - Page turning via Bluetooth for Kobo eReaders
@@ -2292,7 +2293,6 @@
 ## JavaScript 
 
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
-- [mini-rose/rose](https://github.com/mini-rose/rose) - Minimalist browser based on webkit2.
 - [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [programming/farside-redirect](https://github.com/programming/farside-redirect) - Firefox extension to automatically redirect requests to working instances of privacy-oriented alternative frontends with zero-configuration
