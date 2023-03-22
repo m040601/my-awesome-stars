@@ -178,6 +178,7 @@
 
 ## C 
 
+- [Eli-the-Bearded/DotDotDot](https://github.com/Eli-the-Bearded/DotDotDot) - A pixel art engine for the terminal
 - [kenyapcomau/p910nd](https://github.com/kenyapcomau/p910nd) - Jetdirect protocol emulation: accepts a connection from port 9100+n and copy stream to printer port
 - [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
 - [Fishwaldo/esp_ghota](https://github.com/Fishwaldo/esp_ghota) - esp32 OTA Component to update firmware from Github Releases
@@ -904,7 +905,7 @@
 - [datacute/DoubleResetDetector](https://github.com/datacute/DoubleResetDetector) - Library to detect a double reset, using ESP8266 RTC User Memory
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the 𝗲𝗮𝘀𝘆 way! Cut, copy, and paste anything, anytime, anywhere. 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort 𝘁𝗵𝗲 𝗲𝗮𝘀𝘆 𝘄𝗮𝘆! Cut, copy, and paste anything, anytime, anywhere. 😄
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -1918,6 +1919,7 @@
 
 ## HTML 
 
+- [Eli-the-Bearded/vt100-slowcat](https://github.com/Eli-the-Bearded/vt100-slowcat) - VT100 animations and slowcat to play them.
 - [pafoster/gdir.telae.net](https://github.com/pafoster/gdir.telae.net) - Code for gdir.telae.net - a minimalistic directions service
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [cadars/portable-php](https://github.com/cadars/portable-php) - A blog in one HTML file
@@ -3465,6 +3467,7 @@
 
 ## Perl 
 
+- [Eli-the-Bearded/ark-gallery](https://github.com/Eli-the-Bearded/ark-gallery) - Search oriented photo archive
 - [trizen/lbry-viewer](https://github.com/trizen/lbry-viewer) - Experimental Linux client for LBRY/Odysee.
 - [trapd00r/mpdcp](https://github.com/trapd00r/mpdcp) - copy track or album from an mpd server to destination
 - [omar-polo/mlmpl](https://github.com/omar-polo/mlmpl) - simple mailing list (and newsletter) manager
@@ -3563,6 +3566,7 @@
 
 ## Python 
 
+- [asciimoo/drawille](https://github.com/asciimoo/drawille) - Pixel graphics in terminal with unicode braille characters
 - [pafoster/gdir](https://github.com/pafoster/gdir) - Get train/bus directions using the command line
 - [tomas-teijeiro/wavtobeep](https://github.com/tomas-teijeiro/wavtobeep) - Converts a wav file to a secuence of *beep* PC-speaker calls
 - [m33x/wol-plex-server](https://github.com/m33x/wol-plex-server) - Home Server that Automatically Suspends to RAM and Wakes up Again
@@ -3580,7 +3584,7 @@
 - [GeotrekCE/Geotrek-admin](https://github.com/GeotrekCE/Geotrek-admin) - Paths management for National Parks and Tourism organizations
 - [Georiviere/Georiviere-admin](https://github.com/Georiviere/Georiviere-admin) - https://georiviere.fr
 - [pretalx/pretalx](https://github.com/pretalx/pretalx) - Conference planning tool: CfP, scheduling, speaker management
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [Demindiro/agreper](https://github.com/Demindiro/agreper) - Minimal, no-JS web forum software
 - [wkentaro/gdown](https://github.com/wkentaro/gdown) - Download a large file from Google Drive  (curl/wget fails because of the security notice).
 - [transitland/transitland-atlas](https://github.com/transitland/transitland-atlas) - an open directory of mobility feeds and operators — powers both Transitland v1 and v2
@@ -3613,7 +3617,7 @@
 - [mitxela/ddc-oled](https://github.com/mitxela/ddc-oled) - 
 - [pgdr/ph](https://github.com/pgdr/ph) - ph — the tabular data shell tool
 - [lekma/plugin.video.invidious](https://github.com/lekma/plugin.video.invidious) - Invidious Addon for Kodi
-- [iamtalhaasghar/yewtube](https://github.com/iamtalhaasghar/yewtube) - Terminal based YouTube player and downloader. No Youtube API key required. Forked from https://github.com/mps-youtube/mps-youtube
+- [iamtalhaasghar/yewtube](https://github.com/iamtalhaasghar/yewtube) - Terminal based YouTube player and downloader. No Youtube API key required. Moved to https://github.com/mps-youtube/yewtube
 - [woefe/ytcc](https://github.com/woefe/ytcc) - Command line tool to keep track of your favorite playlists on YouTube and many other places.
 - [Wojnstup/PipeCat](https://github.com/Wojnstup/PipeCat) - A command line Youtube music player written in python. It's an app written for Linux. It also supports offline playlists that are stored in a playlists.db file. More documentation coming soon.
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
@@ -5049,6 +5053,7 @@
 
 ## Rust 
 
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [mrmekon/itsy-gitsy](https://github.com/mrmekon/itsy-gitsy) - A static site generator for Git repositories
 - [mrmekon/circadian](https://github.com/mrmekon/circadian) - Suspend-On-Idle Daemon for GNU/Linux Power Management
