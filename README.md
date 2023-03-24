@@ -184,7 +184,7 @@
 - [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
 - [Fishwaldo/esp_ghota](https://github.com/Fishwaldo/esp_ghota) - esp32 OTA Component to update firmware from Github Releases
 - [dreirund/Handsomemod-uf896](https://github.com/dreirund/Handsomemod-uf896) - A fork of OpenWrt-based "Handsomemod" operating system targeted to the ["UF896" stick-format WiFi/LTE router](https://forum.openwrt.org/t/131712).
-- [leonmavr/retrocube](https://github.com/leonmavr/retrocube) - 📺👽 3D shapes on the terminal in C99 without any third parties
+- [leonmavr/retrocube](https://github.com/leonmavr/retrocube) - 📺👽 3D solids on the terminal in C99 without any third parties
 - [LinusDierheimer/fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in C.
 - [leonerd/libtickit](https://github.com/leonerd/libtickit) - 
 - [rpmohn/a4](https://github.com/rpmohn/a4) - dynamic terminal manager and multiplexer
@@ -906,7 +906,7 @@
 - [datacute/DoubleResetDetector](https://github.com/datacute/DoubleResetDetector) - Library to detect a double reset, using ESP8266 RTC User Memory
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort 𝘁𝗵𝗲 𝗲𝗮𝘀𝘆 𝘄𝗮𝘆! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -5403,7 +5403,6 @@
 - [LibreSolar/learn.libre.solar](https://github.com/LibreSolar/learn.libre.solar) - Building DC Energy Systems (OER)
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [hexdump0815/imagebuilder](https://github.com/hexdump0815/imagebuilder) - velvet os - simple script framework to build ubuntu 20.04/22.04 lts (focal/jammy) and debian 11/12 (bullseye/bookworm) bootable sd card images for some arm and intel devices - lots of prebuilt images 
-- [krotti42/rock64_openbsd](https://github.com/krotti42/rock64_openbsd) - TUTORIAL: Install OpenBSD on a PINE64 ROCK64 media board.
 - [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
 - [netlify/actions](https://github.com/netlify/actions) - 
 - [appleboy/gh-pages-action](https://github.com/appleboy/gh-pages-action) - A GitHub Action to deploy a static site on GitHub Pages.
@@ -5999,6 +5998,7 @@
 
 ## Vim Script 
 
+- [benbusby/vim-hubbub](https://github.com/benbusby/vim-hubbub) - Use GitHub features from within Vim
 - [pappasam/vim-keywordprg-commands](https://github.com/pappasam/vim-keywordprg-commands) - Plugin to create and manage user commands intended to look up keyword documentation in Vim
 - [iranoan/dotfiles](https://github.com/iranoan/dotfiles) - 
 - [aaronamk/dotfiles](https://github.com/aaronamk/dotfiles) - Aaron's Linux configuration files
