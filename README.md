@@ -906,7 +906,7 @@
 - [datacute/DoubleResetDetector](https://github.com/datacute/DoubleResetDetector) - Library to detect a double reset, using ESP8266 RTC User Memory
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! :rocket:
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -1540,6 +1540,7 @@
 
 ## Go 
 
+- [abhinav/stitchmd](https://github.com/abhinav/stitchmd) - Stitch multiple Markdown files together into a single document.
 - [consbio/mbtileserver](https://github.com/consbio/mbtileserver) - Basic Go server for mbtiles
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [httpjamesm/AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View StackOverflow in privacy and without the clutter.
@@ -1635,7 +1636,7 @@
 - [codesoap/songmem](https://github.com/codesoap/songmem) - Remember the songs you heard and analyse your listening patterns
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [renard/papersave](https://github.com/renard/papersave) - Backup small important files to paper
-- [neilotoole/sq](https://github.com/neilotoole/sq) - data wrangler
+- [neilotoole/sq](https://github.com/neilotoole/sq) - sq: the missing data wrangler
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [ciehanski/libgen-cli](https://github.com/ciehanski/libgen-cli) - A CLI tool to access the Library Genesis dataset; written in Go.
 - [jftuga/photo_id_resizer](https://github.com/jftuga/photo_id_resizer) - Resize photo ID images using face recognition technology
@@ -1833,7 +1834,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi Zero 2 W, or amd64 PCs!
 - [sgreben/jp](https://github.com/sgreben/jp) - dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.
@@ -3609,7 +3610,7 @@
 - [ynikitenko/yarsync](https://github.com/ynikitenko/yarsync) - Yet Another Rsync: a file synchronization and backup tool
 - [saulpw/unzip-http](https://github.com/saulpw/unzip-http) - Extract individual files from .zip files over http without downloading the entire archive.
 - [tmbdev-archive/tarproc](https://github.com/tmbdev-archive/tarproc) - Utilities for sequential processing of tar files.
-- [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display images in the terminal
+- [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display images in the terminal with python
 - [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2) - Ansible role that installs and upgrades OpenWISP.
 - [MartinBarker/vinyl2digital](https://github.com/MartinBarker/vinyl2digital) - Batch render an Audacity audio track into an entire album of mp3 files using a Discogs URL for metadata tagging.
 - [FiXato/tui_launcher](https://github.com/FiXato/tui_launcher) - A proof of concept for a TUI-based launcher written in Python using urwid
@@ -4129,6 +4130,7 @@
 - [dorski/osm4etrex10](https://github.com/dorski/osm4etrex10) - Create OSM based maps for eTrex 10 GPS receivers
 - [rafaqz/citation.vim](https://github.com/rafaqz/citation.vim) - Zotero and bibtex citations for Vim
 - [snarfed/bridgy](https://github.com/snarfed/bridgy) - 📣 Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more...
+- [probonopd/irdb](https://github.com/probonopd/irdb) - One of the largest crowd-sourced, manufacturer-independent databases of infrared remote control codes on the web, and aspiring to become the most comprehensive and most accurate one
 - [ali1234/rpi-ramdisk](https://github.com/ali1234/rpi-ramdisk) - Builds ramdisk environments for Raspberry Pi
 - [theomega/IMAP_DMS](https://github.com/theomega/IMAP_DMS) - A Document Managment System (DMS) using an IMAP Server as storage and for querying.
 - [zhoubear/open-paperless](https://github.com/zhoubear/open-paperless) - Scan, index, and archive all of your paper documents (acquired by Mayan EDMS)
@@ -4426,7 +4428,7 @@
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript
 - [chrippa/livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
-- [Jiehong/Zhudi](https://github.com/Jiehong/Zhudi) - Zhudi is a graphical interface to xDICT kind of free dictionaries.
+- [Jiehong/Zhudi](https://github.com/Jiehong/Zhudi) - Zhudi is a graphical interface to xDICT range of free dictionaries written in GTK4
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [antiboredom/videogrep](https://github.com/antiboredom/videogrep) - automatic video supercuts with python
 - [rmalouf/learning](https://github.com/rmalouf/learning) - Notes on learning models (Rescorla-Wagner, etc)
@@ -5619,7 +5621,6 @@
 - [arcmags/ramroot](https://github.com/arcmags/ramroot) - Load root file system to ram during boot.
 - [dbermond/screencast](https://github.com/dbermond/screencast) - Interface to record a X11 desktop
 - [jgmdev/alarm-raspi-config](https://github.com/jgmdev/alarm-raspi-config) - Stripped down version of raspi-config for ArchLinux ARM
-- [probonopd/irdb](https://github.com/probonopd/irdb) - One of the largest crowd-sourced, manufacturer-independent databases of infrared remote control codes on the web, and aspiring to become the most comprehensive and most accurate one
 - [DanielFGray/fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
 - [tmux-plugins/tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) - Quickly open any url on your terminal window!
 - [paretje/dotfiles](https://github.com/paretje/dotfiles) - My dotfiles
