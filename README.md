@@ -178,6 +178,8 @@
 
 ## C 
 
+- [nopnop2002/esp-idf-remote-hd44780](https://github.com/nopnop2002/esp-idf-remote-hd44780) - Control the HD44780 using HTTP/MQTT.
+- [nopnop2002/esp-idf-mqtt-image-viewer](https://github.com/nopnop2002/esp-idf-mqtt-image-viewer) - Image viewer using mqtt
 - [schandinat/green](https://github.com/schandinat/green) - the PDF reader
 - [Eli-the-Bearded/DotDotDot](https://github.com/Eli-the-Bearded/DotDotDot) - A pixel art engine for the terminal
 - [kenyapcomau/p910nd](https://github.com/kenyapcomau/p910nd) - Jetdirect protocol emulation: accepts a connection from port 9100+n and copy stream to printer port
@@ -273,7 +275,7 @@
 - [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library for not only Arduino)
 - [jscrane/TTS](https://github.com/jscrane/TTS) - Arduino Text-to-Speech Library
 - [pschatzmann/TTS](https://github.com/pschatzmann/TTS) - Arduino Text-to-Speech Library
-- [pschatzmann/rp2040-i2s](https://github.com/pschatzmann/rp2040-i2s) - I2S Arduino Library for Raspberry Pico
+- [pschatzmann/rp2040-i2s](https://github.com/pschatzmann/rp2040-i2s) - Work in progress...
 - [wrp/smtx](https://github.com/wrp/smtx) - Simple modal terminal mulitplexer
 - [aligrudi/neatlibc](https://github.com/aligrudi/neatlibc) - A small arm/x86(-64) libc
 - [wuhanstudio/u8g2-arm-linux](https://github.com/wuhanstudio/u8g2-arm-linux) - U8g2 for arm linux - a monochrome graphics library
@@ -903,6 +905,7 @@
 
 ## C++ 
 
+- [RobTillaart/MT8870](https://github.com/RobTillaart/MT8870) - Arduino library for MT8870 DTMF decoder (breakout)
 - [datacute/DoubleResetDetector](https://github.com/datacute/DoubleResetDetector) - Library to detect a double reset, using ESP8266 RTC User Memory
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
@@ -1540,6 +1543,8 @@
 
 ## Go 
 
+- [pterm/cli-template](https://github.com/pterm/cli-template) - ⚗ The most advanced CLI template on earth! Featuring automatic releases, website generation and a custom CI-System out of the box.
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [abhinav/stitchmd](https://github.com/abhinav/stitchmd) - Stitch multiple Markdown files together into a single document.
 - [consbio/mbtileserver](https://github.com/consbio/mbtileserver) - Basic Go server for mbtiles
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
@@ -1572,7 +1577,7 @@
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [tomnomnom/unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin
 - [pitr/wp](https://github.com/pitr/wp) - 
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [asg017/sqlite-html](https://github.com/asg017/sqlite-html) - A SQLite extension for querying, manipulating, and creating HTML elements.
 - [asg017/sqlite-http](https://github.com/asg017/sqlite-http) - A SQLite extension for making HTTP requests purely in SQL
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
@@ -1675,7 +1680,7 @@
 - [skx/overseer](https://github.com/skx/overseer) - A golang-based remote protocol tester for testing sites & service availability
 - [skx/tunneller](https://github.com/skx/tunneller) - Allow internal services, running on localhost, to be accessed over the internet..
 - [schollz/chickencam](https://github.com/schollz/chickencam) - Build a Raspberry Pi ChickenCam in 10 easy steps
-- [ilius/stardict](https://github.com/ilius/stardict) - 
+- [ilius/go-stardict-app](https://github.com/ilius/go-stardict-app) - 
 - [ilius/crock32](https://github.com/ilius/crock32) - Douglas Crockford's Base32 encoding and decoding library in Go
 - [ilius/chunk32](https://github.com/ilius/chunk32) - The best encoding to write down binary data manually on a physical surface (paper, metal, etc)
 - [crazy-max/firefox-history-merger](https://github.com/crazy-max/firefox-history-merger) - Merge Firefox history and repair missing favicons with ease
@@ -1831,7 +1836,7 @@
 - [junyu-w/corgi](https://github.com/junyu-w/corgi) - Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [RadhiFadlillah/simple-server](https://github.com/RadhiFadlillah/simple-server) - Simple HTTP server to serve contents of specified directory
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
@@ -2296,6 +2301,7 @@
 
 ## JavaScript 
 
+- [rpsubc8/gamepadDTMF](https://github.com/rpsubc8/gamepadDTMF) - Gamepad HID decode DTMF
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
