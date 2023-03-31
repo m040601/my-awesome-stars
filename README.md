@@ -5318,7 +5318,7 @@
 - [nsxiv/nsxiv-extra](https://github.com/nsxiv/nsxiv-extra) - Read-only mirror of nsxiv-extra
 - [N-R-K/shellmarks](https://github.com/N-R-K/shellmarks) - Simple directory bookmark management via symlinks. [MIRROR OF https://codeberg.org/NRK/shellmarks]
 - [N-R-K/sxbm](https://github.com/N-R-K/sxbm) - Simple Unix Bookmark Manager, a POSIX compliant shell script for managing bookmarks. [MIRROR OF https://codeberg.org/NRK/sxbm]
-- [kusky3/bookmenu](https://github.com/kusky3/bookmenu) - Browse and download ebooks from your terminal.
+- [mariorossi77/bookmenu](https://github.com/mariorossi77/bookmenu) - Browse and download ebooks from your terminal.
 - [bewuethr/pandoc-bash-blog](https://github.com/bewuethr/pandoc-bash-blog) - A static blog generator based on Pandoc and Bash
 - [Maccraft123/Cadmium](https://github.com/Maccraft123/Cadmium) - 
 - [koreader/koxtoolchain](https://github.com/koreader/koxtoolchain) - Build script for various toolchains used by KOReader
@@ -5908,6 +5908,7 @@
 
 ## TypeScript 
 
+- [Booligoosh/sydneybikemap](https://github.com/Booligoosh/sydneybikemap) - 🚲️ Your guide to Sydney’s cycle network — See safe routes to ride  in Sydney including separated cycleways, shared paths, cycleways under construction, planned cycleways and more.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Cloud-optimized + compressed single-file tile archives for vector and raster maps
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
