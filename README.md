@@ -483,7 +483,6 @@
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
 - [hy987/T9-Predictive-Text](https://github.com/hy987/T9-Predictive-Text) - Texting predictive technology
 - [lefcha/imapfilter](https://github.com/lefcha/imapfilter) - IMAP mail filtering utility
-- [OpenHD/QOpenHD](https://github.com/OpenHD/QOpenHD) - QOpenHD App
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [eworm-de/mpd-notification](https://github.com/eworm-de/mpd-notification) - Notify about tracks played by mpd
 - [riyas-org/ir_translator](https://github.com/riyas-org/ir_translator) - Repurpose old IR remote with ATTINY13
@@ -908,7 +907,7 @@
 - [datacute/DoubleResetDetector](https://github.com/datacute/DoubleResetDetector) - Library to detect a double reset, using ESP8266 RTC User Memory
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝗿𝗶𝗱𝗼𝗻𝗸𝘂𝗹𝗼𝘂𝘀𝗹𝘆 easy! :rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝗿𝗶𝗱𝗼𝗻𝗸𝘂𝗹𝗼𝘂𝘀𝗹𝘆 easy. :rocket:
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -1020,6 +1019,7 @@
 - [kodi-pvr/pvr.hts](https://github.com/kodi-pvr/pvr.hts) - Kodi's Tvheadend HTSP client addon
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [xbmc/inputstream.adaptive](https://github.com/xbmc/inputstream.adaptive) - kodi inputstream addon for several manifest types
+- [OpenHD/QOpenHD](https://github.com/OpenHD/QOpenHD) - QOpenHD App
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [mb720/nethogs](https://github.com/mb720/nethogs) - Linux 'net top' tool
 - [pgaskin/kobo-mods](https://github.com/pgaskin/kobo-mods) - My Kobo mods/hacks/tools which aren't patches and aren't in koboutils.
@@ -1451,7 +1451,7 @@
 
 ## Common Lisp 
 
-- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's power-browser.
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 
 ## Crystal 
 
@@ -2706,7 +2706,7 @@
 - [datopian/datapipes](https://github.com/datopian/datapipes) - Data Pipes for CSV
 - [okfn/wikipediajs](https://github.com/okfn/wikipediajs) - A small Javascript library for accessing information in Wikipedia articles such as dates, places, abstracts and more
 - [frictionlessdata/dpm-js](https://github.com/frictionlessdata/dpm-js) - [DEPRECATED] Please use https://datahub.io/docs/features/data-cli
-- [datopian/portal.js](https://github.com/datopian/portal.js) - 🌀 Data portal framework in modern Javascript.
+- [datopian/portaljs](https://github.com/datopian/portaljs) - 🌀 Data portal framework in modern Javascript.
 - [mdp/gibberish-aes](https://github.com/mdp/gibberish-aes) - A fully OpenSSL compliant javascript library for AES encryption.
 - [ahoward/middleman-gibberish](https://github.com/ahoward/middleman-gibberish) - password protect middleman pages - even on s3
 - [akahuku/wasavi](https://github.com/akahuku/wasavi) - wasavi is an extension for Chrome, Firefox, and Opera. wasavi changes a textarea element to virtual vi editor which supports almost all the vi/ex commands.
@@ -3698,7 +3698,7 @@
 - [ProfoundNetworks/gzipi](https://github.com/ProfoundNetworks/gzipi) - Tools for indexing gzip files to support random-like access.
 - [rushter/data-science-blogs](https://github.com/rushter/data-science-blogs) - A curated list of data science blogs
 - [pymodbus-dev/pymodbus](https://github.com/pymodbus-dev/pymodbus) - A full modbus protocol written in python
-- [alexnathanson/solar-protocol](https://github.com/alexnathanson/solar-protocol) - A repository in development for a solar powered network of servers that host a distributed web platform. Project by Tega Brain, Alex Nathanson and Benedetta Piantella. Supported by Eyebeam Rapid Respo
+- [alexnathanson/solar-protocol](https://github.com/alexnathanson/solar-protocol) - A repository in development for a solar powered network of servers that host a distributed web platform. Project by Tega Brain, Alex Nathanson and Benedetta Piantella. Supported by Eyebeam, Mozilla, a
 - [camelot-dev/camelot](https://github.com/camelot-dev/camelot) - A Python library to extract tabular data from PDFs
 - [artperrin/image2csv](https://github.com/artperrin/image2csv) - Convert tables stored as images to an usable .csv file
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
@@ -4680,7 +4680,7 @@
 - [hrbrmstr/xslt](https://github.com/hrbrmstr/xslt) - lightweight XSLT processing package for R based on xmlwrapp
 - [stewid/xapr](https://github.com/stewid/xapr) - R bindings to the Xapian search engine
 - [leonawicz/ProjectManagement](https://github.com/leonawicz/ProjectManagement) - Project management project
-- [rstudio/markdown](https://github.com/rstudio/markdown) - The first generation of Markdown rendering for R (born in 2012). Now R Markdown usually means the *r*markdown package instead of *markdown*. The repo for the former is at https://github.com/rstudio/rm
+- [rstudio/markdown](https://github.com/rstudio/markdown) - The first generation of Markdown rendering for R (born in 2012). Originally based on the C library sundown. Now based on commonmark. Note that this package is markdown, *not* rmarkdown.
 - [christophergandrud/Rep-Res-Examples](https://github.com/christophergandrud/Rep-Res-Examples) - Examples
 - [christophergandrud/oecdr](https://github.com/christophergandrud/oecdr) - Download and format data from the OECD
 - [christophergandrud/dpmr](https://github.com/christophergandrud/dpmr) - Data Package Manager for R
@@ -5271,6 +5271,7 @@
 
 ## Shell 
 
+- [cykerway/complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
 - [7Ji/amlogic-s9xxx-archlinuxarm](https://github.com/7Ji/amlogic-s9xxx-archlinuxarm) - ArchLinux ARM for Amlogic s9xxx tv box.
 - [ShaneMcC/beeps](https://github.com/ShaneMcC/beeps) - Linux beep music
 - [vaniacer/sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
@@ -5576,7 +5577,6 @@
 - [carnager/buku_run](https://github.com/carnager/buku_run) - rofi frontend for buku bookmarks manager
 - [OpenHD/OpenHD-ImageBuilder](https://github.com/OpenHD/OpenHD-ImageBuilder) - Script for building automatically Open.HD
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
-- [cykerway/complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
 - [sdushantha/kunst](https://github.com/sdushantha/kunst) - Download and display album art or display embedded album art
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
