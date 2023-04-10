@@ -185,7 +185,7 @@
 - [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
 - [Fishwaldo/esp_ghota](https://github.com/Fishwaldo/esp_ghota) - esp32 OTA Component to update firmware from Github Releases
 - [dreirund/Handsomemod-uf896](https://github.com/dreirund/Handsomemod-uf896) - A fork of OpenWrt-based "Handsomemod" operating system targeted to the ["UF896" stick-format WiFi/LTE router](https://forum.openwrt.org/t/131712).
-- [leonmavr/retrocube](https://github.com/leonmavr/retrocube) - 📺👽 3D solids on the terminal in C99 without any third parties
+- [leonmavr/retrocube](https://github.com/leonmavr/retrocube) - 📺👽 3D graphics on the terminal in C99 without any third parties
 - [LinusDierheimer/fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in C.
 - [leonerd/libtickit](https://github.com/leonerd/libtickit) - 
 - [rpmohn/a4](https://github.com/rpmohn/a4) - dynamic terminal manager and multiplexer
@@ -477,7 +477,6 @@
 - [sgerwk/irwm](https://github.com/sgerwk/irwm) - an X11 window manager designed for remote controls
 - [sgerwk/jpegtopdf](https://github.com/sgerwk/jpegtopdf) - make a pdf from jpeg images
 - [godspeed1989/fbv](https://github.com/godspeed1989/fbv) - framebuffer image viewer
-- [syncBlink/muRLi-legacy](https://github.com/syncBlink/muRLi-legacy) - The original muRLi repository - now known as syncBlink https://github.com/syncBlink
 - [HaarigerHarald/omxiv](https://github.com/HaarigerHarald/omxiv) - OpenMax image viewer for the Raspberry Pi
 - [solusipse/fiche](https://github.com/solusipse/fiche) - Command line pastebin for sharing terminal output.
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
@@ -907,7 +906,7 @@
 - [datacute/DoubleResetDetector](https://github.com/datacute/DoubleResetDetector) - Library to detect a double reset, using ESP8266 RTC User Memory
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝗿𝗶𝗱𝗼𝗻𝗸𝘂𝗹𝗼𝘂𝘀𝗹𝘆 easy. :rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life ridonkulously easy 🪄🌟
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -1538,6 +1537,8 @@
 
 ## Go 
 
+- [peter-mount/nrod-cif](https://github.com/peter-mount/nrod-cif) - Microservice that publishes the UK Rail TimeTable from Network Rail's CIF feed
+- [peter-mount/nre-feeds](https://github.com/peter-mount/nre-feeds) - go library & Application for handling the NRE DarwinD3 feeds
 - [pterm/cli-template](https://github.com/pterm/cli-template) - ⚗ The most advanced CLI template on earth! Featuring automatic releases, website generation and a custom CI-System out of the box.
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [abhinav/stitchmd](https://github.com/abhinav/stitchmd) - Stitch multiple Markdown files together into a single document.
@@ -2296,6 +2297,7 @@
 
 ## JavaScript 
 
+- [peter-mount/departureboards](https://github.com/peter-mount/departureboards) - This is the new departureboards.mobi site as a docker image.
 - [rpsubc8/gamepadDTMF](https://github.com/rpsubc8/gamepadDTMF) - Gamepad HID decode DTMF
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
@@ -5913,6 +5915,7 @@
 - [zyachel/libremdb](https://github.com/zyachel/libremdb) - A free & open source IMDb front-end.
 - [DigitalHERMES/hermes-gui](https://github.com/DigitalHERMES/hermes-gui) - HERMES Web interface code.
 - [adriancooney/puppeteer-heap-snapshot](https://github.com/adriancooney/puppeteer-heap-snapshot) - API and CLI tool to fetch and query Chome DevTools heap snapshots.
+- [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [Jaeyo/personal-archive](https://github.com/Jaeyo/personal-archive) - keep track of things you learn / discover everyday!
 - [r-wasm/webr](https://github.com/r-wasm/webr) - This project aims to compile the statistical language R into WASM for use in a browser, via Emscripten.
 - [esphome/esp-web-tools](https://github.com/esphome/esp-web-tools) - Open source tools to allow working with ESP devices in the browser
@@ -6268,7 +6271,6 @@
 ## Vue 
 
 - [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
-- [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [pschatzmann/esp32_radio](https://github.com/pschatzmann/esp32_radio) - Web Radio Player which is also working with a ESP32 Micro Controller
 - [radiantearth/stac-browser](https://github.com/radiantearth/stac-browser) - A full-fledged UI in Vue for browsing and searching static STAC catalogs and STAC APIs
 - [anonaddy/browser-extension](https://github.com/anonaddy/browser-extension) - The source code for the browser extension
