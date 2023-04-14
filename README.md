@@ -1940,7 +1940,6 @@
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [amagovpt/observatory](https://github.com/amagovpt/observatory) - PT Observatory of Web Accessibility - the main app
 - [rugk/offline-qr-code](https://github.com/rugk/offline-qr-code) - 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
-- [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
 - [feeby2494/chromebook_parts_tracker](https://github.com/feeby2494/chromebook_parts_tracker) - 
 - [Evoniuk/terminal-markdown](https://github.com/Evoniuk/terminal-markdown) - A markdown language for the terminal
 - [qq542vev/vim-style-newsboat](https://github.com/qq542vev/vim-style-newsboat) - Vim, Pentadactyl のキーボード操作を、Newsboat で実現する試み。
@@ -3145,6 +3144,7 @@
 - [takingnames/awesome-loginless](https://github.com/takingnames/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
 - [takingnames/namedrop-protocol-spec](https://github.com/takingnames/namedrop-protocol-spec) - Specification for the NameDrop DNS delegation protocol
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
+- [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
 - [unixsheikh/phpthewrongway](https://github.com/unixsheikh/phpthewrongway) - A pragmatic view on PHP programming.
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
 - [brunompena/zsun-resources](https://github.com/brunompena/zsun-resources) - Zsun SD100 OpenWrt Resources
