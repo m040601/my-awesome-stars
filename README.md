@@ -177,6 +177,8 @@
 
 ## C 
 
+- [akemnade/kobo-firmware-extractor](https://github.com/akemnade/kobo-firmware-extractor) - extracts firmware from hidden partitions on Kobo/Tolino ebook readers
+- [risacher/sunwait](https://github.com/risacher/sunwait) - Sunwait calculates sunrise or sunset times with civil, nautical, astronomical and custom twilights, for use with Windows Task Scheduler or 'cron' on Linux.
 - [linux-speakup/speakup](https://github.com/linux-speakup/speakup) - Speakup is a screen review package for the Linux operating system
 - [linux-speakup/espeakup](https://github.com/linux-speakup/espeakup) - a light weight connector for espeak-ng and speakup
 - [nopnop2002/esp-idf-remote-hd44780](https://github.com/nopnop2002/esp-idf-remote-hd44780) - Control the HD44780 using HTTP/MQTT.
@@ -1539,6 +1541,12 @@
 
 ## Go 
 
+- [rendicott/uggly-server](https://github.com/rendicott/uggly-server) - uses uggly framework to be a tui server
+- [dimkr/tootik](https://github.com/dimkr/tootik) - A federated nanoblogging service with a Gemini frontend.
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f`
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+- [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
 - [peter-mount/nrod-cif](https://github.com/peter-mount/nrod-cif) - Microservice that publishes the UK Rail TimeTable from Network Rail's CIF feed
 - [peter-mount/nre-feeds](https://github.com/peter-mount/nre-feeds) - go library & Application for handling the NRE DarwinD3 feeds
 - [pterm/cli-template](https://github.com/pterm/cli-template) - ⚗ The most advanced CLI template on earth! Featuring automatic releases, website generation and a custom CI-System out of the box.
@@ -1667,7 +1675,7 @@
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [fasmide/schttp](https://github.com/fasmide/schttp) - An scp to http proxy / gateway thing...
 - [fasmide/remotemoe](https://github.com/fasmide/remotemoe) - tunnels to localhost and other ssh plumbing
-- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two laptops in close range. Linux, macOS, Windows. iOS version available.
+- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range. Linux, macOS, Windows. iOS version available.
 - [schollz/find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
 - [schollz/syncdir](https://github.com/schollz/syncdir) - Automatically discover peers and synchronize a folder
 - [schollz/websitechanges](https://github.com/schollz/websitechanges) - Alerts you via email about a website change.
@@ -1787,7 +1795,7 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [philipjkim/goreadability](https://github.com/philipjkim/goreadability) - Webpage summary extractor using Facebook Open Graph and arc90's readability
 - [feeeper/newspaper](https://github.com/feeeper/newspaper) - Read webpages in readability mode, inside your terminal.
-- [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
+- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 - [techknowlogick/shiori](https://github.com/techknowlogick/shiori) - Shiori is a simple bookmark manager
 - [Strubbl/wallabago](https://github.com/Strubbl/wallabago) - Go wrapper for the Wallabag API
 - [syncloud/platform](https://github.com/syncloud/platform) - Run popular services on your device with one click
@@ -1924,6 +1932,7 @@
 
 ## HTML 
 
+- [dialoa/columns](https://github.com/dialoa/columns) - Multicolumn support for pandoc's markdown
 - [Eli-the-Bearded/vt100-slowcat](https://github.com/Eli-the-Bearded/vt100-slowcat) - VT100 animations and slowcat to play them.
 - [pafoster/gdir.telae.net](https://github.com/pafoster/gdir.telae.net) - Code for gdir.telae.net - a minimalistic directions service
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
@@ -1940,6 +1949,7 @@
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [amagovpt/observatory](https://github.com/amagovpt/observatory) - PT Observatory of Web Accessibility - the main app
 - [rugk/offline-qr-code](https://github.com/rugk/offline-qr-code) - 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
+- [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
 - [feeby2494/chromebook_parts_tracker](https://github.com/feeby2494/chromebook_parts_tracker) - 
 - [Evoniuk/terminal-markdown](https://github.com/Evoniuk/terminal-markdown) - A markdown language for the terminal
 - [qq542vev/vim-style-newsboat](https://github.com/qq542vev/vim-style-newsboat) - Vim, Pentadactyl のキーボード操作を、Newsboat で実現する試み。
@@ -2321,6 +2331,7 @@
 - [zaguragit/mastodon_redirector](https://github.com/zaguragit/mastodon_redirector) - Replaces the follow button on other instances with a button, that redirects you to your instance, so you can follow, or interact with a user's content
 - [dmstern/html2biblatex](https://github.com/dmstern/html2biblatex) - A tiny bookmarklet for exporting web pages to BibLaTeX (all browsers / no installation).
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
+- [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files
 - [w3bdev1/alter](https://github.com/w3bdev1/alter) - A Firefox Add-on redirecting to privacy-friendly alternatives: https://addons.mozilla.org/addon/alter/
 - [OpenScan-org/OpenScan2](https://github.com/OpenScan-org/OpenScan2) - an improved firmware for the OpenScan devices, featuring many more cameras and a greatly improved overall usability
@@ -2557,7 +2568,7 @@
 - [mejackreed/Leaflet-IIIF](https://github.com/mejackreed/Leaflet-IIIF) - Leaflet plugin for viewing IIIF images
 - [akhenakh/mocs](https://github.com/akhenakh/mocs) - My Own Car System, a Go & Qt application for your car
 - [andywise/drawbot](https://github.com/andywise/drawbot) - Drawing robot capable of rendering SVG paths over WebSockets. Powered by a Raspberry Pi running Node.js.
-- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
+- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - [oscarmorrison/md-page](https://github.com/oscarmorrison/md-page) - 📝 create a webpage with just markdown
 - [tyrasd/osm-qa-feeds](https://github.com/tyrasd/osm-qa-feeds) - A tool to create personalized OpenStreetMap quality assurance feeds
@@ -3144,7 +3155,6 @@
 - [takingnames/awesome-loginless](https://github.com/takingnames/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
 - [takingnames/namedrop-protocol-spec](https://github.com/takingnames/namedrop-protocol-spec) - Specification for the NameDrop DNS delegation protocol
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
-- [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
 - [unixsheikh/phpthewrongway](https://github.com/unixsheikh/phpthewrongway) - A pragmatic view on PHP programming.
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
 - [brunompena/zsun-resources](https://github.com/brunompena/zsun-resources) - Zsun SD100 OpenWrt Resources
@@ -3572,6 +3582,9 @@
 
 ## Python 
 
+- [rendicott/puggly-server](https://github.com/rendicott/puggly-server) - uggly protocol server in python
+- [rendicott/uggly](https://github.com/rendicott/uggly) - framework for TUI client and server
+- [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - A simple backup tool for Linux
 - [asciimoo/drawille](https://github.com/asciimoo/drawille) - Pixel graphics in terminal with unicode braille characters
 - [pafoster/gdir](https://github.com/pafoster/gdir) - Get train/bus directions using the command line
@@ -3602,7 +3615,7 @@
 - [skylines-project/skylines](https://github.com/skylines-project/skylines) - Live tracking, flight database and competition framework
 - [jwilk/vcsapeek](https://github.com/jwilk/vcsapeek) - Linux virtual console dumper
 - [alastair/python-musicbrainzngs](https://github.com/alastair/python-musicbrainzngs) - Python bindings for Musicbrainz' NGS webservice
-- [visidata/vdsql](https://github.com/visidata/vdsql) - VisiData interface for databases
+- [saulpw/vdsql](https://github.com/saulpw/vdsql) - VisiData interface for databases
 - [cbrews/ignition](https://github.com/cbrews/ignition) - Gemini Protocol Client for Python Developers
 - [simonw/s3-ocr](https://github.com/simonw/s3-ocr) - Tools for running OCR against files stored in S3
 - [phildini/alameda-data](https://github.com/phildini/alameda-data) - Queryable data for the City of Alameda
@@ -5275,6 +5288,8 @@
 
 ## Shell 
 
+- [aartoni/n249](https://github.com/aartoni/n249) - Kobo Clara HD and InkBox notes
+- [akemnade/n249](https://github.com/akemnade/n249) - Kobo Clara HD and InkBox notes
 - [cykerway/complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
 - [7Ji/amlogic-s9xxx-archlinuxarm](https://github.com/7Ji/amlogic-s9xxx-archlinuxarm) - ArchLinux ARM for Amlogic s9xxx tv box.
 - [ShaneMcC/beeps](https://github.com/ShaneMcC/beeps) - Linux beep music
@@ -5917,7 +5932,6 @@
 - [zyachel/libremdb](https://github.com/zyachel/libremdb) - A free & open source IMDb front-end.
 - [DigitalHERMES/hermes-gui](https://github.com/DigitalHERMES/hermes-gui) - HERMES Web interface code.
 - [adriancooney/puppeteer-heap-snapshot](https://github.com/adriancooney/puppeteer-heap-snapshot) - API and CLI tool to fetch and query Chome DevTools heap snapshots.
-- [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [Jaeyo/personal-archive](https://github.com/Jaeyo/personal-archive) - keep track of things you learn / discover everyday!
 - [r-wasm/webr](https://github.com/r-wasm/webr) - This project aims to compile the statistical language R into WASM for use in a browser, via Emscripten.
 - [esphome/esp-web-tools](https://github.com/esphome/esp-web-tools) - Open source tools to allow working with ESP devices in the browser
