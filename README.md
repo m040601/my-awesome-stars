@@ -1443,7 +1443,7 @@
 ## CoffeeScript 
 
 - [github/hubot-scripts](https://github.com/github/hubot-scripts) - DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json
-- [hubot-scripts/hubot-google-images](https://github.com/hubot-scripts/hubot-google-images) - A hubot script that interacts with the Google Images API
+- [hubot-archive/hubot-google-images](https://github.com/hubot-archive/hubot-google-images) - A hubot script that interacts with the Google Images API
 - [futpib/policeman](https://github.com/futpib/policeman) - Firefox extention for cross-site requests control (kind of RequestPolicy clone)
 - [hyspace/lixian-cli](https://github.com/hyspace/lixian-cli) - A simple nodejs module including command line tool for xunlei-lixian service.
 - [paradoxxxzero/butterfly](https://github.com/paradoxxxzero/butterfly) - A web terminal based on websocket and tornado
@@ -3133,6 +3133,7 @@
 
 ## Others 
 
+- [quarkscript2/xe303c12_arm_linux](https://github.com/quarkscript2/xe303c12_arm_linux) - Disk images with arm Linux for Chromebook XE303C12
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx
 - [warpme/miniarch](https://github.com/warpme/miniarch) - ArchLinux ARM SD card images for quick start with ArchLinux on ARM SBC & TV Boxes
 - [nathanlesage/academics-on-mastodon](https://github.com/nathanlesage/academics-on-mastodon) - A list of various lists consisting of academics on Mastodon
@@ -5253,7 +5254,7 @@
 - [minicomp/wax](https://github.com/minicomp/wax) - Jekyll based framework for minimal exhibitions with IIIF 🐝
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [chriskrycho/lightning-rs](https://github.com/chriskrycho/lightning-rs) - Yet another static site generator—but this one's written in Rust
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, easily build with blocks! 创建在线课程，学术简历或初创网站。#OpenScience
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN! 创建在线课程，学术简历或初创网站。#OpenScience
 - [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
 - [vim-advent-calendar/vimways.org](https://github.com/vim-advent-calendar/vimways.org) - vimways.org
 - [minicomp/ed](https://github.com/minicomp/ed) - A Jekyll theme for minimal editions :book:
@@ -5270,7 +5271,7 @@
 
 ## SWIG 
 
-- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - Python bindings for MuPDF's rendering library.
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is an enhanced Python binding for MuPDF – a lightweight PDF, XPS, and E-book viewer, renderer, and toolkit.
 
 ## Scala 
 
