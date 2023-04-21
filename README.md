@@ -177,6 +177,7 @@
 
 ## C 
 
+- [gl-inet/glbuilder](https://github.com/gl-inet/glbuilder) - 
 - [akemnade/kobo-firmware-extractor](https://github.com/akemnade/kobo-firmware-extractor) - extracts firmware from hidden partitions on Kobo/Tolino ebook readers
 - [risacher/sunwait](https://github.com/risacher/sunwait) - Sunwait calculates sunrise or sunset times with civil, nautical, astronomical and custom twilights, for use with Windows Task Scheduler or 'cron' on Linux.
 - [linux-speakup/speakup](https://github.com/linux-speakup/speakup) - Speakup is a screen review package for the Linux operating system
@@ -323,7 +324,6 @@
 - [dharple/detox](https://github.com/dharple/detox) - Tames problematic filenames
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32
 - [turgu1/EPub-InkPlate](https://github.com/turgu1/EPub-InkPlate) - An EPub Reader for the ESP32 based InkPlate e-Ink devices.
-- [msharov/snownews](https://github.com/msharov/snownews) - :snowman: Snownews is a text-mode RSS feed reader.
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [pschatzmann/pico-arduino](https://github.com/pschatzmann/pico-arduino) - Arduino API Library for the Raspberry Pico
 - [Audacium/audacium](https://github.com/Audacium/audacium) - Free and open-source audio editor
@@ -1675,7 +1675,6 @@
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [fasmide/schttp](https://github.com/fasmide/schttp) - An scp to http proxy / gateway thing...
 - [fasmide/remotemoe](https://github.com/fasmide/remotemoe) - tunnels to localhost and other ssh plumbing
-- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range. Linux, macOS, Windows. iOS version available.
 - [schollz/find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
 - [schollz/syncdir](https://github.com/schollz/syncdir) - Automatically discover peers and synchronize a folder
 - [schollz/websitechanges](https://github.com/schollz/websitechanges) - Alerts you via email about a website change.
@@ -1949,7 +1948,6 @@
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [amagovpt/observatory](https://github.com/amagovpt/observatory) - PT Observatory of Web Accessibility - the main app
 - [rugk/offline-qr-code](https://github.com/rugk/offline-qr-code) - 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
-- [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
 - [feeby2494/chromebook_parts_tracker](https://github.com/feeby2494/chromebook_parts_tracker) - 
 - [Evoniuk/terminal-markdown](https://github.com/Evoniuk/terminal-markdown) - A markdown language for the terminal
 - [qq542vev/vim-style-newsboat](https://github.com/qq542vev/vim-style-newsboat) - Vim, Pentadactyl のキーボード操作を、Newsboat で実現する試み。
@@ -2351,7 +2349,7 @@
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [segfall/static-wiki](https://github.com/segfall/static-wiki) - Wikipedia using only static assets & no backend
 - [iiab/maps](https://github.com/iiab/maps) - Internet-in-a-Box (IIAB) Maps are like Google Maps but better, for schools especially, as they work offline (including satellite photos!) and avoid all the advertising.  LATEST README: https://github.
-- [rern/rAudio-1](https://github.com/rern/rAudio-1) - Raspberry Pi audio player: AirPlay, Audio CD, Bluetooth, DAB radio, DSP, Internet rafio, Multi-room, Spotify Connect, UPnP
+- [rern/rAudio](https://github.com/rern/rAudio) - Raspberry Pi audio player: AirPlay, Audio CD, Bluetooth, DAB radio, DSP, Internet rafio, Multi-room, Spotify Connect, UPnP
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [Smile4ever/Neat-URL](https://github.com/Smile4ever/Neat-URL) - Neat URL cleans URLs, removing parameters such as Google Analytics' utm parameters.
 - [CMU-CREATE-Lab/timemachine-viewer](https://github.com/CMU-CREATE-Lab/timemachine-viewer) - 
@@ -2720,7 +2718,6 @@
 - [datopian/datapipes](https://github.com/datopian/datapipes) - Data Pipes for CSV
 - [okfn/wikipediajs](https://github.com/okfn/wikipediajs) - A small Javascript library for accessing information in Wikipedia articles such as dates, places, abstracts and more
 - [frictionlessdata/dpm-js](https://github.com/frictionlessdata/dpm-js) - [DEPRECATED] Please use https://datahub.io/docs/features/data-cli
-- [datopian/portaljs](https://github.com/datopian/portaljs) - 🌀 Rapidly build rich data portals using a modern frontend framework
 - [mdp/gibberish-aes](https://github.com/mdp/gibberish-aes) - A fully OpenSSL compliant javascript library for AES encryption.
 - [ahoward/middleman-gibberish](https://github.com/ahoward/middleman-gibberish) - password protect middleman pages - even on s3
 - [akahuku/wasavi](https://github.com/akahuku/wasavi) - wasavi is an extension for Chrome, Firefox, and Opera. wasavi changes a textarea element to virtual vi editor which supports almost all the vi/ex commands.
@@ -3156,6 +3153,7 @@
 - [takingnames/awesome-loginless](https://github.com/takingnames/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
 - [takingnames/namedrop-protocol-spec](https://github.com/takingnames/namedrop-protocol-spec) - Specification for the NameDrop DNS delegation protocol
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
+- [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
 - [unixsheikh/phpthewrongway](https://github.com/unixsheikh/phpthewrongway) - A pragmatic view on PHP programming.
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
 - [brunompena/zsun-resources](https://github.com/brunompena/zsun-resources) - Zsun SD100 OpenWrt Resources
@@ -3583,6 +3581,7 @@
 
 ## Python 
 
+- [gl-inet/gl-infra-builder](https://github.com/gl-inet/gl-infra-builder) - 
 - [rendicott/puggly-server](https://github.com/rendicott/puggly-server) - uggly protocol server in python
 - [rendicott/uggly](https://github.com/rendicott/uggly) - framework for TUI client and server
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
@@ -4182,7 +4181,7 @@
 - [raghur/easyblogger](https://github.com/raghur/easyblogger) - Python client for Blogger platform. Write blog posts in Markdown or asciidoc and publish them on Blogger.
 - [partofthething/infopanel](https://github.com/partofthething/infopanel) - Show live data, animations, pictures, or anything on simple displays like RGB matrices
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [jinfagang/weibo_terminater](https://github.com/jinfagang/weibo_terminater) - Final Weibo Crawler Scrap Anything From Weibo, comments, weibo contents, followers, anything. The Terminator
+- [lucasjinreal/weibo_terminater](https://github.com/lucasjinreal/weibo_terminater) - Final Weibo Crawler Scrap Anything From Weibo, comments, weibo contents, followers, anything. The Terminator
 - [google/spatial-media](https://github.com/google/spatial-media) - Specifications and tools for 360º video and spatial audio.
 - [coddingtonbear/neomake-platformio](https://github.com/coddingtonbear/neomake-platformio) - Simple tool allowing Neomake to properly lint when you're using PlatformIO.
 - [centraldedados/datapaka](https://github.com/centraldedados/datapaka) - An easy interface for documenting data packages
@@ -5142,6 +5141,7 @@
 - [figsoda/mmtc](https://github.com/figsoda/mmtc) - Minimal mpd terminal client that aims to be simple yet highly configurable
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
+- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [mqudsi/syngesture](https://github.com/mqudsi/syngesture) - Swipes and gestures for Linux with the MT multitouch protocol
 - [kaegi/alass](https://github.com/kaegi/alass) - "Automatic Language-Agnostic Subtitle Synchronization"
@@ -5289,6 +5289,7 @@
 
 ## Shell 
 
+- [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) - Set up adblock using oisd dnsmasq file
 - [aartoni/n249](https://github.com/aartoni/n249) - Kobo Clara HD and InkBox notes
 - [akemnade/n249](https://github.com/akemnade/n249) - Kobo Clara HD and InkBox notes
 - [cykerway/complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
@@ -5995,7 +5996,7 @@
 - [samhh/bukubrow-webext](https://github.com/samhh/bukubrow-webext) - WebExtension for Buku
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
 - [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [ueokande/vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
 - [mapillary/mapillary-js](https://github.com/mapillary/mapillary-js) - Interactive, extendable street imagery map experiences in the browser, powered by WebGL
@@ -6003,6 +6004,7 @@
 - [jupyter/jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for jupyter notebooks
 - [djuretic/cjkDecompVis](https://github.com/djuretic/cjkDecompVis) - Visualization of CJK Decomposition Data using D3.js
 - [IPS-LMU/EMU-webApp](https://github.com/IPS-LMU/EMU-webApp) - The EMU-webApp is an online and offline web application for labeling, visualizing and correcting speech and derived speech data.
+- [datopian/portaljs](https://github.com/datopian/portaljs) - 🌀 Rapidly build rich data portals using a modern frontend framework
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [rudism/ficdown.js](https://github.com/rudism/ficdown.js) - Ficdown parser and runner in Javascript
 - [RequestPolicyContinued/requestpolicy](https://github.com/RequestPolicyContinued/requestpolicy) - a web browser extension that gives you control over cross-site requests. Available for XUL/XPCOM-based browsers.
