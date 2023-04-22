@@ -910,7 +910,7 @@
 - [datacute/DoubleResetDetector](https://github.com/datacute/DoubleResetDetector) - Library to detect a double reset, using ESP8266 RTC User Memory
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚘𝚞𝚜𝚕𝚢 easy :rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚒𝚌𝚒𝚘𝚞𝚜𝚕𝚢 easy :rocket:
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -1948,6 +1948,7 @@
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [amagovpt/observatory](https://github.com/amagovpt/observatory) - PT Observatory of Web Accessibility - the main app
 - [rugk/offline-qr-code](https://github.com/rugk/offline-qr-code) - 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
+- [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
 - [feeby2494/chromebook_parts_tracker](https://github.com/feeby2494/chromebook_parts_tracker) - 
 - [Evoniuk/terminal-markdown](https://github.com/Evoniuk/terminal-markdown) - A markdown language for the terminal
 - [qq542vev/vim-style-newsboat](https://github.com/qq542vev/vim-style-newsboat) - Vim, Pentadactyl のキーボード操作を、Newsboat で実現する試み。
@@ -2106,6 +2107,7 @@
 - [vanatteveldt/learningr](https://github.com/vanatteveldt/learningr) - Helpful resources for learning R
 - [amcat/amcat](https://github.com/amcat/amcat) - Amsterdam Content Analysis Toolkit
 - [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
+- [mjockers/syuzhet](https://github.com/mjockers/syuzhet) - An R package for the extraction of sentiment and sentiment-based plot arcs from text
 - [mine-cetinkaya-rundel/sta101_sp15](https://github.com/mine-cetinkaya-rundel/sta101_sp15) - Course materials for Sta 101 - Spring 2015 semester at Duke University
 - [STAT545-UBC/STAT545-UBC-original-website](https://github.com/STAT545-UBC/STAT545-UBC-original-website) - ⚠️ Old repository for website of STAT 545 @ University of British Columbia
 - [sckott/cowsay](https://github.com/sckott/cowsay) - cowsay w/ more animals, in R
@@ -3153,7 +3155,6 @@
 - [takingnames/awesome-loginless](https://github.com/takingnames/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
 - [takingnames/namedrop-protocol-spec](https://github.com/takingnames/namedrop-protocol-spec) - Specification for the NameDrop DNS delegation protocol
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
-- [tasmota/install](https://github.com/tasmota/install) - Tasmota Web Installer and firmware repository
 - [unixsheikh/phpthewrongway](https://github.com/unixsheikh/phpthewrongway) - A pragmatic view on PHP programming.
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
 - [brunompena/zsun-resources](https://github.com/brunompena/zsun-resources) - Zsun SD100 OpenWrt Resources
@@ -4764,7 +4765,6 @@
 - [amcat/amcat-r-tools](https://github.com/amcat/amcat-r-tools) - Tools for working with amcat-r data
 - [kasperwelbers/network-tools](https://github.com/kasperwelbers/network-tools) - An R package with various functions to create networks
 - [richfitz/remake](https://github.com/richfitz/remake) - Make-like declarative workflows in R
-- [mjockers/syuzhet](https://github.com/mjockers/syuzhet) - An R package for the extraction of sentiment and sentiment-based plot arcs from text
 - [twitter/AnomalyDetection](https://github.com/twitter/AnomalyDetection) - Anomaly Detection with R
 - [wrathematics/Rdym](https://github.com/wrathematics/Rdym) - "Did you mean?" for R.
 - [jrnold/r-smss](https://github.com/jrnold/r-smss) - R package with datasets from Agresti and Finlay "Statistical Methods for the Social Sciences"
