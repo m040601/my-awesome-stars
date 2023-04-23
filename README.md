@@ -1362,7 +1362,6 @@
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [stonecrusher/simpleMenuWizard](https://github.com/stonecrusher/simpleMenuWizard) - Hide contextmenu items in Firefox Photon
-- [simonw/museums](https://github.com/simonw/museums) - A website recommending niche museums to visit
 - [slakkenhuis/pandoc.mk](https://github.com/slakkenhuis/pandoc.mk) - Simple PDF & static website generation using `make`, `jq` and `pandoc`.
 - [rstats-wtf/what-they-forgot](https://github.com/rstats-wtf/what-they-forgot) - "What They Forgot to Teach You About R" website / eBook
 - [Turbo87/sidebar-v2](https://github.com/Turbo87/sidebar-v2) - A responsive sidebar with tabs for Leaflet, OpenLayers, Google Maps, ...
@@ -2331,7 +2330,6 @@
 - [zaguragit/mastodon_redirector](https://github.com/zaguragit/mastodon_redirector) - Replaces the follow button on other instances with a button, that redirects you to your instance, so you can follow, or interact with a user's content
 - [dmstern/html2biblatex](https://github.com/dmstern/html2biblatex) - A tiny bookmarklet for exporting web pages to BibLaTeX (all browsers / no installation).
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
-- [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files
 - [w3bdev1/alter](https://github.com/w3bdev1/alter) - A Firefox Add-on redirecting to privacy-friendly alternatives: https://addons.mozilla.org/addon/alter/
 - [OpenScan-org/OpenScan2](https://github.com/OpenScan-org/OpenScan2) - an improved firmware for the OpenScan devices, featuring many more cameras and a greatly improved overall usability
@@ -2450,6 +2448,7 @@
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
+- [simonw/museums](https://github.com/simonw/museums) - A website recommending niche museums to visit
 - [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - Copying Link, Image and Tab(s) as Markdown Much Easier.
 - [Juris-M/zotero-odf-scan-plugin](https://github.com/Juris-M/zotero-odf-scan-plugin) - RTF/ODF-Scan for Zotero add-on
 - [plandes/zotsite](https://github.com/plandes/zotsite) - Export Zotero to a stand-alone web site
@@ -6289,6 +6288,7 @@
 ## Vue 
 
 - [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
+- [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [pschatzmann/esp32_radio](https://github.com/pschatzmann/esp32_radio) - Web Radio Player which is also working with a ESP32 Micro Controller
 - [radiantearth/stac-browser](https://github.com/radiantearth/stac-browser) - A full-fledged UI in Vue for browsing and searching static STAC catalogs and STAC APIs
 - [anonaddy/browser-extension](https://github.com/anonaddy/browser-extension) - The source code for the browser extension
