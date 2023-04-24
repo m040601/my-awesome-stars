@@ -276,7 +276,7 @@
 - [directfb2/DirectFB2](https://github.com/directfb2/DirectFB2) - Core DirectFB library
 - [xlucn/dwm](https://github.com/xlucn/dwm) - My fork of the suckless window manager dwm
 - [deeice/ziptuner](https://github.com/deeice/ziptuner) - Internet radio station tuner (playlist fetcher) for the console using C and dialog.
-- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library for not only Arduino)
+- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library not only for Arduino)
 - [jscrane/TTS](https://github.com/jscrane/TTS) - Arduino Text-to-Speech Library
 - [pschatzmann/TTS](https://github.com/pschatzmann/TTS) - Arduino Text-to-Speech Library
 - [pschatzmann/rp2040-i2s](https://github.com/pschatzmann/rp2040-i2s) - Work in progress...
@@ -910,7 +910,7 @@
 - [datacute/DoubleResetDetector](https://github.com/datacute/DoubleResetDetector) - Library to detect a double reset, using ESP8266 RTC User Memory
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚒𝚌𝚒𝚘𝚞𝚜𝚕𝚢 easy :rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The advanced external brain that makes your life 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 easy :rocket:
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -5125,7 +5125,7 @@
 - [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [fosskers/rs-kanji](https://github.com/fosskers/rs-kanji) - A library for the handling and analysis of Japanese text. 日本漢字分析
-- [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage your emails.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [null-dev/firefox-profile-switcher-connector](https://github.com/null-dev/firefox-profile-switcher-connector) - Native connector software for the 'Profile Switcher for Firefox' extension.
@@ -5253,7 +5253,7 @@
 - [minicomp/wax](https://github.com/minicomp/wax) - Jekyll based framework for minimal exhibitions with IIIF 🐝
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [chriskrycho/lightning-rs](https://github.com/chriskrycho/lightning-rs) - Yet another static site generator—but this one's written in Rust
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN! 创建在线课程，学术简历或初创网站。#OpenScience
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 创建在线课程，学术简历或初创网站。#OpenScience
 - [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
 - [vim-advent-calendar/vimways.org](https://github.com/vim-advent-calendar/vimways.org) - vimways.org
 - [minicomp/ed](https://github.com/minicomp/ed) - A Jekyll theme for minimal editions :book:
