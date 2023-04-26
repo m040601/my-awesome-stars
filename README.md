@@ -910,7 +910,7 @@
 - [datacute/DoubleResetDetector](https://github.com/datacute/DoubleResetDetector) - Library to detect a double reset, using ESP8266 RTC User Memory
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The advanced external brain that makes your life 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 easy :rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The advanced external brain that makes your life 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚒𝚌𝚒𝚘𝚞𝚜𝚕𝚢 easy :rocket:
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -1362,7 +1362,7 @@
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [stonecrusher/simpleMenuWizard](https://github.com/stonecrusher/simpleMenuWizard) - Hide contextmenu items in Firefox Photon
-- [slakkenhuis/pandoc.mk](https://github.com/slakkenhuis/pandoc.mk) - Simple PDF & static website generation using `make`, `jq` and `pandoc`.
+- [nsbgn/pandoc.mk](https://github.com/nsbgn/pandoc.mk) - Simple PDF & static website generation using `make`, `jq` and `pandoc`.
 - [rstats-wtf/what-they-forgot](https://github.com/rstats-wtf/what-they-forgot) - "What They Forgot to Teach You About R" website / eBook
 - [Turbo87/sidebar-v2](https://github.com/Turbo87/sidebar-v2) - A responsive sidebar with tabs for Leaflet, OpenLayers, Google Maps, ...
 - [geowe/RTCMapping](https://github.com/geowe/RTCMapping) - RealTime Collaborative Mapping
@@ -1646,7 +1646,7 @@
 - [codesoap/songmem](https://github.com/codesoap/songmem) - Remember the songs you heard and analyse your listening patterns
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [renard/papersave](https://github.com/renard/papersave) - Backup small important files to paper
-- [neilotoole/sq](https://github.com/neilotoole/sq) - sq: the missing data wrangler
+- [neilotoole/sq](https://github.com/neilotoole/sq) - sq: data wrangler
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [ciehanski/libgen-cli](https://github.com/ciehanski/libgen-cli) - A CLI tool to access the Library Genesis dataset; written in Go.
 - [jftuga/photo_id_resizer](https://github.com/jftuga/photo_id_resizer) - Resize photo ID images using face recognition technology
@@ -1984,6 +1984,7 @@
 - [jcs/no_color](https://github.com/jcs/no_color) - Website data for no-color.org
 - [yakivmospan/github-wikito-converter](https://github.com/yakivmospan/github-wikito-converter) - Generate HTML & PDF documentation from Github wiki or any other markdown-based wiki.
 - [d33tah/inkstone](https://github.com/d33tah/inkstone) - Learn Chinese on the go - no Internet connection required!
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [ubershmekel/cssbed](https://github.com/ubershmekel/cssbed) - Test bed for simple css resets that make your static page nice without classes.
@@ -2012,7 +2013,6 @@
 - [tajmone/gh-themes-magick](https://github.com/tajmone/gh-themes-magick) - GitHub Pages Themes Magick: https://tajmone.github.io/gh-themes-magick/
 - [tajmone/pandoc-goodies](https://github.com/tajmone/pandoc-goodies) - A tresure-box of resources for pandoc, pp and Texts word processor.
 - [MaxLaumeister/PageCrypt](https://github.com/MaxLaumeister/PageCrypt) - Client-side password-protection for HTML
-- [michaelmgis/osmdata.xyz](https://github.com/michaelmgis/osmdata.xyz) - This project provides global data extracts based on OpenStreetMap data as GeoPackages.
 - [smach/R4JournalismBook](https://github.com/smach/R4JournalismBook) - Companion site for my book Practical R for Mass Communication & Journalism, part of the CRC Press R Series
 - [zwbetz-gh/make-a-hugo-blog-from-scratch](https://github.com/zwbetz-gh/make-a-hugo-blog-from-scratch) - Take a wild guess
 - [heremaps/xyz-showcase](https://github.com/heremaps/xyz-showcase) - Showcase of web maps made with HERE XYZ
@@ -2091,7 +2091,6 @@
 - [talgalili/d3heatmap](https://github.com/talgalili/d3heatmap) - A D3.js-based heatmap htmlwidget for R
 - [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [carpentries/lesson-example](https://github.com/carpentries/lesson-example) - Example lesson using The Carpentries lesson template.
-- [swcarpentry/make-novice](https://github.com/swcarpentry/make-novice) - Automation and Make
 - [sachsmc/dceg-r-course](https://github.com/sachsmc/dceg-r-course) - Introduction to R for Epidemiologists
 - [YePpHa/YouTubeCenter](https://github.com/YePpHa/YouTubeCenter) - YouTube Center is a userscript designed to expand the functionality of YouTube. It includes the ability to download the video you're watching, auto selecting your preferred video quality and much more
 - [trinker/regexr](https://github.com/trinker/regexr) - Readable Regular Expressions
@@ -4331,6 +4330,7 @@
 - [pixelb/crudini](https://github.com/pixelb/crudini) - A utility for manipulating ini files
 - [lahwaacz/wiki-scripts](https://github.com/lahwaacz/wiki-scripts) - Framework for writing bots, maintenance scripts or performing data analysis on wikis powered by MediaWiki
 - [luispedro/BuildingMachineLearningSystemsWithPython](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) - Source Code for the book Building Machine Learning Systems with Python
+- [swcarpentry/make-novice](https://github.com/swcarpentry/make-novice) - Automation and Make
 - [mark-me/Pi-Jukebox](https://github.com/mark-me/Pi-Jukebox) - A mpd front-end for playing your your Raspberry Pi
 - [msprev/unite-bibtex](https://github.com/msprev/unite-bibtex) - a BibTeX source for unite.vim
 - [dersphere/plugin.audio.radio_de](https://github.com/dersphere/plugin.audio.radio_de) - XBMC music plugin to access all radio.de listed radio stations
@@ -5476,7 +5476,7 @@
 - [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
 - [garrym/raspberry-pi-alpine](https://github.com/garrym/raspberry-pi-alpine) - Instructions and scripts for setting up Alpine Linux on the Raspberry Pi
-- [slakkenhuis/scripts](https://github.com/slakkenhuis/scripts) - A collection of useful bash scripts: dmenu interfaces to mpv and pass, keyboard configurations, etcetera.
+- [nsbgn/scripts](https://github.com/nsbgn/scripts) - A collection of useful bash scripts: dmenu interfaces to mpv and pass, keyboard configurations, etcetera.
 - [learnbyexample/learn_gnugrep_ripgrep](https://github.com/learnbyexample/learn_gnugrep_ripgrep) - Example based guide to mastering GNU grep and ripgrep
 - [learnbyexample/cli-computing](https://github.com/learnbyexample/cli-computing) - :penguin: Linux command line and Scripting guide for beginner to intermediate users
 - [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - :earth_africa: `/usr/bin/qemu-*-static`
@@ -5963,7 +5963,6 @@
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [balena-labs-projects/balena-sound](https://github.com/balena-labs-projects/balena-sound) - Build a single or multi-room streamer for an existing audio device using a Raspberry Pi! Supports Bluetooth, Airplay and Spotify Connect
 - [TiloHeidasch/snapui](https://github.com/TiloHeidasch/snapui) - A SnapCast UI made with Angular
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [tmcw/notfoundbot](https://github.com/tmcw/notfoundbot) - fix & archive outgoing links on your website
 - [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - [badaix/snapweb](https://github.com/badaix/snapweb) - Web interface for Snapcast
