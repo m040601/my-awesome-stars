@@ -5068,7 +5068,7 @@
 - [ajturner/pocketmaps](https://github.com/ajturner/pocketmaps) - Ruby library to generate PocketMods and PocketMaps - small foldable paper booklets
 - [jnunemaker/httparty](https://github.com/jnunemaker/httparty) - :tada: Makes http fun again!
 - [mbailey/deprec](https://github.com/mbailey/deprec) - master respository for deprec - deployment recipes for capistrano
-- [metainspector/metainspector](https://github.com/metainspector/metainspector) - Ruby gem for web scraping purposes. It scrapes a given URL, and returns you its title, meta description, meta keywords, links, images...
+- [jaimeiniesta/metainspector](https://github.com/jaimeiniesta/metainspector) - Ruby gem for web scraping purposes. It scrapes a given URL, and returns you its title, meta description, meta keywords, links, images...
 - [rubber/rubber](https://github.com/rubber/rubber) - A capistrano/rails plugin that makes it easy to deploy/manage/scale to various service providers, including EC2, DigitalOcean, vSphere, and bare metal servers.
 
 ## Rust 
