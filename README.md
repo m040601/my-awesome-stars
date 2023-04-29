@@ -4697,7 +4697,7 @@
 - [hrbrmstr/xslt](https://github.com/hrbrmstr/xslt) - lightweight XSLT processing package for R based on xmlwrapp
 - [stewid/xapr](https://github.com/stewid/xapr) - R bindings to the Xapian search engine
 - [leonawicz/ProjectManagement](https://github.com/leonawicz/ProjectManagement) - Project management project
-- [rstudio/markdown](https://github.com/rstudio/markdown) - The first generation of Markdown rendering for R (born in 2012). Originally based on the C library sundown. Now based on commonmark. Note that this package is markdown, *not* rmarkdown.
+- [rstudio/markdown](https://github.com/rstudio/markdown) - The first generation of Markdown rendering for R (born in 2012). Originally based on the C library sundown. Now based on commonmark. Note that this package is markdown, not *rmarkdown*.
 - [christophergandrud/Rep-Res-Examples](https://github.com/christophergandrud/Rep-Res-Examples) - Examples
 - [christophergandrud/oecdr](https://github.com/christophergandrud/oecdr) - Download and format data from the OECD
 - [christophergandrud/dpmr](https://github.com/christophergandrud/dpmr) - Data Package Manager for R
