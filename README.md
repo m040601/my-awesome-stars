@@ -2059,7 +2059,7 @@
 - [nstrayer/tuftesque](https://github.com/nstrayer/tuftesque) - A very similar style to the original tufte hugo theme but with a few modifications. Used in my blogdown blog.
 - [freekrai/jekyll-bookmarklet](https://github.com/freekrai/jekyll-bookmarklet) - Bookmarklet for Jekyll on Github Pages
 - [segler-alex/radiobrowser](https://github.com/segler-alex/radiobrowser) - website frontend with angular for radio-browser api
-- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
+- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser
 - [kerrickstaley/drive-podcast](https://github.com/kerrickstaley/drive-podcast) - Google Apps Script for creating a podcast from a set of files in Google Drive
 - [moderndive/ModernDive_book](https://github.com/moderndive/ModernDive_book) - Statistical Inference via Data Science: A ModernDive into R and the Tidyverse
 - [dwyl/learn-to-send-email-via-google-script-html-no-server](https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server) - :email: An Example of using an HTML form (e.g: "Contact Us" on a website) to send Email without a Backend Server (using a Google Script) perfect for static websites that need to collect data.
@@ -2116,7 +2116,6 @@
 - [lgatto/TeachingMaterial](https://github.com/lgatto/TeachingMaterial) - Various teaching material
 - [kbroman/knitr_knutshell](https://github.com/kbroman/knitr_knutshell) - knitr in a nutshell: a brief guide to knitr
 - [novels-project/novels-corpus](https://github.com/novels-project/novels-corpus) - Gathering digitizations of novels published between 1770 and 1915.
-- [swcarpentry/r-novice-inflammation](https://github.com/swcarpentry/r-novice-inflammation) - Programming with R
 - [cligs/toolbox](https://github.com/cligs/toolbox) - Collection of small tools for text processing.
 - [lmullen/civil-procedure-codes](https://github.com/lmullen/civil-procedure-codes) - Analysis repository for "The Spine of American Law: Digital Text Analysis and U.S. Legal Practice"
 - [grangier/python-goose](https://github.com/grangier/python-goose) - Html Content / Article Extractor, web scrapping lib in Python
@@ -4775,6 +4774,7 @@
 - [ropensci/internetarchive](https://github.com/ropensci/internetarchive) - Search the Internet Archive, retrieve metadata, and download files
 - [yihui/servr](https://github.com/yihui/servr) - A simple HTTP server in R
 - [cboettig/template](https://github.com/cboettig/template) - :package: A template for my research projects, based on the R package structure
+- [swcarpentry/r-novice-inflammation](https://github.com/swcarpentry/r-novice-inflammation) - Programming with R
 - [r-lib/crayon](https://github.com/r-lib/crayon) - 🖍️ R package for colored terminal output — now superseded by cli
 - [qinwf/jiebaRD](https://github.com/qinwf/jiebaRD) - Chinese Text Segmentation Data for jiebaR Package
 - [rstudio/packrat](https://github.com/rstudio/packrat) - Packrat is a dependency management system for R
