@@ -177,6 +177,7 @@
 
 ## C 
 
+- [NorthernMan54/rtl_433_ESP](https://github.com/NorthernMan54/rtl_433_ESP) - Trial port of the rtl_433 Library for use with OpenMQTTGateway on a ESP32 and a CC1101 Transceiver
 - [kristapsdz/kcgi](https://github.com/kristapsdz/kcgi) - minimal CGI and FastCGI library for C/C++
 - [gl-inet/glbuilder](https://github.com/gl-inet/glbuilder) - 
 - [akemnade/kobo-firmware-extractor](https://github.com/akemnade/kobo-firmware-extractor) - extracts firmware from hidden partitions on Kobo/Tolino ebook readers
@@ -911,7 +912,7 @@
 - [datacute/DoubleResetDetector](https://github.com/datacute/DoubleResetDetector) - Library to detect a double reset, using ESP8266 RTC User Memory
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new second brain that makes your life 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚒𝚌𝚒𝚘𝚞𝚜𝚕𝚢 easy :rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚒𝚌𝚒𝚘𝚞𝚜𝚕𝚢 smart second brain :rocket:
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -1837,7 +1838,7 @@
 - [jdkato/prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [rgburke/grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
-- [bogem/nehm](https://github.com/bogem/nehm) - (DEPRECATED) ☁️  CLI for downloading tracks from SoundCloud
+- [n10v/nehm](https://github.com/n10v/nehm) - (DEPRECATED) ☁️  CLI for downloading tracks from SoundCloud
 - [junyu-w/corgi](https://github.com/junyu-w/corgi) - Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [RadhiFadlillah/simple-server](https://github.com/RadhiFadlillah/simple-server) - Simple HTTP server to serve contents of specified directory
@@ -5290,6 +5291,7 @@
 
 ## Shell 
 
+- [sheilbronn/rtl2mqtt](https://github.com/sheilbronn/rtl2mqtt) - Process, filter, clean and reduce the decoded messages from rtl_433 before passing them on to an MQTT broker.
 - [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) - Set up adblock using oisd dnsmasq file
 - [aartoni/n249](https://github.com/aartoni/n249) - Kobo Clara HD and InkBox notes
 - [akemnade/n249](https://github.com/akemnade/n249) - Kobo Clara HD and InkBox notes
