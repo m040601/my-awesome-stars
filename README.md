@@ -596,7 +596,6 @@
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
 - [jedisct1/minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures.
 - [kristapsdz/openrsync](https://github.com/kristapsdz/openrsync) - BSD-licensed implementation of rsync
-- [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [RealTimeLogic/MinnowServer](https://github.com/RealTimeLogic/MinnowServer) - A super small and fast embedded HTTP(S) WebSocket server
 - [ladecadence/ASHAB-Telemetry-Receiver](https://github.com/ladecadence/ASHAB-Telemetry-Receiver) - Telemetry Receiver software for the ASHAB High Altitude Balloon LoRa-based missions.
 - [cdown/clipnotify](https://github.com/cdown/clipnotify) - Notify on new X clipboard events
@@ -4069,6 +4068,7 @@
 - [shashanoid/Gen2Kindle](https://github.com/shashanoid/Gen2Kindle) - Search, download, convert and send files directly to your kindle from Libgen in one place.
 - [joshuarli/pylibgen](https://github.com/joshuarli/pylibgen) - Python interface to Library Genesis. DEAD/UNMAINTAINED.
 - [adolfosilva/libgen.py](https://github.com/adolfosilva/libgen.py) - Download books from gen.lib.rus.ec, libgen.io, libgen.pw, b-ok.org and bookfi.net
+- [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [sigdeletras/Spanish_Inspire_Catastral_Downloader](https://github.com/sigdeletras/Spanish_Inspire_Catastral_Downloader) - A QGIS plugin to download cadastral data from INSPIRE Services of Spanish Cadastral Cartography
 - [cdown/srt](https://github.com/cdown/srt) - A simple library for parsing, modifying, and composing SRT files.
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
