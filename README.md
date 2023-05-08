@@ -177,6 +177,7 @@
 
 ## C 
 
+- [akemnade/mumpot](https://github.com/akemnade/mumpot) - osm map viewing/editing software
 - [NorthernMan54/rtl_433_ESP](https://github.com/NorthernMan54/rtl_433_ESP) - Trial port of the rtl_433 Library for use with OpenMQTTGateway on a ESP32 and a CC1101 Transceiver
 - [kristapsdz/kcgi](https://github.com/kristapsdz/kcgi) - minimal CGI and FastCGI library for C/C++
 - [gl-inet/glbuilder](https://github.com/gl-inet/glbuilder) - 
@@ -907,6 +908,8 @@
 
 ## C++ 
 
+- [Rain92/UltimateMangaReader](https://github.com/Rain92/UltimateMangaReader) - A feature-rich online manga reader for Kobo E-Ink devices based on Qt5.
+- [sfambach/D1Mini](https://github.com/sfambach/D1Mini) - All my collections to (Wemos) D1 Mini
 - [mlesniew/PicoMQTT](https://github.com/mlesniew/PicoMQTT) - ESP MQTT client and broker library
 - [RobTillaart/MT8870](https://github.com/RobTillaart/MT8870) - Arduino library for MT8870 DTMF decoder (breakout)
 - [datacute/DoubleResetDetector](https://github.com/datacute/DoubleResetDetector) - Library to detect a double reset, using ESP8266 RTC User Memory
@@ -1542,6 +1545,7 @@
 
 ## Go 
 
+- [bjesus/localcommand](https://github.com/bjesus/localcommand) - Run local commands straight from the web 🪄
 - [rendicott/uggly-server](https://github.com/rendicott/uggly-server) - uses uggly framework to be a tui server
 - [dimkr/tootik](https://github.com/dimkr/tootik) - A federated nanoblogging service with a Gemini frontend.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
@@ -2308,6 +2312,8 @@
 
 ## JavaScript 
 
+- [bjesus/callibella](https://github.com/bjesus/callibella) - Sync your personal calendar to your work calendar, privately 🐒
+- [bjesus/muxile-worker](https://github.com/bjesus/muxile-worker) - Putting tmux on your mobile (backend)
 - [rpsubc8/gamepadDTMF](https://github.com/rpsubc8/gamepadDTMF) - Gamepad HID decode DTMF
 - [peter-mount/departureboards](https://github.com/peter-mount/departureboards) - This is the new departureboards.mobi site as a docker image.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
@@ -2736,7 +2742,7 @@
 - [wshanks/Zutilo](https://github.com/wshanks/Zutilo) - Zotero plugin providing some additional editing features
 - [wshanks/Zoterodactyl](https://github.com/wshanks/Zoterodactyl) - Pentadactyl key mappings for Zotero
 - [nokonoko/Pomf](https://github.com/nokonoko/Pomf) - Simple file uploading and sharing, source for the now shut down site Pomf.se
-- [dat-ecosystem-archive/dat](https://github.com/dat-ecosystem-archive/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
+- [dat-ecosystem/dat](https://github.com/dat-ecosystem/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
 - [medialab/artoo](https://github.com/medialab/artoo) - artoo.js - the client-side scraping companion.
 - [thybag/PJAX-Standalone](https://github.com/thybag/PJAX-Standalone) - A standalone implementation of Pushstate AJAX, for non-jquery webpages.
 - [tholman/intense-images](https://github.com/tholman/intense-images) - A simple library to view large images up close using simple mouse interaction, and the full screen.
@@ -3582,6 +3588,9 @@
 
 ## Python 
 
+- [ciromattia/kcc](https://github.com/ciromattia/kcc) - KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
+- [Kapeli/Dash-User-Contributions](https://github.com/Kapeli/Dash-User-Contributions) - Dash repo of user contributed docsets
+- [milaq/rpi-rf](https://github.com/milaq/rpi-rf) - Sending and receiving 433MHz signals with cheap GPIO RF modules on a Raspberry Pi
 - [gl-inet/gl-infra-builder](https://github.com/gl-inet/gl-infra-builder) - 
 - [rendicott/puggly-server](https://github.com/rendicott/puggly-server) - uggly protocol server in python
 - [rendicott/uggly](https://github.com/rendicott/uggly) - framework for TUI client and server
@@ -4212,7 +4221,7 @@
 - [nerevu/riko](https://github.com/nerevu/riko) - A Python stream processing engine modeled after Yahoo! Pipes
 - [agermanidis/autosub](https://github.com/agermanidis/autosub) - [NO LONGER MAINTAINED] Command-line utility for auto-generating subtitles for any video file
 - [remarshal-project/remarshal](https://github.com/remarshal-project/remarshal) - Convert between CBOR, JSON, MessagePack, TOML, and YAML
-- [jpmens/mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notify pluggable services
+- [mqtt-tools/mqttwarn](https://github.com/mqtt-tools/mqttwarn) - A highly configurable MQTT message router, where the routing targets are notification plugins, primarily written in Python.
 - [roam-qgis/Roam](https://github.com/roam-qgis/Roam) - Simple data collection built using QGIS.
 - [gaubert/gmvault](https://github.com/gaubert/gmvault) - gmail backup software
 - [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
@@ -5292,6 +5301,8 @@
 
 ## Shell 
 
+- [stelzch/zeal_fzf](https://github.com/stelzch/zeal_fzf) - Search and display offline documentation right in your terminal!
+- [stelzch/kiwix-w3m](https://github.com/stelzch/kiwix-w3m) - Access StackOverflow or Wikipedia from your console.
 - [sheilbronn/rtl2mqtt](https://github.com/sheilbronn/rtl2mqtt) - Process, filter, clean and reduce the decoded messages from rtl_433 before passing them on to an MQTT broker.
 - [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) - Set up adblock using oisd dnsmasq file
 - [aartoni/n249](https://github.com/aartoni/n249) - Kobo Clara HD and InkBox notes
@@ -5928,6 +5939,7 @@
 
 ## TypeScript 
 
+- [natelindev/tsdav](https://github.com/natelindev/tsdav) - WebDAV, CALDAV, and CARDDAV client for Nodejs and the Browser
 - [Booligoosh/sydneybikemap](https://github.com/Booligoosh/sydneybikemap) - 🚲️ Your guide to Sydney’s cycle network — See safe routes to ride  in Sydney including separated cycleways, shared paths, cycleways under construction, planned cycleways and more.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps for the web.
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Cloud-optimized + compressed single-file tile archives for vector and raster maps
@@ -6027,6 +6039,7 @@
 
 ## Vim Script 
 
+- [KabbAmine/zeavim.vim](https://github.com/KabbAmine/zeavim.vim) - Zeal for Vim
 - [benbusby/vim-hubbub](https://github.com/benbusby/vim-hubbub) - Use GitHub features from within Vim
 - [pappasam/vim-keywordprg-commands](https://github.com/pappasam/vim-keywordprg-commands) - Plugin to create and manage user commands intended to look up keyword documentation in Vim
 - [iranoan/dotfiles](https://github.com/iranoan/dotfiles) - 
