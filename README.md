@@ -177,6 +177,7 @@
 
 ## C 
 
+- [chaveiro/HAN-WIFI-Module](https://github.com/chaveiro/HAN-WIFI-Module) - The HAN module is a HAN &lt;-&gt; WIFI adapter designed to be connected externally to Intelligent Measuring Equipment (EMI) of single-phase or three-phase BTN points using the Modbus communication pro
 - [akemnade/mumpot](https://github.com/akemnade/mumpot) - osm map viewing/editing software
 - [NorthernMan54/rtl_433_ESP](https://github.com/NorthernMan54/rtl_433_ESP) - Trial port of the rtl_433 Library for use with OpenMQTTGateway on a ESP32 and a CC1101 Transceiver
 - [kristapsdz/kcgi](https://github.com/kristapsdz/kcgi) - minimal CGI and FastCGI library for C/C++
@@ -1652,7 +1653,7 @@
 - [codesoap/songmem](https://github.com/codesoap/songmem) - Remember the songs you heard and analyse your listening patterns
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [renard/papersave](https://github.com/renard/papersave) - Backup small important files to paper
-- [neilotoole/sq](https://github.com/neilotoole/sq) - sq: data wrangler
+- [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [ciehanski/libgen-cli](https://github.com/ciehanski/libgen-cli) - A CLI tool to access the Library Genesis dataset; written in Go.
 - [jftuga/photo_id_resizer](https://github.com/jftuga/photo_id_resizer) - Resize photo ID images using face recognition technology
@@ -3137,6 +3138,7 @@
 
 ## Others 
 
+- [tiagofreire-pt/Home_Assistant_EDP_Box](https://github.com/tiagofreire-pt/Home_Assistant_EDP_Box) - Integração das EDP Box com Home Assistant Core
 - [openwanderer/openwanderer](https://github.com/openwanderer/openwanderer) - Information about the OpenWanderer project.
 - [quarkscript2/xe303c12_arm_linux](https://github.com/quarkscript2/xe303c12_arm_linux) - Disk images with arm Linux for Chromebook XE303C12
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx
