@@ -916,7 +916,7 @@
 - [datacute/DoubleResetDetector](https://github.com/datacute/DoubleResetDetector) - Library to detect a double reset, using ESP8266 RTC User Memory
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎  𝘙𝘦𝘮𝘦𝘮𝘣𝘦𝘳 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, ridonkuliciously smart second brain :rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 𝘙𝘦𝘮𝘦𝘮𝘣𝘦𝘳 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, ridonkuliciously smart clipboard manager:rocket:
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -926,7 +926,6 @@
 - [jbtronics/ESP32Console](https://github.com/jbtronics/ESP32Console) - Extensible UART console library for ESP32 with useful included commands.
 - [timmbogner/Linear-Spacing-Visualizer-for-Transplanters](https://github.com/timmbogner/Linear-Spacing-Visualizer-for-Transplanters) - This Arduino device uses an addressable LED strip synced to the movement of a tractor/transplanter to dictate precise plant spacing automatically or by remote input (coming soon).
 - [sandeepmistry/arduino-LoRa](https://github.com/sandeepmistry/arduino-LoRa) - An Arduino library for sending and receiving data using LoRa radios.
-- [timmbogner/LoRaNow](https://github.com/timmbogner/LoRaNow) - LoRaNow Library is a simple LoRa Node &lt;&gt; Gateway communication protocol.
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 - [e1z0/Framebuffer-browser](https://github.com/e1z0/Framebuffer-browser) - Simple Linux framebuffer Web Browser based on QtWebEngine
 - [xlucn/fbterm](https://github.com/xlucn/fbterm) - A personal fork only to keep the patches I need
@@ -3138,6 +3137,7 @@
 
 ## Others 
 
+- [ale1800/ESP-360-REMOTE](https://github.com/ale1800/ESP-360-REMOTE) - An all-in-one remote based on the ESP32-WROOM-32E
 - [tiagofreire-pt/Home_Assistant_EDP_Box](https://github.com/tiagofreire-pt/Home_Assistant_EDP_Box) - Integração das EDP Box com Home Assistant Core
 - [openwanderer/openwanderer](https://github.com/openwanderer/openwanderer) - Information about the OpenWanderer project.
 - [quarkscript2/xe303c12_arm_linux](https://github.com/quarkscript2/xe303c12_arm_linux) - Disk images with arm Linux for Chromebook XE303C12
