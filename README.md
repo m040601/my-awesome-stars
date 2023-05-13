@@ -3402,6 +3402,7 @@
 
 ## PHP 
 
+- [cloudflare/Cloudflare-WordPress](https://github.com/cloudflare/Cloudflare-WordPress) - A Cloudflare plugin for WordPress
 - [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
 - [Rouji/single_php_filehost](https://github.com/Rouji/single_php_filehost) - Simple Filehosting Page in a Single PHP File (obvious 0x0 clone)
 - [simon816/ical-bridge](https://github.com/simon816/ical-bridge) - RSS-Bridge but for iCalendar
@@ -4083,7 +4084,7 @@
 - [adolfosilva/libgen.py](https://github.com/adolfosilva/libgen.py) - Download books from gen.lib.rus.ec, libgen.io, libgen.pw, b-ok.org and bookfi.net
 - [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [sigdeletras/Spanish_Inspire_Catastral_Downloader](https://github.com/sigdeletras/Spanish_Inspire_Catastral_Downloader) - A QGIS plugin to download cadastral data from INSPIRE Services of Spanish Cadastral Cartography
-- [cdown/srt](https://github.com/cdown/srt) - A simple library for parsing, modifying, and composing SRT files.
+- [cdown/srt](https://github.com/cdown/srt) - A simple library and set of tools for parsing, modifying, and composing SRT files.
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
 - [rettier/c](https://github.com/rettier/c) - The C Macro
 - [languitar/pass-git-helper](https://github.com/languitar/pass-git-helper) - A git credential helper interfacing with pass, the standard unix password manager.
@@ -4219,7 +4220,6 @@
 - [pettarin/forced-alignment-tools](https://github.com/pettarin/forced-alignment-tools) - A collection of links and notes on forced alignment tools
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [pettarin/aeneas](https://github.com/pettarin/aeneas) - aeneas is a Python library and a set of tools to automagically synchronize audio and text
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [ekbrown/python_scripts](https://github.com/ekbrown/python_scripts) - Python scripts for corpus linguistics
 - [nerevu/riko](https://github.com/nerevu/riko) - A Python stream processing engine modeled after Yahoo! Pipes
 - [agermanidis/autosub](https://github.com/agermanidis/autosub) - [NO LONGER MAINTAINED] Command-line utility for auto-generating subtitles for any video file
@@ -5305,6 +5305,8 @@
 
 ## Shell 
 
+- [lkraav/openwrt-files](https://github.com/lkraav/openwrt-files) - 
+- [faruktezcan/openwrt-ram-root](https://github.com/faruktezcan/openwrt-ram-root) - Extroot using ramfs with  backup&restore option
 - [stelzch/zeal_fzf](https://github.com/stelzch/zeal_fzf) - Search and display offline documentation right in your terminal!
 - [stelzch/kiwix-w3m](https://github.com/stelzch/kiwix-w3m) - Access StackOverflow or Wikipedia from your console.
 - [sheilbronn/rtl2mqtt](https://github.com/sheilbronn/rtl2mqtt) - Process, filter, clean and reduce the decoded messages from rtl_433 before passing them on to an MQTT broker.
