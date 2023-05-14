@@ -177,6 +177,7 @@
 
 ## C 
 
+- [CarlosDerSeher/snapclient](https://github.com/CarlosDerSeher/snapclient) - WIP snapclient on ESP32
 - [chaveiro/HAN-WIFI-Module](https://github.com/chaveiro/HAN-WIFI-Module) - The HAN module is a HAN &lt;-&gt; WIFI adapter designed to be connected externally to Intelligent Measuring Equipment (EMI) of single-phase or three-phase BTN points using the Modbus communication pro
 - [akemnade/mumpot](https://github.com/akemnade/mumpot) - osm map viewing/editing software
 - [NorthernMan54/rtl_433_ESP](https://github.com/NorthernMan54/rtl_433_ESP) - Trial port of the rtl_433 Library for use with OpenMQTTGateway on a ESP32 and a CC1101 Transceiver
@@ -916,7 +917,7 @@
 - [datacute/DoubleResetDetector](https://github.com/datacute/DoubleResetDetector) - Library to detect a double reset, using ESP8266 RTC User Memory
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 𝘙𝘦𝘮𝘦𝘮𝘣𝘦𝘳 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, ridonkuliciously smart clipboard manager:rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 𝘙𝘦𝘮𝘦𝘮𝘣𝘦𝘳 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, ridonkuliciously cool clipboard manager:rocket:
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -1545,6 +1546,7 @@
 
 ## Go 
 
+- [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [bjesus/localcommand](https://github.com/bjesus/localcommand) - Run local commands straight from the web 🪄
 - [rendicott/uggly-server](https://github.com/rendicott/uggly-server) - uses uggly framework to be a tui server
 - [dimkr/tootik](https://github.com/dimkr/tootik) - A federated nanoblogging service with a Gemini frontend.
@@ -1936,6 +1938,7 @@
 
 ## HTML 
 
+- [EdJoPaTo/website-stalker-example](https://github.com/EdJoPaTo/website-stalker-example) - Demonstrate the website-stalker being run via github-actions
 - [dialoa/columns](https://github.com/dialoa/columns) - Multicolumn support for pandoc's markdown
 - [Eli-the-Bearded/vt100-slowcat](https://github.com/Eli-the-Bearded/vt100-slowcat) - VT100 animations and slowcat to play them.
 - [pafoster/gdir.telae.net](https://github.com/pafoster/gdir.telae.net) - Code for gdir.telae.net - a minimalistic directions service
@@ -5089,6 +5092,9 @@
 
 ## Rust 
 
+- [EdJoPaTo/mpd-internetradio-destuck](https://github.com/EdJoPaTo/mpd-internetradio-destuck) - Fix mpd getting stuck on internet radio when the daily disconnect happens
+- [EdJoPaTo/website-stalker](https://github.com/EdJoPaTo/website-stalker) - Track changes on websites via git
+- [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal
 - [matiaskorhonen/paper-age](https://github.com/matiaskorhonen/paper-age) - Easy and secure paper backups of secrets
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
@@ -5168,7 +5174,7 @@
 - [jiegec/tantivy-jieba](https://github.com/jiegec/tantivy-jieba) - An adapter that bridges between tantivy and jieba-rs.
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs) - Rust implementation of Magic Wormhole, with new features and enhancements
-- [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
+- [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [cglindkamp/run-mailcap-rs](https://github.com/cglindkamp/run-mailcap-rs) - run-mailcap replacement written in Rust
 - [oll3/bita](https://github.com/oll3/bita) - Differential file synchronization over http
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
