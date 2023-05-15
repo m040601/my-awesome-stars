@@ -917,7 +917,7 @@
 - [datacute/DoubleResetDetector](https://github.com/datacute/DoubleResetDetector) - Library to detect a double reset, using ESP8266 RTC User Memory
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 𝘙𝘦𝘮𝘦𝘮𝘣𝘦𝘳 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, ridonkuliciously cool clipboard manager:rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 𝘙𝘦𝘮𝘦𝘮𝘣𝘦𝘳 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, ridonkuliciously smart clipboard manager:rocket:
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -3051,6 +3051,7 @@
 - [jp-fosterson/pandoc-novel](https://github.com/jp-fosterson/pandoc-novel) - Markdown text to a novel in ePub and PDF.
 - [ivanstojic/pandoc-ssg](https://github.com/ivanstojic/pandoc-ssg) - Pandoc-SSG is a Make driven Pandoc static site generator. It features basic functionality in a trivial implementation.
 - [patrickbr/hagel](https://github.com/patrickbr/hagel) - Single Makefile static page generator. Mostly meant as a joke.
+- [plerup/makeEspArduino](https://github.com/plerup/makeEspArduino) - A makefile for ESP8266 and ESP32 Arduino projects
 - [m01/rock64-arch-linux-build](https://github.com/m01/rock64-arch-linux-build) - Build Arch Linux ARM images for Rock64 single board computer
 - [dreemurrs-embedded/Jumpdrive](https://github.com/dreemurrs-embedded/Jumpdrive) - Flash/Rescue SD Card image for PinePhone and PineTab
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
@@ -3499,7 +3500,6 @@
 - [omar-polo/mlmpl](https://github.com/omar-polo/mlmpl) - simple mailing list (and newsletter) manager
 - [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) - a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)
 - [trizen/perl-scripts](https://github.com/trizen/perl-scripts) - A nice collection of day-to-day Perl scripts.
-- [plerup/makeEspArduino](https://github.com/plerup/makeEspArduino) - A makefile for ESP8266 and ESP32 Arduino projects
 - [trizen/pipe-viewer](https://github.com/trizen/pipe-viewer) - A lightweight YouTube client for Linux, without requiring an API key.
 - [skx/dhcp.io](https://github.com/skx/dhcp.io) - Dynamic DNS - Via Redis, Perl, and Amazon Route53.
 - [benbernard/RecordStream](https://github.com/benbernard/RecordStream) - commandline tools for slicing and dicing JSON records.
