@@ -2909,6 +2909,7 @@
 
 - [whotracksme/whotracks.me](https://github.com/whotracksme/whotracks.me) - Data from the largest and longest measurement of online tracking.
 - [statsthinking21/statsthinking21-python](https://github.com/statsthinking21/statsthinking21-python) - Python companion for Statistical Thinking in the 21st Century
+- [pymupdf/PyMuPDF-Utilities](https://github.com/pymupdf/PyMuPDF-Utilities) - Demos, examples and utilities using PyMuPDF
 - [neelsomani/senator-filings](https://github.com/neelsomani/senator-filings) - Scrape public filings of the buy + sell orders of U.S. senators and calculate their returns
 - [Bubblbu/zotero-insights](https://github.com/Bubblbu/zotero-insights) - 
 - [openspending/farmsubsidy-scrapers](https://github.com/openspending/farmsubsidy-scrapers) - Scrapers for FarmSubsidy data in the member states
@@ -3808,7 +3809,6 @@
 - [indico/indico](https://github.com/indico/indico) - Indico - A feature-rich event management system, made @ CERN, the place where the Web was born.
 - [scrapedia/scrapy-pipelines](https://github.com/scrapedia/scrapy-pipelines) - A collection of pipelines for Scrapy
 - [wummel/patool](https://github.com/wummel/patool) - patool is a portable command line archive file manager
-- [pymupdf/PyMuPDF-Utilities](https://github.com/pymupdf/PyMuPDF-Utilities) - Demos, examples and utilities using PyMuPDF
 - [openwpm/OpenWPM](https://github.com/openwpm/OpenWPM) - A web privacy measurement framework
 - [podhmo/dictknife](https://github.com/podhmo/dictknife) - armyknife of handling dict object
 - [ali1234/pydo](https://github.com/ali1234/pydo) - Just a weird thing.
