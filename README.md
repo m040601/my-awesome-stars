@@ -201,7 +201,7 @@
 - [rpmohn/a4](https://github.com/rpmohn/a4) - dynamic terminal manager and multiplexer
 - [ciniml/WireGuard-ESP32-Arduino](https://github.com/ciniml/WireGuard-ESP32-Arduino) - WireGuard implementation for ESP32 Arduino
 - [phillbush/plumb](https://github.com/phillbush/plumb) - yet another plumbing utility for UNIX
-- [mini-rose/rose](https://github.com/mini-rose/rose) - Minimalist browser based on webkit2.
+- [mini-rose/rose-browser](https://github.com/mini-rose/rose-browser) - Minimalist browser based on webkit2.
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [nifty-site-manager/nsm](https://github.com/nifty-site-manager/nsm) - Nift - world's fastest cross-platform open source website generator.
 - [fAuernigg/esp32-baresip-client](https://github.com/fAuernigg/esp32-baresip-client) - 
@@ -917,7 +917,7 @@
 - [datacute/DoubleResetDetector](https://github.com/datacute/DoubleResetDetector) - Library to detect a double reset, using ESP8266 RTC User Memory
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 𝘙𝘦𝘮𝘦𝘮𝘣𝘦𝘳 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, ridonkuliciously smart clipboard manager:rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 𝘐𝘮𝘢𝘨𝘪𝘯𝘦 𝘩𝘢𝘷𝘪𝘯𝘨 𝘢 𝘴𝘦𝘤𝘰𝘯𝘥 𝘣𝘳𝘢𝘪𝘯... Your new, ridonkuliciously-smart clipboard manager:rocket:
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -3594,6 +3594,7 @@
 
 ## Python 
 
+- [carterprince/libby](https://github.com/carterprince/libby) - a simple CLI tool to quickly download books from Library Genesis (libgen)
 - [marcelstoer/nodemcu-pyflasher](https://github.com/marcelstoer/nodemcu-pyflasher) - Self-contained NodeMCU flasher with GUI based on esptool.py and wxPython.
 - [esphome/esphome-flasher](https://github.com/esphome/esphome-flasher) - Simple GUI tool to flash ESPs over USB
 - [ciromattia/kcc](https://github.com/ciromattia/kcc) - KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
@@ -5092,6 +5093,12 @@
 
 ## Rust 
 
+- [acheronfail/repgrep](https://github.com/acheronfail/repgrep) - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
+- [rsadsb/adsb_deku](https://github.com/rsadsb/adsb_deku) - ✈️ Rust ADS-B decoder + tui radar application
+- [blacknon/hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
+- [ksk001100/picterm](https://github.com/ksk001100/picterm) - TUI image viewer
+- [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
+- [tui-rs-revival/ratatui](https://github.com/tui-rs-revival/ratatui) - tui-rs revival project
 - [EdJoPaTo/mpd-internetradio-destuck](https://github.com/EdJoPaTo/mpd-internetradio-destuck) - Fix mpd getting stuck on internet radio when the daily disconnect happens
 - [EdJoPaTo/website-stalker](https://github.com/EdJoPaTo/website-stalker) - Track changes on websites via git
 - [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal
