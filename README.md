@@ -2398,7 +2398,7 @@
 - [radiantearth/stac-spec](https://github.com/radiantearth/stac-spec) - SpatioTemporal Asset Catalog specification - making geospatial assets openly searchable and crawlable
 - [NASAWorldWind/WebWorldWind](https://github.com/NASAWorldWind/WebWorldWind) - The NASA WorldWind Javascript SDK (WebWW) includes the library and examples for creating geo-browser web applications and for embedding a 3D globe in HTML5 web pages.
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
-- [sw-yx/gh-action-data-scraping](https://github.com/sw-yx/gh-action-data-scraping) - this shows how to use github actions to do periodic data scraping
+- [swyxio/gh-action-data-scraping](https://github.com/swyxio/gh-action-data-scraping) - this shows how to use github actions to do periodic data scraping
 - [uwcartlab/webmapping](https://github.com/uwcartlab/webmapping) - Workbook about making maps and visualizations for the web.
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
