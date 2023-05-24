@@ -599,6 +599,7 @@
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
 - [jedisct1/minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures.
 - [kristapsdz/openrsync](https://github.com/kristapsdz/openrsync) - BSD-licensed implementation of rsync
+- [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [RealTimeLogic/MinnowServer](https://github.com/RealTimeLogic/MinnowServer) - A super small and fast embedded HTTP(S) WebSocket server
 - [ladecadence/ASHAB-Telemetry-Receiver](https://github.com/ladecadence/ASHAB-Telemetry-Receiver) - Telemetry Receiver software for the ASHAB High Altitude Balloon LoRa-based missions.
 - [cdown/clipnotify](https://github.com/cdown/clipnotify) - Notify on new X clipboard events
@@ -3594,6 +3595,7 @@
 
 ## Python 
 
+- [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [carterprince/libby](https://github.com/carterprince/libby) - a simple CLI tool to quickly download books from Library Genesis (libgen)
 - [marcelstoer/nodemcu-pyflasher](https://github.com/marcelstoer/nodemcu-pyflasher) - Self-contained NodeMCU flasher with GUI based on esptool.py and wxPython.
 - [esphome/esphome-flasher](https://github.com/esphome/esphome-flasher) - Simple GUI tool to flash ESPs over USB
@@ -4086,7 +4088,6 @@
 - [shashanoid/Gen2Kindle](https://github.com/shashanoid/Gen2Kindle) - Search, download, convert and send files directly to your kindle from Libgen in one place.
 - [joshuarli/pylibgen](https://github.com/joshuarli/pylibgen) - Python interface to Library Genesis. DEAD/UNMAINTAINED.
 - [adolfosilva/libgen.py](https://github.com/adolfosilva/libgen.py) - Download books from gen.lib.rus.ec, libgen.io, libgen.pw, b-ok.org and bookfi.net
-- [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [sigdeletras/Spanish_Inspire_Catastral_Downloader](https://github.com/sigdeletras/Spanish_Inspire_Catastral_Downloader) - A QGIS plugin to download cadastral data from INSPIRE Services of Spanish Cadastral Cartography
 - [cdown/srt](https://github.com/cdown/srt) - A simple library and set of tools for parsing, modifying, and composing SRT files.
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
@@ -4224,6 +4225,7 @@
 - [pettarin/forced-alignment-tools](https://github.com/pettarin/forced-alignment-tools) - A collection of links and notes on forced alignment tools
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [pettarin/aeneas](https://github.com/pettarin/aeneas) - aeneas is a Python library and a set of tools to automagically synchronize audio and text
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [ekbrown/python_scripts](https://github.com/ekbrown/python_scripts) - Python scripts for corpus linguistics
 - [nerevu/riko](https://github.com/nerevu/riko) - A Python stream processing engine modeled after Yahoo! Pipes
 - [agermanidis/autosub](https://github.com/agermanidis/autosub) - [NO LONGER MAINTAINED] Command-line utility for auto-generating subtitles for any video file
@@ -4858,6 +4860,7 @@
 
 ## Ruby 
 
+- [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal.
 - [sunaku/tamzen-font](https://github.com/sunaku/tamzen-font) - 💌 Bitmapped programming font, based on Tamsyn
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
 - [thredded/thredded](https://github.com/thredded/thredded) - The best Rails forums engine ever.
@@ -5960,7 +5963,7 @@
 
 - [natelindev/tsdav](https://github.com/natelindev/tsdav) - WebDAV, CALDAV, and CARDDAV client for Nodejs and the Browser
 - [Booligoosh/sydneybikemap](https://github.com/Booligoosh/sydneybikemap) - 🚲️ Your guide to Sydney’s cycle network — See safe routes to ride  in Sydney including separated cycleways, shared paths, cycleways under construction, planned cycleways and more.
-- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps for the web.
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Cloud-optimized + compressed single-file tile archives for vector and raster maps
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
