@@ -195,7 +195,7 @@
 - [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
 - [Fishwaldo/esp_ghota](https://github.com/Fishwaldo/esp_ghota) - esp32 OTA Component to update firmware from Github Releases
 - [dreirund/Handsomemod-uf896](https://github.com/dreirund/Handsomemod-uf896) - A fork of OpenWrt-based "Handsomemod" operating system targeted to the ["UF896" stick-format WiFi/LTE router](https://forum.openwrt.org/t/131712).
-- [leonmavr/retrocube](https://github.com/leonmavr/retrocube) - 📺👽 3D graphics on the terminal in C without any third parties
+- [leonmavr/retrocube](https://github.com/leonmavr/retrocube) - 📺👽 3D graphics on the terminal in standard C without any third parties
 - [LinusDierheimer/fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in C.
 - [leonerd/libtickit](https://github.com/leonerd/libtickit) - 
 - [rpmohn/a4](https://github.com/rpmohn/a4) - dynamic terminal manager and multiplexer
@@ -1952,7 +1952,7 @@
 - [radman1/sauce](https://github.com/radman1/sauce) - Standard Architecture for Universal Comment Extensions
 - [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Pandoc.
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
-- [papis/papis-zotero](https://github.com/papis/papis-zotero) - Zotero compatiblity scripts for papis
+- [papis/papis-zotero](https://github.com/papis/papis-zotero) - Zotero compatibility scripts for papis
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [rugk/offline-qr-code](https://github.com/rugk/offline-qr-code) - 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
