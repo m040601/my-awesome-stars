@@ -853,7 +853,7 @@
 - [dvdhrm/kmscon](https://github.com/dvdhrm/kmscon) - Linux KMS/DRM based virtual Console Emulator
 - [ruediger/VobSub2SRT](https://github.com/ruediger/VobSub2SRT) - Converts VobSub subtitles (.idx/.srt format) into .srt subtitles.
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [kevinbirch/kanabo](https://github.com/kevinbirch/kanabo) - Query JSON/YAML data with JSONPath
 - [oblique/subsync](https://github.com/oblique/subsync) - subsync is a simple CLI tool that synchronizes SubRip (srt) subtitles automatically.
 - [wangxunyu/sego](https://github.com/wangxunyu/sego) - A Chinese word segment system, based on maximum matching algorithm.
