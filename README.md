@@ -5096,6 +5096,7 @@
 
 ## Rust 
 
+- [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
 - [acheronfail/repgrep](https://github.com/acheronfail/repgrep) - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
 - [rsadsb/adsb_deku](https://github.com/rsadsb/adsb_deku) - ✈️ Rust ADS-B decoder + tui radar application
 - [blacknon/hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
@@ -5972,6 +5973,7 @@
 - [zyachel/libremdb](https://github.com/zyachel/libremdb) - A free & open source IMDb front-end.
 - [DigitalHERMES/hermes-gui](https://github.com/DigitalHERMES/hermes-gui) - HERMES Web interface code.
 - [adriancooney/puppeteer-heap-snapshot](https://github.com/adriancooney/puppeteer-heap-snapshot) - API and CLI tool to fetch and query Chome DevTools heap snapshots.
+- [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [Jaeyo/personal-archive](https://github.com/Jaeyo/personal-archive) - keep track of things you learn / discover everyday!
 - [amagovpt/observatory](https://github.com/amagovpt/observatory) - PT Observatory of Web Accessibility - the main app
 - [r-wasm/webr](https://github.com/r-wasm/webr) - This project aims to compile the statistical language R into WASM for use in a browser, via Emscripten.
@@ -6328,7 +6330,6 @@
 ## Vue 
 
 - [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
-- [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [pschatzmann/esp32_radio](https://github.com/pschatzmann/esp32_radio) - Web Radio Player which is also working with a ESP32 Micro Controller
 - [radiantearth/stac-browser](https://github.com/radiantearth/stac-browser) - A full-fledged UI in Vue for browsing and searching static STAC catalogs and STAC APIs
 - [anonaddy/browser-extension](https://github.com/anonaddy/browser-extension) - The source code for the browser extension
