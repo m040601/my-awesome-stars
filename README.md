@@ -3846,7 +3846,7 @@
 - [larsks/snarl](https://github.com/larsks/snarl) - 
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [krdarrah/ESP32_GUI_Programmer](https://github.com/krdarrah/ESP32_GUI_Programmer) - Processing Based GUI for Programming ESP32 modules based on espota.py
-- [formatc1702/WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses
+- [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses
 - [notpike/Hambone](https://github.com/notpike/Hambone) - Raspberry Pi Bot for Ham Radio
 - [pimoroni/pirate-audio](https://github.com/pimoroni/pirate-audio) - Examples and documentation for the Pirate Audio range of Raspberry Pi add-ons
 - [yunsim/T9-predictive-text](https://github.com/yunsim/T9-predictive-text) - Implementation of T9 predictive text with C
@@ -5988,7 +5988,7 @@
 - [tmcw/gedcom](https://github.com/tmcw/gedcom) - A simple GEDCOM parser that focuses on translating GEDCOM structure into JSON.
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
-- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [zeplia/minwiz](https://github.com/zeplia/minwiz) - Minimal starter kit for under 2 KB sites
 - [janci007/control-panel](https://github.com/janci007/control-panel) - 
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
