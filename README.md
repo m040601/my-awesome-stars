@@ -1178,7 +1178,7 @@
 - [Dushistov/sdcv](https://github.com/Dushistov/sdcv) - 
 - [hallard/ArduiPi_SSD1306](https://github.com/hallard/ArduiPi_SSD1306) - ArduiPi Adafruit SSD1306 OLED Driver for Raspberry Pi and ArduiPi Board
 - [hallard/ArduiPi_OLED](https://github.com/hallard/ArduiPi_OLED) - Common used OLED driver for Raspberry PI
-- [Barracuda09/SATPI](https://github.com/Barracuda09/SATPI) - SATIP server for linux, suitable to run on an Raspberry Pi, Vu+, BeagleBone or any other linux box. currently supporting DVB-S/S2/T/C  and transform DVB-S requests to DVB-C
+- [Barracuda09/SATPI](https://github.com/Barracuda09/SATPI) - SATIP server for linux, suitable to run on an Raspberry Pi, Vu+, GigaBlue or any other linux box. currently supporting DVB-S/S2/T/C  and transform DVB-S requests to DVB-C
 - [mpromonet/v4l2rtspserver](https://github.com/mpromonet/v4l2rtspserver) - RTSP Server for V4L2 device capture supporting HEVC/H264/JPEG/VP8/VP9
 - [MrBuddyCasino/ESP32_MP3_Decoder](https://github.com/MrBuddyCasino/ESP32_MP3_Decoder) - A internet radio and bluetooth speaker project for the Espressif ESP32
 - [kupa79/arduino-mpd-client](https://github.com/kupa79/arduino-mpd-client) - Arduino MPD Client
@@ -1616,7 +1616,7 @@
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks and markdown.
 - [bmaupin/go-epub](https://github.com/bmaupin/go-epub) - Go library for creating EPUB files
 - [LiboShen/webpage-to-ebook](https://github.com/LiboShen/webpage-to-ebook) - 
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - :cyclone: Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles w
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when progra
 - [dakyskye/dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
 - [audstanley/libgen-tui](https://github.com/audstanley/libgen-tui) - A terminal based application for LibGen
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -1787,7 +1787,7 @@
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [McKael/madonctl](https://github.com/McKael/madonctl) - CLI client for the Mastodon social network API
 - [mosuka/blast](https://github.com/mosuka/blast) - Blast is a full text search and indexing server, written in Go, built on top of Bleve.
-- [xyproto/algernon](https://github.com/xyproto/algernon) - :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 - [rkt/rkt](https://github.com/rkt/rkt) - [Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 - [3ofcoins/jetpack](https://github.com/3ofcoins/jetpack) - **PROTOTYPE** FreeBSD Jail/ZFS based implementation of the Application Container Specification
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -2044,7 +2044,6 @@
 - [tomcritchlow/tomcritchlow.github.io](https://github.com/tomcritchlow/tomcritchlow.github.io) - Me. Learning to use Github and learning to live life.
 - [flukus/flukus.github.io](https://github.com/flukus/flukus.github.io) - 
 - [kaihendry/natalian](https://github.com/kaihendry/natalian) - Kai Hendry's blog
-- [ropensci/osmplotr](https://github.com/ropensci/osmplotr) - Data visualisation using OpenStreetMap objects
 - [ropensci-archive/roweb2](https://github.com/ropensci-archive/roweb2) - :no_entry: ARCHIVED :no_entry:
 - [allo-/firefox-profilemaker](https://github.com/allo-/firefox-profilemaker) - A tool to create firefox profiles with personalized defaults.
 - [CollectionBuilder/collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh) - a Jekyll project to create a basic digital collection exhibit. See Readme below for instructions to get started!
@@ -3798,7 +3797,7 @@
 - [zveronline/docker-sopds](https://github.com/zveronline/docker-sopds) - Dockerfile to build a Simple OPDS server docker image.
 - [makew0rld/md2gemini](https://github.com/makew0rld/md2gemini) - File converter from Markdown to Gemini.
 - [gokcehan/mopen](https://github.com/gokcehan/mopen) - File opener using mimetypes and mailcap
-- [opentimestamps/opentimestamps-server](https://github.com/opentimestamps/opentimestamps-server) - OpenTimestamps server component
+- [opentimestamps/opentimestamps-server](https://github.com/opentimestamps/opentimestamps-server) - OpenTimestamps Calendar Server
 - [opentimestamps/opentimestamps-client](https://github.com/opentimestamps/opentimestamps-client) - OpenTimestamps client
 - [schollz/github-backup](https://github.com/schollz/github-backup) - Backup all the repos from Github using the official API
 - [lkiesow/python-feedgen](https://github.com/lkiesow/python-feedgen) - Python module to generate ATOM feeds, RSS feeds and Podcasts.
@@ -3846,7 +3845,7 @@
 - [larsks/snarl](https://github.com/larsks/snarl) - 
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [krdarrah/ESP32_GUI_Programmer](https://github.com/krdarrah/ESP32_GUI_Programmer) - Processing Based GUI for Programming ESP32 modules based on espota.py
-- [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses
+- [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses.
 - [notpike/Hambone](https://github.com/notpike/Hambone) - Raspberry Pi Bot for Ham Radio
 - [pimoroni/pirate-audio](https://github.com/pimoroni/pirate-audio) - Examples and documentation for the Pirate Audio range of Raspberry Pi add-ons
 - [yunsim/T9-predictive-text](https://github.com/yunsim/T9-predictive-text) - Implementation of T9 predictive text with C
@@ -4662,6 +4661,7 @@
 - [ropensci/DataPackageR](https://github.com/ropensci/DataPackageR) - An R package to enable reproducible data processing, packaging and sharing.
 - [ropensci/vcr](https://github.com/ropensci/vcr) - Record HTTP calls and replay them
 - [ropensci/crul](https://github.com/ropensci/crul) - R6 based http client for R (made for developers)
+- [ropensci/osmplotr](https://github.com/ropensci/osmplotr) - Data visualisation using OpenStreetMap objects
 - [ropensci/drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
 - [petebaker/dryworkflow](https://github.com/petebaker/dryworkflow) - DRY (Don't Repeat Yourself) Workflow for more efficient data analysis using R
 - [hrbrmstr/pubcrawl](https://github.com/hrbrmstr/pubcrawl) - 🍺📖 Convert 'epub' Files to Text (Use https://github.com/ropensci/epubr instead)
