@@ -1089,7 +1089,7 @@
 - [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) - Command Line Interactive and Scriptable Application to access MEGA
 - [edwardearl/winprom](https://github.com/edwardearl/winprom) - winprom
 - [Yours3lf/rpi-vk-driver](https://github.com/Yours3lf/rpi-vk-driver) - VK driver for the Raspberry Pi (Broadcom Videocore IV)
-- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your 
+- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
 - [doublec4/IOTdummycam](https://github.com/doublec4/IOTdummycam) - Convert a dummy cam into an IOT smart "camera"
 - [opengisch/QField](https://github.com/opengisch/QField) - A simplified touch optimized interface for QGIS
 - [dragon-engineer/esp32_fmdevkit](https://github.com/dragon-engineer/esp32_fmdevkit) - ESP32 Development Board for FM broadcasting. Complete DA Audio processing. The example/default Arduino firmware works as a Bluetooth Speaker (A2DP Sink). The code builds with the newest ESP32 Arduino 
@@ -1943,7 +1943,6 @@
 - [dialoa/columns](https://github.com/dialoa/columns) - Multicolumn support for pandoc's markdown
 - [Eli-the-Bearded/vt100-slowcat](https://github.com/Eli-the-Bearded/vt100-slowcat) - VT100 animations and slowcat to play them.
 - [pafoster/gdir.telae.net](https://github.com/pafoster/gdir.telae.net) - Code for gdir.telae.net - a minimalistic directions service
-- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [cadars/portable-php](https://github.com/cadars/portable-php) - A blog in one HTML file
 - [Georiviere/website](https://github.com/Georiviere/website) - Project website Georivière
 - [n0x5/n0x5.github.io](https://github.com/n0x5/n0x5.github.io) - test
@@ -2964,6 +2963,7 @@
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [kode-team/mastodon.nvim](https://github.com/kode-team/mastodon.nvim) - Mastodon client for Neovim
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - A file manager for Neovim which lets you edit your filesystem like you edit text
+- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [stelzch/zotero.koplugin](https://github.com/stelzch/zotero.koplugin) - 
 - [acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion) - Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C...
 - [occivink/mpv-gallery-view](https://github.com/occivink/mpv-gallery-view) - Gallery-view scripts for mpv
