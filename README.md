@@ -421,7 +421,6 @@
 - [jovoro/geminid](https://github.com/jovoro/geminid) - Gemini Server in C
 - [npat-efault/picocom](https://github.com/npat-efault/picocom) - Minimal dumb-terminal emulation program
 - [tio/tio](https://github.com/tio/tio) - A simple serial device I/O tool
-- [davidgiven/wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
 - [cybernoid/archivemount](https://github.com/cybernoid/archivemount) - A fuse filesystem for mounting archives in formats supported by libarchive.
 - [phillbush/pmenu](https://github.com/phillbush/pmenu) - A pie-menu in xlib and imlib2.
 - [phillbush/xprompt](https://github.com/phillbush/xprompt) - A dmenu rip-off with contextual completion
@@ -1072,7 +1071,7 @@
 - [jichu4n/jfbview](https://github.com/jichu4n/jfbview) - PDF and image viewer for the Linux framebuffer.
 - [SaralTayal123/Object-tracking-camera-slider](https://github.com/SaralTayal123/Object-tracking-camera-slider) - 
 - [Galapix/galapix](https://github.com/Galapix/galapix) - Galapix moved to https://gitlab.com/galapix/galapix
-- [keshavbhatt/olivia](https://github.com/keshavbhatt/olivia) - Elegant music player for LINUX
+- [keshavbhatt/olivia](https://github.com/keshavbhatt/olivia) - Elegant music player for Linux Desktop
 - [opensolarproject/OSPController](https://github.com/opensolarproject/OSPController) - ESP32 Smart Solar Charger - the Open Solar Project
 - [gioblu/PJON](https://github.com/gioblu/PJON) - PJON (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.
 - [jnogues/ESP32-Long-Range-WiFi](https://github.com/jnogues/ESP32-Long-Range-WiFi) - 
@@ -1943,6 +1942,7 @@
 - [dialoa/columns](https://github.com/dialoa/columns) - Multicolumn support for pandoc's markdown
 - [Eli-the-Bearded/vt100-slowcat](https://github.com/Eli-the-Bearded/vt100-slowcat) - VT100 animations and slowcat to play them.
 - [pafoster/gdir.telae.net](https://github.com/pafoster/gdir.telae.net) - Code for gdir.telae.net - a minimalistic directions service
+- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [cadars/portable-php](https://github.com/cadars/portable-php) - A blog in one HTML file
 - [Georiviere/website](https://github.com/Georiviere/website) - Project website Georivière
 - [n0x5/n0x5.github.io](https://github.com/n0x5/n0x5.github.io) - test
@@ -1951,7 +1951,6 @@
 - [radman1/sauce](https://github.com/radman1/sauce) - Standard Architecture for Universal Comment Extensions
 - [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Pandoc.
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
-- [papis/papis-zotero](https://github.com/papis/papis-zotero) - Zotero compatibility scripts for papis
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [rugk/offline-qr-code](https://github.com/rugk/offline-qr-code) - 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
@@ -2963,7 +2962,6 @@
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [kode-team/mastodon.nvim](https://github.com/kode-team/mastodon.nvim) - Mastodon client for Neovim
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - A file manager for Neovim which lets you edit your filesystem like you edit text
-- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [stelzch/zotero.koplugin](https://github.com/stelzch/zotero.koplugin) - 
 - [acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion) - Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C...
 - [occivink/mpv-gallery-view](https://github.com/occivink/mpv-gallery-view) - Gallery-view scripts for mpv
@@ -2986,6 +2984,7 @@
 - [jonniek/mpv-playlistmanager](https://github.com/jonniek/mpv-playlistmanager) - Mpv lua script to create and manage playlists
 - [cvzi/mpv-youtube-upnext](https://github.com/cvzi/mpv-youtube-upnext) - A userscript for MPV that allows you to play "up next"/recommended youtube videos ⏭️
 - [zevv/lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
+- [davidgiven/wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
 - [kr1sp1n/gemini-pandoc-lua-filter](https://github.com/kr1sp1n/gemini-pandoc-lua-filter) - Pandoc Lua filter to transform HTML to text/gemini.
 - [L1L1/cardpeek](https://github.com/L1L1/cardpeek) - Automatically exported from code.google.com/p/cardpeek
 - [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
@@ -3653,6 +3652,7 @@
 - [MartinBarker/vinyl2digital](https://github.com/MartinBarker/vinyl2digital) - Batch render an Audacity audio track into an entire album of mp3 files using a Discogs URL for metadata tagging.
 - [FiXato/tui_launcher](https://github.com/FiXato/tui_launcher) - A proof of concept for a TUI-based launcher written in Python using urwid
 - [raspbeguy/osm-blame](https://github.com/raspbeguy/osm-blame) - CLI tool inspired by git blame to determine the last modification tag by tag for an OSM element
+- [papis/papis-zotero](https://github.com/papis/papis-zotero) - Zotero compatibility scripts for papis
 - [scrapinghub/article-extraction-benchmark](https://github.com/scrapinghub/article-extraction-benchmark) - Article extraction benchmark: dataset and evaluation scripts
 - [mitxela/ddc-oled](https://github.com/mitxela/ddc-oled) - 
 - [pgdr/ph](https://github.com/pgdr/ph) - ph — the tabular data shell tool
