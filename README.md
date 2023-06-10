@@ -2875,7 +2875,6 @@
 - [guard/guard-livereload](https://github.com/guard/guard-livereload) - Guard::LiveReload automatically reload your browser when 'view' files are modified.
 - [shinypb/openkeyval](https://github.com/shinypb/openkeyval) - OpenKeyval.org is a completely open key-value data store, exposed as a drop-dead simple web service. The goal is to make this a very easy way to persist data in web applications.
 - [mozilla/chromeless](https://github.com/mozilla/chromeless) - DEPRECATED - Build desktop applications with web technologies.
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [Treesaver/treesaver](https://github.com/Treesaver/treesaver) - JavaScript library for creating column and page-based layouts
 - [lizconlan/deposits-demo](https://github.com/lizconlan/deposits-demo) - Sinatra front-end for CouchDB deposited papers store
 - [couchone/pages](https://github.com/couchone/pages) - A CouchApp Wiki
@@ -5105,7 +5104,7 @@
 - [blacknon/hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
 - [ksk001100/picterm](https://github.com/ksk001100/picterm) - TUI image viewer
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
-- [tui-rs-revival/ratatui](https://github.com/tui-rs-revival/ratatui) - tui-rs revival project
+- [tui-rs-revival/ratatui](https://github.com/tui-rs-revival/ratatui) - Ratatui is a Rust library to build rich terminal user interfaces (TUIs) and dashboards. It is a community fork of the original tui-rs created to maintain and improve the project.
 - [EdJoPaTo/mpd-internetradio-destuck](https://github.com/EdJoPaTo/mpd-internetradio-destuck) - Fix mpd getting stuck on internet radio when the daily disconnect happens
 - [EdJoPaTo/website-stalker](https://github.com/EdJoPaTo/website-stalker) - Track changes on websites via git
 - [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal
@@ -5855,6 +5854,7 @@
 - [jedi4ever/veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
 - [jgm/scripts](https://github.com/jgm/scripts) - A collection of small scripts to do various things
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [trapd00r/colorcoke](https://github.com/trapd00r/colorcoke) - Change the extended (non-ANSI) color set. Generate tints and shades that can be applied in any range.
 - [vain/explain](https://github.com/vain/explain) - Explain commands using ASCII art
 - [viccherubini/get-shit-done](https://github.com/viccherubini/get-shit-done) - Small script to configure your hosts file so you don't get distracted during the day.
