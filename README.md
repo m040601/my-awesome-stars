@@ -5323,6 +5323,7 @@
 
 ## Shell 
 
+- [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
 - [lkraav/openwrt-files](https://github.com/lkraav/openwrt-files) - 
 - [faruktezcan/openwrt-ram-root](https://github.com/faruktezcan/openwrt-ram-root) - Extroot using ramfs with  backup&restore option
 - [stelzch/zeal_fzf](https://github.com/stelzch/zeal_fzf) - Search and display offline documentation right in your terminal!
@@ -5966,7 +5967,7 @@
 
 - [natelindev/tsdav](https://github.com/natelindev/tsdav) - WebDAV, CALDAV, and CARDDAV client for Nodejs and the Browser
 - [Booligoosh/sydneybikemap](https://github.com/Booligoosh/sydneybikemap) - 🚲️ Your guide to Sydney’s cycle network — See safe routes to ride  in Sydney including separated cycleways, shared paths, cycleways under construction, planned cycleways and more.
-- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS (Web) - Interactive vector tile maps in WebGL2
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Cloud-optimized + compressed single-file tile archives for vector and raster maps
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
