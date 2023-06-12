@@ -197,7 +197,7 @@
 - [Fishwaldo/esp_ghota](https://github.com/Fishwaldo/esp_ghota) - esp32 OTA Component to update firmware from Github Releases
 - [dreirund/Handsomemod-uf896](https://github.com/dreirund/Handsomemod-uf896) - A fork of OpenWrt-based "Handsomemod" operating system targeted to the ["UF896" stick-format WiFi/LTE router](https://forum.openwrt.org/t/131712).
 - [leonmavr/retrocube](https://github.com/leonmavr/retrocube) - 📺👽 3D graphics on the terminal in standard C without any third parties
-- [LinusDierheimer/fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in C.
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written in C.
 - [leonerd/libtickit](https://github.com/leonerd/libtickit) - 
 - [rpmohn/a4](https://github.com/rpmohn/a4) - dynamic terminal manager and multiplexer
 - [ciniml/WireGuard-ESP32-Arduino](https://github.com/ciniml/WireGuard-ESP32-Arduino) - WireGuard implementation for ESP32 Arduino
@@ -1370,7 +1370,6 @@
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [stonecrusher/simpleMenuWizard](https://github.com/stonecrusher/simpleMenuWizard) - Hide contextmenu items in Firefox Photon
 - [nsbgn/pandoc.mk](https://github.com/nsbgn/pandoc.mk) - Simple PDF & static website generation using `make`, `jq` and `pandoc`.
-- [rstats-wtf/what-they-forgot](https://github.com/rstats-wtf/what-they-forgot) - "What They Forgot to Teach You About R" website / eBook
 - [Turbo87/sidebar-v2](https://github.com/Turbo87/sidebar-v2) - A responsive sidebar with tabs for Leaflet, OpenLayers, Google Maps, ...
 - [geowe/RTCMapping](https://github.com/geowe/RTCMapping) - RealTime Collaborative Mapping
 - [apas/athena](https://github.com/apas/athena) - Minimalist static blog generator written in Python
@@ -3001,6 +3000,7 @@
 - [pandocker/pandocker-lua-filters](https://github.com/pandocker/pandocker-lua-filters) - Lua filters for pandoc
 - [cagix/pandoc-lecture](https://github.com/cagix/pandoc-lecture) - This project defines a skeleton repo for creating lecture slides and handouts including lecture notes out of Pandoc Markdown (https://pandoc.org/MANUAL.html) using a single source approach.
 - [jgm/html2cmark](https://github.com/jgm/html2cmark) - Lua library to convert HTML5 to commonmark
+- [rstats-wtf/what-they-forgot](https://github.com/rstats-wtf/what-they-forgot) - "What They Forgot to Teach You About R" website / eBook
 - [kelciour/mpv-scripts](https://github.com/kelciour/mpv-scripts) - Experimental scripts for mpv video player, mostly for foreign language learning
 - [averms/pandoc-filters](https://github.com/averms/pandoc-filters) - A small, useful collection of pandoc filters
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) - Simon’s Improved Layout Engine
