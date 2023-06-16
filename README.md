@@ -1216,7 +1216,7 @@
 - [hzeller/rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO
 - [skorokithakis/A6lib](https://github.com/skorokithakis/A6lib) - An ESP8266/Arduino library for communicating with the A6 GSM module. ⛺
 - [crankyoldgit/IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266) - Infrared remote library for ESP8266/ESP32: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/
-- [blynkkk/blynk-library](https://github.com/blynkkk/blynk-library) - Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc.
+- [blynkkk/blynk-library](https://github.com/blynkkk/blynk-library) - Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, ARM Mbed, etc.
 - [SmingHub/Sming](https://github.com/SmingHub/Sming) - Sming - powerful  open source framework simplifying the creation of embedded C++ applications.
 - [rszimm/sprinklers_pi](https://github.com/rszimm/sprinklers_pi) - Sprinkling System Control Program for the Raspberry Pi
 - [nRF24/RF24Mesh](https://github.com/nRF24/RF24Mesh) - OSI Layer 7 Mesh Networking for RF24Network & nrf24L01+ devices
@@ -1929,7 +1929,7 @@
 - [typester/uim-tmux-helper](https://github.com/typester/uim-tmux-helper) - watch uim status via uim-helper and show input mode status to tmux status line
 - [dlintw/genseat](https://github.com/dlintw/genseat) - 
 - [donovanhide/superfastmatch](https://github.com/donovanhide/superfastmatch) - Experimental Go version of superfastmatch
-- [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
+- [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [progrium/localtunnel](https://github.com/progrium/localtunnel) - Expose localhost servers to the Internet
 
 ## Groff 
@@ -3057,7 +3057,6 @@
 - [dreemurrs-embedded/Jumpdrive](https://github.com/dreemurrs-embedded/Jumpdrive) - Flash/Rescue SD Card image for PinePhone and PineTab
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [raspberrypi/gpioexpander](https://github.com/raspberrypi/gpioexpander) - Buildroot based ethernet gadget which gives a host access to PIGPIO to control GPIO pins
-- [GloDroid/glodroid_manifest](https://github.com/GloDroid/glodroid_manifest) - Android port that aims to bring both user- and developer-friendly experience in using AOSP with a set of single-board computers (SBC), phones and other devices.
 - [tmn505/openwrt-dvb](https://github.com/tmn505/openwrt-dvb) - OpenWrt feed focused on DVB applications
 - [RuralHunter/CoreELEC](https://github.com/RuralHunter/CoreELEC) - This is CoreELEC for Phicomm N1 device only. Run ./mkn1 to build.
 - [probonopd/lirc-audio_alsa-for-openwrt](https://github.com/probonopd/lirc-audio_alsa-for-openwrt) - Use a soundcard input to receive infrared remote control signals.
@@ -3222,6 +3221,7 @@
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
 - [aliyevaa/cname_cloaking](https://github.com/aliyevaa/cname_cloaking) - the repo contains a list of subdomains that point to known trackers/advertisers
 - [nextdns/cname-cloaking-blocklist](https://github.com/nextdns/cname-cloaking-blocklist) - A list of domains used by tracking companies as CNAME destination when disguising third-party trackers as first-party trackers.
+- [GloDroid/glodroid_manifest](https://github.com/GloDroid/glodroid_manifest) - Android port that aims to bring both user- and developer-friendly experience in using AOSP with a set of single-board computers (SBC), phones and other devices.
 - [FreeYourStream/freedeck-hardware](https://github.com/FreeYourStream/freedeck-hardware) - all the stuff you need to build your own FreeDeck
 - [simmel-project/frontpage](https://github.com/simmel-project/frontpage) - Simmel is a wearable platform that enables COVID-19 contact tracing while preserving user privacy.
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
@@ -3262,7 +3262,7 @@
 - [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [AdamKeher/Pico-Audio](https://github.com/AdamKeher/Pico-Audio) - TinyPICO I2S Audio, I2S Microphone & 3.7W Stereo Amplifier Module with Built-in MicroSD card reader
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [feramhq/cli-apps](https://github.com/feramhq/cli-apps) - Database of CLI apps for cliapp.store
+- [feramhq/cli-apps](https://github.com/feramhq/cli-apps) - Database of CLI apps for CLI appstore
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [panovvv/solar-harvester](https://github.com/panovvv/solar-harvester) - DIY outdoor solar harvester.
 - [Xinyuan-LilyGO/LilyGo-T-Call-SIM800](https://github.com/Xinyuan-LilyGO/LilyGo-T-Call-SIM800) - 
@@ -3515,7 +3515,6 @@
 - [vparnas/automations](https://github.com/vparnas/automations) - Automations for more powerful aliasing and the searching of disparate text content
 - [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe - display more with less
 - [trizen/straw-viewer](https://github.com/trizen/straw-viewer) - **DEPRECATED** Use https://github.com/trizen/pipe-viewer instead.
-- [o2346/.w3m](https://github.com/o2346/.w3m) - 
 - [tbsdtv/media_build](https://github.com/tbsdtv/media_build) - 
 - [aredn/aredn_ar71xx](https://github.com/aredn/aredn_ar71xx) - AREDN develop branch porting on top of OpenWRT 19.07.0
 - [ldidry/lstu](https://github.com/ldidry/lstu) - Lightweight URL shortener. Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lstu
@@ -5323,6 +5322,7 @@
 
 ## Shell 
 
+- [garylaski/scuesplit](https://github.com/garylaski/scuesplit) - Split audio files via CUE sheet without re-encoding.
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
 - [lkraav/openwrt-files](https://github.com/lkraav/openwrt-files) - 
 - [faruktezcan/openwrt-ram-root](https://github.com/faruktezcan/openwrt-ram-root) - Extroot using ramfs with  backup&restore option
@@ -5571,6 +5571,7 @@
 - [glacambre/.dotfiles](https://github.com/glacambre/.dotfiles) - My dotfiles. Install with `./install.sh`.
 - [eballetbo/chromebooks](https://github.com/eballetbo/chromebooks) - Chromebook Developer Tool
 - [huijunchen9260/dmenufm](https://github.com/huijunchen9260/dmenufm) - A simple file manager using dmenu
+- [o2346/.w3m](https://github.com/o2346/.w3m) - 
 - [qq542vev/w3mplus](https://github.com/qq542vev/w3mplus) - w3m の拡張機能。Pale Moon, Pentadactyl, Vim の機能と操作方法を模倣する試み。
 - [p2rkw/xf86-input-mtrack](https://github.com/p2rkw/xf86-input-mtrack) - Xorg Multitouch Trackpad Driver
 - [bovine3dom/dotfiles](https://github.com/bovine3dom/dotfiles) - Managed by YADM.
@@ -5967,7 +5968,7 @@
 
 - [natelindev/tsdav](https://github.com/natelindev/tsdav) - WebDAV, CALDAV, and CARDDAV client for Nodejs and the Browser
 - [Booligoosh/sydneybikemap](https://github.com/Booligoosh/sydneybikemap) - 🚲️ Your guide to Sydney’s cycle network — See safe routes to ride  in Sydney including separated cycleways, shared paths, cycleways under construction, planned cycleways and more.
-- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS (Web) - Interactive vector tile maps in WebGL2
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Cloud-optimized + compressed single-file tile archives for vector and raster maps
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
