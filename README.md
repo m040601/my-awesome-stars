@@ -918,7 +918,7 @@
 - [datacute/DoubleResetDetector](https://github.com/datacute/DoubleResetDetector) - Library to detect a double reset, using ESP8266 RTC User Memory
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [Exzap/ZArchive](https://github.com/Exzap/ZArchive) - Library for creating and reading zstd-compressed file archives (.zar)
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🍹🏖️ Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
 - [technoblogy/ir-remote-wand](https://github.com/technoblogy/ir-remote-wand) - A simple universal remote control based on an ATtiny85.
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [w84death/ESP8266GeminiServer](https://github.com/w84death/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -2461,7 +2461,7 @@
 - [plandes/zotsite](https://github.com/plandes/zotsite) - Export Zotero to a stand-alone web site
 - [GChristensen/scrapyard](https://github.com/GChristensen/scrapyard) - Bookmark heavy lifting
 - [omgimanerd/getnews.tech](https://github.com/omgimanerd/getnews.tech) - A web server that fetches data from the News API and formats it for display in the terminal.
-- [dosyago/DiskerNet](https://github.com/dosyago/DiskerNet) - 💾 DiskerNet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect 
+- [dosyago/DiskerNet](https://github.com/dosyago/DiskerNet) - 💾 DiskerNet - Your Internet Archived to Your Disk
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK e-book reader
 - [cmdalbem/ciclomapa](https://github.com/cmdalbem/ciclomapa) - Beautiful, interactive & open bike maps of Brazilian cities. Powered by OpenStreetMap.
