@@ -428,7 +428,7 @@
 - [phillbush/shod-old](https://github.com/phillbush/shod-old) - hybrid (floating and tiling) tabbed window manager
 - [phillbush/focus](https://github.com/phillbush/focus) - Focus window, workspace or monitor by direction or cycle through them.
 - [phillbush/xclickroot](https://github.com/phillbush/xclickroot) - click on root window and run a command
-- [xlucn/xdg-xmenu](https://github.com/xlucn/xdg-xmenu) - Generate menu for xmenu
+- [xlucn/xdg-xmenu](https://github.com/xlucn/xdg-xmenu) - Minimal app menu with xmenu
 - [phillbush/xmenu](https://github.com/phillbush/xmenu) - a x11 menu utility
 - [gunboy001/hkd](https://github.com/gunboy001/hkd) - simple hotkey daemon using linux's evdev interface
 - [bitluni/ESP32Lib](https://github.com/bitluni/ESP32Lib) - 
@@ -538,7 +538,6 @@
 - [josecleiton/book-downloader](https://github.com/josecleiton/book-downloader) - Simple C Book Downloader
 - [harbaum/LCD2USB](https://github.com/harbaum/LCD2USB) - Cheap and simple USB to HD44780 text LCD interface
 - [nomeata/gtk-vector-screenshot](https://github.com/nomeata/gtk-vector-screenshot) - 
-- [hsoft/collapseos](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology
 - [ShadowsocksR-Live/shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 翻墙 从容穿越党国敏感日 ShadowsocksR (SSRoT) native implementation for all platforms, GFW terminator
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [OpenCPN/OpenCPN](https://github.com/OpenCPN/OpenCPN) - A concise ChartPlotter/Navigator. A cross-platform ship-borne GUI application supporting * GPS/GPDS Postition Input * BSB Raster Chart Display * S57 Vector ENChart Display * AIS Input Decoding * Waypo
@@ -1546,6 +1545,7 @@
 
 ## Go 
 
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Formerly known as rtsp-simple-server.
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [bjesus/localcommand](https://github.com/bjesus/localcommand) - Run local commands straight from the web 🪄
 - [rendicott/uggly-server](https://github.com/rendicott/uggly-server) - uses uggly framework to be a tui server
@@ -3141,6 +3141,7 @@
 
 ## Others 
 
+- [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen) - 😎 Awesome list of Library Genesis, the world's largest free library.
 - [ale1800/ESP-360-REMOTE](https://github.com/ale1800/ESP-360-REMOTE) - An all-in-one remote based on the ESP32-WROOM-32E
 - [tiagofreire-pt/Home_Assistant_EDP_Box](https://github.com/tiagofreire-pt/Home_Assistant_EDP_Box) - Integração das EDP Box com Home Assistant Core
 - [openwanderer/openwanderer](https://github.com/openwanderer/openwanderer) - Information about the OpenWanderer project.
@@ -3190,7 +3191,6 @@
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [justdomains/blocklists](https://github.com/justdomains/blocklists) - Domain-ONLY Filter Lists (for use with DNS / Domain blocking tools)
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGu
-- [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen) - 😎 Awesome list of Library Genesis, the world's largest free library.
 - [timvisee/send-instances](https://github.com/timvisee/send-instances) - 🌍 A list of public Send instances. Mirror.
 - [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
 - [pandoc/pandoc-action-example](https://github.com/pandoc/pandoc-action-example) - using the pandoc document converter on GitHub Actions
@@ -3688,7 +3688,7 @@
 - [deadc0de6/catcli](https://github.com/deadc0de6/catcli) - The command line catalog tool for your offline data
 - [opcode-eu-org-libs/asciicast2movie](https://github.com/opcode-eu-org-libs/asciicast2movie) - 
 - [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
-- [FreeTAKTeam/FreeTakServer](https://github.com/FreeTAKTeam/FreeTakServer) - an open source, lightweight Server for connecting TAK clients
+- [FreeTAKTeam/FreeTakServer](https://github.com/FreeTAKTeam/FreeTakServer) - Situational Awareness Server compatible with TAK clients
 - [moses-palmer/pynput](https://github.com/moses-palmer/pynput) - Sends virtual input commands
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
@@ -5323,6 +5323,7 @@
 
 ## Shell 
 
+- [binpash/try](https://github.com/binpash/try) - "Do, or do not. There is no try."  We're setting out to change that: `try cmd` and commit---or not.
 - [garylaski/scuesplit](https://github.com/garylaski/scuesplit) - Split audio files via CUE sheet without re-encoding.
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
 - [lkraav/openwrt-files](https://github.com/lkraav/openwrt-files) - 
@@ -5608,7 +5609,7 @@
 - [ThomasKaiser/sbc-bench](https://github.com/ThomasKaiser/sbc-bench) - Simple benchmark for single board computers
 - [brainfucksec/archtorify](https://github.com/brainfucksec/archtorify) - Transparent proxy through Tor for Arch Linux OS
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
-- [TechtonicSoftware/GAShell](https://github.com/TechtonicSoftware/GAShell) - A bash script that generates and securely manages Google Authenticator codes
+- [DDoctorzeus/GAShell](https://github.com/DDoctorzeus/GAShell) - A bash script that generates and securely manages Google Authenticator codes
 - [connor-brooks/play_stdin.sh](https://github.com/connor-brooks/play_stdin.sh) - A set of lightweight scripts to stream audio between two *nix machines. Perfect for use with a Raspberry Pi
 - [davideolgiati/PartyLoud](https://github.com/davideolgiati/PartyLoud) - A simple tool to generate fake web browsing and mitigate tracking
 - [adjutant/archlinuxarm-installer](https://github.com/adjutant/archlinuxarm-installer) - Universal, automatic, pain-free installer for ArchLinux ARM
