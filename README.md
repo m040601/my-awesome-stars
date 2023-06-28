@@ -369,7 +369,7 @@
 - [kevinboone/console-idle](https://github.com/kevinboone/console-idle) - console-idle is a screen-saver manager for the Linux framebuffer console
 - [kevinboone/txt2epub](https://github.com/kevinboone/txt2epub) - A command-line utility for Linux, for making EPUB documents from plain text files
 - [DisplayLink/evdi](https://github.com/DisplayLink/evdi) - Extensible Virtual Display Interface
-- [volzotan/drawbot](https://github.com/volzotan/drawbot) - Arduino Nano based GRBL control board for pen-plotters
+- [volzotan/drawbot](https://github.com/volzotan/drawbot) - Arduino Nano based GRBL control board for pen plotters
 - [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) - Lua based interactive firmware for ESP8266, ESP8285 and ESP32
 - [avih/dejsonlz4](https://github.com/avih/dejsonlz4) - Decompress Mozilla Firefox bookmarks backup files
 - [pvvx/ATC_MiThermometer](https://github.com/pvvx/ATC_MiThermometer) - Custom firmware for the Xiaomi Thermometers and Telink Flasher
@@ -2049,7 +2049,6 @@
 - [simon04/POImap](https://github.com/simon04/POImap) - Lightweight POI (point of interest) maps based on OpenStreetMap, Leaflet and Overpass API
 - [dumaurier/pwa_jekyll](https://github.com/dumaurier/pwa_jekyll) - Jekyll + PWA + IndieWeb. A starter for publishing your own content. Support for WebMentions, Service Workers and Netlify CMS is built in.
 - [georgjaehnig/wifi-qr-poster](https://github.com/georgjaehnig/wifi-qr-poster) - Generate a poster with password & QR Code for your Wifi network.
-- [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [im-tomu/tomu.im](https://github.com/im-tomu/tomu.im) - tomu.im website
 - [duzyn/tufte-markdown](https://github.com/duzyn/tufte-markdown) - Use markdown to write your handouts or books in Tufte style.
 - [clagnut/webtypography](https://github.com/clagnut/webtypography) - The source code for WebTypography.net, a practical guide to web typography.
@@ -2577,6 +2576,7 @@
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - [oscarmorrison/md-page](https://github.com/oscarmorrison/md-page) - 📝 create a webpage with just markdown
+- [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [tyrasd/osm-qa-feeds](https://github.com/tyrasd/osm-qa-feeds) - A tool to create personalized OpenStreetMap quality assurance feeds
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [humanitiesplusdesign/palladio](https://github.com/humanitiesplusdesign/palladio) - An application that brings humanities research methods to data visualization.
