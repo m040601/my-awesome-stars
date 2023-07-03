@@ -1545,7 +1545,7 @@
 
 ## Go 
 
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Formerly known as rtsp-simple-server.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use RTSP / RTMP / LL-HLS / WebRTC media server and media proxy that allows to read, publish and proxy video and audio streams.
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [bjesus/localcommand](https://github.com/bjesus/localcommand) - Run local commands straight from the web 🪄
 - [rendicott/uggly-server](https://github.com/rendicott/uggly-server) - uses uggly framework to be a tui server
@@ -1673,7 +1673,7 @@
 - [LukeEmmet/html2gemini](https://github.com/LukeEmmet/html2gemini) - Golang HTML to Gemini (text/gemini) conversion library
 - [a-h/urlscan](https://github.com/a-h/urlscan) - 
 - [anatol/pacoloco](https://github.com/anatol/pacoloco) - Caching proxy server for Arch Linux pacman
-- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [MichaelMure/mdr](https://github.com/MichaelMure/mdr) - MarkDown Renderer for the terminal
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
@@ -2975,7 +2975,7 @@
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.7+.
 - [Sagnac/streamsave](https://github.com/Sagnac/streamsave) - mpv script aimed at saving live streams and clipping online videos without encoding.
 - [koreader/contrib](https://github.com/koreader/contrib) - Collection of non-official plugins designed for KOReader
-- [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - magit for neovim
 - [Ajatt-Tools/autosubsync-mpv](https://github.com/Ajatt-Tools/autosubsync-mpv) - Automatic subtitle synchronization script for mpv media player.
 - [patrickschulz/docma](https://github.com/patrickschulz/docma) - A document manager written in lua
 - [aerobounce/trim.lua](https://github.com/aerobounce/trim.lua) - Trim mode for mpv — Turn mpv into Lossless Audio / Video Editor
@@ -3276,7 +3276,7 @@
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [opensatelliteproject/OpenSatelliteProject](https://github.com/opensatelliteproject/OpenSatelliteProject) - Open Satellite Project Information
 - [owid/owid-datasets](https://github.com/owid/owid-datasets) - OWID Dataset Collection
-- [vvoovv/blender-osm](https://github.com/vvoovv/blender-osm) - One click download and import of OpenStreetMap and terrain for Blender! Global coverage! Source code is in the branch 'release'.
+- [vvoovv/blosm](https://github.com/vvoovv/blosm) - Blosm addon for Blender. A few clicks import of Google 3D cities, OpenStreetMap, terrain. Global coverage. Source code is in the branch 'release'.
 - [PiSugar/PiSugar](https://github.com/PiSugar/PiSugar) - PiSugar is a battery module for Raspberry Pi zero / zero W / zero WH
 - [PiSugar/pisugar-case-pihat-cap](https://github.com/PiSugar/pisugar-case-pihat-cap) - PiHat caps designed for PiSugar case. 配合PiSugar外壳以及各类PiHat使用的盖子。
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -4389,7 +4389,7 @@
 - [dloureiro/pandoc-gpp](https://github.com/dloureiro/pandoc-gpp) - wrapper around pandoc and gpp to provide mode functionnalities around pandoc
 - [cboettig/bin](https://github.com/cboettig/bin) - handy binaries
 - [posativ/isso](https://github.com/posativ/isso) - a Disqus alternative
-- [scipy-lectures/scipy-lecture-notes](https://github.com/scipy-lectures/scipy-lecture-notes) - Tutorial material on the scientific Python ecosystem
+- [scipy-lectures/scientific-python-lectures](https://github.com/scipy-lectures/scientific-python-lectures) - Tutorial material on the scientific Python ecosystem
 - [jaxbot/github-issues.vim](https://github.com/jaxbot/github-issues.vim) - Github issue lookup in Vim
 - [riceissa/pandocfilters-examples](https://github.com/riceissa/pandocfilters-examples) - Examples of Pandoc filters
 - [edavis/pandoc-opml](https://github.com/edavis/pandoc-opml) - Generate OPML files from Markdown
@@ -5323,7 +5323,8 @@
 
 ## Shell 
 
-- [binpash/try](https://github.com/binpash/try) - try lets you run a command and inspect its effects before modifying your live system
+- [gtxaspec/wz_mini_hacks](https://github.com/gtxaspec/wz_mini_hacks) - wz camera mods... make your camera better.
+- [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [garylaski/scuesplit](https://github.com/garylaski/scuesplit) - Split audio files via CUE sheet without re-encoding.
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
 - [lkraav/openwrt-files](https://github.com/lkraav/openwrt-files) - 
@@ -5968,6 +5969,7 @@
 
 ## TypeScript 
 
+- [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [natelindev/tsdav](https://github.com/natelindev/tsdav) - WebDAV, CALDAV, and CARDDAV client for Nodejs and the Browser
 - [Booligoosh/sydneybikemap](https://github.com/Booligoosh/sydneybikemap) - 🚲️ Your guide to Sydney’s cycle network — See safe routes to ride  in Sydney including separated cycleways, shared paths, cycleways under construction, planned cycleways and more.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
