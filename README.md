@@ -2972,7 +2972,7 @@
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - Better quickfix window in Neovim, polish old quickfix window.
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.7+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.8+.
 - [Sagnac/streamsave](https://github.com/Sagnac/streamsave) - mpv script aimed at saving live streams and clipping online videos without encoding.
 - [koreader/contrib](https://github.com/koreader/contrib) - Collection of non-official plugins designed for KOReader
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - magit for neovim
