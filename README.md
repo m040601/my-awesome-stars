@@ -196,7 +196,7 @@
 - [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
 - [Fishwaldo/esp_ghota](https://github.com/Fishwaldo/esp_ghota) - esp32 OTA Component to update firmware from Github Releases
 - [dreirund/Handsomemod-uf896](https://github.com/dreirund/Handsomemod-uf896) - A fork of OpenWrt-based "Handsomemod" operating system targeted to the ["UF896" stick-format WiFi/LTE router](https://forum.openwrt.org/t/131712).
-- [leonmavr/retrocube](https://github.com/leonmavr/retrocube) - 📺👽 3D graphics on the terminal in standard C without any third parties
+- [leonmavr/retrocube](https://github.com/leonmavr/retrocube) - 📺👽 3D graphics engine on the terminal in standard C without third parties
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written in C.
 - [leonerd/libtickit](https://github.com/leonerd/libtickit) - 
 - [rpmohn/a4](https://github.com/rpmohn/a4) - dynamic terminal manager and multiplexer
@@ -2312,6 +2312,7 @@
 
 ## JavaScript 
 
+- [piranha/twinspark-js](https://github.com/piranha/twinspark-js) - Declarative enhancement for HTML: simple, composable, lean.
 - [bjesus/callibella](https://github.com/bjesus/callibella) - Sync your personal calendar to your work calendar, privately 🐒
 - [bjesus/muxile-worker](https://github.com/bjesus/muxile-worker) - Putting tmux on your mobile (backend)
 - [rpsubc8/gamepadDTMF](https://github.com/rpsubc8/gamepadDTMF) - Gamepad HID decode DTMF
@@ -5988,7 +5989,7 @@
 - [esphome/esp-web-tools](https://github.com/esphome/esp-web-tools) - Open source tools to allow working with ESP devices in the browser
 - [tuzig/terminal7](https://github.com/tuzig/terminal7) - A Touchable Terminal Emulator & Multiplexer hybrid app
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%), but is fully open source.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%).
 - [ethomson/send-tweet-action](https://github.com/ethomson/send-tweet-action) - Send a tweet from a GitHub Action
 - [krisek/audioloader](https://github.com/krisek/audioloader) - A responsive Music Player Daemon web client with special focus on listening full albums.
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
