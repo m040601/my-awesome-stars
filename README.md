@@ -910,6 +910,7 @@
 
 ## C++ 
 
+- [Astrrra/ESP8266GeminiServer](https://github.com/Astrrra/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
 - [Rain92/UltimateMangaReader](https://github.com/Rain92/UltimateMangaReader) - A feature-rich online manga reader for Kobo E-Ink devices based on Qt5.
 - [sfambach/D1Mini](https://github.com/sfambach/D1Mini) - All my collections to (Wemos) D1 Mini
 - [mlesniew/PicoMQTT](https://github.com/mlesniew/PicoMQTT) - ESP MQTT client and broker library
@@ -1545,13 +1546,13 @@
 
 ## Go 
 
+- [BentonEdmondson/servitor](https://github.com/BentonEdmondson/servitor) - A command-line Fediverse client that doesn’t require a server
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use RTSP / RTMP / LL-HLS / WebRTC media server and media proxy that allows to read, publish and proxy video and audio streams.
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [bjesus/localcommand](https://github.com/bjesus/localcommand) - Run local commands straight from the web 🪄
 - [rendicott/uggly-server](https://github.com/rendicott/uggly-server) - uses uggly framework to be a tui server
 - [dimkr/tootik](https://github.com/dimkr/tootik) - A federated nanoblogging service with a Gemini frontend.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f`
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
 - [peter-mount/nrod-cif](https://github.com/peter-mount/nrod-cif) - Microservice that publishes the UK Rail TimeTable from Network Rail's CIF feed
@@ -1615,7 +1616,7 @@
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks and markdown.
 - [bmaupin/go-epub](https://github.com/bmaupin/go-epub) - Go library for creating EPUB files
 - [LiboShen/webpage-to-ebook](https://github.com/LiboShen/webpage-to-ebook) - 
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when progra
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when
 - [dakyskye/dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
 - [audstanley/libgen-tui](https://github.com/audstanley/libgen-tui) - A terminal based application for LibGen
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -2029,7 +2030,6 @@
 - [vsoch/watchme](https://github.com/vsoch/watchme) - Reproducible watchers for research
 - [jm42/compare-user.js](https://github.com/jm42/compare-user.js) - Compare firefox user.js
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
-- [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [atoponce/d-note](https://github.com/atoponce/d-note) - Self destructing encrypted notes
 - [skishore/inkstone](https://github.com/skishore/inkstone) - Learn Chinese on the go - no Internet connection required!
 - [netlify/netlify-photo-gallery](https://github.com/netlify/netlify-photo-gallery) - 
@@ -2238,6 +2238,7 @@
 
 ## Java 
 
+- [earlephilhower/arduino-esp8266littlefs-plugin](https://github.com/earlephilhower/arduino-esp8266littlefs-plugin) - Plugin to upload LittleFS filesystems to ESP8266
 - [lastfm/coverartarchive-api](https://github.com/lastfm/coverartarchive-api) - Java data bindings for the Cover Art Archive (http://coverartarchive.org/).
 - [stream-pi/client](https://github.com/stream-pi/client) - Stream-Pi Client
 - [openremote/openremote](https://github.com/openremote/openremote) - 100% open-source IoT Platform - Integrate your devices, create rules, and analyse and visualise your data
@@ -2442,7 +2443,7 @@
 - [anvaka/peak-map](https://github.com/anvaka/peak-map) - Make a ridge line chart from any region on Earth
 - [evilpie/add-custom-search-engine](https://github.com/evilpie/add-custom-search-engine) - Add a custom search engine to the list of available search engines in Firefox
 - [kizniche/ttn-tracker](https://github.com/kizniche/ttn-tracker) - Download GPS data transmitted to The Things Network for live display on a map
-- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄‍♀️ A SurfingKeys config which adds 180+ key mappings & 50+ search engines
+- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄 A SurfingKeys config which adds 180+ key mappings & 50+ search engines
 - [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 - [ankitects/anki-docs](https://github.com/ankitects/anki-docs) - Legacy documentation files
 - [FooSoft/yomichan](https://github.com/FooSoft/yomichan) - Japanese pop-up dictionary extension for Chrome and Firefox.
@@ -3498,6 +3499,7 @@
 
 ## Perl 
 
+- [nkh/P5-App-Asciio](https://github.com/nkh/P5-App-Asciio) - Plain ASCII diagram
 - [Eli-the-Bearded/ark-gallery](https://github.com/Eli-the-Bearded/ark-gallery) - Search oriented photo archive
 - [trizen/lbry-viewer](https://github.com/trizen/lbry-viewer) - Experimental Linux client for LBRY/Odysee.
 - [trapd00r/mpdcp](https://github.com/trapd00r/mpdcp) - copy track or album from an mpd server to destination
@@ -3596,6 +3598,7 @@
 
 ## Python 
 
+- [w84death/smolOS](https://github.com/w84death/smolOS) - smolOS for MicroPython (ESP8266)
 - [arnonym/ha-plugins](https://github.com/arnonym/ha-plugins) - Home-Assistant SIP Gateway
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [carterprince/libby](https://github.com/carterprince/libby) - a simple CLI tool to quickly download books from Library Genesis (libgen)
@@ -3608,7 +3611,7 @@
 - [rendicott/puggly-server](https://github.com/rendicott/puggly-server) - uggly protocol server in python
 - [rendicott/uggly](https://github.com/rendicott/uggly) - framework for TUI client and server
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
-- [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - A simple backup tool for Linux
+- [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An an easy-to-use backup tool for Linux
 - [asciimoo/drawille](https://github.com/asciimoo/drawille) - Pixel graphics in terminal with unicode braille characters
 - [pafoster/gdir](https://github.com/pafoster/gdir) - Get train/bus directions using the command line
 - [tomas-teijeiro/wavtobeep](https://github.com/tomas-teijeiro/wavtobeep) - Converts a wav file to a secuence of *beep* PC-speaker calls
@@ -4769,7 +4772,7 @@
 - [cran/ggenealogy](https://github.com/cran/ggenealogy) - :exclamation: This is a read-only mirror of the CRAN R package repository.  ggenealogy — Visualization Tools for Genealogical Data
 - [gmbecker/switchr](https://github.com/gmbecker/switchr) - An R package for managing and seamlessly switching between sets of installed R packages.
 - [jennybc/gapminder](https://github.com/jennybc/gapminder) - Excerpt from the Gapminder data, as an R data package and in plain text delimited form
-- [jhollist/quickmapr](https://github.com/jhollist/quickmapr) - An R package for quickly mapping and navigating spatial data
+- [geogugal/quickmapr](https://github.com/geogugal/quickmapr) - An R package for quickly mapping and navigating spatial data
 - [mjkallen/rlogging](https://github.com/mjkallen/rlogging) - An R package for simple logging
 - [leeper/rio](https://github.com/leeper/rio) - A Swiss-Army Knife for Data I/O
 - [tidymodels/broom](https://github.com/tidymodels/broom) - Convert statistical analysis objects from R into tidy format
@@ -5100,6 +5103,7 @@
 
 ## Rust 
 
+- [yzhong52/ascii_tree](https://github.com/yzhong52/ascii_tree) - A command line tool for drawing tree structures with ascii characters.
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
 - [acheronfail/repgrep](https://github.com/acheronfail/repgrep) - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
 - [rsadsb/adsb_deku](https://github.com/rsadsb/adsb_deku) - ✈️ Rust ADS-B decoder + tui radar application
@@ -5111,6 +5115,7 @@
 - [EdJoPaTo/website-stalker](https://github.com/EdJoPaTo/website-stalker) - Track changes on websites via git
 - [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal
 - [matiaskorhonen/paper-age](https://github.com/matiaskorhonen/paper-age) - Easy and secure paper backups of secrets
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f`
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [mrmekon/itsy-gitsy](https://github.com/mrmekon/itsy-gitsy) - A static site generator for Git repositories
@@ -5997,7 +6002,7 @@
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [tmcw/gedcom](https://github.com/tmcw/gedcom) - A simple GEDCOM parser that focuses on translating GEDCOM structure into JSON.
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
-- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
+- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [zeplia/minwiz](https://github.com/zeplia/minwiz) - Minimal starter kit for under 2 KB sites
 - [janci007/control-panel](https://github.com/janci007/control-panel) - 
@@ -6034,6 +6039,7 @@
 - [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub) - A plugin that will automatically download PDFs of zotero items from sci-hub
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [owid/owid-grapher](https://github.com/owid/owid-grapher) - A platform for creating interactive data visualizations
+- [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer) - Chinese character stroke order animations and practice quizzes
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Email-based instant messaging for Desktop.
