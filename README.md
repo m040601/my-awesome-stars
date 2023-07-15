@@ -910,6 +910,7 @@
 
 ## C++ 
 
+- [technoblogy/ulisp](https://github.com/technoblogy/ulisp) - A version of the Lisp programming language for ATmega-based Arduino boards.
 - [Astrrra/ESP8266GeminiServer](https://github.com/Astrrra/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
 - [Rain92/UltimateMangaReader](https://github.com/Rain92/UltimateMangaReader) - A feature-rich online manga reader for Kobo E-Ink devices based on Qt5.
 - [sfambach/D1Mini](https://github.com/sfambach/D1Mini) - All my collections to (Wemos) D1 Mini
@@ -1459,6 +1460,7 @@
 
 ## Common Lisp 
 
+- [technoblogy/lisp-arm-assembler](https://github.com/technoblogy/lisp-arm-assembler) - An ARM Thumb assembler written in Lisp.
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 
 ## Crystal 
@@ -3875,7 +3877,7 @@
 - [simonw/conditional-get](https://github.com/simonw/conditional-get) - CLI tool for fetching data using HTTP conditional get
 - [jwilk/dothost](https://github.com/jwilk/dothost) - DNS lookup with Graphviz output
 - [jwilk-archive/ocrodjvu](https://github.com/jwilk-archive/ocrodjvu) - OCR for DjVu
-- [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf) - A Python library for reading and writing PDF, powered by qpdf
+- [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf) - A Python library for reading and writing PDF, powered by QPDF
 - [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
 - [CMB/cligh](https://github.com/CMB/cligh) - Command-line interface to GitHub
 - [lupus78/feedtransmission](https://github.com/lupus78/feedtransmission) - feedtransmission is a python script to read RSS/Atom feeds of torrents and add them to Transmission to download
