@@ -715,7 +715,7 @@
 - [christinaa/rpi-open-firmware](https://github.com/christinaa/rpi-open-firmware) - Open source VPU side bootloader for Raspberry Pi.
 - [zserge/jsmn](https://github.com/zserge/jsmn) - Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket
 - [ArduCAM/ArduCAM_ESP8266_UNO](https://github.com/ArduCAM/ArduCAM_ESP8266_UNO) - This Arduino IDE for ArduCAM ESP8266 UNO Board with Integrated ArduCAM Library and Examples
-- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
 - [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
 - [pellepl/spiffs](https://github.com/pellepl/spiffs) - Wear-leveled SPI flash file system for embedded devices
 - [Nixes/wifibroadcast](https://github.com/Nixes/wifibroadcast) - An unofficial github fork of the project of the same name. Forked from https://bitbucket.org/befi/wifibroadcast on 01/06/2016
@@ -3600,7 +3600,7 @@
 
 ## Python 
 
-- [w84death/smolOS](https://github.com/w84death/smolOS) - smolOS for MicroPython (ESP8266)
+- [w84death/smolOS](https://github.com/w84death/smolOS) - smolOS - a tiny and simple operating system for MicroPython (targetting ESP8266 and RP2040) giving the user POSIX-like environment to play.
 - [arnonym/ha-plugins](https://github.com/arnonym/ha-plugins) - Home-Assistant SIP Gateway
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [carterprince/libby](https://github.com/carterprince/libby) - a simple CLI tool to quickly download books from Library Genesis (libgen)
@@ -5117,7 +5117,7 @@
 - [EdJoPaTo/website-stalker](https://github.com/EdJoPaTo/website-stalker) - Track changes on websites via git
 - [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal
 - [matiaskorhonen/paper-age](https://github.com/matiaskorhonen/paper-age) - Easy and secure paper backups of secrets
-- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f`
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [mrmekon/itsy-gitsy](https://github.com/mrmekon/itsy-gitsy) - A static site generator for Git repositories
