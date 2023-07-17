@@ -177,6 +177,7 @@
 
 ## C 
 
+- [CoretechR/OMOTE](https://github.com/CoretechR/OMOTE) - Open Source Remote Using ESP32 and LVGL
 - [RealTimeLogic/BAS](https://github.com/RealTimeLogic/BAS) - Embedded Web Server Library with Integrated Scripting Engine
 - [CarlosDerSeher/snapclient](https://github.com/CarlosDerSeher/snapclient) - WIP snapclient on ESP32
 - [chaveiro/HAN-WIFI-Module](https://github.com/chaveiro/HAN-WIFI-Module) - The HAN module is a HAN &lt;-&gt; WIFI adapter designed to be connected externally to Intelligent Measuring Equipment (EMI) of single-phase or three-phase BTN points using the Modbus communication pro
@@ -5341,7 +5342,7 @@
 - [stelzch/zeal_fzf](https://github.com/stelzch/zeal_fzf) - Search and display offline documentation right in your terminal!
 - [stelzch/kiwix-w3m](https://github.com/stelzch/kiwix-w3m) - Access StackOverflow or Wikipedia from your console.
 - [sheilbronn/rtl2mqtt](https://github.com/sheilbronn/rtl2mqtt) - Process, filter, clean and reduce the decoded messages from rtl_433 before passing them on to an MQTT broker.
-- [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) - Set up adblock using oisd dnsmasq file
+- [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) - Lean and powerful adblocking solution
 - [aartoni/n249](https://github.com/aartoni/n249) - Kobo Clara HD and InkBox notes
 - [akemnade/n249](https://github.com/akemnade/n249) - Kobo Clara HD and InkBox notes
 - [cykerway/complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
