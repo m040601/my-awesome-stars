@@ -12,7 +12,6 @@
 - [Assembly](#assembly)
 - [AutoHotkey](#autohotkey)
 - [Awk](#awk)
-- [BitBake](#bitbake)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -171,12 +170,9 @@
 - [wernsey/d.awk](https://github.com/wernsey/d.awk) - An Awk script to generate documentation from Markdown comments in C/C++/Java/JavaScript/C# source code.
 - [nuex/zodiac](https://github.com/nuex/zodiac) - A static website generator written in awk and sh.
 
-## BitBake 
-
-- [chirpstack/chirpstack-gateway-os](https://github.com/chirpstack/chirpstack-gateway-os) - Yocto based gateway images including ChirpStack components.
-
 ## C 
 
+- [ir33k/gmi100](https://github.com/ir33k/gmi100) - Gemini CLI protocol client written in 100 lines of ANSI C
 - [CoretechR/OMOTE](https://github.com/CoretechR/OMOTE) - Open Source Remote Using ESP32 and LVGL
 - [RealTimeLogic/BAS](https://github.com/RealTimeLogic/BAS) - Embedded Web Server Library with Integrated Scripting Engine
 - [CarlosDerSeher/snapclient](https://github.com/CarlosDerSeher/snapclient) - WIP snapclient on ESP32
@@ -716,7 +712,7 @@
 - [christinaa/rpi-open-firmware](https://github.com/christinaa/rpi-open-firmware) - Open source VPU side bootloader for Raspberry Pi.
 - [zserge/jsmn](https://github.com/zserge/jsmn) - Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket
 - [ArduCAM/ArduCAM_ESP8266_UNO](https://github.com/ArduCAM/ArduCAM_ESP8266_UNO) - This Arduino IDE for ArduCAM ESP8266 UNO Board with Integrated ArduCAM Library and Examples
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
 - [pellepl/spiffs](https://github.com/pellepl/spiffs) - Wear-leveled SPI flash file system for embedded devices
 - [Nixes/wifibroadcast](https://github.com/Nixes/wifibroadcast) - An unofficial github fork of the project of the same name. Forked from https://bitbucket.org/befi/wifibroadcast on 01/06/2016
@@ -2353,7 +2349,7 @@
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
 - [andrioid/jamstack-example](https://github.com/andrioid/jamstack-example) - https://andri.dk/blog/2021/deploy-static-websites-anywhere
 - [joschi/toot-together](https://github.com/joschi/toot-together) - :elephant: A GitHub action to toot from a repository
-- [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.
+- [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [ShinobiCCTV/Shinobi](https://github.com/ShinobiCCTV/Shinobi) - :zap: Shinobi Pro - The Next Generation in Open-Source Video Management Software with support for over 6000 IP and USB Cameras
 - [edvardxyz/Tabs-in-title](https://github.com/edvardxyz/Tabs-in-title) - Firefox tabs in title, intended for firefox in kiosk/full-screen mode with dwm. With this extension you can see your tabs in the dwm bar.
@@ -3047,6 +3043,7 @@
 ## Makefile 
 
 - [warpme/minimyth2](https://github.com/warpme/minimyth2) - Distro to make disk-less MythTV appliance
+- [chirpstack/chirpstack-gateway-os](https://github.com/chirpstack/chirpstack-gateway-os) - Yocto based gateway images including ChirpStack components.
 - [ipxe/pipxe](https://github.com/ipxe/pipxe) - iPXE for the Raspberry Pi
 - [yichya/openwrt-cloudflared](https://github.com/yichya/openwrt-cloudflared) - Run argo tunnel client on your router
 - [danyork/writing-internet-drafts-in-markdown](https://github.com/danyork/writing-internet-drafts-in-markdown) - A presentation (in Markdown) for the IETF Hub Boston on June 12, 2018.
@@ -5998,7 +5995,7 @@
 - [esphome/esp-web-tools](https://github.com/esphome/esp-web-tools) - Open source tools to allow working with ESP devices in the browser
 - [tuzig/terminal7](https://github.com/tuzig/terminal7) - A Touchable Terminal Emulator & Multiplexer hybrid app
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%).
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Identification, has limited accuracy (40 - 60%).
 - [ethomson/send-tweet-action](https://github.com/ethomson/send-tweet-action) - Send a tweet from a GitHub Action
 - [krisek/audioloader](https://github.com/krisek/audioloader) - A responsive Music Player Daemon web client with special focus on listening full albums.
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
