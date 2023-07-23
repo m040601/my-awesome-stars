@@ -172,6 +172,7 @@
 
 ## C 
 
+- [tavianator/bfs](https://github.com/tavianator/bfs) - A breadth-first version of the UNIX find command
 - [ir33k/gmi100](https://github.com/ir33k/gmi100) - Gemini CLI protocol client written in 100 lines of ANSI C
 - [CoretechR/OMOTE](https://github.com/CoretechR/OMOTE) - Open Source Remote Using ESP32 and LVGL
 - [RealTimeLogic/BAS](https://github.com/RealTimeLogic/BAS) - Embedded Web Server Library with Integrated Scripting Engine
@@ -3111,7 +3112,7 @@
 
 ## OCaml 
 
-- [savonet/liquidsoap](https://github.com/savonet/liquidsoap) - Audio and video streaming language
+- [savonet/liquidsoap](https://github.com/savonet/liquidsoap) - Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.
 - [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
 
 ## Objective-C 
