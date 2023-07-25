@@ -3837,7 +3837,7 @@
 - [hifiberry/snapcastmpris](https://github.com/hifiberry/snapcastmpris) - MPRIS interface to snapcast
 - [xkonni/snapcastr](https://github.com/xkonni/snapcastr) - webinterface to control a snapserver
 - [happyleavesaoc/python-snapcast](https://github.com/happyleavesaoc/python-snapcast) - Python API for controlling Snapcast, a multi-room synchronous audio solution.
-- [BlackLight/platypush](https://github.com/BlackLight/platypush) - A versatile and extensible platform for home and life automation with hundreds of supported integrations
+- [BlackLight/platypush](https://github.com/BlackLight/platypush) - A versatile and extensible platform for automation with hundreds of supported integrations
 - [DaveDavenport/Rofication](https://github.com/DaveDavenport/Rofication) - My notification system
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
