@@ -2124,7 +2124,6 @@
 - [cligs/toolbox](https://github.com/cligs/toolbox) - Collection of small tools for text processing.
 - [lmullen/civil-procedure-codes](https://github.com/lmullen/civil-procedure-codes) - Analysis repository for "The Spine of American Law: Digital Text Analysis and U.S. Legal Practice"
 - [grangier/python-goose](https://github.com/grangier/python-goose) - Html Content / Article Extractor, web scrapping lib in Python
-- [tildeclub/tilde.club](https://github.com/tildeclub/tilde.club) - Code and documentation for setting up and managing a tilde.club server
 - [perseids-project/perseids_docs](https://github.com/perseids-project/perseids_docs) - Project Documentation For Perseids
 - [okfn/bibjson](https://github.com/okfn/bibjson) - BibJSON spec and website
 - [public-affairs-data-journalism/padjo](https://github.com/public-affairs-data-journalism/padjo) - Padjo.org
@@ -2486,7 +2485,7 @@
 - [realdennis/md2pdf](https://github.com/realdennis/md2pdf) - Offline markdown to pdf, choose -&gt; edit -&gt; transform 🥂
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [liberodark/ODrive](https://github.com/liberodark/ODrive) - Google Drive GUI for Windows / Mac / Linux
 - [heiseonline/shariff](https://github.com/heiseonline/shariff) - 👮 Shariff enables website users to share their favorite content without compromising their privacy.
@@ -3547,6 +3546,7 @@
 - [uboslinux/ubos-tools](https://github.com/uboslinux/ubos-tools) - UBOS development/deployment tools
 - [hadley/ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
 - [Webconverger/webc](https://github.com/Webconverger/webc) - Webconverger's curated chroot from which updates originate
+- [tildeclub/tilde.club](https://github.com/tildeclub/tilde.club) - Code and documentation for setting up and managing a tilde.club server
 - [neubig/nlptutorial](https://github.com/neubig/nlptutorial) - A Tutorial about Programming for Natural Language Processing
 - [thoughtbot/rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 - [MvanErp/NER](https://github.com/MvanErp/NER) - Scripts for Named Entity Recognition data preparation
