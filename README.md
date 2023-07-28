@@ -327,6 +327,7 @@
 - [Netflix/dial-reference](https://github.com/Netflix/dial-reference) - 
 - [dharple/detox](https://github.com/dharple/detox) - Tames problematic filenames
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [turgu1/EPub-InkPlate](https://github.com/turgu1/EPub-InkPlate) - An EPub Reader for the ESP32 based InkPlate e-Ink devices.
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [pschatzmann/pico-arduino](https://github.com/pschatzmann/pico-arduino) - Arduino API Library for the Raspberry Pico
@@ -1482,6 +1483,7 @@
 
 ## Dart 
 
+- [Zverik/every_door](https://github.com/Zverik/every_door) - A dedicated app for collecting hundreds of POI for OpenStreetMap
 - [snoe/deedum](https://github.com/snoe/deedum) - A cross platform Gemini browser
 
 ## Dockerfile 
@@ -2354,7 +2356,6 @@
 - [ShinobiCCTV/Shinobi](https://github.com/ShinobiCCTV/Shinobi) - :zap: Shinobi Pro - The Next Generation in Open-Source Video Management Software with support for over 6000 IP and USB Cameras
 - [edvardxyz/Tabs-in-title](https://github.com/edvardxyz/Tabs-in-title) - Firefox tabs in title, intended for firefox in kiosk/full-screen mode with dwm. With this extension you can see your tabs in the dwm bar.
 - [y-taka-23/wasm-pandoc](https://github.com/y-taka-23/wasm-pandoc) - Pandoc compiled into WebAssembly by Asterius. 📚
-- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [segfall/static-wiki](https://github.com/segfall/static-wiki) - Wikipedia using only static assets & no backend
 - [iiab/maps](https://github.com/iiab/maps) - Internet-in-a-Box (IIAB) Maps are like Google Maps but better, for schools especially, as they work offline (including satellite photos!) and avoid all the advertising.  LATEST README: https://github.
 - [rern/rAudio](https://github.com/rern/rAudio) - Raspberry Pi audio player: AirPlay, Audio CD, Bluetooth, DAB radio, DSP, Internet rafio, Multi-room, Spotify Connect, UPnP
@@ -2468,6 +2469,7 @@
 - [JVital2013/RoadApplePi](https://github.com/JVital2013/RoadApplePi) - An elegent "Black Box" solution that can be retrofitted into any car with an OBD(II) port for minimal cost.
 - [inventaire/inventaire](https://github.com/inventaire/inventaire) - a libre collaborative resource mapper powered by open-knowledge, starting with books! :books:
 - [csaftoiu/yahoo-groups-backup](https://github.com/csaftoiu/yahoo-groups-backup) - A python script to backup the contents of private Yahoo! groups.
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [nextcloud/twofactor_totp](https://github.com/nextcloud/twofactor_totp) - 🔑 Second factor TOTP (RFC 6238) provider for Nextcloud
 - [alct/export-tabs-urls](https://github.com/alct/export-tabs-urls) - https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
@@ -3143,6 +3145,7 @@
 
 ## Others 
 
+- [OvertureMaps/data](https://github.com/OvertureMaps/data) - 
 - [Tunas1337/UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares) - A collection of modified firmwares for the Quansheng UV-K5 radio.
 - [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen) - 😎 Awesome list of Library Genesis, the world's largest free library.
 - [ale1800/ESP-360-REMOTE](https://github.com/ale1800/ESP-360-REMOTE) - An all-in-one remote based on the ESP32-WROOM-32E
@@ -3599,7 +3602,7 @@
 
 ## Python 
 
-- [w84death/smolOS](https://github.com/w84death/smolOS) - smolOS - a tiny and simple operating system for MicroPython (targetting ESP8266 and RP2040) giving the user POSIX-like environment to play.
+- [w84death/smolOS](https://github.com/w84death/smolOS) - smolOS - a tiny and simple operating system for MicroPython giving the user POSIX-like environment to play.
 - [arnonym/ha-plugins](https://github.com/arnonym/ha-plugins) - Home-Assistant SIP Gateway
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [carterprince/libby](https://github.com/carterprince/libby) - a simple CLI tool to quickly download books from Library Genesis (libgen)
@@ -3993,7 +3996,6 @@
 - [andrewferguson/YahooGroups-Archiver](https://github.com/andrewferguson/YahooGroups-Archiver) - A simple Python script that archives all the messages from a public Yahoo Group
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [idealo/imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [dylanaraps/bum](https://github.com/dylanaraps/bum) - 🎵 Download and display album art for mpd/mopidy tracks.
 - [mozilla/bleach](https://github.com/mozilla/bleach) - Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
 - [jeffknupp/sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database. No code required!
@@ -5996,7 +5998,7 @@
 - [esphome/esp-web-tools](https://github.com/esphome/esp-web-tools) - Open source tools to allow working with ESP devices in the browser
 - [tuzig/terminal7](https://github.com/tuzig/terminal7) - A Touchable Terminal Emulator & Multiplexer hybrid app
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Identification, has limited accuracy (40 - 60%).
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Identification Platform, has limited accuracy (40 - 60%).
 - [ethomson/send-tweet-action](https://github.com/ethomson/send-tweet-action) - Send a tweet from a GitHub Action
 - [krisek/audioloader](https://github.com/krisek/audioloader) - A responsive Music Player Daemon web client with special focus on listening full albums.
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
