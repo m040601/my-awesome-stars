@@ -3602,7 +3602,8 @@
 
 ## Python 
 
-- [w84death/smolOS](https://github.com/w84death/smolOS) - smolOS - a tiny and simple operating system for MicroPython giving the user POSIX-like environment to play.
+- [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint in your terminal.
+- [w84death/smolOS](https://github.com/w84death/smolOS) - smolOS - a tiny and simple 🧪 research ⚙️ operating system ⌨️ written in 🐍 MicroPython for microcontrollers giving user a POSIX-like 📁 environment and 🧰 tools to play.
 - [arnonym/ha-plugins](https://github.com/arnonym/ha-plugins) - Home-Assistant SIP Gateway
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [carterprince/libby](https://github.com/carterprince/libby) - a simple CLI tool to quickly download books from Library Genesis (libgen)
