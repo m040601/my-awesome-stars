@@ -1636,7 +1636,7 @@
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
 - [miguelmota/streamhut](https://github.com/miguelmota/streamhut) - Stream your terminal to web without installing anything 🌐
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
-- [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager
+- [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [forlater-email/mdawh](https://github.com/forlater-email/mdawh) - an MDA that sends a webhook on recieval of mail
@@ -4856,6 +4856,7 @@
 
 ## Roff 
 
+- [chambln/pandoc-rss](https://github.com/chambln/pandoc-rss) - Generate an RSS feed from markup content and metadata
 - [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [omar-polo/plass](https://github.com/omar-polo/plass) - manage passwords
 - [Alhadis/Mono](https://github.com/Alhadis/Mono) - Troff macros for the 21st century.
@@ -5334,6 +5335,8 @@
 
 ## Shell 
 
+- [ivan-hc/MPV-appimage](https://github.com/ivan-hc/MPV-appimage) - MPV Media Player, Unofficial AppImages built on top of JuNest (Arch Linux-based distro) and Debian.
+- [ivan-hc/ArchImage](https://github.com/ivan-hc/ArchImage) - Build AppImage packages for all distributions but including Arch Linux packages. Powered by JuNest.
 - [gtxaspec/wz_mini_hacks](https://github.com/gtxaspec/wz_mini_hacks) - wz camera mods... make your camera better.
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [garylaski/scuesplit](https://github.com/garylaski/scuesplit) - Split audio files via CUE sheet without re-encoding.
