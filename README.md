@@ -1548,6 +1548,7 @@
 
 ## Go 
 
+- [aditya-K2/gomp](https://github.com/aditya-K2/gomp) - MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration.
 - [BentonEdmondson/servitor](https://github.com/BentonEdmondson/servitor) - A command-line Fediverse client that doesn’t require a server
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use RTSP / RTMP / LL-HLS / WebRTC media server and media proxy that allows to read, publish and proxy video and audio streams.
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
