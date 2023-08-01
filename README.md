@@ -662,7 +662,6 @@
 - [martin-ger/uMQTTBroker](https://github.com/martin-ger/uMQTTBroker) - MQTT Broker library for ESP8266 Arduino
 - [cnlohr/tplink-raw-wifi](https://github.com/cnlohr/tplink-raw-wifi) - Test using tp-links to do raw wifi.
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
-- [sq5bpf/telive](https://github.com/sq5bpf/telive) - Tetra live monitor
 - [nkolban/esp32-snippets](https://github.com/nkolban/esp32-snippets) - Sample ESP32 snippets and code fragments
 - [cnlohr/MinEspSDKLib](https://github.com/cnlohr/MinEspSDKLib) - Minimalist SDK on ESP8266ex
 - [cnlohr/espusb](https://github.com/cnlohr/espusb) - Software-only ESP8266 USB Device
@@ -1550,7 +1549,7 @@
 
 - [aditya-K2/gomp](https://github.com/aditya-K2/gomp) - MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration.
 - [BentonEdmondson/servitor](https://github.com/BentonEdmondson/servitor) - A command-line Fediverse client that doesn’t require a server
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use RTSP / RTMP / LL-HLS / WebRTC media server and media proxy that allows to read, publish and proxy video and audio streams.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish and proxy video and audio streams.
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [bjesus/localcommand](https://github.com/bjesus/localcommand) - Run local commands straight from the web 🪄
 - [rendicott/uggly-server](https://github.com/rendicott/uggly-server) - uses uggly framework to be a tui server
@@ -1954,7 +1953,6 @@
 - [alan-turing-institute/ReadabiliPy](https://github.com/alan-turing-institute/ReadabiliPy) - A simple HTML content extractor in Python. Can be run as a wrapper for Mozilla's Readability.js package or in pure-python mode.
 - [radman1/sauce](https://github.com/radman1/sauce) - Standard Architecture for Universal Comment Extensions
 - [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Pandoc.
-- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [rugk/offline-qr-code](https://github.com/rugk/offline-qr-code) - 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
@@ -3421,6 +3419,7 @@
 - [simon816/ical-bridge](https://github.com/simon816/ical-bridge) - RSS-Bridge but for iCalendar
 - [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
 - [xaizek/vim-like-pile](https://github.com/xaizek/vim-like-pile) - Sources of Big Pile of Vim-like
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [anmaped/openfang](https://github.com/anmaped/openfang) - The openfang is a bootloader, kernel and toolchain for devices using Ingenic T10 and T20 SOC
 - [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok) - Open source alternative frontend for TikTok made using PHP
 - [eklausme/saaze](https://github.com/eklausme/saaze) - Simplified Saaze is a static site generator. It aims to be fast, easy to understand and easy to use.
@@ -4179,6 +4178,7 @@
 - [dorski/osm4etrex10](https://github.com/dorski/osm4etrex10) - Create OSM based maps for eTrex 10 GPS receivers
 - [rafaqz/citation.vim](https://github.com/rafaqz/citation.vim) - Zotero and bibtex citations for Vim
 - [snarfed/bridgy](https://github.com/snarfed/bridgy) - 📣 Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more...
+- [sq5bpf/telive](https://github.com/sq5bpf/telive) - Tetra live monitor
 - [probonopd/irdb](https://github.com/probonopd/irdb) - One of the largest crowd-sourced, manufacturer-independent databases of infrared remote control codes on the web, and aspiring to become the most comprehensive and most accurate one
 - [ali1234/rpi-ramdisk](https://github.com/ali1234/rpi-ramdisk) - Builds ramdisk environments for Raspberry Pi
 - [theomega/IMAP_DMS](https://github.com/theomega/IMAP_DMS) - A Document Managment System (DMS) using an IMAP Server as storage and for querying.
