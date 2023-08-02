@@ -172,6 +172,9 @@
 
 ## C 
 
+- [mightymos/ReedTripRadio](https://github.com/mightymos/ReedTripRadio) - Alternative firmware for wireless 433MHz door/window reed sensors triggered by magnetic contacts.
+- [atc1441/ZBS_Flasher](https://github.com/atc1441/ZBS_Flasher) - Arduino C++ Library and interface to flash the ZBS243 / SEM9110 8051 Microcontroller
+- [jjwbruijn/OpenEPaperLink](https://github.com/jjwbruijn/OpenEPaperLink) - 
 - [tavianator/bfs](https://github.com/tavianator/bfs) - A breadth-first version of the UNIX find command
 - [ir33k/gmi100](https://github.com/ir33k/gmi100) - Gemini CLI protocol client written in 100 lines of ANSI C
 - [CoretechR/OMOTE](https://github.com/CoretechR/OMOTE) - Open Source Remote Using ESP32 and LVGL
@@ -2406,7 +2409,7 @@
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [trovu/trovu-web](https://github.com/trovu/trovu-web) - Trovu web interface.
 - [gorhill/uBO-Scope](https://github.com/gorhill/uBO-Scope) - A tool to measure over time your own exposure to third parties on the web
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to harden Firefox and optimize privacy, security, and speed
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to optimize Firefox for privacy and speed
 - [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
 - [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
@@ -3602,6 +3605,8 @@
 
 ## Python 
 
+- [JsBergbau/MiTemperature2](https://github.com/JsBergbau/MiTemperature2) - Read the values of the Xiaomi Mi Bluetooth Temperature sensor 2 including custom encrypted format.
+- [wendlers/rcswitch-kmod](https://github.com/wendlers/rcswitch-kmod) - Linux Kernel Module to control 434Mhz based RC switches through sysfs.
 - [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint in your terminal.
 - [w84death/smolOS](https://github.com/w84death/smolOS) - smolOS - a tiny and simple 🧪 research ⚙️ operating system ⌨️ written in 🐍 MicroPython for microcontrollers giving user a POSIX-like 📁 environment and 🧰 tools to play.
 - [arnonym/ha-plugins](https://github.com/arnonym/ha-plugins) - Home-Assistant SIP Gateway
@@ -5109,6 +5114,8 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
+- [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [yzhong52/ascii_tree](https://github.com/yzhong52/ascii_tree) - A command line tool for drawing tree structures with ascii characters.
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
 - [acheronfail/repgrep](https://github.com/acheronfail/repgrep) - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
