@@ -1007,7 +1007,6 @@
 - [Srcodesalittle/Ignition-panel-to-wake-on-lan](https://github.com/Srcodesalittle/Ignition-panel-to-wake-on-lan) - Ignition panel project to startup PC using wake on LAN.
 - [sepfy/xiaopi](https://github.com/sepfy/xiaopi) - An Open Source Home Security Camera For Raspberry Pi
 - [pine64/bl_iot_sdk](https://github.com/pine64/bl_iot_sdk) - BL602 SDK (Pine64 fork)
-- [grobian/html2text](https://github.com/grobian/html2text) - HTML to text rendering aimed for E-mail
 - [brainhublab/TheKnob](https://github.com/brainhublab/TheKnob) - TheKnob - interactive volume control and scroll knob
 - [ardyesp/ESPWebDAV](https://github.com/ardyesp/ESPWebDAV) - Wifi WebDAV server using ESP8266
 - [sc0ty/subsync](https://github.com/sc0ty/subsync) - Subtitle Speech Synchronizer
@@ -1985,6 +1984,7 @@
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [bradleytaunt/1mb-club](https://github.com/bradleytaunt/1mb-club) - An exclusive members-only club for web pages weighing less than 1 megabyte
 - [CollectionBuilder/collectionbuilder-sa](https://github.com/CollectionBuilder/collectionbuilder-sa) - Depreciated stand-alone version of CollectionBuilder
+- [grobian/html2text](https://github.com/grobian/html2text) - HTML to text rendering aimed for E-mail
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [openclimatedata/kigali-amendment-entry-into-force](https://github.com/openclimatedata/kigali-amendment-entry-into-force) - Data Package of entry into force status of the Kigali Amendment to the Montreal Protocol
 - [anoved/Columnate](https://github.com/anoved/Columnate) - Bookmarklet for multicolumn reader mode.
@@ -5114,7 +5114,7 @@
 
 ## Rust 
 
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [yzhong52/ascii_tree](https://github.com/yzhong52/ascii_tree) - A command line tool for drawing tree structures with ascii characters.
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
