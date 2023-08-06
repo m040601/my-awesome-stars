@@ -172,6 +172,9 @@
 
 ## C 
 
+- [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) - Modular Open Source Radio Firmware
+- [drowe67/codec2](https://github.com/drowe67/codec2) - Open source speech codec designed for communications quality speech between 700 and 3200 bit/s. The main application is low bandwidth HF/VHF digital radio.
+- [paxo-rch/paxos_8](https://github.com/paxo-rch/paxos_8) - 
 - [mightymos/ReedTripRadio](https://github.com/mightymos/ReedTripRadio) - Alternative firmware for wireless 433MHz door/window reed sensors triggered by magnetic contacts.
 - [atc1441/ZBS_Flasher](https://github.com/atc1441/ZBS_Flasher) - Arduino C++ Library and interface to flash the ZBS243 / SEM9110 8051 Microcontroller
 - [jjwbruijn/OpenEPaperLink](https://github.com/jjwbruijn/OpenEPaperLink) - 
@@ -665,6 +668,7 @@
 - [martin-ger/uMQTTBroker](https://github.com/martin-ger/uMQTTBroker) - MQTT Broker library for ESP8266 Arduino
 - [cnlohr/tplink-raw-wifi](https://github.com/cnlohr/tplink-raw-wifi) - Test using tp-links to do raw wifi.
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
+- [sq5bpf/telive](https://github.com/sq5bpf/telive) - Tetra live monitor
 - [nkolban/esp32-snippets](https://github.com/nkolban/esp32-snippets) - Sample ESP32 snippets and code fragments
 - [cnlohr/MinEspSDKLib](https://github.com/cnlohr/MinEspSDKLib) - Minimalist SDK on ESP8266ex
 - [cnlohr/espusb](https://github.com/cnlohr/espusb) - Software-only ESP8266 USB Device
@@ -1251,7 +1255,7 @@
 - [Arduino-IRremote/Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote) - Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
 - [MarcoMartines/GSM-GPRS-GPS-Shield](https://github.com/MarcoMartines/GSM-GPRS-GPS-Shield) - GSM/GPRS & GPS Shield Library for modules using SIM900/SIM908
 - [NVSL/PiDuino_Library](https://github.com/NVSL/PiDuino_Library) - 
-- [letscontrolit/ESPEasy](https://github.com/letscontrolit/ESPEasy) - Easy MultiSensor device based on ESP8266
+- [letscontrolit/ESPEasy](https://github.com/letscontrolit/ESPEasy) - Easy MultiSensor device based on ESP8266/ESP32
 - [me-no-dev/RasPiArduino](https://github.com/me-no-dev/RasPiArduino) - Arduino Framework for RaspberryPI
 - [Verwegener-Vogel/bfc3000](https://github.com/Verwegener-Vogel/bfc3000) - embedded partly sophisticated bird feeding measurement
 - [Links2004/arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets) - arduinoWebSockets
@@ -1325,7 +1329,6 @@
 - [mediastandardstrust/superfastmatch](https://github.com/mediastandardstrust/superfastmatch) - A tool for bulk text comparison and analysis
 - [Cightline/clipodder](https://github.com/Cightline/clipodder) - C++ implementation of clipodder
 - [falconindy/ponymix](https://github.com/falconindy/ponymix) - CLI volume control for PulseAudio
-- [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, 
 - [libpinyin/ibus-libpinyin](https://github.com/libpinyin/ibus-libpinyin) - 
 - [FreeRDP/FreeRDP-WebConnect](https://github.com/FreeRDP/FreeRDP-WebConnect) - A gateway for seamless access to your RDP-Sessions in any HTML5-compliant browser
 - [avxsynth/avxsynth](https://github.com/avxsynth/avxsynth) - Linux Port of Avisynth
@@ -1549,6 +1552,7 @@
 
 ## Go 
 
+- [inovex/CalendarSync](https://github.com/inovex/CalendarSync) - Stateless CLI tool to sync calendars across different calendaring systems.
 - [aditya-K2/gomp](https://github.com/aditya-K2/gomp) - MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration.
 - [BentonEdmondson/servitor](https://github.com/BentonEdmondson/servitor) - A command-line Fediverse client that doesn’t require a server
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish and proxy video and audio streams.
@@ -2295,7 +2299,7 @@
 - [maandree/util-say](https://github.com/maandree/util-say) - Tools for creating ponies for cowsay and cowsay-like programs
 - [FudanNLP/fnlp](https://github.com/FudanNLP/fnlp) - 中文自然语言处理工具包 Toolkit for Chinese natural language processing
 - [mvogiatzis/first-stories-twitter](https://github.com/mvogiatzis/first-stories-twitter) - How to spot first stories on Twitter using Storm.
-- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
+- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.
 - [NLPchina/ansj_seg](https://github.com/NLPchina/ansj_seg) - ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 - [KetanoLab/SimiDic](https://github.com/KetanoLab/SimiDic) - Simidic project, an Andean Amazonic dictionary of Quechua, Aymara, Guarani and Spanish, that intends to expand to other languages
@@ -3047,7 +3051,6 @@
 ## Makefile 
 
 - [warpme/minimyth2](https://github.com/warpme/minimyth2) - Distro to make disk-less MythTV appliance
-- [chirpstack/chirpstack-gateway-os](https://github.com/chirpstack/chirpstack-gateway-os) - Yocto based gateway images including ChirpStack components.
 - [ipxe/pipxe](https://github.com/ipxe/pipxe) - iPXE for the Raspberry Pi
 - [yichya/openwrt-cloudflared](https://github.com/yichya/openwrt-cloudflared) - Run argo tunnel client on your router
 - [danyork/writing-internet-drafts-in-markdown](https://github.com/danyork/writing-internet-drafts-in-markdown) - A presentation (in Markdown) for the IETF Hub Boston on June 12, 2018.
@@ -4183,7 +4186,6 @@
 - [dorski/osm4etrex10](https://github.com/dorski/osm4etrex10) - Create OSM based maps for eTrex 10 GPS receivers
 - [rafaqz/citation.vim](https://github.com/rafaqz/citation.vim) - Zotero and bibtex citations for Vim
 - [snarfed/bridgy](https://github.com/snarfed/bridgy) - 📣 Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more...
-- [sq5bpf/telive](https://github.com/sq5bpf/telive) - Tetra live monitor
 - [probonopd/irdb](https://github.com/probonopd/irdb) - One of the largest crowd-sourced, manufacturer-independent databases of infrared remote control codes on the web, and aspiring to become the most comprehensive and most accurate one
 - [ali1234/rpi-ramdisk](https://github.com/ali1234/rpi-ramdisk) - Builds ramdisk environments for Raspberry Pi
 - [theomega/IMAP_DMS](https://github.com/theomega/IMAP_DMS) - A Document Managment System (DMS) using an IMAP Server as storage and for querying.
@@ -5410,6 +5412,7 @@
 - [Wojnstup/PipeCatTurbo](https://github.com/Wojnstup/PipeCatTurbo) - PipeCat - but better. And written in bash!
 - [ghollingworth/overlayfs](https://github.com/ghollingworth/overlayfs) - 
 - [artemave/tmux_capture_last_command_output](https://github.com/artemave/tmux_capture_last_command_output) - Capture the output of the last terminal command and open it an editor in a separate tmux window.
+- [chirpstack/chirpstack-gateway-os](https://github.com/chirpstack/chirpstack-gateway-os) - Yocto based gateway images including ChirpStack components.
 - [jwilk/url.sh](https://github.com/jwilk/url.sh) - this URL is also malicious(?!) shell script
 - [alpinelinux/alpine-chroot-install](https://github.com/alpinelinux/alpine-chroot-install) - Install Alpine Linux in chroot with a breeze. Build ARM on Travis CI or any other x86_64 CI.
 - [alpinelinux/alpine-make-rootfs](https://github.com/alpinelinux/alpine-make-rootfs) - Make customized Alpine Linux rootfs (base image) for containers
