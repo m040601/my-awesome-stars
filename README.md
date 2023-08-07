@@ -172,6 +172,7 @@
 
 ## C 
 
+- [orangepi-xunlong/linux-orangepi](https://github.com/orangepi-xunlong/linux-orangepi) - 
 - [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) - Modular Open Source Radio Firmware
 - [drowe67/codec2](https://github.com/drowe67/codec2) - Open source speech codec designed for communications quality speech between 700 and 3200 bit/s. The main application is low bandwidth HF/VHF digital radio.
 - [paxo-rch/paxos_8](https://github.com/paxo-rch/paxos_8) - 
@@ -1624,7 +1625,7 @@
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks and markdown.
 - [bmaupin/go-epub](https://github.com/bmaupin/go-epub) - Go library for creating EPUB files
 - [LiboShen/webpage-to-ebook](https://github.com/LiboShen/webpage-to-ebook) - 
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Fast & configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycl
 - [dakyskye/dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
 - [audstanley/libgen-tui](https://github.com/audstanley/libgen-tui) - A terminal based application for LibGen
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
