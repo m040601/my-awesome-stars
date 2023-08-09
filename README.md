@@ -172,6 +172,7 @@
 
 ## C 
 
+- [qewer33/qpaperOS](https://github.com/qewer33/qpaperOS) - Smartwatch firmware for the LILYGO T-Wrist E-Paper ESP32 development board
 - [orangepi-xunlong/linux-orangepi](https://github.com/orangepi-xunlong/linux-orangepi) - 
 - [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) - Modular Open Source Radio Firmware
 - [drowe67/codec2](https://github.com/drowe67/codec2) - Open source speech codec designed for communications quality speech between 700 and 3200 bit/s. The main application is low bandwidth HF/VHF digital radio.
@@ -916,6 +917,7 @@
 
 ## C++ 
 
+- [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [technoblogy/ulisp](https://github.com/technoblogy/ulisp) - A version of the Lisp programming language for ATmega-based Arduino boards.
 - [Astrrra/ESP8266GeminiServer](https://github.com/Astrrra/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
 - [Rain92/UltimateMangaReader](https://github.com/Rain92/UltimateMangaReader) - A feature-rich online manga reader for Kobo E-Ink devices based on Qt5.
@@ -1625,7 +1627,7 @@
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks and markdown.
 - [bmaupin/go-epub](https://github.com/bmaupin/go-epub) - Go library for creating EPUB files
 - [LiboShen/webpage-to-ebook](https://github.com/LiboShen/webpage-to-ebook) - 
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Fast & configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycl
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Fast and config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles wh
 - [dakyskye/dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
 - [audstanley/libgen-tui](https://github.com/audstanley/libgen-tui) - A terminal based application for LibGen
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -2321,6 +2323,7 @@
 
 ## JavaScript 
 
+- [FireMarshmellow/M.I.M.O.S.A](https://github.com/FireMarshmellow/M.I.M.O.S.A) - MIMOSA - short for "Mellow_Labs Inventory Management and Organization System Apparatus". Just like a refreshing mimosa, this system will make your life brighter and more organized!
 - [piranha/twinspark-js](https://github.com/piranha/twinspark-js) - Declarative enhancement for HTML: simple, composable, lean.
 - [bjesus/callibella](https://github.com/bjesus/callibella) - Sync your personal calendar to your work calendar, privately 🐒
 - [bjesus/muxile-worker](https://github.com/bjesus/muxile-worker) - Putting tmux on your mobile (backend)
@@ -3052,6 +3055,7 @@
 ## Makefile 
 
 - [warpme/minimyth2](https://github.com/warpme/minimyth2) - Distro to make disk-less MythTV appliance
+- [chirpstack/chirpstack-gateway-os](https://github.com/chirpstack/chirpstack-gateway-os) - Yocto based gateway images including ChirpStack components.
 - [ipxe/pipxe](https://github.com/ipxe/pipxe) - iPXE for the Raspberry Pi
 - [yichya/openwrt-cloudflared](https://github.com/yichya/openwrt-cloudflared) - Run argo tunnel client on your router
 - [danyork/writing-internet-drafts-in-markdown](https://github.com/danyork/writing-internet-drafts-in-markdown) - A presentation (in Markdown) for the IETF Hub Boston on June 12, 2018.
@@ -3151,6 +3155,7 @@
 
 ## Others 
 
+- [srg74/WLED-wemos-shield](https://github.com/srg74/WLED-wemos-shield) - Wemos D1 Mini (ESP8266) or Wemos ESP32 D1 Mini (ESP32) based universal shield for WLED firmware
 - [OvertureMaps/data](https://github.com/OvertureMaps/data) - 
 - [Tunas1337/UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares) - A collection of modified firmwares for the Quansheng UV-K5 radio.
 - [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen) - 😎 Awesome list of Library Genesis, the world's largest free library.
@@ -5413,7 +5418,6 @@
 - [Wojnstup/PipeCatTurbo](https://github.com/Wojnstup/PipeCatTurbo) - PipeCat - but better. And written in bash!
 - [ghollingworth/overlayfs](https://github.com/ghollingworth/overlayfs) - 
 - [artemave/tmux_capture_last_command_output](https://github.com/artemave/tmux_capture_last_command_output) - Capture the output of the last terminal command and open it an editor in a separate tmux window.
-- [chirpstack/chirpstack-gateway-os](https://github.com/chirpstack/chirpstack-gateway-os) - Yocto based gateway images including ChirpStack components.
 - [jwilk/url.sh](https://github.com/jwilk/url.sh) - this URL is also malicious(?!) shell script
 - [alpinelinux/alpine-chroot-install](https://github.com/alpinelinux/alpine-chroot-install) - Install Alpine Linux in chroot with a breeze. Build ARM on Travis CI or any other x86_64 CI.
 - [alpinelinux/alpine-make-rootfs](https://github.com/alpinelinux/alpine-make-rootfs) - Make customized Alpine Linux rootfs (base image) for containers
