@@ -81,7 +81,6 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [SMT](#smt)
-- [SWIG](#swig)
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
@@ -172,6 +171,8 @@
 
 ## C 
 
+- [Rouji/nc2p](https://github.com/Rouji/nc2p) - netcat -&gt; HTTP POST shim
+- [Rouji/ssh2p](https://github.com/Rouji/ssh2p) - SSH to POST. For making weird, SSH-based pastebins.
 - [qewer33/qpaperOS](https://github.com/qewer33/qpaperOS) - Smartwatch firmware for the LILYGO T-Wrist E-Paper ESP32 development board
 - [orangepi-xunlong/linux-orangepi](https://github.com/orangepi-xunlong/linux-orangepi) - 
 - [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) - Modular Open Source Radio Firmware
@@ -869,7 +870,7 @@
 - [robm/dzen](https://github.com/robm/dzen) - Dzen is a general purpose messaging, notification and menuing program for X11.
 - [niallo/Unworkable](https://github.com/niallo/Unworkable) - Asynchronous Bittorrent Client written in C
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
-- [sickill/stderred](https://github.com/sickill/stderred) - stderr in red
+- [ku1ik/stderred](https://github.com/ku1ik/stderred) - stderr in red
 - [miekg/rdup](https://github.com/miekg/rdup) - The only backup program that doesn't make backups!
 - [LemonBoy/ldm](https://github.com/LemonBoy/ldm) - A lightweight device mounter, with libudev as only dependency
 - [fcitx/fcitx-fbterm](https://github.com/fcitx/fcitx-fbterm) - Fbterm support for fcitx
@@ -917,6 +918,7 @@
 
 ## C++ 
 
+- [meganz/MEGAsync](https://github.com/meganz/MEGAsync) - Easy automated syncing between your computers and your MEGA Cloud Drive
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [technoblogy/ulisp](https://github.com/technoblogy/ulisp) - A version of the Lisp programming language for ATmega-based Arduino boards.
 - [Astrrra/ESP8266GeminiServer](https://github.com/Astrrra/ESP8266GeminiServer) - A gemini server implementation for the ESP8266
@@ -1950,6 +1952,7 @@
 
 ## HTML 
 
+- [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.
 - [EdJoPaTo/website-stalker-example](https://github.com/EdJoPaTo/website-stalker-example) - Demonstrate the website-stalker being run via github-actions
 - [dialoa/columns](https://github.com/dialoa/columns) - Multicolumn support for pandoc's markdown
 - [Eli-the-Bearded/vt100-slowcat](https://github.com/Eli-the-Bearded/vt100-slowcat) - VT100 animations and slowcat to play them.
@@ -2144,7 +2147,6 @@
 - [maybegeek/ur-magnum-opus-pandoc](https://github.com/maybegeek/ur-magnum-opus-pandoc) - Vorlage für schriftliche Arbeiten mit pandoc samt angepasster Stilvorgaben für den geisteswissenschaftlichen Kontext.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [ftsrg-edu/thesis-template-markdown](https://github.com/ftsrg-edu/thesis-template-markdown) - Thesis template in Markdown
-- [programminghistorian/jekyll](https://github.com/programminghistorian/jekyll) - Jekyll-based static site for The Programming Historian
 - [Xeoncross/jr](https://github.com/Xeoncross/jr) - Jr. the static, static javascript site generator (you should see this)
 - [kbroman/Tools4RR](https://github.com/kbroman/Tools4RR) - Materials for a one-credit course on reproducible research
 - [WinVector/zmPDSwR](https://github.com/WinVector/zmPDSwR) - Example R scripts and data for "Practical Data Science with R" 1st edition by Nina Zumel and John Mount (Manning Publications)
@@ -2323,6 +2325,8 @@
 
 ## JavaScript 
 
+- [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
+- [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [FireMarshmellow/M.I.M.O.S.A](https://github.com/FireMarshmellow/M.I.M.O.S.A) - MIMOSA - short for "Mellow_Labs Inventory Management and Organization System Apparatus". Just like a refreshing mimosa, this system will make your life brighter and more organized!
 - [piranha/twinspark-js](https://github.com/piranha/twinspark-js) - Declarative enhancement for HTML: simple, composable, lean.
 - [bjesus/callibella](https://github.com/bjesus/callibella) - Sync your personal calendar to your work calendar, privately 🐒
@@ -2934,6 +2938,7 @@
 - [tvd-dataset/GameOfThrones](https://github.com/tvd-dataset/GameOfThrones) - "Game Of Thrones" TVD plugin
 - [tvd-dataset/TheBigBangTheory](https://github.com/tvd-dataset/TheBigBangTheory) - "The Big Bang Theory" TVD plugin
 - [IRkernel/IRkernel](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter
+- [programminghistorian/jekyll](https://github.com/programminghistorian/jekyll) - Jekyll-based static site for The Programming Historian
 - [cs109/content](https://github.com/cs109/content) - Official content for Harvard CS109
 
 ## KiCad Layout 
@@ -3697,7 +3702,7 @@
 - [jayvdb/https-everywhere-py](https://github.com/jayvdb/https-everywhere-py) - Privacy for Pythons
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
 - [Krasjet/pdf.tocgen](https://github.com/Krasjet/pdf.tocgen) - A CLI toolset to generate table of contents for PDF files automatically.
-- [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor network traffic per executable using BPF
+- [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor Network Traffic Per Executable, Beautifully Visualized
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [milaq/YCast](https://github.com/milaq/YCast) - Self hosted vTuner internet radio service emulation
 - [deep5050/radio-active](https://github.com/deep5050/radio-active) - Play any radios around the globe right from the terminal :zap:
@@ -3837,6 +3842,7 @@
 - [indico/indico](https://github.com/indico/indico) - Indico - A feature-rich event management system, made @ CERN, the place where the Web was born.
 - [scrapedia/scrapy-pipelines](https://github.com/scrapedia/scrapy-pipelines) - A collection of pipelines for Scrapy
 - [wummel/patool](https://github.com/wummel/patool) - patool is a portable command line archive file manager
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is an enhanced Python binding for MuPDF – a lightweight PDF, XPS, and E-book viewer, renderer, and toolkit.
 - [openwpm/OpenWPM](https://github.com/openwpm/OpenWPM) - A web privacy measurement framework
 - [podhmo/dictknife](https://github.com/podhmo/dictknife) - armyknife of handling dict object
 - [ali1234/pydo](https://github.com/ali1234/pydo) - Just a weird thing.
@@ -5122,7 +5128,7 @@
 
 ## Rust 
 
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [yzhong52/ascii_tree](https://github.com/yzhong52/ascii_tree) - A command line tool for drawing tree structures with ascii characters.
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
@@ -5331,10 +5337,6 @@
 
 - [ONEARMY/precious-plastic-kit](https://github.com/ONEARMY/precious-plastic-kit) - Precious Plastic Downloadpack
 
-## SWIG 
-
-- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is an enhanced Python binding for MuPDF – a lightweight PDF, XPS, and E-book viewer, renderer, and toolkit.
-
 ## Scala 
 
 - [OpenOlitor/openolitor-server](https://github.com/OpenOlitor/openolitor-server) - Server Backend der OpenOlitor Administrationsplattform
@@ -5351,6 +5353,7 @@
 
 ## Shell 
 
+- [weebney/webcamize](https://github.com/weebney/webcamize) - Use any camera as a webcam—DSLR, mirrorless, camcorder, point-and-shoot, and even some smartphones/tablets!
 - [ivan-hc/MPV-appimage](https://github.com/ivan-hc/MPV-appimage) - MPV Media Player, Unofficial AppImages built on top of JuNest (Arch Linux-based distro) and Debian.
 - [ivan-hc/ArchImage](https://github.com/ivan-hc/ArchImage) - Build AppImage packages for all distributions but including Arch Linux packages. Powered by JuNest.
 - [gtxaspec/wz_mini_hacks](https://github.com/gtxaspec/wz_mini_hacks) - wz camera mods... make your camera better.
@@ -5413,7 +5416,7 @@
 - [Maccraft123/Cadmium](https://github.com/Maccraft123/Cadmium) - 
 - [koreader/koxtoolchain](https://github.com/koreader/koxtoolchain) - Build script for various toolchains used by KOReader
 - [michaeljclark/busybear-linux](https://github.com/michaeljclark/busybear-linux) - busybear-linux is a tiny RISC-V Linux root filesystem image that targets the VirtIO board in riscv-qemu.
-- [kth5/archpower](https://github.com/kth5/archpower) - Unofficial Archlinux port to powerpc64le, powerpc, riscv64 and in parts powerpc64 (BE).
+- [kth5/archpower](https://github.com/kth5/archpower) - Unofficial Archlinux port to powerpc64le, powerpc64, powerpc and riscv64
 - [amstan/alarm-ansible](https://github.com/amstan/alarm-ansible) - Arch Linux ARM Ansible Scripts
 - [Wojnstup/PipeCatTurbo](https://github.com/Wojnstup/PipeCatTurbo) - PipeCat - but better. And written in bash!
 - [ghollingworth/overlayfs](https://github.com/ghollingworth/overlayfs) - 
@@ -5884,7 +5887,7 @@
 - [petrkle/git-deploy](https://github.com/petrkle/git-deploy) - Very siple deployment script for developers with ftp only access to webserver.
 - [sjl/learnvimscriptthehardway](https://github.com/sjl/learnvimscriptthehardway) - 
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
-- [sickill/bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
+- [ku1ik/bitpocket](https://github.com/ku1ik/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 - [jedi4ever/veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
 - [jgm/scripts](https://github.com/jgm/scripts) - A collection of small scripts to do various things
@@ -6037,7 +6040,7 @@
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [akshaykmr/teletype](https://github.com/akshaykmr/teletype) - Stream or share terminals over the web. Show off mad cli-fu, help a colleague, teach, or troubleshoot. end-to-end encrypted 🛡
-- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
+- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy 🍑🍆
 - [GJKrupa/rusty-radio](https://github.com/GJKrupa/rusty-radio) - Raspberry Pi touchscreen clock radio using Rust, Angular and mpd
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
