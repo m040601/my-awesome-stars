@@ -1361,6 +1361,7 @@
 
 ## CSS 
 
+- [garbas/asciinema-scenario](https://github.com/garbas/asciinema-scenario) - Create asciinema videos from a text file. Write a scenario for your - asciinema - video and generate it.
 - [immers-space/guppe](https://github.com/immers-space/guppe) - Federated social groups with ActivityPub, NodeJS, Express, and Mongodb
 - [IPi-Radio/IPi-Radio](https://github.com/IPi-Radio/IPi-Radio) - Turn your Raspberry PI into an internet radio
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
