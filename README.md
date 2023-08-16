@@ -1361,6 +1361,7 @@
 
 ## CSS 
 
+- [whosmatt/uvmod](https://github.com/whosmatt/uvmod) - Web-based firmware patcher for various Quansheng radios
 - [garbas/asciinema-scenario](https://github.com/garbas/asciinema-scenario) - Create asciinema videos from a text file. Write a scenario for your - asciinema - video and generate it.
 - [immers-space/guppe](https://github.com/immers-space/guppe) - Federated social groups with ActivityPub, NodeJS, Express, and Mongodb
 - [IPi-Radio/IPi-Radio](https://github.com/IPi-Radio/IPi-Radio) - Turn your Raspberry PI into an internet radio
@@ -3620,6 +3621,7 @@
 
 ## Python 
 
+- [amnemonic/Quansheng_UV-K5_Firmware](https://github.com/amnemonic/Quansheng_UV-K5_Firmware) - Quansheng UV-K5 Firmware
 - [JsBergbau/MiTemperature2](https://github.com/JsBergbau/MiTemperature2) - Read the values of the Xiaomi Mi Bluetooth Temperature sensor 2 including custom encrypted format.
 - [wendlers/rcswitch-kmod](https://github.com/wendlers/rcswitch-kmod) - Linux Kernel Module to control 434Mhz based RC switches through sysfs.
 - [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint in your terminal.
@@ -6020,7 +6022,7 @@
 - [amagovpt/observatory](https://github.com/amagovpt/observatory) - PT Observatory of Web Accessibility - the main app
 - [r-wasm/webr](https://github.com/r-wasm/webr) - The statistical language R compiled to WebAssembly via Emscripten, for use in web browsers and Node.
 - [esphome/esp-web-tools](https://github.com/esphome/esp-web-tools) - Open source tools to allow working with ESP devices in the browser
-- [tuzig/terminal7](https://github.com/tuzig/terminal7) - A Touchable Terminal Emulator & Multiplexer hybrid app
+- [tuzig/terminal7](https://github.com/tuzig/terminal7) - A Next Generation Terminal for Tablets and the Web
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Identification Platform, has limited accuracy (40 - 60%).
 - [ethomson/send-tweet-action](https://github.com/ethomson/send-tweet-action) - Send a tweet from a GitHub Action
