@@ -4111,7 +4111,7 @@
 - [skorokithakis/pastebinit](https://github.com/skorokithakis/pastebinit) - pastebinit is a command-line tool to send data to a "pastebin", a web site which allows its users to upload snippets of text for public viewing. ⛺
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
-- [dthpham/butterflow](https://github.com/dthpham/butterflow) - Make motion interpolated and fluid slow motion videos from the command line.
+- [dthpham/sminterpolate](https://github.com/dthpham/sminterpolate) - Make motion interpolated and fluid slow motion videos from the command line.
 - [zyocum/reader](https://github.com/zyocum/reader) - Extract clean(er), readable text from web pages via Mercury Web Parser.
 - [alcah/qute-capture](https://github.com/alcah/qute-capture) - Use org-mode with Qutebrowser
 - [patrickjennings/pyholecli](https://github.com/patrickjennings/pyholecli) - Remote management of a pi.hole instance.
