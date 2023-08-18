@@ -171,6 +171,8 @@
 
 ## C 
 
+- [kyx0r/nextvi](https://github.com/kyx0r/nextvi) - Next version of neatvi (a small vi/ex editor) for editing bidirectional UTF-8 text
+- [aligrudi/neatmail](https://github.com/aligrudi/neatmail) - A text-mode mail client
 - [Rouji/nc2p](https://github.com/Rouji/nc2p) - netcat -&gt; HTTP POST shim
 - [Rouji/ssh2p](https://github.com/Rouji/ssh2p) - SSH to POST. For making weird, SSH-based pastebins.
 - [qewer33/qpaperOS](https://github.com/qewer33/qpaperOS) - Smartwatch firmware for the LILYGO T-Wrist E-Paper ESP32 development board
@@ -1625,7 +1627,7 @@
 - [eliukblau/pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
-- [ncarlier/readflow](https://github.com/ncarlier/readflow) - Read your Internet article flow in one place with complete peace of mind and freedom.
+- [ncarlier/readflow](https://github.com/ncarlier/readflow) - readflow is a news-reading (or read-it-later) solution focused on versatility and simplicity.
 - [raystack/meteor](https://github.com/raystack/meteor) - Meteor is an easy-to-use, plugin-driven metadata collection framework to extract data from different sources and sink to any data catalog.
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks and markdown.
@@ -2423,7 +2425,7 @@
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [trovu/trovu-web](https://github.com/trovu/trovu-web) - Trovu web interface.
 - [gorhill/uBO-Scope](https://github.com/gorhill/uBO-Scope) - A tool to measure over time your own exposure to third parties on the web
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to optimize Firefox for privacy and speed
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox optimized for speed, privacy, and efficiency. Your favorite browser, but better.
 - [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
 - [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
@@ -3621,6 +3623,7 @@
 
 ## Python 
 
+- [frank-monkey/videocondenser](https://github.com/frank-monkey/videocondenser) - A tool that condenses videos by adjusting playback speed based on volume.
 - [amnemonic/Quansheng_UV-K5_Firmware](https://github.com/amnemonic/Quansheng_UV-K5_Firmware) - Quansheng UV-K5 Firmware
 - [JsBergbau/MiTemperature2](https://github.com/JsBergbau/MiTemperature2) - Read the values of the Xiaomi Mi Bluetooth Temperature sensor 2 including custom encrypted format.
 - [wendlers/rcswitch-kmod](https://github.com/wendlers/rcswitch-kmod) - Linux Kernel Module to control 434Mhz based RC switches through sysfs.
@@ -5131,6 +5134,7 @@
 
 ## Rust 
 
+- [jersou/mouse-actions](https://github.com/jersou/mouse-actions) - It execute some command from mouse events such as clicks/wheel on the side/corners of the screen, or drawing shapes. It's a mix between Easystroke and Compiz edge commands.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [yzhong52/ascii_tree](https://github.com/yzhong52/ascii_tree) - A command line tool for drawing tree structures with ascii characters.
