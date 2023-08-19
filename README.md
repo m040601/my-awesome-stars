@@ -3756,8 +3756,6 @@
 - [opendatateam/udata](https://github.com/opendatateam/udata) - Customizable and skinnable social platform dedicated to open data.
 - [jp-fosterson/pandocblog](https://github.com/jp-fosterson/pandocblog) - Static site and blog template using pandoc, make, and some python.
 - [justdomains/ci](https://github.com/justdomains/ci) - Automated scripts to support converting filter lists (in various formats) to "domain-only" lists for use in DNS / domain-blocking tools like Pi-Hole. Used to create: justdomains/blocklists
-- [4nd3r/adblock-simulator](https://github.com/4nd3r/adblock-simulator) - simulate adblock like a pro
-- [4nd3r/requests-logger](https://github.com/4nd3r/requests-logger) - log website requests
 - [kylebarron/usgs-topo-tiler](https://github.com/kylebarron/usgs-topo-tiler) - Python package to read Web Mercator map tiles from USGS Historical Topographic Maps
 - [doersino/aerialbot](https://github.com/doersino/aerialbot) - A simple yet highly configurable Mastodon/Twitter bot that posts geotagged aerial imagery of a random location in the world.
 - [doersino/earthacrosstime](https://github.com/doersino/earthacrosstime) - Mastodon/Twitter bot that posts videos showcasing how random locations in the world have changed since 1984.
