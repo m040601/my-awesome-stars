@@ -920,6 +920,7 @@
 
 ## C++ 
 
+- [blackle/libevdev-examples](https://github.com/blackle/libevdev-examples) - macro keys
 - [meganz/MEGAsync](https://github.com/meganz/MEGAsync) - Easy automated syncing between your computers and your MEGA Cloud Drive
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [technoblogy/ulisp](https://github.com/technoblogy/ulisp) - A version of the Lisp programming language for ATmega-based Arduino boards.
@@ -1964,7 +1965,7 @@
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [cadars/portable-php](https://github.com/cadars/portable-php) - A blog in one HTML file
 - [Georiviere/website](https://github.com/Georiviere/website) - Project website Georivière
-- [n0x5/n0x5.github.io](https://github.com/n0x5/n0x5.github.io) - test
+- [n0x5/n0x5.github.io](https://github.com/n0x5/n0x5.github.io) - HTML tables are underrated
 - [jsvine/intro-to-visidata](https://github.com/jsvine/intro-to-visidata) - Source files for "An Introduction to VisiData"
 - [alan-turing-institute/ReadabiliPy](https://github.com/alan-turing-institute/ReadabiliPy) - A simple HTML content extractor in Python. Can be run as a wrapper for Mozilla's Readability.js package or in pure-python mode.
 - [radman1/sauce](https://github.com/radman1/sauce) - Standard Architecture for Universal Comment Extensions
@@ -2151,7 +2152,7 @@
 - [maybegeek/ur-magnum-opus-pandoc](https://github.com/maybegeek/ur-magnum-opus-pandoc) - Vorlage für schriftliche Arbeiten mit pandoc samt angepasster Stilvorgaben für den geisteswissenschaftlichen Kontext.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [ftsrg-edu/thesis-template-markdown](https://github.com/ftsrg-edu/thesis-template-markdown) - Thesis template in Markdown
-- [Xeoncross/jr](https://github.com/Xeoncross/jr) - Jr. the static, static javascript site generator (you should see this)
+- [xeoncross/jr](https://github.com/xeoncross/jr) - Jr. the static, static javascript site generator (you should see this)
 - [kbroman/Tools4RR](https://github.com/kbroman/Tools4RR) - Materials for a one-credit course on reproducible research
 - [WinVector/zmPDSwR](https://github.com/WinVector/zmPDSwR) - Example R scripts and data for "Practical Data Science with R" 1st edition by Nina Zumel and John Mount (Manning Publications)
 - [scrapy/scrapely](https://github.com/scrapy/scrapely) - A pure-python HTML screen-scraping library
@@ -5771,7 +5772,7 @@
 - [AladW/aurutils](https://github.com/AladW/aurutils) - Helper tools for the AUR.
 - [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 - [dsanson/termpdf](https://github.com/dsanson/termpdf) - barebones graphical pdf/djvu/cbr/image viewer that works inside iTerm2 2.9+ and Kitty
-- [thebearjew/commit-comments](https://github.com/thebearjew/commit-comments) - Build commit message in the comments of your code
+- [jryio/commit-comments](https://github.com/jryio/commit-comments) - Build commit message in the comments of your code
 - [themattrix/bash-concurrent](https://github.com/themattrix/bash-concurrent) - Bash function to run tasks in parallel and display pretty output as they complete.
 - [dhead666/archlinux-pkgbuilds](https://github.com/dhead666/archlinux-pkgbuilds) - 
 - [gutenye/gutbackup](https://github.com/gutenye/gutbackup) - [Bash] The simplest rsync wrapper for backup  and restore Linux system. Support  ArchLinux, Ubuntu, etc
