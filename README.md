@@ -2426,7 +2426,7 @@
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [trovu/trovu-web](https://github.com/trovu/trovu-web) - Trovu web interface.
 - [gorhill/uBO-Scope](https://github.com/gorhill/uBO-Scope) - A tool to measure over time your own exposure to third parties on the web
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox optimized for speed, privacy, and efficiency. Your favorite browser, but better.
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
 - [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
 - [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
@@ -4474,8 +4474,8 @@
 - [dzerbino/ascii_plots](https://github.com/dzerbino/ascii_plots) - Convenience function for quick and dirty data analysis
 - [pimutils/vdirsyncer](https://github.com/pimutils/vdirsyncer) - 📇 Synchronize calendars and contacts.
 - [centraldedados/scraper-instituicoes-financeiras](https://github.com/centraldedados/scraper-instituicoes-financeiras) - Scraper para o dataset das instituições financeiras registadas em Portugal.
-- [vcs-python/vcspull](https://github.com/vcs-python/vcspull) - :arrows_counterclockwise: Synchronize projects via yaml/json manifest. Built using `libvcs`.
-- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
+- [vcs-python/vcspull](https://github.com/vcs-python/vcspull) - 🔄 Synchronize projects via yaml/json manifest. Built using `libvcs`.
+- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ tmux session manager. built on libtmux
 - [okfn/dataconverters](https://github.com/okfn/dataconverters) - Python library and command line tool for converting data from one format to another
 - [okfn/pdftables](https://github.com/okfn/pdftables) - A library for extracting tables from PDF files
 - [trickvi/datapackage](https://github.com/trickvi/datapackage) - Manage and load dataprotocols.org Data Packages
