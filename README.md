@@ -192,7 +192,6 @@
 - [akemnade/mumpot](https://github.com/akemnade/mumpot) - osm map viewing/editing software
 - [NorthernMan54/rtl_433_ESP](https://github.com/NorthernMan54/rtl_433_ESP) - Trial port of the rtl_433 Library for use with OpenMQTTGateway on a ESP32 and a CC1101 Transceiver
 - [kristapsdz/kcgi](https://github.com/kristapsdz/kcgi) - minimal CGI and FastCGI library for C/C++
-- [gl-inet/glbuilder](https://github.com/gl-inet/glbuilder) - 
 - [akemnade/kobo-firmware-extractor](https://github.com/akemnade/kobo-firmware-extractor) - extracts firmware from hidden partitions on Kobo/Tolino ebook readers
 - [risacher/sunwait](https://github.com/risacher/sunwait) - Sunwait calculates sunrise or sunset times with civil, nautical, astronomical and custom twilights, for use with Windows Task Scheduler or 'cron' on Linux.
 - [linux-speakup/speakup](https://github.com/linux-speakup/speakup) - Speakup is a screen review package for the Linux operating system
@@ -920,6 +919,7 @@
 
 ## C++ 
 
+- [Motion-Project/motionplus](https://github.com/Motion-Project/motionplus) - MotionPlus Home Page: https://motion-project.github.io/
 - [blackle/libevdev-examples](https://github.com/blackle/libevdev-examples) - macro keys
 - [meganz/MEGAsync](https://github.com/meganz/MEGAsync) - Easy automated syncing between your computers and your MEGA Cloud Drive
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
@@ -2391,7 +2391,7 @@
 - [tmcw/togeojson-cli](https://github.com/tmcw/togeojson-cli) - toGeoJSON in the console
 - [geojson-xyz/geojson-xyz](https://github.com/geojson-xyz/geojson-xyz) - just get the geojson
 - [AdguardTeam/cname-trackers](https://github.com/AdguardTeam/cname-trackers) - This repository contains a list of popular CNAME trackers
-- [keyboardio/Chrysalis](https://github.com/keyboardio/Chrysalis) - Graphical configurator for Kaleidoscope-powered keyboards
+- [keyboardio/chrysalis](https://github.com/keyboardio/chrysalis) - Graphical configurator for Kaleidoscope-powered keyboards
 - [AgregoreWeb/agregore-browser](https://github.com/AgregoreWeb/agregore-browser) - A minimal browser for the distributed web (Desktop version)
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [OpenScanEu/OpenScan](https://github.com/OpenScanEu/OpenScan) - All you need to build your 3D Scanner
@@ -3103,7 +3103,6 @@
 - [pfalcon/esp-open-sdk](https://github.com/pfalcon/esp-open-sdk) - Free and open (as much as possible) integrated SDK for ESP8266/ESP8285 chips
 - [maxnet/berryboot](https://github.com/maxnet/berryboot) - Berryboot -- Boot menu / OS installer
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [datasciencetoolbox/datasciencetoolbox](https://github.com/datasciencetoolbox/datasciencetoolbox) - Complete environments for busy polyglot data scientists
 - [mallochine/jarvis2](https://github.com/mallochine/jarvis2) - Expedient travel around the filesystem using user-created bookmarks
 - [jakobib/makespec](https://github.com/jakobib/makespec) - Makefile and templates to create specifications from Pandoc Markdown syntax
@@ -3374,6 +3373,7 @@
 - [iantrich/ChrUbuntu-Guides](https://github.com/iantrich/ChrUbuntu-Guides) - Guides, Walk-throughs, General Fixes and Tips for Chromebook users running ChrUbuntu
 - [davepwsmith/academic-scrivener-howto](https://github.com/davepwsmith/academic-scrivener-howto) - How to use Scrivener for academic writing with Zotero and Pandoc
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [r-hub/proposal](https://github.com/r-hub/proposal) - r-hub: the everything-builder the R community needs. This is the original r-hub proposal, as submitted to the R Consortium
 - [unwireddevices/openwrt](https://github.com/unwireddevices/openwrt) - OpenWRT patches for Unwired One board
 - [porter-io/tag-github](https://github.com/porter-io/tag-github) - A community effort to tag Github repos
@@ -3638,7 +3638,6 @@
 - [ciromattia/kcc](https://github.com/ciromattia/kcc) - KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
 - [Kapeli/Dash-User-Contributions](https://github.com/Kapeli/Dash-User-Contributions) - Dash repo of user contributed docsets
 - [milaq/rpi-rf](https://github.com/milaq/rpi-rf) - Sending and receiving 433MHz signals with cheap GPIO RF modules on a Raspberry Pi
-- [gl-inet/gl-infra-builder](https://github.com/gl-inet/gl-infra-builder) - 
 - [rendicott/puggly-server](https://github.com/rendicott/puggly-server) - uggly protocol server in python
 - [rendicott/uggly](https://github.com/rendicott/uggly) - framework for TUI client and server
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
