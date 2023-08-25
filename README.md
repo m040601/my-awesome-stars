@@ -179,7 +179,7 @@
 - [orangepi-xunlong/linux-orangepi](https://github.com/orangepi-xunlong/linux-orangepi) - 
 - [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) - Modular Open Source Radio Firmware
 - [drowe67/codec2](https://github.com/drowe67/codec2) - Open source speech codec designed for communications quality speech between 700 and 3200 bit/s. The main application is low bandwidth HF/VHF digital radio.
-- [paxo-rch/paxos_8](https://github.com/paxo-rch/paxos_8) - 
+- [paxo-phone/paxos_8](https://github.com/paxo-phone/paxos_8) - 
 - [mightymos/ReedTripRadio](https://github.com/mightymos/ReedTripRadio) - Alternative firmware for wireless 433MHz door/window reed sensors triggered by magnetic contacts.
 - [atc1441/ZBS_Flasher](https://github.com/atc1441/ZBS_Flasher) - Arduino C++ Library and interface to flash the ZBS243 / SEM9110 8051 Microcontroller
 - [jjwbruijn/OpenEPaperLink](https://github.com/jjwbruijn/OpenEPaperLink) - 
@@ -1562,6 +1562,7 @@
 
 ## Go 
 
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [inovex/CalendarSync](https://github.com/inovex/CalendarSync) - Stateless CLI tool to sync calendars across different calendaring systems.
 - [aditya-K2/gomp](https://github.com/aditya-K2/gomp) - MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration.
 - [BentonEdmondson/servitor](https://github.com/BentonEdmondson/servitor) - A command-line Fediverse client that doesn’t require a server
@@ -2488,7 +2489,6 @@
 - [JVital2013/RoadApplePi](https://github.com/JVital2013/RoadApplePi) - An elegent "Black Box" solution that can be retrofitted into any car with an OBD(II) port for minimal cost.
 - [inventaire/inventaire](https://github.com/inventaire/inventaire) - a libre collaborative resource mapper powered by open-knowledge, starting with books! :books:
 - [csaftoiu/yahoo-groups-backup](https://github.com/csaftoiu/yahoo-groups-backup) - A python script to backup the contents of private Yahoo! groups.
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [nextcloud/twofactor_totp](https://github.com/nextcloud/twofactor_totp) - 🔑 Second factor TOTP (RFC 6238) provider for Nextcloud
 - [alct/export-tabs-urls](https://github.com/alct/export-tabs-urls) - https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
@@ -4021,6 +4021,7 @@
 - [andrewferguson/YahooGroups-Archiver](https://github.com/andrewferguson/YahooGroups-Archiver) - A simple Python script that archives all the messages from a public Yahoo Group
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [idealo/imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [dylanaraps/bum](https://github.com/dylanaraps/bum) - 🎵 Download and display album art for mpd/mopidy tracks.
 - [mozilla/bleach](https://github.com/mozilla/bleach) - Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
 - [jeffknupp/sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database. No code required!
@@ -5247,7 +5248,7 @@
 - [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
 - [StevenBlack/rhosts](https://github.com/StevenBlack/rhosts) - Host file tools written in rust.
 - [nachoparker/dutree](https://github.com/nachoparker/dutree) - a tool to analyze file system usage written in Rust
-- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [segler-alex/radiobrowser-api-rust](https://github.com/segler-alex/radiobrowser-api-rust) - radio-browser API implementation in rust
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [aaronjanse/dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using Wikipedia
@@ -5734,7 +5735,7 @@
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [azlux/log2ram](https://github.com/azlux/log2ram) - ramlog like for systemd (Put log into a ram folder)
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
-- [changyuheng/fz.sh](https://github.com/changyuheng/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
+- [johannchangtw/fz.sh](https://github.com/johannchangtw/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [lgeek/okreader](https://github.com/lgeek/okreader) - Free/libre software for Kobo ebook readers
 - [altreact/archbk](https://github.com/altreact/archbk) - Run Arch Linux ARM on Your Chromebook
 - [stangri/openwrt-simple-adblock](https://github.com/stangri/openwrt-simple-adblock) - A simple DNSMASQ-based adblocking script for OpenWrt/LEDE Project
