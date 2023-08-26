@@ -919,6 +919,7 @@
 
 ## C++ 
 
+- [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
 - [Motion-Project/motionplus](https://github.com/Motion-Project/motionplus) - MotionPlus Home Page: https://motion-project.github.io/
 - [blackle/libevdev-examples](https://github.com/blackle/libevdev-examples) - macro keys
 - [meganz/MEGAsync](https://github.com/meganz/MEGAsync) - Easy automated syncing between your computers and your MEGA Cloud Drive
@@ -1806,7 +1807,7 @@
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [McKael/madonctl](https://github.com/McKael/madonctl) - CLI client for the Mastodon social network API
 - [mosuka/blast](https://github.com/mosuka/blast) - Blast is a full text search and indexing server, written in Go, built on top of Bleve.
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 - [rkt/rkt](https://github.com/rkt/rkt) - [Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 - [3ofcoins/jetpack](https://github.com/3ofcoins/jetpack) - **PROTOTYPE** FreeBSD Jail/ZFS based implementation of the Application Container Specification
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -2331,6 +2332,7 @@
 
 ## JavaScript 
 
+- [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [FireMarshmellow/M.I.M.O.S.A](https://github.com/FireMarshmellow/M.I.M.O.S.A) - MIMOSA - short for "Mellow_Labs Inventory Management and Organization System Apparatus". Just like a refreshing mimosa, this system will make your life brighter and more organized!
@@ -3164,6 +3166,7 @@
 
 ## Others 
 
+- [betamos/payload](https://github.com/betamos/payload) - File transfer for humans.
 - [srg74/WLED-wemos-shield](https://github.com/srg74/WLED-wemos-shield) - Wemos D1 Mini (ESP8266) or Wemos ESP32 D1 Mini (ESP32) based universal shield for WLED firmware
 - [OvertureMaps/data](https://github.com/OvertureMaps/data) - 
 - [Tunas1337/UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares) - A collection of modified firmwares for the Quansheng UV-K5 radio.
@@ -3846,7 +3849,7 @@
 - [indico/indico](https://github.com/indico/indico) - Indico - A feature-rich event management system, made @ CERN, the place where the Web was born.
 - [scrapedia/scrapy-pipelines](https://github.com/scrapedia/scrapy-pipelines) - A collection of pipelines for Scrapy
 - [wummel/patool](https://github.com/wummel/patool) - patool is a portable command line archive file manager
-- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is an enhanced Python binding for MuPDF – a lightweight PDF, XPS, and E-book viewer, renderer, and toolkit.
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [openwpm/OpenWPM](https://github.com/openwpm/OpenWPM) - A web privacy measurement framework
 - [podhmo/dictknife](https://github.com/podhmo/dictknife) - armyknife of handling dict object
 - [ali1234/pydo](https://github.com/ali1234/pydo) - Just a weird thing.
@@ -5133,6 +5136,7 @@
 
 ## Rust 
 
+- [akovacs/uploadserver](https://github.com/akovacs/uploadserver) - Simple Rust file server which lets you upload, share, and download files from a web browser. Ready-to-run binaries for Windows, Mac, and Linux. Free/Open-Source alternative to AirDrop/Dropbox for tran
 - [jersou/mouse-actions](https://github.com/jersou/mouse-actions) - It execute some command from mouse events such as clicks/wheel on the side/corners of the screen, or drawing shapes. It's a mix between Easystroke and Compiz edge commands.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
