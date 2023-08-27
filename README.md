@@ -1563,6 +1563,7 @@
 
 ## Go 
 
+- [osteele/gojekyll](https://github.com/osteele/gojekyll) - A fast Go implementation of the Jekyll blogging engine
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [inovex/CalendarSync](https://github.com/inovex/CalendarSync) - Stateless CLI tool to sync calendars across different calendaring systems.
 - [aditya-K2/gomp](https://github.com/aditya-K2/gomp) - MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration.
@@ -1896,6 +1897,7 @@
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [kovetskiy/stacket](https://github.com/kovetskiy/stacket) - Command line interface for managing Bitbucket repositories & projects
 - [huydx/hget](https://github.com/huydx/hget) - interruptable, resumable download accelerator written in golang
+- [nixcloud/pankat](https://github.com/nixcloud/pankat) - A static blog/wiki pandoc based page generator written in GO featuring bootstrap, tocify.js, anchor.js and more.
 - [martinlindhe/validyaml](https://github.com/martinlindhe/validyaml) - Command line tool to validate YAML syntax of input file.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [fanpei91/torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer that sniffs torrents from BitTorrent network
@@ -2672,7 +2674,6 @@
 - [wiki-hub/wiki-hub](https://github.com/wiki-hub/wiki-hub) - A small library that allows GitHub to be used as a wiki
 - [dafi/tocmd-generator](https://github.com/dafi/tocmd-generator) - Table of Contents Generator for Markdown pages
 - [tomduck/bassclef](https://github.com/tomduck/bassclef) - A static Web site generator built from stable and mature command-line tools.
-- [nixcloud/pankat](https://github.com/nixcloud/pankat) - A static blog/wiki pandoc based page generator written in GO featuring bootstrap, tocify.js, anchor.js and more.
 - [Jalle19/node-ffmpeg-mpegts-proxy](https://github.com/Jalle19/node-ffmpeg-mpegts-proxy) - Simple proxy for leveraging ffmpeg to convert any source URL into MPEG-TS over HTTP
 - [zenozeng/Free-Chinese-Fonts](https://github.com/zenozeng/Free-Chinese-Fonts) - 免费中文字体
 - [Tafkas/solarpi](https://github.com/Tafkas/solarpi) - A RaspberryPi based, Flask powered photovoltaic monitor
@@ -5495,7 +5496,7 @@
 - [Ajatt-Tools/impd](https://github.com/Ajatt-Tools/impd) - AJATT-style passive listening and condensed audio without bloat.
 - [thameera/vimv](https://github.com/thameera/vimv) - Batch-rename files using Vim
 - [carlocab/tmux-nvr](https://github.com/carlocab/tmux-nvr) - A tmux plugin for using session-specific Neovim instances with neovim-remote
-- [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
+- [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [sdushantha/tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
 - [archdroid-org/pkgbuilds](https://github.com/archdroid-org/pkgbuilds) - Additional packages not available on ArchLinuxARM and automatically built and uploaded to archdroid repository.
 - [archdroid-org/builder](https://github.com/archdroid-org/builder) - A very basic PKGBUILD builder.
