@@ -2189,7 +2189,6 @@
 - [waferbaby/usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done.
 - [vim-voom/vim-voom.github.com](https://github.com/vim-voom/vim-voom.github.com) - Website about VOoM, an outliner plugin for text editor Vim.
 - [metafizzy/isotope](https://github.com/metafizzy/isotope) - :revolving_hearts: Filter & sort magical layouts
-- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [flavorjones/lorax](https://github.com/flavorjones/lorax) - XML/HTML diff generator, based on Nokogiri.
 - [pluskid/rmmseg-cpp](https://github.com/pluskid/rmmseg-cpp) - an re-implementation of rmmseg (Chinese word segmentation library for Ruby) in C++
 
@@ -2396,7 +2395,7 @@
 - [tmcw/togeojson-cli](https://github.com/tmcw/togeojson-cli) - toGeoJSON in the console
 - [geojson-xyz/geojson-xyz](https://github.com/geojson-xyz/geojson-xyz) - just get the geojson
 - [AdguardTeam/cname-trackers](https://github.com/AdguardTeam/cname-trackers) - This repository contains a list of popular CNAME trackers
-- [keyboardio/chrysalis](https://github.com/keyboardio/chrysalis) - Graphical configurator for Kaleidoscope-powered keyboards
+- [keyboardio/Chrysalis](https://github.com/keyboardio/Chrysalis) - Graphical configurator for Kaleidoscope-powered keyboards
 - [AgregoreWeb/agregore-browser](https://github.com/AgregoreWeb/agregore-browser) - A minimal browser for the distributed web (Desktop version)
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [OpenScanEu/OpenScan](https://github.com/OpenScanEu/OpenScan) - All you need to build your 3D Scanner
@@ -4641,6 +4640,7 @@
 - [marcuse/pyopenkeyval](https://github.com/marcuse/pyopenkeyval) - A simple Python interface to OpenKeyval.org
 - [pagekite/PyPagekite](https://github.com/pagekite/PyPagekite) - Python implementation of the PageKite remote front-end protocols.
 - [aarddict/tools](https://github.com/aarddict/tools) - Tools for Aard Dictionary
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [tatsuhiro-t/apt-metalink](https://github.com/tatsuhiro-t/apt-metalink) - Make 'apt-get' faster by downloading Debian/Ubuntu packages from multiple servers concurrently.
 - [dasmith/FrameNet-python](https://github.com/dasmith/FrameNet-python) - Python wrapper for the FrameNet library.
 - [brendano/cmdutils](https://github.com/brendano/cmdutils) - Some command-line utilities, mostly for data manipulation and inspection.
