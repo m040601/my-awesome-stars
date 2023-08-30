@@ -257,7 +257,6 @@
 - [NikitaIvanovV/ctpv](https://github.com/NikitaIvanovV/ctpv) - Image previews for lf file manager
 - [NikitaIvanovV/ictree](https://github.com/NikitaIvanovV/ictree) - Like tree but interactive
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
-- [nereusx/md2roff](https://github.com/nereusx/md2roff) - md2roff - convert markdown to groff / troff (man, mdoc, mm, mom) documents
 - [lindes/ttyload](https://github.com/lindes/ttyload) - ttyload -- "graphical" tracking of UNIX load average in a terminal ("tty")
 - [dimkr/nss-tls](https://github.com/dimkr/nss-tls) - A DNS over HTTPS resolver for glibc
 - [dimkr/gplaces](https://github.com/dimkr/gplaces) - A simple terminal based Gemini client
@@ -578,7 +577,7 @@
 - [150balbes/Jetson-Nano](https://github.com/150balbes/Jetson-Nano) - Kernel Jetson Nano
 - [ecdye/zram-config](https://github.com/ecdye/zram-config) - A complete zram-config utility for swap, directories, and logs to reduce SD, NAND and eMMC block wear.
 - [ssrg-vt/hermitux-kernel](https://github.com/ssrg-vt/hermitux-kernel) - 
-- [hermitcore/libhermit](https://github.com/hermitcore/libhermit) - HermitCore: A C-based, lightweight unikernel
+- [hermit-os/libhermit](https://github.com/hermit-os/libhermit) - HermitCore: A C-based, lightweight unikernel
 - [ssrg-vt/hermitux](https://github.com/ssrg-vt/hermitux) - A binary-compatible unikernel
 - [bikerglen/small-keyboards](https://github.com/bikerglen/small-keyboards) - 
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
@@ -3168,7 +3167,7 @@
 
 - [betamos/payload](https://github.com/betamos/payload) - File transfer for humans.
 - [srg74/WLED-wemos-shield](https://github.com/srg74/WLED-wemos-shield) - Wemos D1 Mini (ESP8266) or Wemos ESP32 D1 Mini (ESP32) based universal shield for WLED firmware
-- [OvertureMaps/data](https://github.com/OvertureMaps/data) - 
+- [OvertureMaps/data](https://github.com/OvertureMaps/data) - Overture Maps Data
 - [Tunas1337/UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares) - A collection of modified firmwares for the Quansheng UV-K5 radio.
 - [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen) - 😎 Awesome list of Library Genesis, the world's largest free library.
 - [ale1800/ESP-360-REMOTE](https://github.com/ale1800/ESP-360-REMOTE) - An all-in-one remote based on the ESP32-WROOM-32E
@@ -3444,7 +3443,7 @@
 - [simon816/ical-bridge](https://github.com/simon816/ical-bridge) - RSS-Bridge but for iCalendar
 - [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
 - [xaizek/vim-like-pile](https://github.com/xaizek/vim-like-pile) - Sources of Big Pile of Vim-like
-- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [anmaped/openfang](https://github.com/anmaped/openfang) - The openfang is a bootloader, kernel and toolchain for devices using Ingenic T10 and T20 SOC
 - [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok) - Open source alternative frontend for TikTok made using PHP
 - [eklausme/saaze](https://github.com/eklausme/saaze) - Simplified Saaze is a static site generator. It aims to be fast, easy to understand and easy to use.
@@ -3475,7 +3474,7 @@
 - [moode-player/moode](https://github.com/moode-player/moode) - moOde sources and configs
 - [RuneAudio/RuneUI](https://github.com/RuneAudio/RuneUI) - RuneAudio Player User Interface
 - [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare) - :camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you can host yourself. :rice_scene:
-- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [OpenEdition/OTX](https://github.com/OpenEdition/OTX) - Conversion server from word processing document (odt and doc) to TEI document
 - [OpenEdition/lodel](https://github.com/OpenEdition/lodel) - Science publishing CMS
 - [cobungra/esp8266-radio-remote](https://github.com/cobungra/esp8266-radio-remote) - 
@@ -3529,6 +3528,7 @@
 
 - [nkh/P5-App-Asciio](https://github.com/nkh/P5-App-Asciio) - Plain ASCII diagram
 - [Eli-the-Bearded/ark-gallery](https://github.com/Eli-the-Bearded/ark-gallery) - Search oriented photo archive
+- [omar-polo/plass](https://github.com/omar-polo/plass) - manage passwords
 - [trizen/lbry-viewer](https://github.com/trizen/lbry-viewer) - Experimental Linux client for LBRY/Odysee.
 - [trapd00r/mpdcp](https://github.com/trapd00r/mpdcp) - copy track or album from an mpd server to destination
 - [omar-polo/mlmpl](https://github.com/omar-polo/mlmpl) - simple mailing list (and newsletter) manager
@@ -4807,7 +4807,7 @@
 - [jennybc/gapminder](https://github.com/jennybc/gapminder) - Excerpt from the Gapminder data, as an R data package and in plain text delimited form
 - [geogugal/quickmapr](https://github.com/geogugal/quickmapr) - An R package for quickly mapping and navigating spatial data
 - [mjkallen/rlogging](https://github.com/mjkallen/rlogging) - An R package for simple logging
-- [leeper/rio](https://github.com/leeper/rio) - A Swiss-Army Knife for Data I/O
+- [chainsawriot/rio](https://github.com/chainsawriot/rio) - A Swiss-Army Knife for Data I/O
 - [tidymodels/broom](https://github.com/tidymodels/broom) - Convert statistical analysis objects from R into tidy format
 - [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R
 - [vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI) - R package to download World Bank data
@@ -4887,7 +4887,6 @@
 
 - [chambln/pandoc-rss](https://github.com/chambln/pandoc-rss) - Generate an RSS feed from markup content and metadata
 - [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
-- [omar-polo/plass](https://github.com/omar-polo/plass) - manage passwords
 - [Alhadis/Mono](https://github.com/Alhadis/Mono) - Troff macros for the 21st century.
 - [phillbush/incipit](https://github.com/phillbush/incipit) - the incipit plain text markup language, and some troff macro packages
 - [slavistan/lf-gadgets](https://github.com/slavistan/lf-gadgets) - A collection of useful and nifty use cases and configurations for lf.
@@ -5148,7 +5147,7 @@
 - [blacknon/hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
 - [ksk001100/picterm](https://github.com/ksk001100/picterm) - TUI image viewer
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 - [EdJoPaTo/mpd-internetradio-destuck](https://github.com/EdJoPaTo/mpd-internetradio-destuck) - Fix mpd getting stuck on internet radio when the daily disconnect happens
 - [EdJoPaTo/website-stalker](https://github.com/EdJoPaTo/website-stalker) - Track changes on websites via git
 - [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal
@@ -5206,7 +5205,7 @@
 - [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [fosskers/rs-kanji](https://github.com/fosskers/rs-kanji) - A library for the handling and analysis of Japanese text. 日本漢字分析
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage your emails.
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [null-dev/firefox-profile-switcher-connector](https://github.com/null-dev/firefox-profile-switcher-connector) - Native connector software for the 'Profile Switcher for Firefox' extension.
@@ -5407,7 +5406,7 @@
 - [tavinus/pdfScale](https://github.com/tavinus/pdfScale) - Bash Script to Scale and Resize PDFs using Ghostscript
 - [Edenhofer/fakepkg](https://github.com/Edenhofer/fakepkg) - reassemble Arch Linux packages
 - [NikitaIvanovV/stpv](https://github.com/NikitaIvanovV/stpv) - Simple Terminal PreViewer
-- [jwmullally/iscsi-target-ramdisk](https://github.com/jwmullally/iscsi-target-ramdisk) - Remote boot your Linux or Windows OS with PXE + iSCSI on another computer
+- [jwmullally/iscsi-target-ramdisk](https://github.com/jwmullally/iscsi-target-ramdisk) - Remote boot your Linux, Windows or FreeBSD OS with PXE + iSCSI on another computer
 - [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
 - [dougy147/scitopdf](https://github.com/dougy147/scitopdf) - bash script to quickly fetch, download and open scientific papers from Sci-Hub's database.
 - [muesli4/archlinux-packages](https://github.com/muesli4/archlinux-packages) - PKGBUILD files to build some archlinux packages.
