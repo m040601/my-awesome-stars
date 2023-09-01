@@ -771,7 +771,7 @@
 - [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
 - [jameswalmsley/RaspberryPi-FreeRTOS](https://github.com/jameswalmsley/RaspberryPi-FreeRTOS) - A port of FreeRTOS to the raspberry pi.
 - [nomis/mpckbd](https://github.com/nomis/mpckbd) - MPC Keyboard Daemon
-- [notro/fbtft](https://github.com/notro/fbtft) - Linux Framebuffer drivers for small TFT LCD display modules
+- [notro/fbtft](https://github.com/notro/fbtft) - Linux Framebuffer drivers for small TFT LCD display modules. Development in this github repo has ceased.
 - [AgriVision/pisstv](https://github.com/AgriVision/pisstv) - Raspbery Pi SSTV camera
 - [wertarbyte/triggerhappy](https://github.com/wertarbyte/triggerhappy) - A lightweight hotkey daemon
 - [OpenELEC/eventlircd](https://github.com/OpenELEC/eventlircd) - 
@@ -2980,6 +2980,7 @@
 
 ## Lua 
 
+- [jghauser/papis.nvim](https://github.com/jghauser/papis.nvim) - Manage your bibliography from within your favourite editor
 - [renatoathaydes/mako-smarthome](https://github.com/renatoathaydes/mako-smarthome) - Mako Lua Server for managing SmartHome devices based on the deCONZ API
 - [bjesus/air](https://github.com/bjesus/air) - Awesome Interface for e-Readers
 - [dialoa/collection](https://github.com/dialoa/collection) - A Pandoc Lua filter to build collections
@@ -3437,6 +3438,8 @@
 
 ## PHP 
 
+- [omeka/omeka-s](https://github.com/omeka/omeka-s) - Omeka S is a web publication system for universities, galleries, libraries, archives, and museums. It consists of a local network of independently curated exhibits sharing a collaboratively built pool
+- [artefactual/atom](https://github.com/artefactual/atom) - Open-source, web application for archival description and public access.
 - [cloudflare/Cloudflare-WordPress](https://github.com/cloudflare/Cloudflare-WordPress) - A Cloudflare plugin for WordPress
 - [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
 - [Rouji/single_php_filehost](https://github.com/Rouji/single_php_filehost) - Simple Filehosting Page in a Single PHP File (obvious 0x0 clone)
@@ -3627,6 +3630,9 @@
 
 ## Python 
 
+- [nicolasshu/zotero2papis](https://github.com/nicolasshu/zotero2papis) - 
+- [mrossinek/cobib](https://github.com/mrossinek/cobib) - Console Bibliography
+- [papis/papis-firefox](https://github.com/papis/papis-firefox) - A Firefox web extension allowing to add a paper to Papis bibliography manager using the url of the current page.
 - [frank-monkey/videocondenser](https://github.com/frank-monkey/videocondenser) - A tool that condenses videos by adjusting playback speed based on volume.
 - [amnemonic/Quansheng_UV-K5_Firmware](https://github.com/amnemonic/Quansheng_UV-K5_Firmware) - Quansheng UV-K5 Firmware
 - [JsBergbau/MiTemperature2](https://github.com/JsBergbau/MiTemperature2) - Read the values of the Xiaomi Mi Bluetooth Temperature sensor 2 including custom encrypted format.
@@ -6116,6 +6122,7 @@
 
 ## Vim Script 
 
+- [papis/papis-vim](https://github.com/papis/papis-vim) - A vim package to interact with vim
 - [KabbAmine/zeavim.vim](https://github.com/KabbAmine/zeavim.vim) - Zeal for Vim
 - [benbusby/vim-hubbub](https://github.com/benbusby/vim-hubbub) - Use GitHub features from within Vim
 - [pappasam/vim-keywordprg-commands](https://github.com/pappasam/vim-keywordprg-commands) - Plugin to create and manage user commands intended to look up keyword documentation in Vim
