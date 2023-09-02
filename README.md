@@ -2069,6 +2069,7 @@
 - [CollectionBuilder/collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh) - a Jekyll project to create a basic digital collection exhibit. See Readme below for instructions to get started!
 - [christian-fei/christian-fei.github.io-pandoc](https://github.com/christian-fei/christian-fei.github.io-pandoc) - 
 - [simon04/POImap](https://github.com/simon04/POImap) - Lightweight POI (point of interest) maps based on OpenStreetMap, Leaflet and Overpass API
+- [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
 - [dumaurier/pwa_jekyll](https://github.com/dumaurier/pwa_jekyll) - Jekyll + PWA + IndieWeb. A starter for publishing your own content. Support for WebMentions, Service Workers and Netlify CMS is built in.
 - [georgjaehnig/wifi-qr-poster](https://github.com/georgjaehnig/wifi-qr-poster) - Generate a poster with password & QR Code for your Wifi network.
 - [im-tomu/tomu.im](https://github.com/im-tomu/tomu.im) - tomu.im website
@@ -2332,6 +2333,7 @@
 
 ## JavaScript 
 
+- [obra/Youtube2Webpage](https://github.com/obra/Youtube2Webpage) - I learn much better from text than from videos
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
@@ -3630,6 +3632,7 @@
 
 ## Python 
 
+- [svenssonaxel/pdf-sign](https://github.com/svenssonaxel/pdf-sign) - A tool to sign PDF files. With Linux support.
 - [nicolasshu/zotero2papis](https://github.com/nicolasshu/zotero2papis) - 
 - [mrossinek/cobib](https://github.com/mrossinek/cobib) - Console Bibliography
 - [papis/papis-firefox](https://github.com/papis/papis-firefox) - A Firefox web extension allowing to add a paper to Papis bibliography manager using the url of the current page.
@@ -4160,7 +4163,6 @@
 - [amyreese/markdown-pp](https://github.com/amyreese/markdown-pp) - Preprocessor for Markdown files to generate a table of contents and other documentation needs
 - [althonos/InstaLooter](https://github.com/althonos/InstaLooter) - Another API-less Instagram pictures and videos downloader.
 - [kepi/qutepocket](https://github.com/kepi/qutepocket) - qutebrowser userscript to save pages to Pocket
-- [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
 - [raghur/vim-ghost](https://github.com/raghur/vim-ghost) - Vim/Nvim client for GhostText - Edit browser text areas in Vim/Neovim
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
@@ -5142,6 +5144,8 @@
 
 ## Rust 
 
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+- [wez/evremap](https://github.com/wez/evremap) - A keyboard input remapper for Linux/Wayland systems, written by @wez
 - [akovacs/uploadserver](https://github.com/akovacs/uploadserver) - Simple Rust file server which lets you upload, share, and download files from a web browser. Ready-to-run binaries for Windows, Mac, and Linux. Free/Open-Source alternative to AirDrop/Dropbox for tran
 - [jersou/mouse-actions](https://github.com/jersou/mouse-actions) - It execute some command from mouse events such as clicks/wheel on the side/corners of the screen, or drawing shapes. It's a mix between Easystroke and Compiz edge commands.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
@@ -5745,7 +5749,7 @@
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [azlux/log2ram](https://github.com/azlux/log2ram) - ramlog like for systemd (Put log into a ram folder)
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
-- [johannchangtw/fz.sh](https://github.com/johannchangtw/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
+- [johannchangpro/fz.sh](https://github.com/johannchangpro/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [lgeek/okreader](https://github.com/lgeek/okreader) - Free/libre software for Kobo ebook readers
 - [altreact/archbk](https://github.com/altreact/archbk) - Run Arch Linux ARM on Your Chromebook
 - [stangri/openwrt-simple-adblock](https://github.com/stangri/openwrt-simple-adblock) - A simple DNSMASQ-based adblocking script for OpenWrt/LEDE Project
