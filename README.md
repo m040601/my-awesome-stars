@@ -3632,6 +3632,7 @@
 
 ## Python 
 
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
 - [svenssonaxel/pdf-sign](https://github.com/svenssonaxel/pdf-sign) - A tool to sign PDF files. With Linux support.
 - [nicolasshu/zotero2papis](https://github.com/nicolasshu/zotero2papis) - 
 - [mrossinek/cobib](https://github.com/mrossinek/cobib) - Console Bibliography
