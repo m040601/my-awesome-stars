@@ -1488,6 +1488,7 @@
 
 ## D 
 
+- [al1-ce/pxv](https://github.com/al1-ce/pxv) - Instant feature rich terminal image viewer
 - [eBay/tsv-utils](https://github.com/eBay/tsv-utils) - eBay's TSV Utilities: Command line tools for large, tabular data files. Filtering, statistics, sampling, joins and more.
 - [skilion/onedrive](https://github.com/skilion/onedrive) - Free Client for OneDrive on Linux
 
@@ -1986,6 +1987,7 @@
 - [nelsonjchen/github-wiki-see-rs](https://github.com/nelsonjchen/github-wiki-see-rs) - 🔎 Did you know most GitHub Wikis can't index on search engines? Search Engine Enablement for GitHub Wikis service. 400,000+ GitHub Wikis, now indexable by your favorite search engine.
 - [chrisman/m4-blog](https://github.com/chrisman/m4-blog) - boilerplate for an m4 blog
 - [m8/refined.blog](https://github.com/m8/refined.blog) - curated list of personal blogs
+- [krisek/audioloader](https://github.com/krisek/audioloader) - A responsive Music Player Daemon web client with special focus on listening full albums.
 - [robhagemans/monobit](https://github.com/robhagemans/monobit) - Tools for working with monochrome bitmap fonts
 - [clauswilke/dataviz](https://github.com/clauswilke/dataviz) - A book covering the fundamentals of data visualization
 - [statsthinking21/statsthinking21-core](https://github.com/statsthinking21/statsthinking21-core) - Core statistical text for Statistical Thinking in the 21st Century
@@ -2333,6 +2335,7 @@
 
 ## JavaScript 
 
+- [bwiernik/zotero-shortdoi](https://github.com/bwiernik/zotero-shortdoi) - Zotero extension to retrieve and validate DOIs and shortDOIs
 - [obra/Youtube2Webpage](https://github.com/obra/Youtube2Webpage) - I learn much better from text than from videos
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
@@ -2612,6 +2615,7 @@
 - [passff/passff](https://github.com/passff/passff) - zx2c4 pass manager extension for Firefox, Chrome and Opera
 - [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for generating a markdown TOC (table of contents) for a README or any markdown files. Uses Remarkable to parse markdown. Used by NASA/openmct, Prisma, Joi, Mocha, Sass, Prettier, Orbit DB,
+- [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare) - :camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you can host yourself. :rice_scene:
 - [kyle8998/Vynchronize](https://github.com/kyle8998/Vynchronize) - Watch videos with friends online with the new real time video synchronization platform
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 - [zaidka/cliget](https://github.com/zaidka/cliget) - A Firefox addon to download login-protected files from the command line
@@ -3478,7 +3482,6 @@
 - [medieval-source-book/website](https://github.com/medieval-source-book/website) - 
 - [moode-player/moode](https://github.com/moode-player/moode) - moOde sources and configs
 - [RuneAudio/RuneUI](https://github.com/RuneAudio/RuneUI) - RuneAudio Player User Interface
-- [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare) - :camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you can host yourself. :rice_scene:
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [OpenEdition/OTX](https://github.com/OpenEdition/OTX) - Conversion server from word processing document (odt and doc) to TEI document
 - [OpenEdition/lodel](https://github.com/OpenEdition/lodel) - Science publishing CMS
@@ -4679,6 +4682,7 @@
 
 ## R 
 
+- [paulklemm/rvisidata](https://github.com/paulklemm/rvisidata) - Open any dataframe with visidata, a terminal-based spreadsheet application
 - [r-lib/hugodown](https://github.com/r-lib/hugodown) - Make websites with hugo and RMarkdown
 - [hneth/i2ds](https://github.com/hneth/i2ds) - Introduction to data science (i2ds)
 - [blmayer/asciichartr](https://github.com/blmayer/asciichartr) - Nice-looking lightweight console ASCII line charts ╭┈╯ for R, no dependencies
@@ -4816,7 +4820,7 @@
 - [jennybc/gapminder](https://github.com/jennybc/gapminder) - Excerpt from the Gapminder data, as an R data package and in plain text delimited form
 - [geogugal/quickmapr](https://github.com/geogugal/quickmapr) - An R package for quickly mapping and navigating spatial data
 - [mjkallen/rlogging](https://github.com/mjkallen/rlogging) - An R package for simple logging
-- [chainsawriot/rio](https://github.com/chainsawriot/rio) - A Swiss-Army Knife for Data I/O
+- [gesistsa/rio](https://github.com/gesistsa/rio) - A Swiss-Army Knife for Data I/O
 - [tidymodels/broom](https://github.com/tidymodels/broom) - Convert statistical analysis objects from R into tidy format
 - [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R
 - [vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI) - R package to download World Bank data
@@ -6044,7 +6048,6 @@
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Identification Platform, has limited accuracy (40 - 60%).
 - [ethomson/send-tweet-action](https://github.com/ethomson/send-tweet-action) - Send a tweet from a GitHub Action
-- [krisek/audioloader](https://github.com/krisek/audioloader) - A responsive Music Player Daemon web client with special focus on listening full albums.
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [tmcw/gedcom](https://github.com/tmcw/gedcom) - A simple GEDCOM parser that focuses on translating GEDCOM structure into JSON.
