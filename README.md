@@ -2335,6 +2335,7 @@
 
 ## JavaScript 
 
+- [ckolderup/postmarks](https://github.com/ckolderup/postmarks) - a single-user bookmarking website designed to live on the Fediverse
 - [bwiernik/zotero-shortdoi](https://github.com/bwiernik/zotero-shortdoi) - Zotero extension to retrieve and validate DOIs and shortDOIs
 - [obra/Youtube2Webpage](https://github.com/obra/Youtube2Webpage) - I learn much better from text than from videos
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
@@ -2987,6 +2988,7 @@
 
 ## Lua 
 
+- [familyfriendlymikey/mpv-cut](https://github.com/familyfriendlymikey/mpv-cut) - An mpv plugin for cutting videos incredibly quickly.
 - [jghauser/papis.nvim](https://github.com/jghauser/papis.nvim) - Manage your bibliography from within your favourite editor
 - [renatoathaydes/mako-smarthome](https://github.com/renatoathaydes/mako-smarthome) - Mako Lua Server for managing SmartHome devices based on the deCONZ API
 - [bjesus/air](https://github.com/bjesus/air) - Awesome Interface for e-Readers
@@ -4354,7 +4356,7 @@
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
 - [mitsuhiko/pipsi](https://github.com/mitsuhiko/pipsi) - pip script installer
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
-- [deepmind/rc-data](https://github.com/deepmind/rc-data) - Question answering dataset featured in "Teaching Machines to Read and Comprehend
+- [google-deepmind/rc-data](https://github.com/google-deepmind/rc-data) - Question answering dataset featured in "Teaching Machines to Read and Comprehend
 - [AurelienLourot/github-commit-watcher](https://github.com/AurelienLourot/github-commit-watcher) - :mag: Be notified on new commits on watched projects
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [houtianze/bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
