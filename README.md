@@ -1455,6 +1455,7 @@
 
 ## Clojure 
 
+- [noctuid/gallery-dl-view](https://github.com/noctuid/gallery-dl-view) - Mpv integration with gallery-dl
 - [abstracthat/dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
 - [sean-a-m/rss-clustering](https://github.com/sean-a-m/rss-clustering) - Extract features from news feeds and do clustering using CoreNLP library and graph clustering algorithms
 - [dakrone/clojure-opennlp](https://github.com/dakrone/clojure-opennlp) - Natural Language Processing in Clojure (opennlp)
@@ -2054,6 +2055,7 @@
 - [vsoch/watchme](https://github.com/vsoch/watchme) - Reproducible watchers for research
 - [jm42/compare-user.js](https://github.com/jm42/compare-user.js) - Compare firefox user.js
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
+- [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [atoponce/d-note](https://github.com/atoponce/d-note) - Self destructing encrypted notes
 - [skishore/inkstone](https://github.com/skishore/inkstone) - Learn Chinese on the go - no Internet connection required!
 - [netlify/netlify-photo-gallery](https://github.com/netlify/netlify-photo-gallery) - 
@@ -6091,7 +6093,6 @@
 - [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub) - A plugin that will automatically download PDFs of zotero items from sci-hub
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [owid/owid-grapher](https://github.com/owid/owid-grapher) - A platform for creating interactive data visualizations
-- [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer) - Chinese character stroke order animations and practice quizzes
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Email-based instant messaging for Desktop.
