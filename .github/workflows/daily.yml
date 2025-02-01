@@ -26,6 +26,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          poetry run starred --username maguowei --token ${GITHUB_TOKEN} --sort
+          poetry run starred --username m040601 --token ${GITHUB_TOKEN} --sort
 
 
